@@ -4,8 +4,8 @@ theme: jekyll-theme-slate
 markdown: kramdown
 
 # Configuración del sitio
-baseurl: "/RdH"
-url: ""
+baseurl: "/reinos_del_hierro"
+url: "https://ludobermejoes.github.io"
 
 # Excluir archivos innecesarios
 exclude:
