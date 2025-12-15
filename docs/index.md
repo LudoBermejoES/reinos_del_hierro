@@ -14,3 +14,6 @@ Un mundo de hierro, vapor y pólvora. Un mundo donde la magia y la tecnología s
 - [Historia](historia.md) - Cronología del mundo desde la antigüedad hasta el 602 DR
 - [Naciones](naciones.md) - Los reinos de Immoren Occidental
 - [Religión](religion.md) - Dioses y fe en Immoren
+- [Magia](magia.md) - El arte arcano en los Reinos de Hierro
+- [Tecnología](tecnologia.md) - Vapor, armas de fuego, alquimia e industria
+- [Mecánika](mecanika.md) - Placas rúnicas, siervos de vapor y el córtex
