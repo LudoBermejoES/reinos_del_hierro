@@ -1,3 +1,8 @@
+---
+layout: default
+title: Historia
+---
+
 # Historia de los Reinos de Hierro
 
 ## Historia Antigua

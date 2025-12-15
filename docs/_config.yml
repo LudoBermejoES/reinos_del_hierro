@@ -1,0 +1,13 @@
+title: Reinos del Hierro
+description: Referencia en español para Iron Kingdoms Requiem
+theme: jekyll-theme-slate
+markdown: kramdown
+
+# Configuración del sitio
+baseurl: "/RdH"
+url: ""
+
+# Excluir archivos innecesarios
+exclude:
+  - README.md
+  - CLAUDE.md
