@@ -1,0 +1,26 @@
+# Datos fuente (no publicar)
+books/
+content/
+tools/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jekyll (cuando se use)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
