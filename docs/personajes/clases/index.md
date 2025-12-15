@@ -23,9 +23,23 @@ Estas clases solo existen en Iron Kingdoms: Requiem.
 
 ---
 
-## Subclases para Clases Básicas
+## Clases Básicas con Subclases de los Reinos de Hierro
 
-Las clases del manual básico tienen opciones de subclase específicas de los Reinos de Hierro.
+Las clases del manual básico tienen opciones de subclase específicas de los Reinos de Hierro. Haz clic en el nombre de la clase para ver todas sus subclases de IK en detalle.
+
+| Clase | Descripción |
+|-------|-------------|
+| [Bardo](bardo.md) | Cronistas y cantores, incluyendo los invocadores siniestros troloides |
+| [Clérigo](clerigo.md) | Sacerdotes de Morrow, Menoth y Thamar con dominios únicos |
+| [Guerrero](guerrero.md) | Soldados y caballeros con arquetipos marciales exclusivos |
+| [Monje](monje.md) | Artistas marciales de las órdenes de Menoth y Thamar |
+| [Paladín](paladin.md) | Campeones sagrados con juramentos de los Reinos de Hierro |
+| [Explorador](explorador.md) | Rastreadores, cazadores de magos y vigilantes |
+| [Pícaro](picaro.md) | Criminales y duelistas de los bajos fondos |
+
+---
+
+## Subclases por Clase
 
 ### Bardo
 
