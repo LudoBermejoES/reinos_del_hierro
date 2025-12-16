@@ -12,6 +12,7 @@ Un mundo de hierro, vapor y pólvora. Un mundo donde la magia y la tecnología s
 ## Contenido
 
 ### Ambientación
+- [Guía del Mundo](guia-del-mundo/index.md) - Guía completa del mundo de los Reinos de Hierro
 - [Historia](historia.md) - Cronología del mundo desde la antigüedad hasta el 602 DR
 - [Naciones](naciones.md) - Los reinos de Immoren Occidental
 - [Religión](religion.md) - Dioses y fe en Immoren

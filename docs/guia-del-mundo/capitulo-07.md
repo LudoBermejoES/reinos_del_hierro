@@ -1,0 +1,590 @@
+# ORD
+
+> “Escuchadme, hombres y mujeres de Ord, vosotros que sois los hijos y las hijas de Tordor y Thuria. A diferencia de otros reinos, nosotros estamos orgullosos de nuestra cultura y no de nuestras guerras. No deseamos la paz aniquilando a nuestros vecinos, ¡pero que no nos tomen por cobardes! Sabemos lo que es el peligro. En este día nos atreveremos a afrontarlo, ¡y lo haremos como héroes!”
+> —Palabras del rey Merin Cathor al dirigirse a sus guerreros durante el asedio de Medioayuno en el 305 d.R. 
+> 
+> 
+
+
+### INTRODUCCIÓN
+
+El reino de Ord tiene un extenso litoral y es el hogar de los mejores marinos y estibadores de toda Immoren occidental. Los pescadores y marineros órdicos están orgullosos de su tradición naval y ejercen gran cantidad de influencia y control sobre las rutas de comercio marítimo por toda la costa del Meredius. Sí, algunos puertos órdicos son refugios para piratas y ladrones, pero los artículos que procuran sus mercaderes de todos los Reinos de Hierro suelen hacer que el viaje a ciudades de tan mala fama merezca la pena .
+
+Ord es una tierra melancólica de belleza cautivadora, famosa por sus largas costas y las laderas solitarias que sobresalen de brumosos páramos y llanos fluviales. Aparte de la turba que se extrae de centenares de ciénagas, Ord carece de recursos naturales de interés. Las riberas próximas a Merin son ricas en depósitos de carbón, pero sólo son suficientes para cubrir las necesidades de la capital. Los residentes de tierra adentro suelen dedicarse al cultivo de la tierra, la cría de ganado o el comercio con turba o lana. Varias de sus granjas y ranchos son propiedad de influyentes castellanos y murgraves, pero el grueso del producto de Ord se emplea localmente y sólo de vez en cuando se dan excedentes que exportar .
+
+Al igual que las colinas rocosas y los brezales pantanosos, los habitantes de Ord son toscos, curtidos y difíciles de domeñar. Son principalmente un pueblo llano que disfrutan de diversos deportes y juegos para evadirse de la agotadora cotidianeidad de sus trabajos en el puerto, la construcción de barcos o el cultivo de campos pequeños. Más de un órdico trata de ganar algunas monedas extra para combatir el hambre propia y de su familia trabajando todos los días sin apenas descansar. Aquellos lo bastante adinerados como para librarse de la turba y el fango viven en grandes fincas y auténticas mansiones situadas por encima de la inmundicia de la Ord llana, mientras que los que no pueden soportar el ritmo de vida de un trabajo legal a menudo se dedican a profesiones menos respetables. Pese a todos los esfuerzos de los reyes de Ord, las tierras altas y bajas de esta nación están plagadas de bandidos en grandes cantidades .
+
+Tierra de contradicciones, Ord es la mayor potencia naval de Immoren occidental aunque su ejército es pequeño y anticuado en comparación con sus vecinos. Aun así, a lo largo de su historia han logrado repeler numerosas invasiones khadoranas. La frontera entre ambas naciones está separada por colinas dentadas reforzadas con docenas de baluartes y fortalezas .
+
+Políticamente, el rey domina la voluntad de Ord. A falta de fuerza militar, el rey Baird Cathor II confía en astutas maniobras y manipulaciones políticas para asegurar la supervivencia de su reino. Es tal vez el monarca mejor informado de todos los reinos, y no sólo posee una mente perspicaz sino también una vasta red de espionaje. Desde el estallido de la guerra, ha mantenido la neutralidad de su reino con cautela incluso mientras conjura para enfrentar a las demás naciones entre sí. Es cierto que Ord ha sufrido ataques reiterados por parte de Khador y que la simpatía de Baird suele recaer sobre Cygnar, pero es sencillamente demasiado pragmático para no aprovechar estas oportunidades y explotarlas para beneficio de su reino .
+
+Tal vez sean este tipo de oportunidades las que han otorgado recientemente a Ord la posibilidad de alzarse y convertirse de nuevo en una potencia significativa. Al ser el único reino que todavía no ha entrado en guerra, Ord se halla en una posición ventajosa. Cada día se le presentan oportunidades tanto grandes como pequeñas, y los tahúres de Ord siempre parecen estar dispuestos a arriesgarse. A diario llegan profesionales refugiados de Llael a las comunidades órdicas en busca de un nuevo hogar. Cygnar desea establecer una alianza con el reino ahora que Llael ha caído, y el trono órdico reconoce su valor para Cygnar, ahora más que nunca. Mientras tanto el Protectorado de Menoth supone una amenaza lejana, pero amenaza al fin y al cabo, y Khador se ha mostrado reacia a poner a prueba las fronteras órdicas. De hecho Ord es la única fuente de comercio exterior de Khador; es un mercado que los kayazi desean mantener abierto. Al igual que las mareas de las cuales deriva gran parte de la subsistencia del reino, el panorama de Ord parece decaer y fluir de un día para otro, y sus líderes y reyes arrojan sus redes en el turbulento mar de la política y las intrigas para ver qué botines pueden sacar de sus profundidades .
+
+### DATOS DE ORD
+
+* **Gobernante:** Rey Baird Cathor II.
+* **Tipo de Gobierno:** Monarquía.
+* **Capital:** Merin.
+* **Grupos Étnicos y Población aproximada:** Tordoranos (2.100.000), Thurianos (700.000), Rynios/Llaelesianos (100.000), Caspianos (50.000), Khardios (40.000), Rhulianos (25.000), Bogrin (20.000), Schardenses (18.000), Gobos (16.000), Khardios (12.000), Ogrun (12.000), Morridanos (4.000), Umbreanos (4.000), Kossitanos (3.000), Skirovanos (3.000), Ionenses (500).
+* **Idiomas:** Órdico (principal), Cygnarita, Khadorano, Cincojergas (dialecto cygnarita), Lengua Scharde (dialecto cygnarita).
+* **Clima:** Templado marítimo; fresco y lluvioso al norte, más cálido y seco en el sur (aunque los veranos suelen ser frescos y húmedos). Nublado casi la mitad del tiempo.
+* **Terreno:** Colinas escarpadas al norte del río Rohannor; llanuras onduladas, tierras bajas y muchos marjales en el sur y el centro; espesos bosques y turberas por encima del río Lengua del Dragón; acantilados marinos en la costa oeste.
+* 
+**Recursos Naturales:** Pescado, puertos de altura, bosques (principalmente alcornoques), ámbar, depósitos de turba, lignito, piedra caliza, mármol, algo de cobre y carbón, tierras cultivables .
+
+
+
+---
+
+### REY BAIRD CATHOR II, "EL REY BANDIDO"
+
+**Rey Baird Cathor II (varón tordorano Ari6/Gue6/Per8):** Baird Cathor II es el soberano más viejo de todos los Reinos de Hierro. Los Cathor de Tordor lograron sobrevivir a los estragos de los orgoth y han conservado cierto grado de poder durante los últimos mil años, basado tradicionalmente en el apoyo de las familias nobles castellanas para gobernar la tierra, recaudar impuestos y contribuir con levas armadas. Aunque el poder inherente de los monarcas ha crecido y menguado a lo largo de toda la historia órdica, el rey Baird Cathor II está considerado como un simpático gamberro pero contundente como rey .
+
+El rey Baird Cathor II lleva sentado al trono de Ord más de tres décadas. Tercer hijo de un padre robusto, jamás pensó que llegaría a ser rey y no mostró aspiraciones de liderazgo. A este respecto guarda cierto parecido superficial con el rey Leto de Cygnar. Sin embargo, mientras que Leto se dedicó a la religión, Baird malgastó la mayor parte de su juventud en vicios, gozando intensamente del juego, las bebidas y las mujeres, y así habría pasado gustoso el resto de su vida. Sin embargo, su hermano mayor el rey Alvor V se perdió en el mar durante una tempestad sólo tres meses después de haber subido al trono, y no se le encontró jamás. Brogan, el único hermano restante de Baird, murió dos meses después que Alvor al desplomarse sobre él toda una sección del muro del palacio real. Ambas muertes fueron consideradas accidentales a pesar de las sospechas de juego sucio por parte de ciertos miembros de la administración de Ord. Con gran agitación, Baird fue coronado rey en el año 574 d.R. .
+
+Llamado por muchos "el Baird", este soberano pendenciero y vivaz ha inspirado lealtad y verdadero afecto a la mayoría de sus súbditos. Tiene cierta habilidad para escoger a subordinados capaces, en cuyas manos deposita encantado la administración diaria de su reino. Algunos dicen que el rey Baird se ha ganado el apodo de "el Rey Bandido" (que jamás se usa en su presencia) debido a la mala fama de muchos de sus asociados. Es más probable que recibiera dicho mote por su costumbre de aplicar impuestos a los más ricos de la aristocracia órdica. De hecho, su popularidad entre los plebeyos deriva de su sistema tributario, que exige poco de las masas empobrecidas pero cobra fuertes impuestos a los castellanos que conforman su corte. Estos terratenientes deben soportar el peso de las finanzas del reino, lo cual produce considerables fricciones tanto en la corte como en el extranjero. Baird cuenta con pocos amigos incondicionales entre los castellanos, pero el apoyo generalizado de los súbditos de clase baja los mantiene a raya generalmente .
+
+Sin embargo, no cabe duda de que sus más peligrosos enemigos entre los castellanos son Izabella Mateu (ver castellana Izabella Mateu, pág. 294, y la casa mercantil de los Mateu, pág. 84), cuya influyente familia ha atormentado al linaje de los Cathor durante siglos. La casa de los Mateu ha cultivado metódicamente el favor de varias casas poderosas a lo largo de los años y no cesa de confabular contra los reyes Cathor. De hecho, los Mateu llegaron a controlar el trono de Ord durante algún tiempo (desde el 381 hasta aproximadamente el 421 d.R.) y desde entonces han sido unos rivales envidiosos. Aunque el rey Baird aprovecharía cualquier oportunidad para hundir a la familia, las cuidadosas maquinaciones de la casa de los Mateu y su red de aliados les han mantenido relativamente a salvo, pues no se ha podido probar abiertamente su sedición .
+
+Actualmente el rey Baird está preocupado por la guerra que abruma a los reinos vecinos. Aunque tiene una relación cordial con el rey Leto, Baird no está dispuesto a violar la neutralidad de su reino. Jamás ha confiado en la reina Ayn de Khador y no le sorprendió confirmar sus sospechas cuando atacó Llael, pero lo más importante para él es evitar cualquier conflicto hasta haber decidido qué medidas son las más beneficiosas para su reino. Una de sus principales jugadas desde la ocupación de Llael ha sido el intento de convencer a los dirigentes exiliados de la Orden del Crisol Dorado de trasladarse a Merin. Las negociaciones no han progresado tan rápidamente como le hubiera gustado, pero Baird ha realizado algunas ofertas bastante convincentes y tiene buenos motivos para esperar lo mejor .
+
+> **SE RUMOREA QUE...**
+> Todos los reyes de Ord se han servido de espías para recabar información con motivo de la defensa de la nación, y el rey Baird II no es ninguna excepción. En su círculo exterior ha empleado los servicios de agentes entre los que se incluyen criminales como piratas y contrabandistas, espías órdicos y la Mano Oculta. Aunque sigan corriendo rumores de que el Baird conspira con agentes de las islas Scharde, salta a la vista que tales acusaciones son falsas: el rey es demasiado cauteloso e inteligente para permitir voluntariamente que Cryx propague su cáncer por su reino. De hecho, el rey Baird ha tomado medidas para eliminar la influencia cryxiana que ha arrastrado hacia Ord, enviando a varias docenas de agentes de confianza como Bastian Lattimore (ver pág. 298) por todo el reino para que protejan sus intereses. Baird confía exclusivamente en su reserva de agentes de contraespionaje, "investigadores especiales", para asuntos internos tales como la vigilancia contra espías y asesinos en la corte. Desde el punto de vista del rey, lo más importante es que sus agentes se encarguen de la amenaza de Cryx que parece haber empeorado en las muchas generaciones desde los días de Vaspares Mateu .
+> 
+> 
+
+El pensamiento del rey está siempre puesto en su pueblo. Baird es viudo pero piensa que su linaje está asegurado con sus cuatro vástagos crecidos y adultos. Es un padre cariñoso (aunque despistado) y colma de regalos a sus hijos y nietos, de los que cuida con un afecto genuino. Por supuesto, abundan los rumores sobre descendencia ilegítima engendrada con amantes en Merin, Berck, Medioayuno y Cinco Dedos, acordes con el libertinaje del Baird, que no ha cesado con el paso del tiempo (tan sólo se ha ralentizado) .
+
+* **Príncipe Baird Cathor III (varón tordorano Gue11/Pist3):** El primogénito y sucesor de Baird es general del ejército órdico, señor castellano de Tordoro y militar disciplinado y obediente. A Baird II le preocupa que su heredero de cuarenta años, lo opuesto a su padre prácticamente en todo, haya visto demasiado poco de la vida (sobre todo más allá de las fronteras de Ord) para gobernar como verdadero descendiente del linaje de los Cathor .
+
+
+* **Príncipe Brogan Cathor II (varón tordorano Mka9/Gue2):** El segundo hijo del rey Baird II es capitán ingeniero de la Armada Real de Ord y castellano de la mansión Clifoeste. Brogan es un hijo callado e introspectivo, consagrado a la modernización de las vetustas fuerzas armadas de Ord. El príncipe Brogan ha viajado a muchas ciudades portuarias incluida Ceryl, aunque está ansioso por visitar la Academia Estratégica y la Armería Cygnarita de Caspia. Está casado y tiene un hijo y una hija en su finca de Berck, pero sus frecuentes viajes al extranjero han deteriorado su matrimonio .
+
+
+* **Princesa Carlutia Vascar (mujer tordorana Ari2/Gue5):** Es tan tozuda e irreverente como su padre. Solo tras cuidadosas manipulaciones logró desposarla con el capitán Ostal Vascar (ver Medioayuno, pág. 304). Tras aconsejarle que se mantuviera alejada de casa, simplemente dejó que la naturaleza siguiera su curso. Carlutia se ha sosegado con el paso de los años, en especial tras el nacimiento de sus dos hijos .
+
+
+* **Princesa Sandrea Torcail (mujer tordorana Ari4):** Baird II casó a su segunda hija con Rogan Torcail, el eminente murgrave de Almare. Pese a haber indignado a los castellanos del norte al conceder la mano de su hija menor a un thuriano, Baird realizó esta astuta jugada política para congraciarse con sus súbditos del sur, quienes aprecian mucho a la princesa. Se la considera más refinada que su hermana mayor, y el papel de esposa y madre encaja muy bien con Sandrea. Se encuentra entre los nobles más influyentes de los círculos superiores de Armandor y tiene dos hijas jóvenes y un bebé varón. Sandrea adora a su familia, al pueblo de Armandor, y a su padre por encima de todo, y como una buena hija siempre hace todo lo que puede para mantenerle informado de cualquier noticia de interés .
+
+### HISTORIA Y JERARQUÍA DE ORD
+
+**TABLA 7-1: LISTADO DE MONARCAS DE ORD (DESDE LA REDACCIÓN DE LOS TRATADOS DE CORVIS)**
+
+| Fecha del reinado | Soberano | Duración | Causa de la muerte |
+| --- | --- | --- | --- |
+| **203-243 d.R.** | **Merin Cathor I el Valiente** es coronado rey y reconstruye la devastada ciudad de Tordor, que es rebautizada Merin en su honor y se convierte en la capital. | 40 años | Vejez |
+| **245-257 d.R.** | **Merin Cathor II, el Rey Brillante**, lucha en la Guerra de los Colosales contra Khador del lado de Cygnar. Muere semanas después a causa de las heridas recibidas en la batalla final. | 14 años | En combate |
+| **257-279 d.R.** | **Merin Cathor III el Piadoso** gobierna durante un tranquilo periodo de reconstrucción. Declara la Iglesia de Morrow como religión oficial del estado de Ord en el 271 d.R. después del escándalo asociado a la ascensión del vástago Bolis en Cinco Dedos. | 22 años | Enfermedad |
+| **279-296 d.R.** | **La reina Tadea Cathor** es coronada. Hija mayor de Merin III, soberana muy popular pese a la insatisfacción de los castellanos y de su hermano menor. | 17 años | Asesinada |
+| **296-301 d.R.** | El hermano menor de Tadea, **Alvor Cathor I el Usurpador**, se hace con el poder apoyado por los castellanos. Se rumorea su implicación en la conjura para asesinar a su hermana. Khador invade Ord y comienza las guerras fronterizas. Alvor muere en combate, posiblemente por fuego amigo. | 5 años | En combate |
+| **301-305 d.R.** | **Regencia de los Castellanos.** Los castellanos ostentan la regencia a través del señor castellano Agnolo Caetan. Ord pierde más territorio ante Khador en las guerras fronterizas. A pesar del alto el fuego del 304, una enorme alianza de tribus bárbaras del norte es manipulada para asediar Medioayuno en el 305 d.R. | 4 años | N/A |
+| **305-346 d.R.** | La ascensión de Markus inspira a **Alvor Cathor II el Príncipe de Batalla**, que sube al trono con catorce años (aún menor de edad). Participa en batallas esporádicas por toda la frontera septentrional durante ocho años hasta la tregua del 313 d.R. Radahvo (Puerto Vladovar) y sus alrededores son cedidos a Khador para finalizar la guerra. | 41 años | Vejez |
+| **346-356 d.R.** | **Alvor Cathor III el Almirante**, un excéntrico soberano que afirmaba ver visiones, encabeza una expedición para cruzar el Meredius y desaparece. | 10 años | Perdido en el mar |
+| **356-381 d.R.** | **La reina Rosa Cathor**, esposa de Alvor III, toma el trono y demuestra su capacidad a pesar de sus muchos detractores. | 25 años | Vejez |
+| **381-394 d.R.** | **Vaspares Mateu el Cruel** usurpa el trono por la fuerza con el respaldo de muchos castellanos. Obliga a los Cathor a esconderse y se convierte en un tirano. | 13 años | Asesinado |
+| **394-421 d.R.** | **Duret Mateu el Impotente** es un rey de voluntad débil. Actúa como testaferro mientras otros miembros de los Mateu son quienes gobiernan Ord realmente. | 27 años | Enfermedad |
+| **421-425 d.R.** | **Guerra de los Castellanos.** Estalla un conflicto armado generalizado: los pretendientes al trono se enfrentan en la denominada "Guerra de los Castellanos". | 4 años | N/A |
+| **425-449 d.R.** | **Baird Cathor el Verdugo** reclama el trono en nombre de los Cathor y ejecuta a muchos miembros de la casa de los Mateu. Es un guerrero heroico y admirado, pero posteriormente resulta ser un rey mediocre. | 24 años | Mala salud debida a la obesidad |
+| **450-485 d.R.** | **Stagiar Cathor** reina durante la Segunda Guerra Expansionista contra Khador (464-468), la cual agota el tesoro real. Sube los impuestos para compensar. | 35 años | Vejez |
+| **485-513 d.R.** | **Stagiar Cathor II el Rey Solitario** se ve aquejado de paranoia recurrente. Encarcela a sus consejeros y se niega a ayudar a Cygnar durante la guerra del Bosque del Espino. | 28 años | Vejez |
+| **512-531 d.R.** | **Merin Cathor IV** reina sin incidentes hasta que es asesinado por su hermano. | 18 años | Asesinado |
+| **531-536 d.R.** | **Fardini Cathor el Rey Menita** trata de instaurar la fe menita como religión del estado. Más tarde se ve implicado en el asesinato de su hermano. | 4 años | Ejecutado |
+| **536-574 d.R.** | **Alvor Cathor IV el Recio** es un rey diligente y un político sagaz, popular entre los castellanos pero considerado inútil por las masas. | 38 años | Vejez |
+| **574 d.R.** | **Alvor Cathor V** muere durante una repentina tempestad en alta mar. | 3 meses | Perdido en el mar |
+| **574 d.R.** | **Brogan Cathor** muere al derrumbarse una sección del palacio real. | 2 meses | Accidente |
+| **574-Presente** | **Baird Cathor II el Rey Bandido** es célebre por su equitativo sistema de impuestos. Declara la neutralidad durante la guerra entre Cygnar y Khador por la invasión de Llael.
+
+ | 32+ años | N/A |
+
+**TABLA 7-2: JERARQUÍA ÓRDICA**
+
+| Título | Por definición | Nº en el reino |
+| --- | --- | --- |
+| **Rey/reina** | Monarca/s soberano/s del reino | 1 |
+| **Príncipe/princesa** | Progenie del monarca a través de un matrimonio legítimo | 4 (varía) |
+| **Señor castellano** | Los castellanos más poderosos, que gobiernan un graviato completo | 3 |
+| **Castellano** | Aristócrata de una familia reconocida con sangre de tordoranos ilustres | ~220 |
+| **Murgrave** | Aristócrata de sangre thuriana que gobierna un graviato | 3 |
+| **Vicario** | Sacerdote de alto rango de la Iglesia de Morrow que supervisa al clero de una amplia región | 10 |
+| **General o almirante** | Líderes del ejército o la armada órdica; pueden ostentar otros títulos | 14 |
+| **Valvasor** | Aristócratas de familias menores de reconocido prestigio, terratenientes menores (baronías) | ~300 |
+| **Gran prelado/prelado** | Sacerdote de alto rango de Morrow que supervisa el clero en un pueblo o ciudad | Docenas 
+
+ |
+
+Algunos castellanos dicen en broma que el hijo de Baird III, **Alvor Cathor** (varón tordorano Ari1/Gue1/Per5), es el auténtico heredero de Ord. Es la viva imagen de su abuelo en su juventud con toda su terca impertinencia, su amor por los excesos y su atracción por el irresistible embrujo de Cinco Dedos. Alvor idolatra a su abuelo pero no ha pasado mucho tiempo con él. Recientemente, Alvor ha sido visto en compañía de Eliana Mateu, hija de la infame castellana Izabella Mateu. Aunque la unión de esta pareja ha escandalizado a su padre, Alvor disfruta llamando la atención .
+
+Como en Cygnar, los sacerdotes de la Iglesia de Morrow son bienvenidos a menudo como consejeros. Se incluyen en la tabla jerárquica para indicar el respeto que se les profesa, no su autoridad seglar real. Los siete miembros del Concilio Vicariato de Merin son los líderes de la iglesia órdica que responde ante el Exordeum en Caspia. Los vicarios, grandes prelados y prelados están subordinados al órgano de gobierno de Merin .
+
+Los nobles de Ord tienen una jerarquía menos rígida que las de Llael o Cygnar. Así, por ejemplo, los castellanos ostentan los títulos nobiliarios más honoríficos, y sin embargo su influencia personal varía en gran medida. El antiquísimo título de señor castellano se reserva para aquellos que gobiernan los tres graviatos septentrionales, pero todos los castellanos son más o menos equivalentes a los duques de otros reinos como Llael o Cygnar. Algunos de ellos han dividido sus tierras en pequeñas baronías y han delegado su autoridad en vasallos y ligios denominados valvasores. El verdadero poder entre los castellanos varía en función de sus riquezas, influencia política y las fuerzas y cantidad de valvasores bajo su mando. No escasean las disputas internas, y a lo largo de la historia se han producido con frecuencia sangrientos conflictos entre castellanos rivales o entre castellanos y murgraves .
+
+"Murgrave" es un título de gran prestigio reservado para aquellos con ascendencia thuriana que gobiernan las regiones meridionales de Ord. Es el título más alto para los aristócratas de sangre thuriana. Los tres murgraves sureños de Hetha, Almare y Wythmoor tienen un poder e influencia similares a los de los señores castellanos norteños de Tordoro, Murio y Cosetio. Sin embargo, se les sigue considerando una casta menor dentro de los círculos nobles. Esta distinción se ha difuminado con el tiempo pero aún sigue siendo importante para aquellos que se hacen llamar "tordoranos ilustres". De hecho, es muy raro que aquellos con sangre de tordorano ilustre se casen con miembros de familias thurianas (y viceversa) .
+
+### EL EJÉRCITO DE ORD
+
+El poder de Ord reside en su marina superior; es una de las pocas áreas en las que Ord destaca militarmente. En más de una ocasión la flota órdica ha reducido a un navío pirata crysiano a astillas o ha convertido un pueblo costero enemigo en cenizas y escombros. Cygnar beneficia a las fuerzas navales de Ord, que reciben una suma cuantiosa a cambio de patrullar las rutas comerciales del norte de Cygnar además de las suyas. Los conflictos con la Asociación Mercariana en el sur han enfriado las relaciones navales entre ambos reinos, y las hostilidades entre corsarios "no autorizados" han supuesto un problema cada vez mayor .
+
+Recientemente el rey Leto ha intentado suavizar estas dificultades y lograr la ayuda de Ord en su guerra contra Khador. La marina cygnarita está interesada en lanzar operaciones contra las orillas meridionales de Khador, pero le haría falta utilizar puertos órdicos. Lo ideal sería que la Armada Real de Ord combatiera junto a las embarcaciones cygnaritas. Hasta ahora el rey Baird ha eludido estas peticiones .
+
+El ejército órdico está bien entrenado y es disciplinado y valeroso, pero también está muy mal equipado para los tiempos que corren. Ord carece no sólo de los recursos económicos y tecnológicos de sus vecinos, sino también de sus capacidades de manufactura. La debilidad militar más manifiesta de Ord es su falta de siervos de guerra modernos y de suficientes lanzadores de guerra para dirigirlos, pese a los esfuerzos del trono por mejorar esta situación. La mayoría de los siervos de guerra órdicos son bastante viejos, pues fueron comprados después de que Cygnar los desmantelara. Se están construyendo nuevos siervos de guerra a un ritmo lento y desigual debido a las subidas y bajadas de las arcas órdicas. La Orden Fraternal de Ord saca más dinero de la fabricación de cortezas para siervos de trabajo que para modelos de orden militar .
+
+Ord está bendecida con unas colinas precarias que forman una barrera natural entre el reino y Khador, y sus fortificaciones fronterizas están muy bien equipadas con potentes cañones, especialmente en Medioayuno, Puerta del Jabalí, Muralla de las Cicatrices y Corbhen. Sin embargo, debido a la falta de siervos de guerra, las tropas órdicas suelen verse incapaces de preparar una ofensiva viable y por tanto entrar en combate defensivamente. No es que el ejército órdico sea débil; muchas veces en el pasado han repelido el avance de Khador. Puede que las armas de Ord estén anticuadas, pero tiene una historia rica y formidable .
+
+Además de su orgullosa tradición naval, que se remonta hasta los tiempos de la Armada Tordorana, las fuerzas órdicas terrestres se enorgullecen de su caballería. Al igual que los miembros de las tribus montadas de la estepa khárdica denominados señores jinetes (y de hecho se dice que debido a ellos), algunos órdicos del sur comenzaron a utilizar monturas pequeñas (entre trece y catorce palmos de altura) criadas para desarrollar una gran velocidad y resistencia. Aunque hoy día son muy pocos, los soldados de la caballería de Ord han demostrado su eficacia en tácticas de asalto rápido, y actualmente su número está creciendo de nuevo. Entre ellos, muchos exploradores están empezando a usar fusiles a lomos de sus caballos y en contra de lo que cabría esperar tienen una puntería excelente incluso al galope .
+
+### GRAVIATOS DE ORD
+
+Ord está formada por docenas de pequeñas divisiones territoriales, todas las cuales pertenecieron en el pasado a las familias castellanas predominantes que descendían de los tordoranos ilustres. Tras la asignación de fronteras de los Tratados de Corvis, los monarcas de Ord cedieron el sur a los jefes de sangre thuriana que se hacían llamar murgraves. El nombre ha permanecido a lo largo de los siglos y los monarcas de Ord adoptaron el término graviato para sus propias divisiones provinciales. El norte sigue siendo dominio exclusivo de las familias castellanas más poderosas que están sujetas al trono órdico, y el sur pertenece a los murgraves que ostentan diversas lealtades entre sí además de hacia el rey órdico .
+
+* **ALMARE:** Situada en el corazón de Ord, la región de Almare incluye Hogarpétreo, Armandor y las principales granjas y pastos del este de Merin. Aunque sus habitantes están considerados como provincianos y frecuentemente ignorantes de las últimas noticias y tramas, se les valora por su inquebrantable lealtad y obediencia al trono. Existen ciertos conflictos internos en Almare entre los castellanos más ricos y la aristocracia thuriana. El murgrave Rogan Torcail gobierna Almare .
+
+
+* **COSETIO:** El graviato noroccidental llamado Cosetio abarca Berck y el litoral del sur casi hasta el estrecho de las Rompientes, Corbhen y los lagos de Aguas Borrascosas. Cosetio es famoso principalmente por su flota pesquera y por el grueso de la Armada Real de Ord afincado en Berck. Pese a carecer de granjas, Cosetio es el segundo graviato más prestigioso del reino y es el hogar de muchos castellanos orgullosos. El señor castellano Heiro Mascal gobierna Cosetio .
+
+
+* **HETHA:** Hetha incluye la mayor parte del bosque Olgunholt, las ciudades de Cinco Dedos y Carre Dova, y numerosos pueblos pequeños. Limita al norte con Las Madrigueras y al este con el Camino Comercial occidental. Este graviato siempre se ha resistido a los impuestos, aunque se rumorea que Cinco Dedos tiene un acuerdo con el trono órdico y produce ciertos beneficios derivados del contrabando ilegal. El murgrave Conor Lochlan gobierna Hetha .
+
+
+* **MURIO:** El escarpado graviato septentrional llamado Murio se centra en Medioayuno e incluye las fortalezas de Muralla de la Cicatriz y Puerta del Jabalí, además de la mayoría de las colinas y tierras altas del norte de Ord. Aunque carece de recursos naturales, es una región estratégica crucial y muy bien defendida por el ejército. Hay algunas excavaciones mineras de poca importancia en sus colinas, aunque no se han producido grandes hallazgos en décadas. Murio está gobernado por el señor castellano Ostal Vascar, general de la División Escudo y comandante de Medioayuno .
+
+
+* **TORDORO:** El graviato de Tordoro abarca Merin (la capital) y el lago Vannogear. Es una de las regiones más fértiles de Ord, famosa por sus productivas granjas, sus frondosos bosques y sus numerosos pastos. Los castellanos más influyentes controlan esta región, en la que crían sus amplios rebaños. Tordoro es la provincia originaria de los Cathor, y el graviato está gobernado por el príncipe Baird Cathor III, señor castellano .
+
+
+* **WYTHMOOR:** La suroriental Wythmoor es un graviato pantanoso que contiene varias comunidades pequeñas de tierras bajas, la ciudad de Tarna, el Wythmoor que le da nombre y el Cornejal (otro nombre para el Olgunholt del este del Camino Comercial occidental). Aparte de la explotación forestal de alcornoques, esta zona tiene recursos exiguos. Casi toda su economía se basa en el comercio fluvial a través de Tarna. Algunos de los habitantes de los pantanos de esta región están confundidos y no saben muy bien si viven en Cygnar o en Ord (y tampoco es que les importe demasiado). El murgrave Gralan Turlough gobierna Wythmoor .
+
+### PRINCIPALES CIUDADES
+
+#### ARMANDOR* **En el poder:** Murgrave Rogan Torcail.
+* **Población:** 38.000 humanos (los thurianos superan en número a los tordoranos en una proporción de ocho a uno), 2.000 morridanos, 2.000 troloides, 1.000 gobos.
+* **Ejército:** Armandor tiene un cuerpo de guardia de casi seiscientos soldados. Desde el inicio de la guerra, el rey Baird II ha enviado una modesta guarnición a Armandor, y el murgrave y las familias castellanas locales cuentan con guardias privadas propias.
+* **Importaciones:** Productos manufacturados, tejidos, trigo.
+* 
+**Exportaciones:** Ámbar, alcornoque, productos lácteos, lino, ganado, turba, lana .
+
+
+
+Armandor es la mayor de las ciudades de los páramos de Arman que le dan nombre. Estos páramos están cubiertos de brezo, turba y ciénagas, y poseen una belleza que para muchos armandoranos no tiene igual en el resto de Ord o del mundo. La ciudad está conectada a Hogarpétreo a través de un tosco camino de carros y un sendero igualmente burdo que serpentea hacia el norte hasta Fellig, por el cual llegan las noticias sobre la guerra .
+
+La ciudad está situada sobre una colina ligeramente inclinada, en el borde oeste del ominoso bosque del Espino, mientras que los páramos se extienden hacia el oeste y el norte. En el punto más alto de la colina se hallan las mayores fincas de la ciudad, propiedad del murgrave, de varios aristócratas thurianos y de unos cuantos castellanos tordoranos. Directamente bajo ellas se encuentra la plaza central, un mercado abierto rodeado de edificios civiles: juzgado, prisión, la mayor iglesia de la ciudad y demás oficinas. El resto de la ciudad se extiende por debajo de la plaza y alrededor de la base de la colina hasta adentrarse en la ciénaga de suelo inestable. Muchos de los mejores edificios del extrarradio están construidos sobre postes de madera hundidos a gran profundidad para evitar que se hundan .
+
+Las sinuosas calles pavimentadas de la colina están limpias y bien cuidadas, pero la parte externa de la ciudad es famosa por sus caminos irregulares y fangosos por los que los carros deben transitar con mucho cuidado. La zona externa tiene su propio mercado para venta de productos y subasta de ganado. A los que viven aquí se les reconoce a menudo por las salpicaduras de barro de sus botas y pantalones. La flora local de Armandor apenas basta para sustentar a los rebaños de ganado braenna (animales grandes, peludos y de largos cuernos, parientes del búfalo raevhan) que supone una parte integral de la economía de la ciudad. También se crían caballos aquí, entre los que se incluyen las monturas de Almare, las favoritas de los famosos soldados jinete de la región y muy conocidas por su resistencia, velocidad y temperamento enérgico. El resto de los negocios de la ciudad se dividen entre las minas de ámbar y la recolección de corcho y turba de los páramos .
+
+Los armandoranos son principalmente thurianos con una mezcla de tordoranos de clases baja y media (tres familias castellanas poseen grandes mansiones aquí), y unos pocos inmigrantes morridanos de Fellig. La mayor parte de los cargos civiles de Armandor los ostentan thurianos emparentados directa o indirectamente con el murgrave. Las haciendas fuertemente protegidas de los tres castellanos del pueblo, Alvoro Lasca (varón tordorano Ari2/Gue6), Francisco Castra (varón tordorano Ari2/Mag6) y Nicolo Vasari (varón tordorano Ari2/Gue7) son conocidas por las dificultades que suponen a menudo a los funcionarios de la ciudad. Se llevan con ellos peor que con la población goba y troloide local, que en comparación protagonizan menos conflictos con los humanos en parte porque han adoptado su estilo de vida (a excepción de la religión). Además los troloides siempre han defendido Armandor contra las amenazas externas y han contribuido sin dudar con su fuerza de armas cada vez que se les ha solicitado .
+
+**Personajes célebres**
+
+* **Murgrave Rogan Torcail (varón thuriano Ari2/Gue7):** La casa más rica de Armandor es la de los Torcail, adinerados terratenientes y gobernantes del graviato de Almare. La familia de Rogan conserva la mayoría de sus posesiones desde hace generaciones, lo cual es motivo de consternación para sus rivales, que murmuran sombríos acerca de su colaboración con los orgoth en el pasado. En cualquier caso, el murgrave Torcail es un soldado notable de gustos refinados. Le interesa bien poco la gestión cotidiana de las tierras de su familia, y la deja en manos de su esposa e hija del rey de Ord, la princesa Sandrea Torcail. En su lugar se centra en mantener en movimiento la rueda del comercio de Armandor. Tiene una mentalidad bastante abierta y concede frecuentes audiencias a una gran variedad de individuos, pero también es bastante conservador y raras veces actúa apresuradamente o sin consultar antes a docenas de expertos (incluida su mujer) .
+
+
+
+**Lugares de Armandor**
+
+* **Iglesia de la ascendida Rowan:** Esta gran iglesia de madera es uno de los edificios mejor conservados de la plaza central de la ciudad. El amplio edificio de dos plantas, pintado con ribetes dorados, reluce intensamente a la luz del día. Fue construido por el mismo equipo de maestros carpinteros que levantó la mansión del murgrave. Su interior es sencillo y rústico, con bancos de madera, tapices apagados y estatuas sencillas de Morrow y la ascendida Rowan flanqueando el púlpito. La gran prelada Aideen Aghamore (mujer thuriana Clr8) es la clérigo jefe de este bullicioso templo y supervisa a todo el clero de la ciudad. En su rebaño hay un puñado de troloides (aunque la inmensa mayoría son dhunianos devotos) .
+
+
+* **Rancho Riordan:** Uno de los mayores ranchos de las inmediaciones de Armandor (fuera de las haciendas de los Torcail) es el rancho Riordan, propiedad de la eminente familia Riordan. Su actual matriarca es la señora Teagan Riordan (mujer thuriana Ext6), una anciana inflexible cuyas inteligentes prácticas comerciales han contribuido a ampliar las posesiones de su clan durante las últimas dos décadas. El propio rancho es una visión impresionante, pues cuenta con un sistema mecániko de irrigación que proporciona agua y otros artilugios similares para alimentar a las monturas de Almare y al ganado braenna. Aquí siempre hay necesidad y contratos para trabajadores, en especial aquellos con conocimientos de maquinaria .
+
+
+
+#### BERCK* **
+
+En el poder:** Señor castellano Heiro Mascal y el Comité de la Ciudad de Berck.
+* **Población:** 420.000 humanos (los tordoranos superan en número a los thurianos en una proporción de cinco a uno), 3.000 gobos, 500 enanos, 300 troloides, alrededor de 100 ogrun, varios centenares de morridanos y khardios.
+* **Ejército:** Cientos de barcos atracan en Berck, cuartel general de la Armada Órdica. Además de los miles de marineros que la consideran su hogar, Berck está defendida por una inmensa guarnición de guardia marina apoyada por un pequeño contingente de siervos de guerra. Berck también cuenta con una guardia urbana de quinientos efectivos.
+* **Importaciones:** Hierro, ganado, hooaga, verduras, lana.
+* 
+**Exportaciones:** Pescado, cáñamo, lona, tejidos, artículos de comercio, aceite de ballena, vino .
+
+
+
+El nombre Berck procede de la antigua palabra tordorana "*baire*", que designa a una robleda rodeada de agua. La arboleda original que inspiró el nombre de la ciudad está situada en una pequeña loma de la boscosa isla Berck, en la desembocadura del río Rohannor y cobijada bajo un escarpado barranco. Apodada el Puerto Dorado, Berck fue el hogar histórico de la legendaria Armada Tordorana, y muchas de las primeras familias de la ciudad descienden de los capitanes elegianos. La entrada por mar está bien protegida por el espectacular barranco estrecho del río Rohannor, de más de trescientos pies de altura .
+
+Actualmente alberga en su puerto a la Armada Real de Ord, incluido el célebre cascoférreo *Vraz*. El puerto está abarrotado de buques y mercaderes y siempre está muy concurrido, por lo que se están construyendo nuevos muelles y diques secos. Sin embargo, las prohibitivas tarifas impuestas sobre el fondeo para compensar el coste están haciendo que el comercio se traslade a Carre Dova y a Cinco Dedos .
+
+La ciudad fue construida en el extremo de un largo tramo de acantilados que se alzan sobre la playa por el norte y el oeste, en la cuenca que forma el delta del río Rohannor. Tras sus atestados embarcaderos y muelles, la ciudad se extiende tierra adentro hasta esta fértil zona, y sus carreteras zigzaguean por los acantilados cercanos. Las cuatro calles principales de Berck parten de un rombo central hacia cuatro entradas: la Puerta de Markus, la Puerta del Muelle del Transbordador, la Puerta del Muelle Marino y la Puerta del Carnicero; todas las cuales están patrulladas y vigiladas cuidadosamente por la guardia, siempre atenta a cualquier actividad sospechosa .
+
+Es preciso señalar que Berck posee una industria textil muy grande y es famosa estos días por la exportación de tela. De hecho, la amplia tela roja de Berck es conocida en lugares tan lejanos como Rhydden y Mercir. El puerto de Berck está extremadamente bien protegido, dado que es la mayor ciudad de transporte marítimo, pesca y comercio de Ord. Desde el Puerto Dorado se pueden llevar fácilmente las mercancías hasta el corazón de Ord y más allá, a través del Rohannor. Cada llegada y salida es controlada por la Junta de Importaciones y Exportaciones, ayudada por la guardia de la ciudad y el Comité de la Ciudad de Berck .
+
+Berck es también el hogar ancestral de varios castellanos influyentes, siendo los más poderosos la Familia Mateu. Esta familia de nobles mercaderes tiene un dominio completo sobre la política local. Aparentemente en Berck no se tolera el crimen, por lo que los Mateu han logrado mantener una fachada legítima durante generaciones incluso habiéndose dedicado a todo tipo de negocios ilegales y eliminado todo obstáculo y rival que se ha interpuesto en su camino .
+
+Varias de las antiguas y extensas fincas tordoranas han sido construidas sobre salientes rocosos en los elevados acantilados (incluida la de los Mateu), desde donde ofrecen una vista magnífica del puerto y del mar de las Mil Almas. Muchas de las grandes fincas y edificios menores de Berck tienen azulejos de arcilla vidriada, lo que hace que toda la ciudad brille y centellee vista desde la distancia .
+
+**Personajes célebres**
+
+* **Señor castellano Heiro Mascal (varón tordorano Ari6/Cmb5):** Heiro es un hombre alto y demacrado con una nariz aguileña y una mirada indómita. No sólo es el presidente del Comité de la Ciudad de Berck, sino que también es el señor castellano de Cosetio, lo cual le convierte en uno de los nobles de mayor categoría del Salón de los Castellanos. Su familia tiene antiguas raíces en Berck que se remontan directamente hasta los capitanes elegianos y ha controlado el graviato desde hace mucho. Es popular entre los ciudadanos y entre muchos de los castellanos más viejos que respetan sus valores tradicionales. La Familia Mascal tiene una vieja alianza con los Mateu forjada a través de generaciones de matrimonios cruzados. El mismo señor castellano se ha casado directamente con un miembro de la familia Mateu: la sobrina de Izabella, Stiata Mateu (mujer tordorana Ari4/Her4). Esta unión ha venido bien a las dos familias ya que muchos de los antiguos enemigos de los Mascal desaparecieron e Izabella obtuvo lo que considera una herramienta útil en el Salón de los Castellanos .
+
+
+* **Castellana Izabella Mateu, supervisora de la casa de los Mateu (mujer tordorana Ari5/Per4/Her8):** Izabella Mateu es la matriarca de la notoria casa de los Mateu. Extremadamente engañosa y artera para su edad, Izabella es una flaca mujer de más de setenta años. El haber sobrevivido a innumerables intentos de asesinato no ha hecho más que reforzar su crueldad, y parece volverse más fría y calculadora con cada año que pasa. Aunque se halla en el centro de una compleja red de tramas y conspiraciones, Izabella ha logrado conservar el nombre de los Mateu limpio y libre de escándalos mediante cuidadosas manipulaciones, amenazas encubiertas y veladas muestras de poder. A Izabella no le interesa nada más que el desarrollo y la prosperidad de su familia. Hace mucho los Mateu reclamaron el trono de Ord y desde entonces los Cathor se han convertido en sus odiados enemigos. El objetivo definitivo de Izabella es derrocar al rey Baird II y destruir todo su linaje. La casa de los Mateu toma las medidas necesarias para ocultar la sangre hechicera que corre por las venas de sus hijas; las mujeres Mateu sólo recurrirán a sus dotes arcanas en las situaciones más aciagas (y jamás en público) .
+
+
+* **Eliana Mateu (mujer tordorana Ari3/Her5):** Eliana Mateu es la hija menor de Izabella, una voluptuosa belleza de cabellos negros con una perspicacia excepcional a la hora de manipular a sus pretendientes para conseguir sus propios fines. Sus argucias le han dado buenos resultados: Alvor Cathor, el nieto del rey Baird II, ha manifestado un interés servil en Eliana y se rumorea que está perdidamente enamorado de la mujer y que contempla la posibilidad de casarse con ella. La nobleza órdica vigila con cierta tensión a esta pareja, y muchos de ellos abrigan la esperanza de evitar una unión que otorgaría más poder aún a la familia Mateu .
+
+
+
+**Lugares de Berck**
+
+* **Calafates elegianos:** Esta próspera compañía de fabricación de barcos no está verdaderamente relacionada con los capitanes elegianos de antaño. Aunque son conocidos porque a veces ofrecen sueldos exiguos y condiciones laborales muy duras, es una de las mayores contratistas de Berck. Se dice que es más difícil sobrevivir al adiestramiento para convertirse en un calafate elegiano que llegar a oficial en la Armada Real de Ord. Sin embargo, la compañía da trabajo a un gran número de profesionales respetables, y fabrica las embarcaciones más grandes de Ord, principalmente clíperes y bricbarcas como el famoso *Estrella tordorana* de cinco mástiles, el clíper más grande de toda la armada. Muchos navíos elegianos se destinan a la armada, pero también trabajan para compañías de comercio como la Asociación Mercariana y la casa de los Mateu. Su director es el valvasor Rufio Zaspar (varón tordorano Ext10), un maestro calafate cuyo abuelo recibió un título nobiliario hace décadas .
+
+
+* **Finca de los Mateu:** La sede del poder e influencia de los Mateu reposa como un halcón en los acantilados que hay sobre la ciudad. El extenso complejo se halla dentro de una serie de patios amurallados concéntricos dispuestos alrededor de una elevada mansión con múltiples torreones. La finca está ocupada por un pequeño ejército de sirvientes que realizan sus quehaceres diarios en silencio, a menudo temerosos de los miembros más impredecibles de la familia. Un numeroso personal de guardias armados patrulla los terrenos. La finca tiene una reputación sombría y todo el mundo suele evitarla .
+
+
+* **Catedral de Mor:** Esta catedral morrowana es alabada por haber sido construida sobre la tierra santa desde la cual el ascendido Doleth hizo su último viaje al océano antes de su ascensión. Habiendo ocurrido hace dos mil años, esta afirmación es más legendaria que objetiva. Aun así, es una de las catedrales más antiguas y famosas de Ord y un popular destino de peregrinaje. La vicaria es Selanda Randazi (mujer tordorana Clr13), líder del clero de su fe en Berck y en las regiones circundantes .
+
+
+* **El Tridente:** El Tridente es una gran academia naval conocida como Escuela de marina "El Tridente". Está estrechamente afiliada a los Ingenieros Navales Órdicos. En él, los mejores comandantes marinos de Ord se entrenan en el arte de la guerra. Recientemente se ha comentado que la escuela ha perdido a muchos de sus más prometedores estudiantes en favor de Cygnar, como resultado del intenso proceso de selección necesario para ser admitido. En consecuencia la escuela del Tridente está siendo sometida a una revisión por petición de los castellanos y del príncipe Brogan .
+
+
+* **Templo de la Barrera Oceánica:** Este templo menita se alza al noroeste de la ciudad, sobre los acantilados (aunque un poco retirado de ellos). Su nombre procede de una leyenda órdica según la cual Menoth creó el barranco del Rohannor como barrera contra el feroz océano. El templo es enorme y tiene forma de fortaleza, compuesta por una gran sala central y dos alas anexas. Es una obra maestra de cantería, con murallas de inmensos bloques de granito y suelos de mármol pulido. El sacerdote de mayor rango es el soberano Biagio Benzo (varón tordorano Clr10/Pld3), un anciano majestuoso de cuerpo fornido y con una larga barba blanca. Critica abiertamente al señor castellano y también se muestra antagónico hacia el vicario Randazi, a quien considera un comprometedor de voluntad débil .
+
+
+
+> **AIRES DE GUERRA**
+> Los cinco mil menitas aproximados de Berck han estado cuchicheando recientemente sobre la aparición del Heraldo en el Protectorado; cierto número de ellos planean emprender el viaje para presenciar este milagro. Piensan que Berck y Ord están demasiado llenas de vicios y perversiones, sobre todo de paganos. La mayoría jamás ha estado en el Protectorado e ignoran lo difícil que es la vida allí .
+> 
+> 
+
+#### CARRE DOVA* **
+
+En el poder:** Murgrave Conor Lochlan.
+* **Población:** 72.000 humanos (los thurianos superan en número a los tordoranos en una proporción de siete a uno), 1.500 gobos, 800 troloides.
+* **Ejército:** En Carre Dova hay una guarnición de casi mil guardias marinos y una guardia de más de trescientos vigilantes. La Armada Real de Ord tiene destinada en ella a una flotilla de fuerza variable, normalmente compuesta por entre dos y tres docenas de balandros y dos o tres goletas veloces.
+* **Importaciones:** Cereales, cáñamo, metales.
+* 
+**Exportaciones:** Caballos, cuero, barcos .
+
+
+
+Carre Dova es una ciudad de contrastes. Muchos de sus edificios tienen cimientos de piedra negra, y los sonrientes rostros demoníacos de la arquitectura orgoth están tapados con obras recientes de suaves ladrillos encalados o paredes de cedro blanqueadas por acción del tiempo. La ciudad está protegida del mar por un inmenso rompeolas con hermosas tallas y más de dos mil años de antigüedad, pero el comercio con otros puertos modernos depende de sus muchos muelles de madera construidos hace menos de treinta años .
+
+Carre Dova es el hogar de una de las flotas más veloces de toda la armada, pero actualmente la ciudad es más famosa por la velocidad de sus caballos. Los carredovanos afirman ser los mejores jinetes en una nación de marineros (alarde rebatido únicamente por los soldados montados de Almare). Carre Dova está situada en las orillas de la Bahía de Piedra, tras una serie de bancos de arena acumulados contra el gran rompeolas del puerto. Antiguamente era una bulliciosa ciudad portuaria abarrotada de comercio, así como un gran centro para el aprendizaje. Como la invención del motor de vapor revolucionó los viajes marítimos, el comercio en Carre Dova se ha visto disminuido. Las embarcaciones de mayor calado no pueden navegar por el puerto de Carre Dova sin encallar, y los barcos de vapor que no necesitan del inconstante viento pueden viajar fácilmente entre Cinco Dedos y Berck o Ceryl sin atracar en Carre Dova para reabastecerse. La dificultad que conlleva llegar a su puerto (además de la herencia religiosa de la ciudad y sus centros de enseñanza) llevó a los poetas de siglos pasados a llamar a Carre Dova "la Doncella Recluida" .
+
+La quintaesencia de los navíos de Carre Dova son los estilizados balandros que surcan el Meredius cual aves marinas, y las esbeltas goletas de dos mástiles con proas curvadas que cortan las olas como cuchillos. Aparentemente estas hermosas embarcaciones se están quedando obsoletas en los modernos Reinos de Hierro, en los que la capacidad para transportar cargamento, tripulación, armaduras y armas se valora mucho más que la velocidad. Ciertas clases de marinos, como piratas y corsarios, siguen prefiriendo la velocidad, y los corsarios de todas las naciones consideran las goletas carredovanas un bien muy preciado. Estos piratas suelen frecuentar el puerto de Carre Dova, pero la fuerte presencia de veloces buques navales y el muy inferior volumen de comercio no permiten un próspero mercado negro en el puerto .
+
+> **AIRES DE GUERRA**
+> La Armada Real Órdica de Carre Dova se ha puesto discretamente en estado de gran alerta desde el estallido de la guerra. Aunque se han tomado medidas para disimular la pronta disposición de la flota, la armada está atenta a cualquier navío crysiano que se dirija a Cinco Dedos. El rey Baird II ha ordenado que toda embarcación sospechosa que entre en la Bahía de Piedra sea detenida y registrada. Todo navío que se niegue o que huya debe ser destruido inmediatamente .
+> 
+> 
+
+**Personajes célebres**
+
+* **Murgrave Conor Lochlan (varón thuriano Ari5/Gue4):** El murgrave de Hetha heredó una gran finca en la península que hay al este de Carre Dova, desde donde su familia lleva mucho gobernando la región. Tiene una polémica relación con Lupo Silva, castellano de Carre Dova (varón tordorano Ari4/Mag7) quien, aunque técnicamente es inferior a él, tiene la costumbre de fingir que el murgrave no existe. Lochlan es un hombre severo y taciturno que viste ropas lisas de tonos negros y grises. El reciente fallecimiento de su hermano le ha afectado gravemente y ha fortalecido su convicción de que sus tierras ancestrales se han vuelto corruptas y malvadas. Lochlan se siente totalmente escandalizado por el estado de Cinco Dedos, cuya culpa achaca a los Cathor. Hace poco ha comenzado a reunirse con Malatesta Mateu (mujer tordorana Ari3/Her7), una baronesa local a la que el estado de Hetha le preocupa tanto como a él .
+
+
+
+**Lugares de Carre Dova**
+
+* **Campos carredovanos:** Años de tala de bosques para la industria astillera han dejado a la moderna Carre Dova en medio de una abierta llanura con ralos sotobosques de árboles dispersos en millas a la redonda. La madera se trae ahora desde el Olgunholt, y las llanuras son el hogar de manadas de caballos cardovarios muy apreciados en todo el oeste por su velocidad y su temperamento. A los caballos cardovarios les encanta correr y lo hacen sin quejarse mientras sus jinetes les sigan espoleando. Abundan las historias sobre mensajeros portadores de noticias urgentes que montaron sus cardovarios a toda velocidad durante tanto tiempo que cuando por fin llegaron a su destino y dejaron de azuzar a sus monturas, los corazones de éstas se detuvieron .
+
+
+* **Meredesco:** El gran rompeolas que protege el puerto de Carre Dova permanece en pie desde hace más de dos mil años. Los sacerdotes menitas colocaron las primeras de las piedras blancas que lo componen antes de la ascensión de Morrow, y el muro fue completado por algunos de los primeros sacerdotes morrowanos en venerar al ascendido Doleth. La parte superior del Meredesco está pavimentada con ladrillo, y la estructura interna está surcada por pasadizos y habitaciones secretas. Los rebeldes utilizaban estas salas como puntos de reunión durante la Ocupación, y las paredes interiores aún lucen marcas de aquella época. En la superficie exterior del Meredesco hay oraciones y súplicas de protección a Menoth, Morrow y al ascendido Doleth, grabadas por los sacerdotes que construyeron la muralla .
+
+
+
+#### CINCO DEDOS* **
+
+En el poder:** Oficialmente, el gobernador Eilish Doyle bajo la autoridad del murgrave Lochlan, pero los denominados Cuatro Grandes Capitanes son quienes ostentan realmente el poder en Cinco Dedos.
+* **Población:** 160.000 humanos (en su mayoría thurianos, con una minoría de tordoranos y otras culturas humanas), 6.000 gobos, 2.000 troloides, 2.000 bogrin.
+* **Ejército:** Supuestamente los miembros de la pequeña guarnición de Cinco Dedos deben registrar a todo navío sospechoso que entre en puerto, pero los sobornos parecen ir incluidos en el cargo. La guardia local está igual de corrupta y saturada de trabajo. La ciudad recibe la "protección" adicional de crueles mercenarios contratados por los Grandes Capitanes y despiadadas bandas que controlan los diversos barrios.
+* **Importaciones:** Madera, minerales, cereales, ganado.
+* 
+**Exportaciones:** Medicamentos, pescado, cerveza, licores, ropa, cuerdas, mercancías crysianas de contrabando .
+
+###(Continuación de Cinco Dedos)Cinco Dedos es casi tan famosa como las ciudades negras de Cryx, de ahí su apelativo "Puerto de los Engaños". Es comúnmente conocida como refugio de contrabandistas y antro de piratas. En Cinco Dedos se puede comprar casi cualquier cosa imaginable, desde artículos ilegales hasta la información más privilegiada. Aquellos que merodean por sus calles pueden esperar codearse con una ecléctica colección de personajes: piratas, contrabandistas, ladrones e incluso el ocasional castellano en busca de negocios o de placeres .
+
+Cinco Dedos se llama así porque está situada en un delta fluvial formado por cinco afluentes (los "Dedos") de la Lengua del Dragón que desembocan en el mar. La ciudad está dominada por gigantescos puentes levadizos mecánikos sobre los Dedos, que a menudo están alzados hacia el cielo para permitir el paso de los barcos. Cinco Dedos surgió sin planificación alguna durante varios crecimientos espontáneos, y sus calles y callejuelas serpentean sin orden ni concierto, acaban en callejones sin salida, o se estrechan hasta que el camino desaparece entre edificios inclinados .
+
+Existen pocos sótanos o túneles subterráneos debido al inestable terreno del lecho de los ríos, pero sus habitantes han construido hacia arriba. La mayoría de los edificios tienen como mínimo un segundo piso, construido a veces sin preocuparse por cómo es el primero (ni por los principios de arquitectura). Los edificios están conectados por pasarelas, pasillos y puentes colgantes fabricados con restos de aparejos de barcos. Las rutas más fiables pasan por las calzadas rectas de las orillas de los Dedos, que son vías públicas más amplias y transitadas .
+
+A pesar de su reputación de peligros y villanías, Cinco Dedos atrae una sorprendente cantidad de tráfico turístico. La ciudad está intensamente iluminada por la noche, con tabernas que nunca cierran, una cacofonía de músicas que emana de acogedores garitos, y casas de mala fama. Sus salas de juego están relativamente bien protegidas y ofrecen una apabullante variedad de juegos y demás diversiones. La mayoría de los ciudadanos no son ladrones, pese a los rumores que afirman lo contrario, y practican una gran diversidad de oficios, artes y trabajos honrados. Pero ¡ay!, hasta los más honrados de Cinco Dedos caminan con cuidado para no llamar la atención y son muy conscientes de las reglas no escritas, tales como qué calles evitar de noche, a quién sobornar, y los mejores sitios de su persona en los que esconder un arma .
+
+Cinco Dedos está gobernada oficialmente por el lord gobernador Eilish Doyle, designado por el murgrave Lochlan, aunque el auténtico poder en la ciudad lo tienen los cuatro Grandes Capitanes, los jefes del crimen que dominan por completo los bajos fondos. Desde que nombrara a Eilish para su cargo, Lochlan ha perdido toda fe en este hombre y casi nunca habla con él, pues prefiere ignorar Cinco Dedos por completo. La verdad es que muchísimo dinero cambia de manos en Cinco Dedos, y tanto al lord gobernador Doyle como a los Grandes Capitanes les interesa mantener el *statu quo*. Colaborando son capaces de resolver la mayoría de los problemas que amenazan la ciudad, y entre el control del gobernador sobre los procesos legales y la autoridad de los cuatro Capitanes al margen de la ley, apenas hay nada en lo que no puedan meter las manos .
+
+> **SE RUMOREA QUE...**
+> En Cinco Dedos es una especie de secreto a voces que los jefes del crimen que operan en la ciudad pagan un generoso diezmo que va directamente a las arcas del Rey Bandido. Tradicionalmente los Cathor han hecho la vista gorda ante las actividades de los piratas con base en Cinco Dedos, siempre y cuando los cofres del tesoro sigan recibiendo su caudal de monedas.
+> 
+> 
+
+**Personajes célebres**
+
+* **Asenath Scarrow (mujer schardense Pcr6/Mag6):** Asenath Scarrow es una misteriosa seductora que trabaja en secreto para Cryx. Además de recopilar información, Asenath es una maestra manipuladora muy hábil a la hora de fusionarse con el entorno. Actúa en las más altas esferas de la sociedad de Cinco Dedos, viviendo a costa de los nobles inferiores que acuden en tropel a la ciudad. Su especialidad consiste en atraer a jóvenes aristócratas que harían cualquier cosa por obtener su favor, y luego utilizarlos para sacarles todo lo que le puedan ofrecer .
+
+
+* **Bastian Lattimore (varón thuriano Gue4/Per9):** Describir a Bastian Lattimore como atento y perspicaz sería no hacerle justicia. Uno de los "investigadores especiales" de mayor confianza del rey Baird, nada escapa a su penetrante mirada. Sereno y modesto, Lattimore casi no sobresaldría en una multitud, pero en privado es uno de los interrogadores más formidables de Immoren occidental. Recientemente ha sido enviado a Cinco Dedos para investigar la presencia de actividades cryxianas en la ciudad. También se le ha encomendado que vigile al primo del rey, el castellano Lionor Cathor, pues Baird cree que ha sido engañado para colaborar con Cryx. Lattimore ha comenzado a desvelar la conspiración que rodea a Asenath Scarrow pero hasta ahora no ha informado de sus descubrimientos al rey Baird .
+
+
+* **Castellano Lionor Cathor (varón tordorano Ari1/Gue3):** Esclavo de sus propios excesos, Lionor Cathor es un hombre abandonado a su suerte. Primo lejano del rey Baird, Lionor fue enviado por su padre a Cinco Dedos con la intención de mantenerlo alejado de la alta sociedad de Merin. El escandaloso Lionor fue destinado a Cinco Dedos para supervisar algunos de los intereses comerciales privados del rey, pero pasó la mayor parte del tiempo bebiendo y jugando. Sus excesos se le escaparon de las manos, y el castellano perdió casi todos sus bienes, llegando incluso a deber cantidades desorbitadas a los cuatro Grandes Capitanes de la ciudad. El desesperado Lionor creyó haber encontrado la salvación en Asenath Scarrow, una mujer de cabellos negro azabache que le presentó a algunos asociados dispuestos a pagar generosamente por su influencia. Finalmente se enfrentó a Asenath con la intención de poner fin a su acuerdo, pero la mujer le informó fríamente de que la muerte era lo mejor que le esperaba si rompía su "pequeño pacto". Lionor supo que había dejado entrar a agentes de Cryx en el continente. Afligido por la culpa y más paranoico cada día que pasa, el castellano sabe que sólo es cuestión de tiempo que sea descubierto y ahorcado, o bien asesinado por sus propios y oscuros asociados cryxianos .
+
+
+* **Los cuatro Grandes Capitanes:** "Gran Capitán" es un título de respeto obtenido por un poderoso señor del crimen que lo reclame y sea capaz de mantenerlo. Aunque no siempre han sido cuatro, aquellos que ostentan estos títulos han dominado los bajos fondos de Cinco Dedos durante generaciones. Sea cual sea el tamaño de una operación, todo el que desee llevarla a cabo debe pagar un diezmo a los Capitanes. Constituyen una especie de ayuntamiento nominal que establece las normas para los criminales que actúan en los Dedos. Los Grandes Capitanes actuales son Banek Hurley, Belchior Degrata, Jannish Riordan y Velter Waernuk .
+
+
+* **Banek Hurley (varón thuriano Gue10/Pcr7):** Es el más poderoso de los Grandes Capitanes y un viejo amigo del rey Baird II. El Gran Capitán Hurley es un antiguo capitán pirata famoso por haber provocado un motín en su tripulación mientras servía en la Armada Real de Ord. La mayoría de la gente cree que murió hace mucho tiempo, rumor que aprovechó el Baird cuando callada y veladamente lo indultó diez años atrás. Hurley tiene la encomienda secreta de recaudar y entregar el diezmo del rey de los demás Grandes Capitanes. Parece un hombre escandaloso y agradable que disfruta narrando historias, pero en el fondo de su corazón es una comadreja despiadada .
+
+
+* **Durgan Kilbride (varón thuriano Gue13):** Es un gigantesco barbudo de cabello rufo. Es el Gran Capitán más reciente; alcanzó el poder hace tan sólo unos años, y se dice que sus manos están manchadas con la sangre de muchos inocentes. Kilbride se labró una reputación atacando navíos mercantes cygnaritas, en especial aquellos que son propiedad de la Asociación Mercariana. Estas actividades le convirtieron en una especie de héroe en su hogar, pero hizo que se pusiera un elevado precio a su cabeza. Raras veces se deja ver en público sin su guardaespaldas y a veces asesina Kaelin Funérea (mujer thuriana Gue6/Per6) .
+
+
+* **Jannish Riordan (varón thuriano Gue12):** Es un antiguo capitán mercenario que recorrió gran parte de Immoren occidental antes de asentarse en Cinco Dedos. El Gran Capitán Riordan ha logrado ganarse fama de hombre apacible y educado, y sus territorios están entre los más tranquilos de la ciudad. Riordan suele reunirse en privado con el lord gobernador Doyle, y ambos han trabado amistad. Riordan es en realidad un miembro de la estirpe thamarita del Sudario. Todo el mundo en Cinco Dedos sabe que quien contraria al Gran Capitán Riordan sencillamente desaparece en la noche sin dejar rastro .
+
+
+* **Velter Waernuk (varón schardense Gue8/Per9):** El Gran Capitán Velter Waernuk es un anciano de negro corazón y un asesino extremadamente peligroso y con muy mala fama, conocido por las sangrientas hazañas de su juventud. Antiguo capitán pirata, se rumorea que Waernuk ha construido su propia flota de naves y que aún navegan por la Costa Quebrada. El más alborotador de los Grandes Capitanes, Waernuk es el primero en recurrir a la violencia para solucionar sus problemas. También corre el rumor de que el Gran Capitán está vinculado con las islas Scharde .
+
+
+
+
+* **Lord gobernador Eilish Doyle (varón thuriano Ari4):** El lord gobernador Doyle es un hombre callado y nervioso que parece estar totalmente abrumado por los acontecimientos que transcurren a su alrededor. Hijo de una poco notoria familia de la baja nobleza thuriana, se horrorizó cuando el murgrave Lochlan le designó para el cargo. Pese a su actitud, el lord alcalde es un pragmático muy cualificado. Ha llegado hasta el punto de pactar con los Grandes Capitanes, a quienes contempla como sus socios en el gobierno de Cinco Dedos. Aunque Doyle es la autoridad oficial de la ciudad, si las cosas se ponen serias acatará la voluntad de los señores del crimen. El lord gobernador es un hombre de gustos peculiares, y los Grandes Capitanes tienen una gran cantidad de material para chantajearle y con ello asegurarse su lealtad .
+
+
+
+**Lugares de Cinco Dedos**
+
+* **Catedral de Morrow:** Esta antigua iglesia situada en el territorio del Gran Capitán Waernuk lleva años descuidada y deteriorada. Un cuidadoso examen de su arquitectura cubierta de hiedra revela esculturas antaño exquisitas y una construcción encumbrada, pero los días en que acudían innumerables adoradores a la catedral terminaron hace mucho. Sólo una porción de sus antiguos feligreses sigue acudiendo estos días, además de aquellos que buscan el favor de Morrow por pura desesperación. Todos ellos son atendidos por el prelado Lincoln Daltrey (varón midlundense Clr7), un solitario devoto, y por un puñado de sombríos sacerdotes. Siempre ha sido difícil ocupar este puesto, pues pocos funcionarios eclesiásticos tienen el aguante necesario para perdurar en él .
+
+
+* **Capilla de la Gemela Oscura:** Un laberinto de túneles angostos conduce a esta lúgubre capilla. Los pasadizos son tan confusos que la mayoría de los thamaritas que la visitan ignoran dónde se encuentra en relación con las estructuras superiores. Aunque el culto de Thamar es subterráneo, sus clérigos lucen a ojos de todos símbolos de su fe por las calles de Cinco Dedos, escudados bien por la tolerancia o por la ignorancia (o conocimiento) de la ciudadanía local. Se desconoce la cantidad exacta de thamaritas que hay en Cinco Dedos, pero el número de fechorías y asesinatos que se dan cada año el 14 de Doloven (festividad de la Ascensión Oscura) es mayor en el Puerto de los Engaños que en ninguna otra ciudad de Immoren occidental .
+
+
+* **Pistolas Crandle:** Esta pequeña tienda de armas regentada por el anciano Evigan Crandle (varón thuriano Ext10) es conocida como una de las compañías de armamento más complaciente de Cinco Dedos en lo relativo a la personalización de armas, pese al hecho de que Ev está ya entrado en años y ya no es tan buen armero como lo fue en el pasado. Aun en su juventud, Ev jamás tuvo la paciencia de esforzarse al máximo por sus clientes. La gente de Cinco Dedos suele exigir rapidez y comodidad, y Ev siempre proporciona ambas (para las armas que se compren en la tienda de Crandle hay que aplicar las reglas de armas de fuego de mala calidad) .
+
+
+* **Distrito Esmeralda:** Este barrio situado en el territorio del Gran Capitán Hurley alberga los mejores antros de juego de Cinco Dedos. Además de las muchas salas de deporte, el distrito Esmeralda es también una amplia zona de mercados en la que hay tiendas de todo tipo, tanto legales como ilegales. También contiene varias tabernas de interés, incluida la taberna *El Ahogado*, dirigida por Chase Porthan (varón thuriano Gue2/Ext4) y la *Plata Pulida*, un burdel de lujo regentado por madame Ashleigh Blu (mujer thuriana Ext2/Per5) .
+
+
+* **El Galeón Estibado:** Los lugareños suelen llamar a esta gran sala de juegos "el barco de la suerte" y "la corte de Baird" cuando hacen planes ("dile a mi esposa que tengo una cita en la corte de Baird"). El Galeón Estibado, que en realidad es un enorme galeón varado permanentemente en dique seco y que en el pasado perteneció a la Armada Real de Ord, es ahora la casa de juegos más popular de Cinco Dedos y uno de los locales favoritos del rey Baird. En su bodega y sus cubiertas pueden encontrarse todo tipo de dados, naipes, ruedas de la fortuna y demás artefactos, y los crupieres son hábiles y de vista rápida. También ofrece habitaciones en alquiler, comidas excelentes y una gran variedad de licores, hooaga y brebajes alquímicos ilegales .
+
+
+
+#### CORBHEN* **
+
+En el poder:** Castellano Olyado Caetan.
+* **Población:** 42.000 humanos (los tordoranos superan en número a los thurianos en una proporción de diez a uno), más de 400 troloides, alrededor de 100 gobos.
+* **Ejército:** El rey Baird II no ha aumentado el tamaño de la pequeña guarnición de Corbhen a pesar del estallido de la guerra. Las colinas septentrionales son difíciles de atravesar, lo cual facilita la defensa de la ciudad. Baird considera improbable que Khador intente una invasión por tierra a través de Corbhen, estando las fuerzas de la Madre Patria divididas entre la Llael ocupada y la guerra contra Cygnar.
+* **Importaciones:** Productos manufacturados, tejidos, trigo.
+* 
+**Exportaciones:** Cebada, corcho, turba, uiske .
+
+
+
+No es de extrañar que Corbhen tenga fama de ser uno de los lugares más solitarios de Immoren occidental. Las antiguas torres y murallas de piedra de la Ciudad Brumosa (como se le llama) están envueltas en las brumas casi perpetuas que emanan de la laguna Tagao al oeste y hacia abajo desde las colinas del norte. Al ver las murallas de piedra que se alzan por encima de la neblina, más de un visitante ha comentado el parecido de Corbhen con un barco a la deriva sobre un mar en calma. A pesar del intento de reconstrucción que ha durado generaciones, Corbhen sigue luciendo muchas cicatrices a causa de la ocupación orgoth. Las afueras están salpicadas de ruinas desvencijadas, algunas arrasadas hasta los cimientos, que aun después de seis siglos demuestran que Corbhen fue una de las primeras y últimas ciudades en sufrir la destrucción a manos de los invasores extranjeros .
+
+Corbhen fue ocupada de nuevo entre el 464 y el 468 d.R. cuando Khador invadió el oeste de Ord y capturó la ciudad durante varios años. Incluso aunque la Ciudad Brumosa tiene una población considerable, está extrañamente desprovista de vida. Tras el paso de los orgoth Corbhen jamás volvió a recuperar su población total, y desde aquellos tiempos oscuros muchas familias se desplazaron a otros lugares. Hay algo espeluznante que parece enconar el corazón de Corbhen; tira de las almas de sus habitantes. Los visitantes han percibido una mirada distante y embrujada en los ojos de los que llevan mucho tiempo viviendo en ella, así como un tono cavernoso en sus voces. Esta extraña continencia a menudo se toma por una reacción natural por haber vivido durante tantos años entre brumas .
+
+Las dos estructuras más grandes y antiguas, el castillo Deiridh al suroeste y la catedral de las Espadas de la Fe al nordeste, actúan como pilares de la ciudad. La zona central se conoce como Entrebarco, y está dominada por el ruinoso coliseo construido en una época más cruel. El coliseo no está en uso actualmente. Simplemente se alza amenazante sobre la vía pública que conecta los dos distritos habitados, pues la mayoría de los edificios de Entrebarco están desmoronados y vacíos .
+
+#### Personajes célebres (Corbhen)* 
+
+**Castellano Olyado Caetan (varón tordorano Ari5/Gue8):** Siempre visto con su mano en el pomo de su espada, el castellano Caetan es un hombre impulsado por demonios internos. Hace algunos años su amada esposa Isbet se suicidó ahogándose en las turberas junto con su hijo nonato. Desde entonces, Caetan se ha recluido en su finca familiar donde bebe copiosamente y raras veces se adentra en la ciudad. Sus allegados temen por su cordura y afirman que en sus peores momentos el castellano jura oír a Isbet llamándole desde las turberas .
+
+
+* **Murph y Connor Horcaglas (ambos hombres thurianos Pld7):** Estos hermosos gemelos y caballeros del Profeta fueron criados literalmente a la sombra de la catedral de las Espadas de la Fe y fueron reclamados a edad temprana para servir a Morrow. Su padre era un clérigo convertido en cazador de monstruos que defendía a los peregrinos de los ataques de bestias salvajes. Se asentó en Corbhen para criar una familia y logró imbuirles de una profunda reverencia por Morrow antes de desaparecer en los brumosos pantanos cuando los chicos sólo tenían siete años. Desde entonces se han convertido en cazadores de lo maligno por derecho propio y a menudo son ayudados en sus tareas por su generoso aunque grosero amigo de curioso nombre, Derocco (varón tordorano Exp5). Murph lleva un gran hacha y Connor utiliza un espadón; cada una de ellas está marcada con el Resplandor de Morrow, y ambos hombres van equipados con un arnés para pistolas .
+
+
+* **Vicario Quin Kellair (varón thuriano Clr10):** Cuanto más se retira el castellano Caetan, más responsabilidades debe adoptar el vicario Kellair, quien gobierna Corbhen literalmente en nombre del castellano. La familia de Kellair sirve al linaje de los Caetan desde hace generaciones y el vicario está muy afligido por el deterioro de su amigo. Aun así, los tordoranos locales están agradecidos de que sea el vicario quien les administre .
+
+
+
+#### Lugares de Corbhen* 
+
+**Castillo Deiridh:** Las antiguas y ruinosas murallas del castillo han visto siglos mejores. El castillo Deiridh consistía originalmente en una gran torre del homenaje central con tres torres exteriores conectadas a ella mediante gruesos muros. El torreón central y la torre que da a la laguna Tagao, así como la muralla con pasaje almenado que los conecta siguen intactos. Las otras dos torres, las murallas que hay entre ellas, y el fuerte que guarnecía el patio fueron arrasados por los orgoth hace siglos. Hoy día la torre del homenaje se usa como barracón para el contingente de soldados de la ciudad y para los miembros activos de la milicia. Los soldados andan bajos de moral, sobre todo los que no han nacido en Corbhen. Los veteranos afirman que no se puede escapar de las brumas; "una vez las conoces, te acosarán hasta el día de tu muerte" .
+
+
+* **Turberas:** El Páramo septentrional de Berck se extiende desde el río Rohannor hasta Corbhen. El borde norte del páramo es extremadamente pantanoso y la zona al sur de Corbhen está cubierta de turberas y bosques pantanosos de árboles enanos. Esta región es una rica fuente de turba, que se corta en losas y se pone a secar. La turba seca se usa como combustible y, aunque no arde tan eficazmente como el carbón, siempre hay un suministro local constante .
+
+
+* **Laguna Tagao:** Situado al suroeste de Corbhen, este lago de agua dulce se nutre de aguas termales y se mantiene relativamente caliente durante todo el año. En invierno sólo se cubre de hielo en la zona de la orilla. En todo momento sopla una cálida y húmeda brisa hacia Corbhen, y el aire fresco que baja de las colinas hace que se acumule una densa niebla al sur de las montañas, presente todos los días (salvo los más calurosos del verano). Las cálidas orillas de la laguna Tagao también ofrecen un terreno fértil para espesos bosques de robles y alcornoques, cuya corteza es la principal fuente de corcho. La laguna Tagao proporciona a Corbhen un rico suministro de pescado fresco. Cuando las redadas no vienen muy abundantes, los pescadores de Corbhen pueden recurrir a los lagos de Aguas Borrascosas, al oeste de la laguna Dorou, mediante una corta carretera que los conecta. Los pescadores de Corbhen deben alquilar un bote en una aldea de la laguna Dorou si quieren pescar allí, pero normalmente se conforman con comprarles el pescado a los aldeanos y llevarlo de vuelta a Corbhen para su reventa .
+
+
+* **Catedral de las Espadas de la Fe:** La catedral morrowana de Corbhen, al igual que su castillo, ha sufrido mucho en el transcurso de los siglos. Los historiadores creen que originalmente era una basílica consagrada a la ascendida Katrena, que más tarde fue ampliada y convertida en catedral incluyendo un gran santuario para el ascendido Solovin. En el 355 d.R. se añadió una popular capilla de salmos en nombre del ascendido Markus, lo cual completó la llamada "trinidad marcial" de ascendidos. La torre abovedada central ha sido reparada paulatinamente durante los últimos cuatro siglos y sus destartalados santuario e iconos han sido reemplazados. En los días de poca bruma, se puede mirar hacia abajo desde la cima de la torre y ver las líneas de los cimientos de antiguas murallas en la plaza abierta y los patios que rodean la torre central. Algunos de los sacerdotes jóvenes más intelectuales han comenzado a excavar estos cimientos en un intento de discernir la extensión de los muros originales de la catedral. Hasta ahora sólo han descubierto un conjunto de sótanos y una letrina además de diversos artefactos arqueológicos menores. Este proyecto ha despertado el interés del Concilio Vicariato de Merin. El Concilio está financiando las excavaciones con la esperanza de hallar reliquias perdidas de Solovin, que según las indicaciones de algunos textos antiguos podrían hallarse en esta región .
+
+
+* **Destilería Voda Bethado:** Los pantanosos alrededores de Corbhen no son buenos terrenos de cultivo, pero al norte de la ciudad, en las estribaciones de las montañas, pueden encontrarse estrechas terrazas de tierra cultivable. Los pocos granjeros de Corbhen utilizan estas terrazas para cultivar cebada, la cual tuestan, machacan con agua y destilan para fabricar una embriagadora bebida llamada *uiske*. La mayor y más acreditada compañía de fabricación de uiske en Corbhen es la destilería Voda Bethado. El uiske de Voda Bethado se distribuye por todo el oeste de Ord y Cygnar, así como por el sur de Khador, y se considera un licor distintivo y muy fuerte .
+
+
+
+### HOGARPÉTREO* **
+
+En el poder:** Lord valvasor Ross Kaddock.
+* **Población:** 18.000 humanos (mezcla más o menos equitativa de thurianos y tordoranos junto a una minoría morridana), más de 200 gobos, alrededor de 100 troloides.
+* **Ejército:** Hogarpétreo tiene una diminuta guarnición y paga a cerca de cien guardias locales. Debido a los recientes problemas en la región se han solicitado más soldados al murgrave de Armandor. Los lugareños han organizado una milicia armada de varios centenares de hombres, aunque carecen de armas y entrenamiento.
+* **Importaciones:** Carbón, hierro, productos manufacturados, tejidos.
+* 
+**Exportaciones:** Hooaga, ganado, lana .
+
+
+
+Hogarpétreo es una comunidad lejana y a menudo ignorada de huertas escabrosas y fangosas y hogares al cobijo de la tierra rodeados de llanuras bajas cubiertas de brezos, hojas borregueras y flores silvestres. Los ganaderos del corazón de Ord crían sobre todo ganado bovino y ovino, mientras que los granjeros (humanos y gobos por igual) cultivan hooaga. Aunque Hogarpétreo pueda parecer tranquilo y bucólico para el mundo exterior, sus habitantes afirman que los no muertos merodean por las tierras bajas al anochecer. Todo el mundo en Hogarpétreo acaba por oír estas historias. Los visitantes suelen tomarlas por meras supersticiones, pero los más observadores se fijan en cómo los lugareños salen disparados hacia sus casas, abandonando incluso las tabernas, y echan todos los cerrojos cuando se pone el sol. En los últimos meses los problemas parecen haber ido a peor. Familias enteras de la periferia han desaparecido sin dejar rastro o han perdido sus hogares pasto de las llamas, y cada vez se producen más avistamientos de extrañas criaturas tambaleándose por los campos cuando oscurece. A pesar de los intentos del lord valvasor Kaddock por conseguir ayuda del murgrave Torcail, hasta ahora no ha recibido asistencia marcial de ningún tipo (mucho menos de carácter indagador), y cada vez está más desesperado .
+
+**Personajes célebres**
+
+* **Lord valvasor Ross Kaddock (varón thuriano Ari4/Ext4/Gue5):** Ross Kaddock se enorgullece de su cargo. De casta mercadera, conoce la importancia del comercio agrícola para el bienestar del pueblo. Se ocupa de atender las necesidades de granjeros y ganaderos, y a veces interviene personalmente en los casos más polémicos. Esto le ha granjeado bastante popularidad hacia la amplia mayoría y le ha permitido acumular poder para, por ejemplo, adquirir las tierras de cultivo en desuso que rodeaban la ciudad. Los que son conscientes de esto sospechan que puede tener planes mayores, aunque pocos podrían adivinar de qué tipo .
+
+
+* **Nan Mac Dain (mujer thuriana Pld10):** Nan Mac Dain es una paladín devota de la ascendida Katrena que se ha propuesto ser la protectora de la ciudad. Antes de los problemas recientes, se consideraba a Mac Dain una paranoica por sus afirmaciones de que "el mal acechaba en los campos y los páramos". Aunque desde luego la gente del pueblo está agradecida de contar con ella en estos tiempos de necesidad, lo cierto es que Mac Dain está algo desquiciada (pero no por ello es menos fanática). Ha ayudado a entrenar a algunos de los miembros de la milicia local, a pesar de que se encuentran en una forma física lamentable y de que ella es más una cruzada que una instructora .
+
+
+
+> **SE RUMOREA QUE...**
+> En estos últimos meses los habitantes de Hogarpétreo están aún más inquietos por una serie de sucesos en la región, incluidas la quema y saqueo de las granjas circundantes y el aumento de las profanaciones y robos de tumbas que según se cree es obra de nigromantes. Podrían ser los actos de la secta de los Desoladores, un grupo particularmente odioso que cuenta con seguidores en Ord, o bien algo totalmente distinto. Las conjeturas más audaces implican a los thamaritas o los cryxianos, pero se han hallado muy pocos por qué puedan resolver el misterio. Se han oído informes similares procedentes del graviato de Wythmoor, Almare, y aún más lejos, al otro lado de la frontera, en el norte de Cygnar .
+> 
+> 
+
+**Lugares de Hogarpétreo**
+
+* **Mansión Blathmac:** Hace décadas la familia Blathmac era la más poderosa de Hogarpétreo. Su linaje ostentó el título de murgrave durante cientos de años antes de que toda la familia sufriera una terrible tragedia. Nadie sabe con exactitud qué les ocurrió a los Blathmac, tan sólo que uno a uno todos murieron en extrañas circunstancias. Una vez cayó muerto el último de los Blathmac, los valvasores de Almare se disputaron el control del graviato mientras la ciudad de Hogarpétreo pasaba a los Kaddock, parientes lejanos de los Blathmac. La mansión familiar aún permanece en pie en las afueras del pueblo, desvencijada y supuestamente encantada. Los lugareños cuentan historias sobre las inmensas catacumbas que se extienden bajo ella, y según ciertos informes los Blathmac tenían relaciones con infernales. Periódicamente se habla sobre demoler la ruinosa mansión, pero por diversas razones esto jamás se ha llevado a cabo .
+
+
+* **La Granja:** La Granja es una gran estructura usada anteriormente como granero durante los primeros días de Hogarpétreo. Desde aquel entonces fue adquirida por la ciudad y convertida en edificio público. Entre sus muros se celebran reuniones del pueblo, además de desempeñar otras funciones cívicas importantes. Los hogarpetreños son gente sincera y el murgrave suele atender sus pleitos y quejas en la Granja. Recientemente se ha convertido en un centro de congregación para la milicia y sus patéticas armas (aperos de labranza). Los soldados locales del ejército de Ord han llegado a asistir y a contribuir con críticas sarcásticas, lo cual no ha sentado precisamente bien a los lugareños. A decir verdad, a los soldados destinados en Hogarpétreo no los quiere nadie en ningún otro sitio, y no son los mejores ejemplos de un buen servicio .
+
+
+
+### MEDIOAYUNO* **
+
+En el poder:** Señor castellano Ostal Vascar.
+* **Población:** 120.000 humanos (en su mayoría tordoranos y thurianos).
+* **Ejército:** Medioayuno es el hogar de una impresionante armería y de la mayor guarnición del reino, complementada por un contingente moderado de siervos de guerra.
+* **Importaciones:** Cereales, alimentos, armas, armaduras, ingredientes alquímicos, cerveza, vino, carnes, tejidos.
+* 
+**Exportaciones:** Hierro, estaño, plomo, cobre, productos químicos, piedra de cantería .
+
+
+
+Medioayuno, el afamado Escudo de Ord, se considera esencial para la inviolabilidad de la frontera septentrional de Ord. En el transcurso de los siglos la ciudad ha soportado reiterados asedios por parte de Khador, y en cada uno de ellos lograron rechazar al ejército de la Madre Patria y mantener Ord libre de invasores. La ciudad ocupa uno de los pocos pasos montañosos de una traicionera y escarpada cordillera, y esta barrera natural se ve reforzada por una inmensa muralla que se extiende sobre sus montes muchas millas tanto al este como al oeste. El tramo este termina en la Fortaleza de la Puerta del Jabalí, y la muralla oeste en su fortaleza gemela, Muralla de las Cicatrices. El lado oeste de la ciudad está construido contra elevados acantilados y está rodeado por descomunales muros. La Calzada Orlovsk pasa directamente la ciudad, pero unas buenas fortificaciones que incluyen enormes baterías de cañones y un revellín al este aseguran que nadie la atravesará a no ser que Medioayuno lo desee. Las murallas de Medioayuno están muy desgastadas, pues han sufrido generaciones de castigo .
+
+Aunque el ejército de Ord domina la ciudad, Medioayuno es también el conducto principal de todo el comercio con Khador y con los reinos del sur. Algunos mercaderes khadoranos itinerantes pasan periódicamente por ella en busca de otros mercados para sus productos. Todos los viajeros de la Madre Patria son escudriñados muy de cerca mientras se hallan en la ciudad, y los lugareños los tratan con una cortesía mínima. De hecho, a raíz de la invasión de Llael, las relaciones entre los mercaderes órdicos y los khadoranos se han agriado aún más. Esto sin embargo ha supuesto nuevas oportunidades para aquellos que son capaces de dejar a un lado los prejuicios, y un número cada vez mayor de mercaderes norteños están dispuestos a aceptar monedas y artículos khadoranos .
+
+El pueblo de Medioayuno es enérgico y partidario de vivir una vida plena. Son severos y estrictos cuando vigilan las murallas, pero también son dados a beber en exceso en su tiempo libre. También son dados a otras diversiones como el juego, los bailes y los deportes de competición en el estadio local. Debido tal vez a la fuerte presencia militar, en Medioayuno hay una tasa criminal muy inferior a la de las demás ciudades de su tamaño (exceptuando los problemas causados por los soldados fuera de servicio después de tomarse unas cuantas cervezas de más) .
+
+**Personajes célebres**
+
+* **Maestra alquimista Creena Torcail (mujer thuriana Alq6/Mag6):** Creena es una de las civiles mejor pagadas de los que trabajan para el ejército órdico y su especialidad es la personalización de cañones y de munición para armas de fuego. Como miembro de la Orden del Crisol Dorado local, pasa la mayor parte del tiempo en Municiones Medioayuno o sobre las murallas con los soldados, probando la munición que desarrolla. Es bastante joven para una mujer de su habilidad, y muy atractiva pese a su aspecto descuidado (suele estar cubierta de hollín, cenizas y ropas manchadas con todo tipo de productos químicos). Varios de los hombres alistados están prendados por ella, pero no parecen ser capaces de distraerla de su trabajo. Es la sobrina de Rogan Torcail, murgrave de Almare, pero jamás le han interesado las tendencias políticas de su familia. Su linaje basta por sí solo para atraer pretendientes de dudosa reputación que desean vincularse a los Torcail .
+
+
+* **Señor castellano Ostal Vascar, general de la División Escudo y comandante de Medioayuno (varón tordorano Ari3/Gue13):** A veces llamado sencillamente "el general", Vascar es un campeador veterano y militar hasta la médula. Se ha ganado un respeto enorme por parte de sus hombres y es un líder nato. Su capacidad para atraer a hombres leales le ha granjeado enemigos entre los castellanos más envidiosos, sobre todo ancianos con más tierras pero rango inferior. El general tiene cuarenta y tres años de edad y algunos lo consideran demasiado joven para una posición de tal importancia (la comandancia de Medioayuno es el cargo más prestigioso del ejército junto al de consejero militar del rey). Antes de su ascenso Vascar pasaba el tiempo en un batallón especial al que se había asignado la protección de las aldeas costeras frente a los incursores cryxianos, y en estas patrullas vivió una gran cantidad de horrores y derramamientos de sangre. Vascar no sólo tiene al príncipe Baird III como amigo y a la hija mayor del rey, Carlutia, como esposa, sino que también cuenta con la fe incondicional del rey .
+
+
+
+**Lugares de Medioayuno**
+
+* **Catedral de los Mártires Valerosos:** Situado justo al lado de su tumba, esta catedral está consagrada al ascendido Markus, patrón de Medioayuno y héroe de Ord. La iglesia de gran tamaño está construida al viejo estilo que fuera habitual en Ord en el pasado: techos bajos, vidrieras de colores muy apagados e iluminación tenue. La catedral está decorada con frescos que describen muchas batallas en el nombre de Morrow. En realidad la estructura es anterior a la ascensión de su patrón, y el propio Markus pasó algún tiempo en ella durante el famoso asedio. Un mural magistral situado tras el altar detalla el enfrentamiento final de Markus contra los caudillos bárbaros. Se dice que después de rezar ante el mural ningún soldado devoto sentirá la necesidad de huir en su próxima batalla, no importa lo poco alentador que parezca el resultado. La catedral está dirigida por el vicario Pascal Acorsi (varón tordorano Clr12), un viejo sacerdote amargado que cree que los soldados jóvenes de la ciudad carecen de respeto y sentido común. Delega sus obligaciones a sus subordinados cada vez que le es posible y odia ser molestado con "banalidades estúpidas" .
+
+
+* **Fundición de armas de Medioayuno:** La capital paga generosamente para otorgar un contrato de arrendamiento exclusivo a la Orden del Crisol Dorado, y su cuartel general es la Fundición de armas de Medioayuno. Ninguna otra orden de magia tiene permitido establecer una subsidiaria en Medioayuno, aunque algunos individuos de las demás órdenes viven en ella. La tienda es independiente pero colabora estrechamente con el ejército para crear armas y municiones. Este acuerdo ha beneficiado tanto a Ord como al Crisol, y si la ciudad fuera atacada éste acudiría en su defensa como cuerpo mercenario. La fundición está regentada por dos hermanos: Ian (varón thuriano Mag10) y Hagan Cronan (varón thuriano Mag11). La Orden local también reconoce a la maestra Creena Torcail, cuyo rango y posición consideran equivalente, pero ella casi nunca se molesta en ejercer su influencia. Los dos hermanos sienten una rivalidad feroz aunque amistosa y se muestran extremadamente competitivos entre ellos; cada uno dirige proyectos y equipos distintos que trabajan en el desarrollo de armas y conjuros. A veces esta competición ha dado resultados fantásticos (y otras veces ha provocado accidentes, explosiones y heridas). Actualmente hay en Medioayuno una cantidad equitativa de miembros de bajo rango del Crisol que incluye magos, alquimistas, mecánikos arcanos y aprendices. Hay un par de veintenas de miembros adicionales del personal de apoyo contratados por el ejército, entre los que se incluyen herreros, trabajadores del metal, ayudantes de laboratorio, mecánikos y un pequeño escuadrón de la Guardia del Crisol .
+
+
+
+> **AIRES DE GUERRA**
+> Las noticias del año pasado sobre la toma de Leryn y la fortaleza Cima del Trueno han hecho mella en Medioayuno. Los miembros locales de la Orden del Crisol aún intentan absorber las ramificaciones. Al igual que las demás sucursales de fuera de Llael, ahora se consideran parte de la Orden Libre y no obedecen las directivas de la sede capturada. El rey Baird II está ansioso por sacar provecho de la situación y ha propuesto trasladar el cuartel general a Medioayuno, para lo cual ha hecho ofertas directamente a los hermanos Cronan y a Creena Torcail. Por ahora no han dado ninguna respuesta, pero desde luego la oferta es tentadora y podría contribuir a engrosar el caudal de las arcas del tesoro real, a construir nuevos edificios y a contratar muchos trabajadores y capataces. Este grupo contacta periódicamente con los miembros de fuera, en su mayoría coordinados a través de Ceryl, y sabe que varios de los líderes potenciales de la Orden Libre están haciendo planes. Si quieren llevar a buen término su reivindicación necesitan actuar cuanto antes y esforzarse por obtener apoyo. Cualquier maniobra de este tipo tiene la misma posibilidad de fracturar y dividir lo que queda de la Orden del Crisol. Creena Torcail no está interesada en estas cosas, aunque se preocupa por la salud de su orden y trabajaría para preservarla; los hermanos Cronan están considerando seriamente la idea .
+> 
+> 
+
+* **Monasterio y tumba del ascendido Markus:** Este es uno de los pocos monasterios importantes situados en el interior de una ciudad, ya que la mayoría están aislados en fortalezas lejanas en las montañas. Estos monjes de la Orden de la Guarda consideran su sagrado deber proteger la tumba de Markus y las reliquias que aún se conservan: la armadura, cuerno y espadón del ascendido se guardan en algún lugar de entre sus muros. Todos los monjes residentes han tomado a Markus como patrón, y son un grupo singularmente entusiasta. Los hermanos no son tan imparciales ni poco comprometidos como la mayoría de sus pares y piensan que la seguridad de Medioayuno es una responsabilidad sagrada. Al igual que su patrón entregó su vida defendiendo la ciudad, estos monjes ayudarán gustosos al ejército órdico para proteger sus puertas. La abadesa Verona Rendasi (mujer tordorana Mnj14) es la líder del monasterio. Es una supervisora estricta que obliga a los monjes a practicar ejercicios agotadores para mantenerlos en la cumbre de sus capacidades de combate. Viuda y madre de dos hijos que también son monjes de la orden, es mayor de lo que aparenta .
+
+
+
+### MERIN* **
+
+En el poder:** Rey Baird II, príncipe Baird III y los castellanos de Ord.
+* **Población:** 265.000 humanos (en su mayoría tordoranos), 5.000 enanos, 3.500 gobos, más de 500 troloides, más de 300 ogrun.
+* **Ejército:** Merin cuenta con una cuantiosa guarnición bien equipada (según los patrones órdicos), apoyada por un pequeño contingente de siervos de guerra. En el palacio real hay doscientos guardias reales de élite que protegen al rey y a su corte. La guardia de Merin, desbordada de trabajo, ronda las seiscientas unidades.
+* **Importaciones:** Muchas.
+* 
+**Exportaciones:** Carbón, cereales, tejidos, vino, ganado .
+
+
+
+Pese a ser la capital de Ord, Merin se ve eclipsada a menudo por otras ciudades más famosas, en especial Medioayuno y Berck, y existe una rivalidad palpable entre los habitantes de Berck y los de Merin (se dice que muchos de los residentes de Berck creen que su ciudad debería ser la sede del poder). Aun así Merin es muy próspera, pues está ubicada en el epicentro de las más fértiles tierras de cultivo del reino, a lo largo del río Rohannor, en el cual también abundan los depósitos de carbón. Situada geográficamente en el centro de todos los pueblos y ciudades principales, Merin se beneficia por ser el núcleo comercial de Ord y experimenta un tráfico fluvial considerable desde el lago Vannogear hasta Berck .
+
+Al haber sido la elección natural para una importante fortaleza orgoth, la ciudad anteriormente conocida como Tordor sufrió mucho durante la Rebelión orgoth. Durante el Azote, la mayor parte de Tordor quedó arrasada hasta los cimientos. Fue restaurada y reconstruida tras los Tratados de Corvis con la ayuda de millares de rhulianos que disfrutaron del reto que suponía la reconstrucción de toda una ciudad partiendo desde cero. De hecho, el más importante entre ellos fue el maestro de obras Dogen Orm, que ayudó a diseñar los planos de la nueva ciudad. En la plaza de la ciudad se alza orgullosa una estatua de este enano junto a otra del rey Merin Cathor I, y en la ciudad perdura desde aquel entonces una tradición de cantería y arquitectura conocida como la Escuela Dogen .
+
+Por estos motivos Merin es una ciudad muy bien trazada, por no decir excesivamente pragmática. Resulta muy fácil orientarse pues sus calles están dispuestas en una serie de cuadrículas, cambiando en las intersecciones de los ríos. Los edificios de gobierno que rodean la plaza de la ciudad son de construcción sólida y han sobrevivido a los últimos cuatrocientos años sin ningún desgaste. El barrio Ribereño es conocido por sus diversas tiendas, restaurantes, casas de juego y el Anfiteatro tordorano. La guardia local tiene personal de sobra y está dirigida por un hombre tenaz, el capitán Luptar Gorazo (varón tordorano Gue10), a quien sus hombres llaman "el Juez", considerado el terror del crimen. Aunque los mercados de Merin siguen siendo caldo de cultivo de ladrones, la guardia ha hecho un trabajo admirable y los castigos por los delitos son brutales .
+
+La ciudad ha crecido considerablemente desde su fundación, de ahí que los vecindarios externos sean enrevesados y extensos. El barrio Ríobajo, una zona apretada de calles retorcidas y casas pequeñas aparentemente diseñada para confundir a los humanos, es el hogar de la mayoría de los gobos de la ciudad. Los numerosos habitantes rhulianos de Merin se hallan en un vecindario septentrional denominado Nuevo Brunder .
+
+**Personajes célebres**
+
+* **Rey Baird Cathor II (pág. 285):** Los rumores de que el rey Baird se agobia si se queda demasiado tiempo en Merin son ciertos. Cinco Dedos es su refugio habitual, pero el Baird visita todas las ciudades de Ord y disfruta del turismo en de su reino en secreto. Es partidario de obtener la información de primera mano en la medida de lo posible. Incluso viaja a muchos pueblos y aldeas pequeñas sin avisar, costumbre que le ha granjeado bastante popularidad entre los plebeyos. Aparte de la guerra, la principal preocupación política del rey Baird es el poder y la influencia de la casa de los Mateu en Berck. Finge ignorar sus maquinaciones, pero es bien consciente de la cantidad de castellanos que obedecen a Izabella .
+
+###(Continuación de Merin)* **Castellano Lorcan Dromore, gran mago (varón tordorano Ari2/Mag14):** El gran mago Dromore es el líder de la división local de la Orden Fraternal de la Magia. En Ord no hay "mago de la corte", pero el rey Baird y su heredero recurren con frecuencia al gran mago para formularle preguntas sobre asuntos arcanos. El mago también suele ser consultado por Vaspar Mateu (él lo considera un buen negocio más que una mácula en su lealtad). Estas no son más que distracciones lucrativas de su verdadera obsesión: la vieja fortaleza orgoth que hubo en Merin en el pasado. Ayudado por miembros de su familia que viven en una gran mansión en la ciudad y que le son leales como castellano que es, lord Dromore ha llevado a cabo varias excavaciones discretas bajo la ciudad con la intención de desenterrar varios artefactos o documentos orgoth .
+
+
+* **Cassina Mirena Graza (mujer tordorana MagPist8/Pist4):** Mujer delicada de gracia y belleza excepcionales, Cassina Graza se halla entre las asesinas más hábiles al servicio de la casa de los Mateu. Mantenida como criada del castellano Vaspar Mateu, Graza le acompaña regularmente a los eventos sociales de Merin, en los que actúa como su guardaespaldas. Graza ha llegado muy lejos para mantener en secreto su profesión, y muy pocos fuera de la familia Mateu saben a qué se dedica .
+
+
+* **Castellano Vaspar Mateu (varón tordorano Ari3/Gue7/Pist3):** Vaspar es el mayor de los hijos vivos de la matriarca Izabella Mateu y supervisa los intereses de los Mateu en la capital, pues Izabella casi nunca visita Merin. Además de representar a su familia en el Salón de los Castellanos, Vaspar también celebra reuniones con los aliados que tienen los Mateu en la región. Cree que el rey es un necio simplón e incompetente, y no comprende la prudencia que muestra su madre con él. Cuando se aventura en público, el castellano va siempre escoltado por un gran contingente de guardias armados. Entre otras posesiones, Vaspar es el propietario de una taberna y burdel de postín en el Ribereño llamada *La Guarida del León*, la cual suele frecuentar .
+
+
+* **Castellano Stagier Salvestro (varón tordorano Ari3/Gue8/Per6):** Vástago de una poderosa familia tordorana estrechamente relacionada con los Cathor, Salvestro es uno de los agentes de mayor confianza del rey Baird. El castellano es un hombre que no teme ensuciarse las manos, y luce cicatrices que lo demuestran. Ha descubierto conspiraciones, frustrado intentos de asesinato y eliminado obstáculos en la corte de Baird. Los Mateu sospechan que Salvestro ha sido personalmente responsable del asesinato de al menos tres miembros de su familia, incluido el propio hermano de Izabella Mateu, Angello .
+
+
+
+#### Lugares de Merin* 
+
+**Gran Catedral de la Cosecha:** Hogar del Concilio Vicariato de Merin que supervisa todo el clero del reino de Ord, esta catedral de mármol consagrada al ascendido Gordenn también fue diseñada durante la reconstrucción original de la ciudad y resulta engañosamente sencilla vista desde fuera. El interior es una cámara abovedada sorprendentemente hermosa, decorada con aditamentos de oro y plata y muy bien iluminada por un techo lleno de ingeniosas aberturas vidriadas. Los siete vicarios del concilio son relativamente democráticos pero se someten a la sabiduría del vicario Pasario Casini (varón tordorano Clr16), el mayor de ellos. La mente de Pasario sigue siendo aguda, pero su salud ha comenzado a fallar, y ha empezado a preparar a la gran prelada de Merin para que le sustituya. La gran prelada Danola Mara (mujer tordorana Clr10) oficia todos los servicios importantes de la catedral y supervisa al clero inferior de la ciudad. Al mismo tiempo, una división pequeña pero activa de la Orden del Esclarecimiento ocupa una mansión junto a la catedral, y han recibido informes recientes de posibles actividades nigrománticas en el sureste, cerca de Tarna. No pasará mucho antes de que sean enviados agentes a investigar .
+
+
+* **Salón de los Castellanos:** El centro de gobierno tradicional de Ord es el Salón de los Castellanos de la capital, una enorme cámara circular con un techo abovedado sostenido por hileras de gruesas columnas estriadas. Quitando el techo, la sala está abierta al exterior (carece de muros entre columnas), lo cual la deja vulnerable ante imprevistos climáticos. El techo está decorado con un minucioso mosaico que muestra escenas de las diferentes batallas contra los orgoth que se libraron en la región. El suelo central está rodeado por varios círculos concéntricos de bancos de piedra y puede albergar a centenares de participantes (aunque raras veces se produce un lleno completo). Los asientos no están asignados, pero los castellanos se sientan más cerca del centro por tradición, y los nobles menores y no participantes se sientan en los círculos exteriores o permanecen de pie. Unido al Salón hay un establo de madera profusamente decorado. Es más que nada ceremonial, pero hay algunos mozos de cuadra cuidándolo por si hiciera falta para la montura de algún noble .
+Todos los años a finales de verano, se celebra una Gran Reunión a la que todos los castellanos, murgraves y valvasores acuden para discutir tópicos importantes para el reino. Esta reunión dura cuatro días y se caracteriza más por las riñas y discusiones que por una legislación competente. El resto del año el Salón lo utilizan los castellanos locales y la nobleza inferior para los negocios de la capital o para la proposición de nuevas leyes. Existe una antigua tradición todavía vigente según la cual sólo un castellano o alguien presentado por un castellano pueden hablar en el Salón. Al iniciarse la reunión uno de los castellanos es designado Presidente del Salón para que presente a los demás y que modere la asamblea. Este papel se reserva para el rey (si está presente) o para uno de los príncipes, y en su defecto a uno de los señores castellanos; de otro modo se otorga al castellano de mayor edad de entre los presentes .
+
+
+* **Tumba de Reyes:** El mausoleo de los reyes de Ord es un lugar impresionante. Los dos hermanos de Baird han sido los óbitos más recientes. Antes que ellos se enterraron aquí al padre de Baird y a todos los Cathor antes que él hasta llegar a Merin I. Hombre de ánimo voluble, Baird II suele escaquearse con una jarra de uiske en una mano y una lámpara en la otra para entrar en estas cámaras oscuras cada vez que se siente especialmente preocupado o malhumorado (aunque raras veces va más allá de donde yacen su padre y sus hermanos). El cuerpo de Alvor V se perdió en el mar, por lo que su sepulcro es meramente ceremonial y está supuestamente vacío. Se rumorea que algunos aspirantes a ladrones han intentado algunas incursiones a la Tumba de Reyes, pues se dice que los restos de los soberanos fueron enterrados con sus posesiones individuales favoritas y más valiosas. También cabe destacar que ninguno de los Mateu soberanos yace en el interior de estas tumbas .
+
+
+
+### TARNA* **
+
+En el poder:** Murgrave Gralan Turlough.
+* **Población:** 22.000 humanos (thurianos, con una minoría morridana y tordorana y recientes refugiados llaelesianos), 1.600 gobos.
+* **Ejército:** Tarna cuenta con una pequeña guarnición de guardias.
+* **Importaciones:** Carbón, hierro, trigo.
+* 
+**Exportaciones:** Hooaga, tejidos, productos manufacturados, lana .
+
+
+
+Esta antigua ciudad ha subsistido durante casi mil años pescando en las aguas de la Lengua del Dragón. La aldea original tuvo el dudoso honor de ser el lugar de nacimiento del primer hechicero humano, una chica llamada Madruva Dagra. Después de que Dagra emplease sus poderes innatos para matar a tres soldados orgoth, una legión de ocupadores (más bien unas cuantas docenas) cazaron y masacraron a toda su familia, quemando Tarna casi hasta los cimientos en el proceso. La ciudad se vio reducida a unas ruinas calcinadas durante la mayor parte de la Rebelión y fue reconstruida sólo después de haber expulsado a los orgoth de estas tierras .
+
+Algunos años después de aquellos años oscuros, Tarna se convirtió en un centro de fabricación textil para la mayoría de Ord. La invención del motor de vapor revolucionó Tarna aún más. Sus telares se hicieron aún más productivos y aún más personas se vieron animadas a montar sus negocios en ella, de modo que Tarna acabó conociéndose como "Pueblo de los Telares", apodo que ha permanecido incluso aunque el pueblo atravesó un periodo de recesión y entró en declive con el tiempo. Desde entonces los telares de Tarna dejaron de ser los más importantes de Ord, aunque aún conservan la reputación de calidad. La maquinaria pesada necesaria para mover la industria de Tarna ha atraído a cierta cantidad de ingenieros, imprescindibles para su mantenimiento. Entre estos ingenieros hay muchos gobos, que se han convertido en una importante minoría en la ciudad. Trajeron consigo su afición por la hooaga, que ahora crece en los campos que rodean Tarna. La ciudad exporta hojas de hooaga en cantidades significativas y es el hogar de muchos fumaderos .
+
+> **AIRES DE GUERRA**
+> Como ha sido el caso del resto de Wythmoor, Almare y el norte de Cygnar, recientemente se han visto extrañas monstruosidades tambaleantes (a veces mejoradas mecánikamente) en las cercanías de las granjas y campos que rodean Tarna. Sus ciudadanos han informado sobre la proliferación de profanaciones de tumbas y la desaparición de cadáveres por todo el graviato. Los lugareños reciben algo de tráfico fluvial y noticias procedentes de Punta Bourne, y saben que estos ataques se han vuelto un problema generalizado durante el último año, posiblemente como consecuencia de la guerra del nordeste. Desde luego los residentes de Tarna se han vuelto aún más supersticiosos y temen tanto al Bosque del Espino al este como a los espesos Los Nudos al sur, cruzando el río. El murgrave ha informado al rey de estos problemas pero no quiere dar la impresión de no tenerlos bajo control; ha estado presionando al gran prelado para que resuelva el asunto y se muestra reacio a pedir más soldados a la capital .
+> 
+> 
+
+#### Personajes célebres* 
+
+**Murgrave Gralan Turlough (varón thuriano Ari7/Per2):** Gralan Turlough, el gobernador del graviato de Wythmoor, ejerce su poder desde la ciudad de Tarna. Durante generaciones su familia ha controlado muchos terrenos a lo largo de la Lengua del Dragón, pero a Turlough le interesa bien poco su administración. Prefiere pasar el tiempo celebrando suntuosas fiestas y galopando por el campo con su cortejo de aduladores. Desprecia ligeramente a los mercaderes de Tarna, pero su hija Caitlin (mujer thuriana Mka1/Ext1) carece del temperamento de su padre y tiene fama de interesarse por la ingeniería mecánika. Los tarnios esperan con ansia el día en que ella asuma el cargo, pero Gralan es un cuarentón saludable, así que probablemente tendrán que seguir esperando .
+
+
+
+#### Lugares de Tarna* 
+
+**Salón Regencia:** Dirigido por Gramnistalleralarid "Gram" (varón gobo Alq3/Brd3/Per3) y su familia de gobos, el Salón Regencia es el mayor emporio tarnio de puros, pipas y demás avíos de hooaga. Además de ser un narrador e historiador aficionado, Gram se enorgullece de su conocimiento de alquimia básica (otra gran tradición goba). Su tienda tiene una clientela variopinta, desde comerciantes hasta valvasores, y se usa como lugar de encuentro para negocios y demás cometidos. Algunos han llegado a afirmar que, sin el Regencia, Tarna sería un lugar mucho menos productivo .
+
+
+* **Iglesia de la ascendida Shevann de Tarna:** El gran prelado Morgan Hugh (varón thuriano Clr7) es el sacerdote principal de esta concurrida iglesia. Su hermosa arquitectura e interiores son el resultado de décadas de extravagantes donaciones por parte de los mercaderes y murgraves locales. El gran prelado es un clérigo devoto, pero algo enamorado de las exquisiteces de la vida. Es dado a los excesos, sobre todo en lo relativo a la bebida y los cigarros. Al igual que su contrapartida de Hogarpétreo (con quien mantiene cierta correspondencia), lleva bastante mal los problemas recientes y la posible amenaza nigromante. Ha escrito al Concilio Vicariato de Merin y al Santuario de Caspia pidiendo ayuda bajo la forma de un caballero del Profeta o un investigador de la Orden del Esclarecimiento .
+
+
+
+### LUGARES DE INTERÉS* **
+
+Puerta del Jabalí:** Esta fortificación de piedra y madera toscamente labrada está situada en el único tramo amplio de terreno bajo que hay en la escarpada cadena montañosa que delimita la mayor parte de la frontera septentrional de Ord. Antes de la construcción de la Muralla de Markus era poco más que una estructura de césped y madera, pero hace pocos años se empezaron a utilizar piedras de la muralla para fortificar Puerta del Jabalí. Relativamente cerca de Medioayuno, su obligación es resistir un ataque y enviar una advertencia a la ciudad de la proximidad del ejército enemigo. Históricamente, los soldados de Medioayuno se han negado a abandonar su puesto por ir a defender Puerta del Jabalí, y ésta ha caído frente a Khador en más de una ocasión para luego ser recuperada de nuevo (a costa de numerosas vidas). Como resultado, los soldados la han apodado "Puerta Sangrienta". Actualmente la guarnición pasa gran parte del tiempo ampliando el foso de Puerta del Jabalí y llenándolo de estacas puntiagudas, apuntalando las almenas, fortaleciendo la torre de entrada y restaurando la Muralla de Markus. Además, los exploradores y soldados de caballería órdicos hacen patrullas frecuentes por todo este sector de los montes rocosos del norte, pues se trata de una región peligrosa habitada por criaturas tales como bogrin salvajes, tatabros, diversas clases de trolls y tal vez esclavos ocultos o batidores de la Guardia Invernal .
+
+
+
+> **LA MASACRE DE PUERTA DEL JABALÍ**
+> A menos de media hora de viaje por las colinas desde Puerta del Jabalí, la aldea de Dessever fue el escenario de la infame Masacre de Puerta del Jabalí, cometida por el famoso lanzador de guerra khadorano Orsus Zoktavir, el "Carnicero de Khardov". En el 587 d.R. Dessever era una pequeña aldea del sur del bosque de la Horca que comerciaba frecuentemente con Ord y que estaba aislada de la Madre Patria. Cuando la aldea trató de separarse y unirse a Ord, Zoktavir se propuso ejecutar él mismo a los traidores sin dejar ni uno vivo. Cuando sus tropas intentaron detenerlo, el lanzador de guerra también la emprendió contra ellos. El Carnicero mató a más de cien aldeanos y a cincuenta de sus propios soldados. Las tropas de la Guardia Invernal que llegaron poco después aún tienen pesadillas por lo que vieron. La llamaron la Masacre de Puerta del Jabalí al descubrir una aldea llena de cadáveres desmembrados y los cuerpos destrozados de un puñado de sollozantes mujeres y niños que habían logrado esconderse y salvarse de la cólera del Carnicero .
+> 
+> 
+
+* **Tumba de Gordenn:** La tumba y el monasterio del ascendido Gordenn están situados a unas cuantas millas al este de Merin. Es ante todo un centro de peregrinación para granjeros y, como corresponde a su naturaleza, la tumba de Gordenn es modesta en comparación con otras. Es un edificio abovedado sencillo pero sólido que domina una vista de algunas de las más fértiles tierras de cultivo de Ord desde la cima de una empinada loma con escalones de piedra naturales empotrados en ella para facilitar el acceso. El monasterio tiene un personal de una docena de monjes trabajadores y una cantidad similar de personal auxiliar que supervisa los pequeños viñedos "Santo Gordenn" de las lomas del este, que producen un vino exquisito exportado principalmente para financiar proyectos de caridad. Sea cual sea la razón, los monjes y sus obreros son algo más irreverentes y tienen mejor humor de lo que cabría esperar de personas con hábito .
+
+
+* **Muralla de Markus:** Construida durante los ocho años que siguieron al Asedio de Medioayuno en el 305 d.R., esta fortificación de piedra y yerba se extendía antiguamente por toda la cadena montañosa del norte de Ord, desde los lagos Aguas Borrascosas junto a Corbhen, en el oeste, hasta la Colina de Zerkova junto a Fellig, al este. La muralla tenía más de ocho pies de grosor y doce de altura en todo su recorrido, además de un glacis y un profundo foso lleno de hilera tras hilera de puntiagudas estacas. Llamada así por el ascendido que defendió Medioayuno, la Muralla de Markus nunca tuvo una guarnición adecuada, y hacia finales del siglo V casi había sido abandonada y dejó de utilizarse. Hoy por hoy la mayoría de sus piedras se han reutilizado en la construcción de vallas de piedra, puentes y edificios del lugar, y los fortines se usan como graneros o sencillamente son ruinas abandonadas .
+
+
+* **Muralla de la Cicatriz:** La fortaleza de Muralla de la Cicatriz vigila la mitad occidental de la cadena montañosa que transcurre por la frontera septentrional de Ord, al igual que hace "Puerta Sangrienta" con el nordeste. Muralla de la Cicatriz está mejor mantenida que Puerta del Jabalí; tiene recios muros y una elevada torre del homenaje situada en lo que se puede considerar la mejor sección de la Muralla de Markus. Pese a que las colinas que rodean Corbhen son difíciles de atravesar (sobre todo sin ser detectado), las tropas de la Madre Patria han invadido la región en el pasado, aunque su último intento tuvo lugar hace décadas y jamás han logrado tomar Muralla de la Cicatriz. Los soldados de esta fortaleza están más alerta que nunca antes, sobre todo tras conocer las noticias de la guerra en Llael. Recientemente se han instalado varios telescopios en Muralla de la Cicatriz, un experimento de los Ingenieros Navales órdicos que tienen la esperanza de utilizarlos para facilitar la vigilancia de los lagos Vannogear y Moskrad así como las grandes llanuras del norte .
+
+
+* **Las Madrigueras:** El profundo y denso bosque conocido como el Olgunholt se encuentra a un día de marcha al sur de Merin, y en sus límites yacen las ruinas de un desconocido asentamiento orgoth, llamado ahora simplemente las Madrigueras. Antaño el lugar de incontables corrales de esclavos llenos hasta los topes de trabajadores immorenses, fue construida en un estrecho paso de montaña como parte de una cantera de piedra. Aunque la ciudad fue abandonada y destruida casi por completo durante el Azote, aún existe en ella un enrevesado laberinto de callejuelas. En la actualidad las Madrigueras están habitadas por grupos de bandidos desesperados que se enfrentan sangrienta y regularmente entre sí por el dominio de las ruinas. Las Madrigueras son un escondrijo muy popular para los fugitivos y han atraído a algunos de los criminales más famosos y peligrosos de Ord, a pesar de su proximidad con la capital. Los habitantes de las Madrigueras hablan un dialecto del órdico llamado "chabolés". En muchos aspectos, están orgullosos de su genuino pueblo y han desarrollado su propia cultura y leyes. Se consideran totalmente independientes del trono órdico y se gobiernan a sí mismos. Este lugar es conocido por producir fieros luchadores de cuchillo, pícaros y sigilosos asesinos además del ocasional hechicero o artesano talentosos. Se cree que hay numerosos sectarios thamaritas acechando en sus callejones y sótanos subterráneos .

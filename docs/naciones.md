@@ -14,224 +14,215 @@ Los Tratados de Corvis (201 DR) establecieron cuatro naciones tras la expulsión
 ## Cygnar
 
 **Capital:** Caspia
-**Gobierno:** Monarquía con Asamblea Real
+**Gobierno:** Monarquía
 **Gobernante actual:** Rey Leto Raelthorne
 
-Cygnar es considerada la nación más acogedora y cosmopolita de los Reinos de Hierro. Atrapada entre enemigos mortales —Cryx al sur y Khador al norte—, la nación ha luchado durante siglos tanto contra amenazas externas como internas, desde las batallas con los kriels troloides hasta la violenta secesión del Protectorado de Menoth.
+Cygnar es considerada la "joya de los Reinos de Hierro" y la nación más acogedora y cosmopolita. Pionera en industria y avances científicos, sus habitantes son gente emprendedora. Tradicionalmente ha sido la nación más complaciente con extranjeros e incluso con otras razas: gobos, troloides, enanos, ogrun y hasta elfos son bienvenidos.
 
 ### Gobierno
 
-Los reyes de Cygnar han pasado el trono a sus herederos durante siglos, con la tradición favoreciendo a los herederos varones. El Pacto de Woldred (286 DR) permite a los monarcas elegir sucesores entre los descendientes de las familias gobernantes de la antigua Caspia, Thuria o Midar.
+El rey y su corte, la **Real Asamblea**, gobiernan desde Caspia. La aristocracia cygnarana incluye archiduques, duques, condes, barones y caballeros. El **Pacto de Woldred** (286 d.R.) permite a los monarcas elegir sucesores entre los descendientes de las familias gobernantes de la antigua Caspia, Thuria o Midar.
 
-La aristocracia cygnarana incluye archiduques, duques, condes, barones y caballeros. Las casas nobles componen la **Asamblea Real**, que debate y decide las leyes del reino.
+El actual rey es **Leto Raelthorne**, quien tomó el trono tras un sangriento golpe en 594 d.R., derrocando a su hermano tiránico Vinter IV "el Viejo". Leto ha demostrado ser un gobernante piadoso, noble y carismático, restaurando las libertades tras los oscuros años de la Inquisición.
 
-El actual rey es **Leto Raelthorne**, quien tomó el trono tras el Golpe del León en 594 DR, derrocando a su hermano tiránico Vinter IV. Leto ha demostrado ser un gobernante capaz y popular, restaurando las libertades y reformando el sistema judicial tras los oscuros años de la Inquisición.
+### Situación Actual
 
-### Sociedad
-
-Cygnar presume de leyes justas, libertades desconocidas en otras tierras y una sociedad que fomenta el comercio abierto. Sin embargo, no siempre ha sido así. Bajo Vinter IV, la Inquisición sembró el terror, persiguiendo a cualquier amenaza percibida contra el rey.
-
-El reinado de Leto ha marcado un cambio. Los cygnaranos están orgullosos de su cultura acogedora y diversa, aunque las cicatrices de la Inquisición aún están frescas.
+Cygnar es un reino asediado por todos los flancos. Tras la invasión khadorana de Llael en el 604-605 d.R., el rey Leto declaró formalmente la guerra a Khador. Es una guerra de tres frentes: al norte contra Khador, al este contra el Protectorado (que ha atacado las murallas de Caspia), y en toda la costa occidental contra las incursiones cryxianas.
 
 ### Amenazas
 
-- **Khador** al norte, siempre ambicionando expandirse
-- **Cryx** al sur, con incursiones constantes en la costa
-- **El Protectorado**, oficialmente vasallo pero cada vez más independiente
-- **Los kriels troloides** en Bosquespino y los Nudos
+- **Khador** al norte, que ha conquistado Llael
+- **El Protectorado de Menoth**, que ha declarado la guerra santa
+- **Cryx** con incursiones constantes en la costa
 - **Vinter Raelthorne**, desaparecido pero posiblemente vivo
+
+[Más información en la Guía del Mundo: Cygnar](guia-del-mundo/capitulo-03.md)
 
 ---
 
 ## Khador
 
 **Capital:** Korsk
-**Gobierno:** Monarquía imperial
-**Gobernante actual:** Emperatriz Ayn Vanar
+**Gobierno:** Monarquía
+**Gobernante actual:** Reina Ayn Vanar XI
 
-Vasto, combativo y poseedor de un insaciable fervor nacionalista, el imperio de Khador ha estado en el centro de la mayoría de los conflictos de los Reinos de Hierro durante los últimos seis siglos.
-
-### Historia
-
-Aunque el Khador moderno se remonta a los Tratados de Corvis, su gente remonta su historia mucho más atrás: a los señores de los caballos de la antigüedad, al Imperio Khárdico de la Era de las Mil Ciudades y al misionero menita Geth, quien llevó la fe al norte hace siglos.
-
-La batalla es un modo de vida en Khador. El servicio militar es obligatorio y la mayoría de los hijos e hijas de la Madre Patria sirven su tiempo en la **Guardia de Invierno** con orgullo.
+Vasto, combativo y poseedor de un insaciable fervor nacionalista, el imperio de Khador ha estado en el centro de la mayoría de los conflictos de los Reinos de Hierro. La brumal Madre Patria estuvo en el pasado repleta de tribus errantes de bárbaros nómadas, lideradas por fieros señores jinetes que conformaron el Imperio Khárdico.
 
 ### Gobierno
 
-Pocas naciones ejercen un mando tan férreo sobre su pueblo como la emperatriz **Ayn Vanar**. Todo el poder fluye desde el trono imperial en Korsk.
+La reina **Ayn Vanar XI**, llamada la *Pervichyi Rodinovna* ("Primera Hija" de la Madre Patria), es la soberana más joven de todos los actuales dirigentes de Immoren occidental y una de las monarcas más agresivas del trono de Khador desde hace casi un siglo. Todo el poder fluye desde el trono imperial en Korsk.
 
-La historia de Khador cuenta con su parte de brujas y nigromantes entre sus gobernantes, desde la reina Cherize la Astuta hasta el vilipendiado Ivan Vladykin. La nobleza khadorana es tan despiadada como sus inviernos.
+La jerarquía khadorana incluye gran visir, grandes príncipes (que gobiernan las *volozkyas* o provincias), condes, vizcondes, posadniks y kayazi (mercaderes influyentes).
 
 ### Sociedad
 
-Los khadoranos son gente resistente nacida de un clima implacable. Están justamente orgullosos de la historia y logros de su nación, aunque muchos se han producido a expensas de sus vecinos. Los ciudadanos de los reinos del sur pueden ver el servicio militar obligatorio como tiránico, pero los khadoranos lo ven como lo que une a su nación.
-
-### Ambiciones
-
-Khador nunca ha ocultado sus sueños de recuperar la gloria del antiguo Imperio Khárdico. La emperatriz observa a Llael con particular interés, un reino debilitado y dividido en su frontera sur.
-
----
-
-## Llael
-
-**Capital:** Merywyn
-**Gobierno:** Monarquía con Consejo de Nobles (actualmente en crisis)
-**Gobernante actual:** Primer Ministro Deyar Glabryn (regente)
-
-Llael es un reino orgulloso con una historia compleja, conocido por sus alquimistas, sus vinos y su posición como estado tapón entre Cygnar y Khador.
-
-### La Crisis de Sucesión
-
-En 595 DR, el rey **Rynnard di la Martyn** murió de forma repentina e inesperada, dejando una línea de sucesión poco clara. El **Consejo de Nobles**, ya dividido, se sumergió en una espiral de luchas internas que degeneró en asesinatos.
-
-En pocos meses, prácticamente cualquier persona con derecho legítimo al trono fue asesinada. Incluso aquellos sin ambiciones por la corona cayeron víctimas del veneno o la hoja de un asesino.
-
-### El Gobierno Actual
-
-El archiduque **Deyar Glabryn**, ministro del Tesoro, asumió el cargo de primer ministro como "regente temporal". Sin embargo, Glabryn no muestra intención de ceder el poder. Peor aún, hay rumores de que trabaja en secreto con agentes de Khador, socavando las defensas del reino.
-
-### La Rosa Amatista
-
-La **Leal Orden de la Rosa Amatista** servía como guardaespaldas de los reyes llaelenses. Tras la muerte de Rynnard y la disolución de la Alta Guardia Real, se negaron a renunciar a sus votos. Han adoptado vestimentas negras de luto por el final del linaje real y operan en las sombras, esperando el momento de actuar.
+Los khadoranos son trabajadores infatigables, de naturaleza patriótica. La mayoría considera el servicio un honor: lo primero es Khador. La religión, el trasfondo e incluso las rencillas personales son secundarias ante la llamada de la Madre Patria. El servicio militar es obligatorio y la mayoría de los hijos e hijas sirven su tiempo en la **Guardia de Invierno** con orgullo.
 
 ### Situación Actual
 
-Llael se encuentra en parálisis política, vulnerable como nunca antes. El Consejo de Nobles está diezmado, el primer ministro es posiblemente un traidor, y Khador observa con interés desde el norte.
+Tras conquistar Llael en el 604-605 d.R. en una campaña relámpago, Khador ha desviado su atención hacia Cygnar. La reina Ayn ha ordenado la creación de un nuevo y formidable ejército con un único fin: la total restauración del Imperio Khárdico. Para ella, la guerra inminente es la expresión de un destino manifiesto.
+
+[Más información en la Guía del Mundo: Khador](guia-del-mundo/capitulo-04.md)
+
+---
+
+## Llael Ocupada
+
+**Capital:** Merywyn
+**Gobierno:** Estado títere
+**Gobernante actual:** Primer Ministro Archiduque Deyar Glabryn (por designación de la Reina Ayn Vanar XI de Khador)
+
+La soberanía de Llael finalizó abruptamente en el invierno del 604 d.R. cuando, tras un ataque relámpago, Khador invadió el país. Algunos meses de lucha después, Llael se había convertido en un estado ocupado. La nación solía ser la única ruta de comercio entre Cygnar y Rhul.
+
+### La Invasión
+
+Cuando Cygnar pudo unirse a la batalla adecuadamente, la oleada ya se había dirigido hacia ellos. Frenaron su avance durante los meses siguientes, pero la conquista de Merywyn determinó la ocupación a finales de la primavera del 605 d.R. Khador ocupó virtualmente todo el reino, aunque la ciudad de **Rhydden** y algunos territorios circundantes permanecen libres.
+
+### El Archiduque Glabryn
+
+El archiduque **Deyar Glabryn** es considerado un traidor por su pueblo. Los supervivientes del Consejo de Nobles creen que trabajó para debilitar al ejército llaelesiano y socavar las defensas occidentales. Khador ejecutó a 37 nobles el 12 de Rowan del 605 d.R. y colocó sus cabezas sobre las murallas de Merywyn para desalentar futuras insurrecciones.
+
+### Recursos
+
+Llael posee un elevado contenido en carbón, y las montañas septentrionales contienen grandes cantidades de **polvo rojo** (componente esencial para la pólvora). El comercio de contrabando de pistolas y municiones por el Río Negro es ahora una de las principales actividades de la resistencia.
+
+### La Resistencia
+
+Algunos han tomado las armas para combatir a los invasores, pero estos grupos son brutalmente eliminados si se descubren. La **Leal Orden de la Rosa Amatista**, antiguos guardaespaldas reales, opera en las sombras vistiendo de luto negro.
+
+[Más información en la Guía del Mundo: Llael Ocupada](guia-del-mundo/capitulo-05.md)
 
 ---
 
 ## Ord
 
 **Capital:** Merin
-**Gobierno:** Monarquía con Salón de los Castellanos
+**Gobierno:** Monarquía
 **Gobernante actual:** Rey Baird Cathor II
 
-A pesar de ser conocido por su neutralidad en una era de guerras, Ord ha contribuido poderosamente a los esfuerzos bélicos de sus vecinos en forma de innumerables compañías mercenarias.
+El reino de Ord tiene un extenso litoral y es el hogar de los mejores marinos y estibadores de toda Immoren occidental. Es una tierra melancólica de belleza cautivadora, famosa por sus largas costas y las laderas solitarias que sobresalen de brumosos páramos.
 
 ### Gobierno
 
-Ord se formó mediante la unión de los reinos de Thuria y Tordor. Las divisiones entre estos dos pueblos antiguos continúan influyendo en la vida del reino. Los tordoranos ostentan posiciones más altas, y los más poderosos nobles, los **castellanos**, son de ascendencia tordorana.
+El rey **Baird Cathor II**, llamado "el Rey Bandido" por los fuertes impuestos a los nobles ricos, es el soberano más viejo de todos los Reinos de Hierro (lleva más de tres décadas en el trono). Su popularidad entre los plebeyos deriva de su sistema tributario, que exige poco de las masas empobrecidas pero cobra fuertes impuestos a los **castellanos** que conforman su corte.
 
-El rey **Baird Cathor II**, a veces llamado "el Rey Bandido" por los fuertes impuestos a los nobles ricos, gobierna con la colaboración del **Salón de los Castellanos**. Pasa más tiempo en puertos de mala reputación como Cinco Dedos que en la corte.
+Ord se formó mediante la unión de los reinos de Thuria y Tordor. Los tordoranos ostentan posiciones más altas, y los más poderosos nobles son de ascendencia tordorana.
 
-### Economía
+### Economía y Poder Naval
 
-Con poco que ofrecer en recursos naturales salvo la turba, Ord ha aprendido a aprovechar sus activos: amplio acceso al Meredio y varios puertos comerciales entre Cygnar y Khador. La navegación es una forma de vida y Ord posee quizás el poderío naval más impresionante de los Reinos de Hierro.
+Con poco que ofrecer en recursos naturales salvo la turba, Ord ha aprendido a aprovechar sus activos: amplio acceso al Meredius y varios puertos comerciales. Ord es la mayor potencia naval de Immoren occidental, aunque su ejército terrestre es pequeño y anticuado. Algunos puertos órdicos, como **Cinco Dedos**, son refugios para piratas y contrabandistas.
 
-La neutralidad de Ord le permite comerciar con todos los bandos en tiempos de guerra, una disposición que, junto con leyes relativamente laxas, ha convertido al reino en el hogar de las compañías mercenarias más famosas.
+### Situación Actual
 
-### Sociedad
+El único reino que todavía no ha entrado en guerra, Ord se halla en una posición ventajosa. El rey Baird ha mantenido la neutralidad incluso mientras conjura para enfrentar a las demás naciones entre sí. Cada día llegan refugiados de Llael, y Cygnar desea establecer una alianza ahora que Llael ha caído. Una de las principales jugadas de Baird ha sido intentar convencer a la **Orden del Crisol Dorado** de trasladarse a Merin.
 
-La gente órdica contrasta con su tierra lúgubre y envuelta en niebla. Exprimen hasta la última gota de alegría de la vida. Son expertos en la sutileza y el disimulo, lo que los convierte en excelentes espías, aunque la gente común tiende a expresar sus emociones abiertamente.
-
-Las familias órdicas son numerosas y unidas. Valoran la música, la danza y, sobre todo, las historias. Un buen orador siempre encontrará bienvenida en cualquier hogar.
+[Más información en la Guía del Mundo: Ord](guia-del-mundo/capitulo-07.md)
 
 ---
 
 ## Protectorado de Menoth
 
-**Capital:** Sul (oficialmente), Imer (sede religiosa)
+**Capital:** Imer
 **Gobierno:** Teocracia
 **Gobernante actual:** Jerarca Garrick Voyle
 
-Oficialmente, el Protectorado es un vasallo de Cygnar. Los tratados que pusieron fin a la Primera Guerra Civil prohibían a los menitas reunir un ejército permanente. Durante más de un siglo, el Protectorado ha aparentado acatar estas restricciones.
+Teóricamente, el Protectorado es una provincia semiautónoma de Cygnar. En realidad es el más reciente de los Reinos de Hierro y un enemigo acérrimo de su nación progenitora. Los habitantes se denominan **sul-menitas** y siguen una evolución radical de la fe menita tradicional.
 
 ### Historia
 
-Fundado tras la Primera Guerra Civil Cygnarana (482-484 DR), el Protectorado recibió una franja de tierras estériles a lo largo de las Marcas de Piedrasangrienta. La fe inquebrantable de los menitas les fue útil en este paisaje duro, al igual que el descubrimiento de recursos naturales: abundantes **diamantes** para financiar su expansión y **aceite inflamable** que refinaron para crear la **Furia de Menoth**.
+Fundado tras la Primera Guerra Civil Cygnarana (482-484 d.R.), el Protectorado recibió una franja de tierras estériles. La fe inquebrantable de los menitas les fue útil en este paisaje duro, al igual que el descubrimiento de recursos naturales: abundantes **diamantes** y **petróleo** que refinaron para crear la devastadora **Furia de Menoth**.
 
 ### El Ejército Secreto
 
-En secreto, los menitas han construido una formidable fuerza militar:
+Se prohibió a los gobernantes del Protectorado la creación de un ejército fijo, pero siguieron entrenando tropas en secreto:
 
 - **Furia de Menoth**: Arma incendiaria devastadora
 - **Caballeros Exemplar**: Órdenes militares religiosas fanáticamente devotas
-- **Siervos de guerra**: Construidos en las forjas de Sul
+- **Siervos de guerra**: Construidos en fábricas secretas en el desierto
 - **Guardia de la Llama**: Tropas regulares del Protectorado
 
-El actual jerarca, **Garrick Voyle**, es un líder carismático y belicoso. Muchos creen que solo es cuestión de tiempo antes de que el Protectorado revele su verdadero poder militar.
+### El Heraldo y la Guerra Santa
 
-### Doctrina
+El Jerarca **Garrick Voyle** ha trabajado incesantemente para construir las fuerzas armadas, violando los tratados. Menoth les envió una señal bajo la forma del **Heraldo**, una profetisa de gran poder. Voyle usó al Heraldo como incentivo para una **Gran Peregrinación**, convocando a todo menita de Immoren. El Protectorado atacó las murallas de Caspia el 6 de Vendarl, Octesh del 605 d.R. Aunque fueron rechazados, la guerra había comenzado.
 
-Los menitas consideran que Caspia les pertenece por derecho divino. La ciudad fue dividida tras la Primera Guerra Civil, con la mitad oriental convirtiéndose en Sul. La reunificación de la ciudad santa es un objetivo que muchos jerarcas han soñado.
+[Más información en la Guía del Mundo: El Protectorado de Menoth](guia-del-mundo/capitulo-06.md)
 
 ---
 
 ## Cryx - El Imperio de Pesadilla
 
 **Capital:** Skell
-**Gobierno:** Tiranía del Padre Dragón
-**Gobernante:** Lord Toruk, el Padre Dragón
+**Gobierno:** Teocracia absoluta
+**Gobernante:** Lord Toruk, Padre de los Dragones y Dios de Cryx
 
-Cuando **Toruk** llegó a las islas Scharde, estas estaban gobernadas por trece reyes piratas. El Padre Dragón les dio a elegir: arrodillarse o ser aniquilados. Todos menos uno se arrodillaron, y Toruk los convirtió en los primeros **Señores Liche**. Así comenzó el Imperio de Pesadilla.
+Las tierras salvajes de las islas Scharde son el hogar de terribles bestias de diabólico ingenio. Cryx está impregnada de una desolación enfermiza que oscurece todos los aspectos de la vida en la isla. En este miserable lugar, los débiles sobreviven a la merced de los fuertes, y los fuertes no tienen misericordia.
 
-### El Padre Dragón
+### Toruk y los Lores Liche
 
-Toruk no es simplemente el soberano de Cryx; es su dios. Los Señores Liche son su mano derecha, siempre doce, y cuando uno cae otro se alza para ocupar su lugar. Por debajo se agita una delirante burocracia de muertos vivientes y horrores malditos.
+**Toruk** es sin lugar a dudas la criatura viviente de mayor edad del mundo conocido, lo cual hace que su autoproclamado estatus de deidad sea convincente. Cuando llegó a las islas Scharde (alrededor del 1.000 a.R.), ofreció dos alternativas a los doce reyes piratas: inclinaos o seréis destruidos. Por su lealtad, los convirtió en los **Lores Liche**, encadenándolos a una eternidad de servidumbre. Siempre han sido doce; cuando uno cae, otro se alza en su lugar.
 
-### Las Islas
+### Recursos
 
-La naturaleza de Toruk mancha la tierra del Imperio de Pesadilla. Cryx es un lugar cruel donde la depredación es la norma. Las costas están dominadas por escarpados acantilados y espinosas selvas tropicales cubren el sombrío interior. Cada paso tiene un coste de sudor y sangre.
+Además de un suministro continuo de cadáveres, Cryx depende de la **necrotita**, un mineral que se forma en lugares donde se han producido masacres. Este vil mineral arde con una enfermiza llama verde, liberando energía necrótica que alimenta sus horribles creaciones.
 
 ### Amenaza Constante
 
-Los invasores cryxianos han atacado barcos y asentamientos costeros durante siglos. Sus flotas de naves negras aparecen sin aviso, sus hordas de no-muertos arrasan pueblos costeros, y sus agentes operan en las sombras de todas las naciones, robando cadáveres y sembrando corrupción.
+Tras la **Invasión Schardense** (584-588 d.R.), los infames **barcos negros** merodean por las orillas del continente. Con la guerra entre los reinos vivos, las legiones cryxianas han intensificado sus operaciones, destruyendo graneros y aldeas enteras para debilitar al enemigo por el hambre e incrementar su suministro de no muertos.
 
-Ningún habitante de la costa puede permitirse olvidar la amenaza de ver naves negras en el horizonte.
+[Más información en la Guía del Mundo: Cryx, Ios, Rhul y Otros](guia-del-mundo/capitulo-08.md)
 
 ---
 
 ## Rhul - El Reino de los Enanos
 
 **Capital:** Ghord
-**Gobierno:** Consejo de los Señores de Piedra
+**Gobierno:** Oligarquía
 **Gobernantes:** Los Trece Señores de Piedra
 
-Siendo quizás la única entre los reinos de Immoren Occidental, la nación enana de Rhul ha estado en paz durante miles de años. Los enanos afirman ser la civilización más antigua y estable de Caen, con registros que se remontan a más de seis milenios.
-
-### Geografía
-
-Rhul existe sobre y bajo las montañas de los Picos Puntaplata, Vidrio y Riscotrueno. En el corazón del reino está el **Abismo de Armas**, un enorme lago interior —prácticamente un mar— que es la fuente del río Negro, una de las rutas comerciales más importantes del continente.
+La nación enana de Rhul ha estado en paz durante miles de años, quizás la única entre los reinos de Immoren Occidental. Los enanos afirman ser la civilización más antigua y estable de Caen, con registros que se remontan a más de seis milenios.
 
 ### Gobierno
 
-Los **Trece Señores de Piedra** gobiernan Rhul, descendientes directos de los Grandes Padres originales del pueblo enano. Los clanes influyen en todos los aspectos de la vida, desde la carrera hasta el matrimonio. Los clanes más influyentes tienen asientos en el **Debate de las Cien Casas**.
+Los **Trece Señores de Piedra** gobiernan Rhul, descendientes directos de los **Grandes Padres** originales. La vida se centra en el clan, una familia numerosa unida por matrimonios y lazos de sangre. La **Asamblea de las Cien Casas** de Ghord es el organismo legislativo y judicial central. Los **jueces de asamblea**, designados por los Señores de la Piedra, son expertos en el **Códice**, que contiene todos los precedentes legales de la historia escrita de Rhul.
 
-### Neutralidad Comercial
+### Geografía
 
-Los rhúlicos se mantienen al margen de los conflictos del sur, prefiriendo interactuar a través del comercio. Muchos enanos de clanes jóvenes viajan a los reinos humanos como especuladores, mercenarios o enviados comerciales.
+Rhul existe sobre y bajo las montañas. En el corazón del reino está el **Abismo de Armas**, un enorme lago interior que es la fuente del Río Negro, una de las rutas comerciales más importantes del continente.
 
-La artesanía en piedra y metal de los rhúlicos es insuperable. La mecánika enana es legendaria por su eficiencia. Los mercenarios rhúlicos son muy apreciados en todos los Reinos de Hierro.
+### Dificultades para el Comercio
 
-### Los Ogrun
+Tras la invasión de Llael, Khador bloqueó el Río Negro, aislando a Cygnar de Rhul. A Rhul no le importa quién controle Llael siempre y cuando continúe el comercio. Debido a las restricciones, algunos rhulianos tenaces se han dedicado a operaciones de contrabando.
 
-Rhul alberga la mayor población de **ogrun** de Immoren Occidental. Estas criaturas enormes y espirituales viven según el principio del **korune**: la lealtad personal a un señor digno. Muchos ogrun encuentran korunes entre los mercenarios enanos, y la relación entre ambos pueblos ha perdurado durante siglos.
+### Los Ogrun y el Korune
+
+Rhul alberga la mayor población de **ogrun** de Immoren Occidental. La mayoría son miembros plenos de clanes enanos, subordinados a un señor de clan a quien consideran un **korune** (señor digno de lealtad personal).
+
+[Más información en la Guía del Mundo: Cryx, Ios, Rhul y Otros](guia-del-mundo/capitulo-08.md)
 
 ---
 
 ## Ios - El Reino de los Elfos
 
 **Capital:** Shyrr
-**Gobierno:** Desconocido
-**Gobernante:** Desconocido
+**Gobierno:** Oligarquía
+**Gobernante:** La Corte Consular
 
-Ios es la patria ancestral de los elfos de Immoren, un reino de bosques antiguos y secretos que pocos forasteros han visto.
+Ios es la patria ancestral de los elfos de Immoren, un reino de bosques antiguos y secretos que pocos forasteros han visto. Es un pueblo dividido: pese a que sus dioses llevan más de mil quinientos años desaparecidos, aún no se han puesto de acuerdo sobre cómo resolver sus problemas.
 
-### Aislamiento
+### La Corte Consular y las Quince Altas Casas
 
-Los iosanos siempre han sido reservados, pero en las últimas décadas su aislamiento se ha vuelto casi absoluto. Las fronteras están cerradas, los diplomáticos son rechazados, y cualquier expedición que intente penetrar en el reino se pierde en el bosque o desaparece sin dejar rastro.
-
-### Los Bosques
-
-Los bosques de Ios tienen un aura inquietante. Álamos altos y pálidos forman un dosel impenetrable. Carece de maleza y los silenciosos claros están cubiertos de musgo. La niebla cubre el bosque todo el año, y hay quien dice que tiene mente propia, susurrando secretos a los viajeros hasta hacerles perder la orientación.
+Los dioses de los elfos redactaron una constitución tras la fundación de Ios. La **Corte Consular** se reúne en el Consulariato de Shyrr y está supervisada por las **hallyntyrs** (altas casas) influyentes. De las aproximadamente cien casas nobles, quince tienen un poder conjunto mayor que el de todas las demás combinadas. Las **cinco grandes casas militares** (Ellowuyr, Issyen, Nyarr, Rhyslyrr y Silowuyr) controlan todas las fuerzas militares de Ios.
 
 ### Los Desalmados
 
-Desde hace décadas, cada vez más iosanos nacen sin alma. Estos bebés llegan en silencio, con ojos negros y comportamiento carente de emociones. Los iosanos siempre han parecido distantes, pero los desalmados provocan inquietud incluso entre su propia gente.
+Desde hace décadas, cada vez más ionenses nacen sin alma. Estos bebés misteriosamente carentes de emociones son arrancados de sus familias y sacrificados en una ceremonia secreta. Los ionenses cerraron totalmente sus fronteras tras un periodo de caos provocado por esta crisis.
 
-El **Castigo de Scyrah** es una organización clandestina que culpa a los lanzadores de conjuros humanos por la muerte de las deidades elfas. Han criado a algunos desalmados como asesinos. Sus agentes ocasionalmente operan fuera de Ios, cazando magos humanos.
+### El Castigo de Scyrah
 
-### Misterio
+El **Castigo de Scyrah** es una organización proscrita cuyos partidarios creen que existe una relación entre el declive de la diosa Scyrah y la proliferación de magos entre los humanos. Abogan por la ejecución de todos los practicantes humanos de las artes arcanas. Se rumorea que adoptan en secreto a algunos bebés sin alma para entrenarlos como asesinos y cazadores de magos.
 
-Nadie sabe qué ocurre realmente en Ios. Los pocos comerciantes y diplomáticos que logran contacto con los elfos encuentran respuestas evasivas y puertas cerradas. Sea lo que sea que aflige a este antiguo pueblo, lo mantienen oculto del mundo exterior.
+### Los Buscadores
+
+Algunos ionenses creen que aún se puede encontrar a los **Desvanecidos** (los dioses perdidos), pero el optimismo de estos **Buscadores** no ha bastado para convencer a la mayoría; generalmente se les considera unos necios ilusos.
+
+[Más información en la Guía del Mundo: Cryx, Ios, Rhul y Otros](guia-del-mundo/capitulo-08.md)

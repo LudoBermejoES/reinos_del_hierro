@@ -137,7 +137,9 @@ Competencia en armas marciales y entrenamiento con armaduras pesadas.
 
 **Esencia:** Piadosa (SAB, INT o CAR +2 → SAB)
 
-**Aspecto:** Hombre delgado y fibroso de unos veinticinco años. Cabello negro largo recogido en una trenza. Piel pálida curtida por el frío. Ojos oscuros y penetrantes. Viste pieles sobre su camisa de malla, con un símbolo de Morrow colgando del cuello. Antiguo rastreador kossite que encontró la fe tras sobrevivir solo en el yermo.
+**Aspecto:** Hombre delgado y fibroso de unos veinticinco años. Cabello negro largo recogido en una trenza. Piel pálida curtida por el frío. Ojos oscuros y penetrantes. Viste pieles sobre su camisa de malla, con un símbolo de Morrow colgando del cuello.
+
+**Historia:** Los Koskov han sido guías y rastreadores durante generaciones, llevando expediciones comerciales a través de los pasos montañosos más peligrosos de Khador. Yuri era el mejor de su familia: podía leer el clima en las nubes y encontrar agua bajo la nieve. Pero hace dos inviernos, guió a una caravana de refugiados llaeleses hacia el sur y se perdieron en una ventisca. Durante cinco días, Yuri los mantuvo vivos en una cueva, racionando la comida y quemando lo que podía para dar calor. Cuando la tormenta amainó, solo quedaban él y tres niños. Los llevó hasta la aldea más cercana, pero algo se había roto dentro de él. Pasó semanas sin hablar, incapaz de perdonarse. Fue una sacerdotisa anciana de Morrow quien lo encontró bebiendo solo en una taberna y le dijo algo que cambió su vida: "No los salvaste tú. Fuiste el instrumento." Ahora Yuri lleva el símbolo de Morrow junto a su cuchillo de rastreador, convencido de que su habilidad para sobrevivir en el yermo es un don que debe usar para proteger a otros.
 
 ---
 

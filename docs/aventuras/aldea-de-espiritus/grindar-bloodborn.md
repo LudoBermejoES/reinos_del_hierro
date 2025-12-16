@@ -139,6 +139,8 @@ Puedes usar propiedades de maestría con 2 tipos de armas: **arco largo** y **ha
 
 **Aspecto:** Troloide de casi dos metros, piel gris azulada con marcas de guerra pintadas. Ojos blancos sin iris visible. Protuberancias óseas en la cabeza y cuello. Mandíbula prominente con colmillos inferiores. Lleva una faja de tartán azul y negro (quitari de su kriel) cruzada sobre el pecho. Se mueve con una agilidad sorprendente para su tamaño, producto de años rastreando presas en las estepas del norte.
 
+**Historia:** El kriel de Grindar vivía en las montañas del norte, donde el invierno dura nueve meses y los trolls de sangre completa aún vagan en manadas. Los Bloodborn eran rastreadores, cazadores de bestias que alimentaban al kriel cuando las presas escaseaban. Grindar aprendió a cazar antes de aprender a hablar bien el común. Pero hace dos años, una plaga arrasó su kriel. No una enfermedad natural —los troloides resisten casi cualquier veneno—, sino algo más oscuro. Los chamanes dijeron que la tierra misma estaba enferma, corrompida por algo que se filtraba desde las profundidades. Los ancianos murieron primero. Luego los niños. Cuando Grindar comprendió que no podía luchar contra un enemigo invisible, hizo lo único que sabía hacer: rastrear. Siguió los ríos contaminados hacia el sur, buscando el origen de la corrupción. No lo encontró, pero encontró otras aldeas afectadas, otros kriels diezmados. Ahora viaja solo, con el quitari de su kriel muerto cruzado sobre el pecho, buscando la fuente del mal que destruyó a su familia. Los otros trollkin lo llaman "el que camina entre fantasmas", porque a veces, por las noches, habla con los muertos.
+
 ---
 
 ← [Volver al Grupo](index.md)

@@ -132,6 +132,8 @@ Puedes usar propiedades de maestría con 2 tipos de armas: **espada larga** y **
 
 **Aspecto:** Hombre corpulento de unos treinta años, cabello rubio cortado al rape, barba recortada. Ojos grises, semblante serio. Lleva la armadura con el símbolo de la Llama de Menoth grabado en el pecho.
 
+**Historia:** Dmitri no siempre fue un hombre de fe. Durante una década sirvió como sargento en la Guardia de Invierno, destacando más por su capacidad de mantener la moral de sus hombres que por su habilidad táctica. Cuando su unidad fue emboscada por una partida de bandidos nyss corrompidos en las montañas al norte de Ohk, fue el único superviviente. Vagó tres días por la nieve, medio muerto de frío y con una herida infectada en el costado. Lo encontraron los monjes de un pequeño santuario de Menoth, donde pasó meses recuperándose. Durante ese tiempo, algo cambió en él. No sabe si fue la fiebre, los cánticos de los sacerdotes o simplemente el silencio de las montañas, pero Dmitri escuchó la llamada del Creador. Cuando se fue del santuario, ya no era un soldado: era un guardián. Ahora busca a otros que necesiten protección, convencido de que Menoth le perdonó la vida por una razón que aún no comprende del todo.
+
 ---
 
 ← [Volver al Grupo](index.md)

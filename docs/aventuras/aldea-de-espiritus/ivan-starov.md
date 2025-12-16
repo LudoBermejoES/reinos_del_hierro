@@ -140,7 +140,9 @@ Como **acción adicional**, concede un **d6** a una criatura a 18 m que pueda o�
 
 **Esencia:** Intelectual (INT, SAB o CAR +2 → CAR)
 
-**Aspecto:** Hombre de unos cuarenta años, cabello canoso peinado hacia atrás, barba recortada con canas. Ojos azul claro, expresivos. Veterano de la Guardia de Invierno reconvertido en cronista de sagas. Lleva siempre su balalaika a la espalda. Voz grave y resonante, acostumbrada a cantar las hazañas de los héroes khadoranos.
+**Aspecto:** Hombre de unos cuarenta años, cabello canoso peinado hacia atrás, barba recortada con canas. Ojos azul claro, expresivos. Lleva siempre su balalaika a la espalda. Voz grave y resonante, acostumbrada a cantar las hazañas de los héroes khadoranos.
+
+**Historia:** Ivan Starov fue durante veinte años el hombre que nadie quería ver llegar. Como oficial de la Prikaz Chancellery —la temida policía secreta de Khador—, su trabajo consistía en hacer preguntas incómodas a personas que preferían no responderlas. Era bueno en su trabajo, quizás demasiado. Pero hace cinco años, durante un interrogatorio rutinario, descubrió que el "traidor" al que perseguía era en realidad un poeta que había escrito una sátira sobre un boyar corrupto. El hombre murió en custodia antes de que Ivan pudiera liberarlo. Esa noche, Ivan desertó. Se llevó solo su vieja balalaika —regalo de su madre— y desapareció en los caminos del norte. Ahora viaja de aldea en aldea, cantando las viejas sagas khadoranas y las nuevas historias que va recogiendo. Pero bajo las canciones alegres late algo más oscuro: Ivan todavía sabe cómo hacer hablar a la gente, cómo leer sus mentiras, cómo encontrar la verdad. La diferencia es que ahora elige a quién interrogar.
 
 ---
 

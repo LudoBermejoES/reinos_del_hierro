@@ -122,6 +122,8 @@ Como **acción adicional**, recuperas **1d10 + 1 puntos de golpe**.
 
 **Aspecto:** Ogrun imponente de más de dos metros y medio. Piel gris oscura, cabeza calva, barba negra trenzada. Músculos como rocas. Ojos pequeños pero atentos. Marcas tribales tatuadas en los brazos. Lleva una cota de malla reforzada y carga su espadón como si fuera una espada normal.
 
+**Historia:** Entre los ogrun, el *korune* es sagrado: el juramento de servicio que un guerrero hace a su señor. Gorluk sirvió durante ocho años a Boyar Aleksei Morozov, un noble menor de la frontera este de Khador. Le sirvió bien. Le sirvió fielmente. Y cuando el boyar decidió vender a una docena de siervos a traficantes cryx para pagar sus deudas de juego, Gorluk le partió la columna con sus propias manos. Según la ley ogrun, Gorluk debería haberse quitado la vida por romper su *korune*. Pero cuando miró a los siervos encadenados —niños entre ellos—, supo que había hecho lo correcto. Desde entonces, Gorluk vaga por Khador como mercenario, aceptando trabajos que otros consideran demasiado peligrosos o mal pagados. No busca redención; no cree merecerla. Pero cada vez que protege a alguien que no puede protegerse solo, el peso en su pecho se alivia un poco. Dicen que un ogrun sin *korune* es un ogrun sin alma. Gorluk cree que quizás el problema no era su juramento, sino a quién se lo hizo.
+
 ---
 
 ← [Volver al Grupo](index.md)

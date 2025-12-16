@@ -110,6 +110,8 @@ La **Orden del Crisol Dorado** es la organización alquímica más prestigiosa, 
 - Sus miembros son muy solicitados por todas las naciones
 - Desarrollan constantemente nuevas fórmulas
 
+Tras la invasión de Llael, los guardianes de la Orden entregaron la fortaleza **Cima del Trueno** a Khador. Los líderes exiliados de la Orden buscan nuevo hogar, y el rey Baird de Ord intenta convencerles de trasladarse a Merin.
+
 ### Furia de Menoth
 
 El **Protectorado de Menoth** desarrolló la **Furia de Menoth**, un arma incendiaria devastadora. Deriva del aceite inflamable descubierto en las tierras desérticas del Protectorado.
@@ -125,7 +127,7 @@ El **Protectorado de Menoth** desarrolló la **Furia de Menoth**, un arma incend
 
 ### Ferrocarril
 
-El **ferrocarril** representa el futuro del transporte terrestre. Cygnar posee la red más extensa, conectando sus principales ciudades.
+El **ferrocarril** representa el futuro del transporte terrestre. Los khárdicos inventaron el primer camino de rieles alrededor del 1000 a.R., sobre el que podía desplazarse un carruaje tirado por caballos. La primera locomotora de vapor se construyó en Korsk alrededor del 620 a.R.
 
 **Ventajas:**
 - Transporte masivo de pasajeros y mercancías
@@ -139,8 +141,8 @@ El **ferrocarril** representa el futuro del transporte terrestre. Cygnar posee l
 - Conexiones a ciudades industriales
 
 **Expansión:**
-- Khador desarrolla su propia red ferroviaria
-- Llael tenía planes antes de la crisis de sucesión
+- Khador ha extendido sus líneas ferroviarias, mejorando su capacidad para movilizarse con rapidez
+- El Protectorado destruyó el Puente de la Marca en el 605 d.R., complicando el transporte ferroviario cygnarita
 - El terreno montañoso de Rhul dificulta la construcción
 
 ### Barcos de Vapor
@@ -160,9 +162,9 @@ Los **barcos de vapor** han revolucionado el transporte marítimo y fluvial.
 - **Barcos patrulla**: Protegen costas y rutas comerciales
 
 **Potencias navales:**
-- **Ord**: Posiblemente la marina más poderosa
+- **Ord**: La mayor potencia naval de Immoren occidental. Los marineros y estibadores órdicos son los mejores del continente
 - **Cygnar**: Flota moderna y en crecimiento
-- **Cryx**: Barcos alimentados por energía oscura
+- **Cryx**: Los infames **barcos negros**, alimentados por energía oscura y tripulados por no muertos
 
 ### Aeronaves
 
@@ -189,8 +191,9 @@ Las grandes ciudades albergan distritos industriales donde se produce:
 
 **Centros industriales:**
 - Caspia (Cygnar): El "Distrito del Humo"
-- Korsk (Khador): Forjas masivas
+- Korsk (Khador): Forjas masivas que trabajan día y noche para mantener la guerra en marcha
 - Cinco Dedos (Ord): Astilleros y manufactura
+- Agua Negra (Cryx): Comercio de botines saqueados y productos de mercado negro
 
 ### Minería
 
@@ -288,4 +291,6 @@ Algunas predicciones de los visionarios:
 - Comunicación instantánea a través de dispositivos mecánikos
 - Siervos de vapor en cada hogar
 
-Otros temen que la tecnología traiga nuevas guerras más devastadoras que las anteriores. Solo el tiempo lo dirá.
+Otros temen que la tecnología traiga nuevas guerras más devastadoras que las anteriores. La guerra actual entre Cygnar, Khador y el Protectorado está demostrando el potencial destructivo de las máquinas de guerra modernas. Solo el tiempo dirá qué futuro aguarda a Immoren.
+
+[Más información sobre tecnología y equipamiento en el libro de reglas](personajes/clases/index.md)

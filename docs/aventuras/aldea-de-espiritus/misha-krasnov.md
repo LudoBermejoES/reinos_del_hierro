@@ -130,6 +130,8 @@ Tienes pericia (doble competencia) en **2 habilidades**: Sigilo y Juego de manos
 
 **Aspecto:** Mujer de unos veinte años, cabello negro azabache cortado a la altura de los hombros. Ojos oscuros astutos. Complexión delgada y ágil. Viste ropas oscuras prácticas, con múltiples bolsillos ocultos. Sonrisa que no llega a los ojos.
 
+**Historia:** Misha nació en las calles de Korsk, hija de nadie que ella recuerde. A los siete años ya robaba carteras; a los doce, las vaciaba mientras sus dueños aún las llevaban puestas. Fue entonces cuando la encontraron los Kayazy. No la organización real —esos príncipes mercaderes que mueven hilos en las cortes—, sino una de sus ramas más pequeñas: una red de contrabandistas que necesitaba dedos pequeños y ágiles para pasar mercancía por lugares estrechos. Misha aprendió rápido: a mentir, a escuchar, a desaparecer. Se convirtió en mensajera, luego en espía, y finalmente en lo que los Kayazy llaman una "solucionadora de inconvenientes". Nunca mató a nadie —o eso dice ella—, pero sabe dónde encontrar a gente que lo hace. Hace tres meses, el hombre que la crió en la organización apareció flotando en el río Volga con la garganta cortada. Misha no sabe quién lo hizo ni por qué, pero sabe que el siguiente mensaje iba dirigido a ella. Ahora viaja hacia el norte, lejos de las ciudades donde todos conocen su cara, buscando un lugar donde los ojos de los Kayazy no lleguen. Al menos hasta que descubra quién quiere verla muerta.
+
 ---
 
 ← [Volver al Grupo](index.md)

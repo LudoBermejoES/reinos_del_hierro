@@ -1,0 +1,138 @@
+---
+layout: default
+title: Torgun Ironbid - Guerrero
+---
+
+# Torgun Ironbid
+
+**Guerrero 1** · Ogrun Rhúlico
+
+---
+
+## Características
+
+| Característica | Puntuación | Modificador | Notas |
+|----------------|------------|-------------|-------|
+| Fuerza | 17 | +3 | Base 13 (5 pts) + 2 (Ogrun) + 2 (Esencia Poderosa) |
+| Destreza | 10 | +0 | Base 10 (2 pts) |
+| Constitución | 16 | +3 | Base 15 (9 pts) + 1 (Ogrun) |
+| Inteligencia | 10 | +0 | Base 10 (2 pts) |
+| Sabiduría | 13 | +1 | Base 13 (5 pts) |
+| Carisma | 12 | +1 | Base 12 (4 pts) |
+
+*Point buy: 5+2+9+2+5+4 = 27 pts*
+
+---
+
+## Atributos de Combate
+
+| Atributo | Valor |
+|----------|-------|
+| **Clase de Armadura** | 17 (cota de malla + Piel Gruesa) |
+| **Puntos de Golpe** | 13 (1d10 + 3) |
+| **Velocidad** | 30 pies |
+| **Bonificador de Competencia** | +2 |
+| **Iniciativa** | +0 |
+
+---
+
+## Rasgos Raciales (Ogrun Rhúlico)
+
+- **Mejora de Característica:** FUE +2, CON +1
+- **Tamaño:** Mediano (cuenta como Grande para capacidad de carga)
+- **Gran Estatura:** Empuña armas a dos manos con una mano. Siempre usa el daño versátil
+- **Lecciones de Ghord:** Competencia con herramientas de albañil y en Historia
+- **Juramento de Lealtad:** Puede jurar lealtad a un korune rhúlico u ogrun. Si el korune está a 5 pies al usar Esquivar, puede transferirle el beneficio (1/descanso)
+- **Complexión Poderosa:** Capacidad de carga como si fuera una categoría mayor
+- **Piel Gruesa:** +1 CA sin armadura pesada
+- **Idiomas:** Molgur-og, Rhúlico
+
+---
+
+## Rasgos de Clase (Guerrero 1)
+
+### Estilo de Combate: Defensa
+Mientras lleves armadura, obtienes +1 a la CA.
+
+### Maestría con Armas
+Puedes usar propiedades de maestría con **3 tipos de armas**: martillo de guerra, hacha de batalla y espadón.
+
+### Tomar Aliento
+Como **acción adicional**, recuperas **1d10 + 1 puntos de golpe**.
+**Usos:** 2. Recuperas 1 uso tras descanso corto, todos tras descanso largo.
+
+---
+
+## Competencias
+
+### Tiradas de Salvación
+- Fuerza (+5)
+- Constitución (+5)
+
+### Habilidades
+- Historia (+2) — racial
+- Naturaleza (+2)
+- Percepción (+3)
+- Supervivencia (+3)
+
+### Armas y Armaduras
+- Armas sencillas y marciales
+- Armaduras ligeras, medias y pesadas
+- Escudos
+
+### Herramientas
+- Herramientas de albañil (racial)
+- Herramientas de cartógrafo (trasfondo)
+
+---
+
+## Equipo
+
+| Objeto | Peso |
+|--------|------|
+| Cota de malla | 55 lb. |
+| Martillo de guerra | 2 lb. |
+| Hacha de batalla | 4 lb. |
+| Jabalinas (4) | 8 lb. |
+| Escudo | 6 lb. |
+| Paquete de explorador | 59 lb. |
+| Herramientas de cartógrafo | 6 lb. |
+| Mapas de túneles (en desarrollo) | — |
+| **Total** | **140 lb.** |
+
+**Monedas:** 15 po
+
+---
+
+## Ataques
+
+| Arma | Ataque | Daño | Propiedades |
+|------|--------|------|-------------|
+| Martillo de guerra (una mano) | +5 | 1d10+3 contundente | Versátil (Gran Estatura) |
+| Hacha de batalla (una mano) | +5 | 1d10+3 cortante | Versátil (Gran Estatura) |
+| Jabalina | +5 | 1d6+3 perforante | Arrojadiza (30/120) |
+
+---
+
+## Trasfondo: Expedicionario
+
+- **Competencias de habilidad:** Naturaleza, Percepción
+- **Competencias de herramientas:** Herramientas de cartógrafo
+- **Idiomas:** Cygnarano, Khadorano
+- **Rasgo:** Patrón
+
+---
+
+## Notas
+
+**Esencia:** Poderosa (FUE, DES o CON +2 → FUE)
+
+**Korune:** Hilda Forgebloom (Juramento de Lealtad)
+
+**Aspecto:** Ogrun macizo de más de dos metros y medio, con piel de un gris rojizo y barba negra trenzada con cuentas de metal. Cabeza calva con cicatrices de antiguos accidentes mineros. Ojos pequeños pero amables bajo cejas pobladas. Manos enormes cubiertas de callos. Viste una cota de malla sobre ropa de trabajo y lleva su martillo de guerra colgado a la espalda como si fuera un simple martillo de carpintero.
+
+**Historia:** Torgun lleva cuarenta años trabajando en las minas y talleres de Estación Cabezaférrea, más tiempo del que la mayoría de sus compañeros llevan vivos. Empezó como cargador en los muelles del ferrocarril cuando era poco más que un cachorro, moviendo cajas que tres humanos no podrían levantar. Con los años ascendió: minero, capataz de cuadrilla, supervisor de túnel. Conoce cada roca y cada vía de la estación. Pero hace cinco años, durante una excavación rutinaria, su cuadrilla abrió un túnel sellado y lo que salió de allí mató a seis buenos enanos antes de que Torgun pudiera aplastarlo con su martillo. Desde entonces, sueña con ello. No con el monstruo —eso puede manejarlo—, sino con los gritos de los que no pudo salvar. Se jubiló del trabajo de túneles y ahora trabaja en los talleres de superficie, donde conoció a Hilda Forgebloom. Algo en ella le recordó a los jóvenes que perdió: la misma determinación, la misma necesidad de demostrar algo. Cuando ella le pidió que fuera su korune, Torgun casi se ríe. Luego vio que hablaba en serio. Ningún enano le había ofrecido ese honor a un ogrun fuera de Rhul en décadas. Aceptó el juramento. Ahora, donde vaya Hilda, irá Torgun.
+
+---
+
+← [Volver al Grupo](index.md)

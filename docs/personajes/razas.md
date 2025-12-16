@@ -168,7 +168,8 @@ Los troloides son un pueblo tribal conectado con la naturaleza y la diosa Dhunia
 | Subraza | Mejora | Rasgo Principal |
 |---------|--------|-----------------|
 | **Del Bosque** | CON +1 | Terreno difícil en bosques no te ralentiza. Ventaja en Supervivencia para cazar en bosques |
-| **Del Norte** | FUE +1 | Adaptado al frío, resistencia a daño de frío |
+| **Del Norte** | CON +1 | Adaptado al frío, resistencia a daño de frío |
+| **Urbano** | CON +1 | Competencia en Persuasión. Hijo de la Ciudad |
 | **Albino** | CAR +1 | Conoces 2 trucos de hechicero (CAR como aptitud) |
 
 ---

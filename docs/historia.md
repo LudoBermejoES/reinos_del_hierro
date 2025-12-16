@@ -68,39 +68,31 @@ La **Inquisición** se creó oficialmente para erradicar la brujería, pero su v
 
 El reinado de Leto ha marcado el comienzo de lo que muchos consideran una edad de oro para Cygnar. Se han restaurado las libertades, se ha reformado el sistema judicial y el reino ha comenzado a recuperarse del terror de la Inquisición.
 
-### La Crisis de Llael (595 DR - presente)
+### La Crisis de Llael y la Invasión Khadorana (595-605 d.R.)
 
-**595 DR**: El rey **Rynnard di la Martyn** de Llael murió de forma repentina e inesperada, dejando una línea de sucesión poco clara. El **Consejo de Nobles**, ya de por sí dividido, se sumergió en una espiral de luchas internas que pronto degeneró en asesinatos a sangre fría.
+**595 d.R.**: El rey **Rynnard di la Martyn** de Llael murió de forma repentina e inesperada, dejando una línea de sucesión poco clara. El **Consejo de Nobles**, ya de por sí dividido, se sumergió en una espiral de luchas internas que pronto degeneró en asesinatos.
 
-En pocos meses, prácticamente cualquier persona que pudiera haber tenido un derecho legítimo al trono ha sido asesinada. Incluso aquellos sin ambiciones por la corona han caído víctimas del veneno o la hoja de un asesino. La **Leal Orden de la Rosa Amatista**, guardaespaldas de los reyes llaelenses, se negó a renunciar a sus votos pese a la disolución de la Alta Guardia Real. Han adoptado vestimentas negras de luto por el final del linaje real.
+El archiduque **Deyar Glabryn**, ministro del Tesoro, asumió el cargo de primer ministro como "regente temporal". Sin embargo, hay pruebas de que Glabryn trabajaba en secreto con agentes de Khador, debilitando las defensas del reino.
 
-El archiduque **Deyar Glabryn**, ministro del Tesoro, ha asumido el cargo de primer ministro como "regente temporal". Sin embargo, Glabryn no muestra ninguna intención de ceder el poder y hay rumores inquietantes de que trabaja en secreto con agentes de Khador, socavando las defensas del reino.
+**604-605 d.R. - La Invasión**: Khador invadió Llael en un ataque relámpago durante el invierno del 604 d.R. Las grandes ciudades del oeste, Laedry y Elsinberg, fueron las primeras en caer. La conquista de la capital, Merywyn, determinó la ocupación a finales de la primavera del 605 d.R. Khador ejecutó a 37 nobles el 12 de Rowan y colocó sus cabezas sobre las murallas de Merywyn.
 
-Llael se encuentra en un estado de parálisis política, vulnerable como nunca antes. Khador observa con interés.
+Solo la ciudad de **Rhydden** y algunos territorios circundantes permanecen libres. La **Leal Orden de la Rosa Amatista** opera en las sombras, vistiendo luto negro por el final del linaje real.
 
-### El Protectorado de Menoth
+### El Protectorado de Menoth y la Guerra Santa
 
-Oficialmente, el **Protectorado de Menoth** es un vasallo de Cygnar. Los tratados que pusieron fin a la Primera Guerra Civil prohibían a los menitas reunir un ejército permanente. Durante más de un siglo, el Protectorado aparentó acatar estas restricciones.
+Oficialmente, el **Protectorado de Menoth** es un vasallo de Cygnar. Los tratados que pusieron fin a la Primera Guerra Civil prohibían a los menitas reunir un ejército permanente. Durante más de un siglo, el Protectorado aparentó acatar estas restricciones mientras construía en secreto una formidable fuerza militar.
 
-En secreto, sin embargo, los menitas han construido una formidable fuerza militar:
+El jerarca **Garrick Voyle** ha manifestado que la guerra civil jamás terminó, sino que tan sólo se produjo un alto el fuego prolongado. Menoth les envió una señal bajo la forma del **Heraldo**, una profetisa de gran poder. Voyle usó al Heraldo como incentivo para una **Gran Peregrinación**, convocando a todo menita de Immoren.
 
-- Han desarrollado la **Furia de Menoth**, un arma incendiaria derivada del aceite inflamable descubierto en sus tierras
-- Han entrenado a los **Caballeros Exemplar** y otras órdenes militares religiosas
-- Han construido sus propios siervos de guerra en las forjas de Sul
-- Han acumulado diamantes para financiar sus ambiciones
-
-El actual jerarca, **Garrick Voyle**, es un líder carismático y belicoso. Muchos creen que solo es cuestión de tiempo antes de que el Protectorado revele su verdadero poder militar. ¿Qué harán entonces? Los menitas consideran que Caspia les pertenece por derecho divino.
+**6 de Vendarl, Octesh del 605 d.R.**: El Protectorado atacó las murallas de Caspia. Aunque fueron rechazados, la guerra había comenzado. El 1 de Donard, Khadover del 605 d.R., las fuerzas del Protectorado destruyeron el Puente de la Marca, complicando el transporte por ferrocarril cygnarita.
 
 ### La Amenaza de Cryx
 
-El **Imperio de Pesadilla** nunca ha cesado sus incursiones contra el continente. Desde las islas Scharde, los **Señores Liche** de Toruk envían flotas de naves negras, hordas de no-muertos y agentes infiltrados a las naciones costeras.
+El **Imperio de Pesadilla** nunca ha cesado sus incursiones contra el continente. Desde las islas Scharde, los **Lores Liche** de Toruk envían flotas de naves negras, hordas de no-muertos y agentes infiltrados.
 
-Cryx representa una amenaza constante:
-- **Cygnar** sufre ataques en sus ciudades costeras del sur
-- **Ord** padece incursiones piratas cryxianas en sus puertos del oeste
-- **Todas las naciones** tienen agentes de Cryx operando en las sombras, robando cadáveres y sembrando corrupción
+La **Invasión Schardense** (584-588 d.R.) marcó un punto de inflexión cuando numerosos barcos negros saquearon las orillas del continente. El funéreo galeón **Atramento**, envuelto en las llamas de Toruk, fue el responsable de la destrucción de muchas aldeas costeras.
 
-El Padre Dragón Toruk permanece en su isla, pero sus Señores Liche ejecutan sus designios con paciencia inhumana. ¿Qué planean? Nadie lo sabe con certeza.
+Tras la invasión de Llael, las legiones cryxianas han intensificado sus operaciones, destruyendo graneros, aldeas enteras y recogiendo cadáveres de los campos de batalla para aumentar sus legiones de no muertos. Nadie puede permitirse olvidar la amenaza de ver naves negras en el horizonte.
 
 ### Los Kriels Troloides
 
@@ -108,19 +100,21 @@ Los **troloides** han habitado Immoren Occidental desde antes que los humanos. D
 
 Los **kriels** (clanes troloides) luchan por su supervivencia. Algunos buscan coexistir con los humanos. Otros responden con violencia a las incursiones en sus territorios. La expansión de las naciones humanas hace inevitable el conflicto.
 
-### Situación Actual (602 DR)
+### Situación Actual (605-606 d.R.)
 
-Los Reinos de Hierro se encuentran en un equilibrio tenso:
+Los Reinos de Hierro están en guerra:
 
-- **Cygnar** se recupera bajo el reinado de Leto, pero enfrenta amenazas en todas sus fronteras
-- **Khador** acumula fuerzas y observa a sus vecinos con ambición. La emperatriz Ayn Vanar gobierna un imperio que sueña con recuperar su antigua gloria
-- **Llael** está paralizado por la crisis de sucesión. El primer ministro Glabryn gobierna un reino dividido y debilitado
-- El **Protectorado** mantiene la fachada de vasallaje mientras construye su poder en secreto
-- **Ord** juega a la neutralidad, comerciando con todos y proporcionando mercenarios a quien pague
-- **Cryx** acecha desde las islas, una amenaza que ninguna nación puede permitirse ignorar
-- **Ios** permanece cerrado y hostil a los forasteros, guardando secretos que pocos comprenden
-- **Rhul** observa desde sus montañas, comerciando pero evitando involucrarse en los conflictos del sur
+- **Cygnar** lucha en tres frentes: contra Khador al norte por la ocupación de Llael, contra el Protectorado al este que ha atacado Caspia, y contra las incursiones cryxianas en toda la costa occidental
+- **Khador** ha conquistado Llael y ha desviado su atención hacia Cygnar. La reina Ayn Vanar XI persigue la total restauración del Imperio Khárdico
+- **Llael** está ocupada. Solo Rhydden permanece libre. La resistencia opera en las sombras
+- El **Protectorado** ha declarado la guerra santa y ha atacado las murallas de Caspia
+- **Ord** mantiene la neutralidad, comerciando con todos los bandos. El rey Baird intenta convencer a la Orden del Crisol Dorado de trasladarse a Merin
+- **Cryx** aprovecha la guerra para intensificar sus operaciones, recolectando cadáveres de los campos de batalla
+- **Ios** permanece cerrado, mientras el Castigo de Scyrah opera cazando magos humanos
+- **Rhul** observa con preocupación el bloqueo del Río Negro que ha dificultado su comercio con Cygnar
 
-Vinter Raelthorne sigue desaparecido. Algunos creen que murió en las Marcas de Piedrasangrienta. Otros susurran que planea su regreso.
+Vinter Raelthorne reapareció brevemente en Corvis pero volvió a desaparecer en la Marca. Nadie sabe con certeza si planea su regreso.
 
-Es una era de hierro, vapor y pólvora. Una era donde la guerra nunca está lejos.
+Es una era de hierro, vapor y pólvora. Una era de guerra.
+
+[Más información en la Guía del Mundo: Historia y Cronología](guia-del-mundo/capitulo-01.md)
