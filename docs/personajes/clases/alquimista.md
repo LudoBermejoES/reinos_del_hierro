@@ -65,9 +65,11 @@ Conoces los conceptos básicos de la elaboración de alquimia de campo. Durante 
 
 ### Fórmulas Conocidas
 
-Empiezas conociendo 2 fórmulas. Aprendes más según la tabla de progresión. Cada vez que subes de nivel, puedes reemplazar una fórmula por otra.
+Empiezas conociendo 2 fórmulas de la [lista de fórmulas alquímicas](../../alquimia.md). Aprendes más según la tabla de progresión. Cada vez que subes de nivel, puedes reemplazar una fórmula por otra.
 
 **Descubrir nuevas fórmulas**: Puedes copiar fórmulas encontradas en laboratorios o manuscritos. Cuesta 50 po y 2 horas por fórmula. Estas no cuentan para tu límite.
+
+→ [Ver todas las fórmulas, ingredientes y granadas](../../alquimia.md)
 
 ### Resistencia al Veneno (Nivel 1)
 

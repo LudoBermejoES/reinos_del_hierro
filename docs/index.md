@@ -18,6 +18,7 @@ Un mundo de hierro, vapor y pólvora. Un mundo donde la magia y la tecnología s
 - [Magia](magia.md) - El arte arcano en los Reinos de Hierro
 - [Tecnología](tecnologia.md) - Vapor, armas de fuego, alquimia e industria
 - [Mecánika](mecanika.md) - Placas rúnicas, siervos de vapor y el córtex
+- [Alquimia](alquimia.md) - Fórmulas, ingredientes y granadas alquímicas
 
 ### Creación de Personajes
 - [Personajes](personajes/index.md) - Guía completa de creación de personajes
