@@ -1,0 +1,98 @@
+<nav class="sidebar-nav">
+  {% if page.url contains 'naciones' or page.url contains 'historia' or page.url contains 'religion' or page.url contains 'magia' or page.url contains 'tecnologia' or page.url contains 'mecanika' or page.url contains 'alquimia' or page.url contains 'guia-del-mundo' %}
+  <!-- Sidebar de Ambientación -->
+  <div class="nav-section">
+    <h3>⚙ Ambientación</h3>
+    <ul>
+      <li><a href="{{ '/guia-del-mundo/' | relative_url }}" {% if page.url contains 'guia-del-mundo' %}class="active"{% endif %}>Guía del Mundo</a></li>
+      <li><a href="{{ '/historia' | relative_url }}" {% if page.url == '/historia.html' or page.url == '/historia' %}class="active"{% endif %}>Historia</a></li>
+      <li><a href="{{ '/naciones' | relative_url }}" {% if page.url == '/naciones.html' or page.url == '/naciones' %}class="active"{% endif %}>Naciones</a></li>
+      <li><a href="{{ '/religion' | relative_url }}" {% if page.url == '/religion.html' or page.url == '/religion' %}class="active"{% endif %}>Religión</a></li>
+      <li><a href="{{ '/magia' | relative_url }}" {% if page.url == '/magia.html' or page.url == '/magia' %}class="active"{% endif %}>Magia</a></li>
+      <li><a href="{{ '/tecnologia' | relative_url }}" {% if page.url == '/tecnologia.html' or page.url == '/tecnologia' %}class="active"{% endif %}>Tecnología</a></li>
+      <li><a href="{{ '/mecanika' | relative_url }}" {% if page.url == '/mecanika.html' or page.url == '/mecanika' %}class="active"{% endif %}>Mecánika</a></li>
+      <li><a href="{{ '/alquimia' | relative_url }}" {% if page.url == '/alquimia.html' or page.url == '/alquimia' %}class="active"{% endif %}>Alquimia</a></li>
+    </ul>
+  </div>
+
+  {% if page.url contains 'guia-del-mundo' %}
+  <div class="nav-section">
+    <h3>⚙ Capítulos</h3>
+    <ul>
+      <li><a href="{{ '/guia-del-mundo/capitulo-01' | relative_url }}" {% if page.url contains 'capitulo-01' %}class="active"{% endif %}>Historia y Cronología</a></li>
+      <li><a href="{{ '/guia-del-mundo/capitulo-02' | relative_url }}" {% if page.url contains 'capitulo-02' %}class="active"{% endif %}>La Vida en los Reinos</a></li>
+      <li><a href="{{ '/guia-del-mundo/capitulo-03' | relative_url }}" {% if page.url contains 'capitulo-03' %}class="active"{% endif %}>Cygnar</a></li>
+      <li><a href="{{ '/guia-del-mundo/capitulo-04' | relative_url }}" {% if page.url contains 'capitulo-04' %}class="active"{% endif %}>Khador</a></li>
+      <li><a href="{{ '/guia-del-mundo/capitulo-05' | relative_url }}" {% if page.url contains 'capitulo-05' %}class="active"{% endif %}>Llael Ocupada</a></li>
+      <li><a href="{{ '/guia-del-mundo/capitulo-06' | relative_url }}" {% if page.url contains 'capitulo-06' %}class="active"{% endif %}>Protectorado de Menoth</a></li>
+      <li><a href="{{ '/guia-del-mundo/capitulo-07' | relative_url }}" {% if page.url contains 'capitulo-07' %}class="active"{% endif %}>Ord</a></li>
+      <li><a href="{{ '/guia-del-mundo/capitulo-08' | relative_url }}" {% if page.url contains 'capitulo-08' %}class="active"{% endif %}>Cryx, Ios, Rhul y Otros</a></li>
+    </ul>
+  </div>
+  {% endif %}
+
+  {% elsif page.url contains 'personajes' %}
+  <!-- Sidebar de Personajes -->
+  <div class="nav-section">
+    <h3>⚙ Personajes</h3>
+    <ul>
+      <li><a href="{{ '/personajes/' | relative_url }}" {% if page.url == '/personajes/' or page.url == '/personajes/index.html' %}class="active"{% endif %}>Introducción</a></li>
+      <li><a href="{{ '/personajes/esencias' | relative_url }}" {% if page.url contains 'esencias' %}class="active"{% endif %}>Esencias</a></li>
+      <li><a href="{{ '/personajes/razas' | relative_url }}" {% if page.url contains 'razas' %}class="active"{% endif %}>Razas</a></li>
+      <li><a href="{{ '/personajes/clases/' | relative_url }}" {% if page.url contains 'clases' %}class="active"{% endif %}>Clases</a></li>
+      <li><a href="{{ '/personajes/trasfondos/' | relative_url }}" {% if page.url contains 'trasfondos' %}class="active"{% endif %}>Trasfondos</a></li>
+    </ul>
+  </div>
+
+  {% if page.url contains 'clases' %}
+  <div class="nav-section">
+    <h3>⚙ Clases IK</h3>
+    <ul>
+      <li><a href="{{ '/personajes/clases/alquimista' | relative_url }}" {% if page.url contains 'alquimista' %}class="active"{% endif %}>Alquimista</a></li>
+      <li><a href="{{ '/personajes/clases/mago-pistolero' | relative_url }}" {% if page.url contains 'mago-pistolero' %}class="active"{% endif %}>Mago Pistolero</a></li>
+      <li><a href="{{ '/personajes/clases/tirador' | relative_url }}" {% if page.url contains 'tirador' %}class="active"{% endif %}>Tirador</a></li>
+      <li><a href="{{ '/personajes/clases/mecaniko' | relative_url }}" {% if page.url contains 'mecaniko' %}class="active"{% endif %}>Mecániko</a></li>
+      <li><a href="{{ '/personajes/clases/conjurador-de-guerra' | relative_url }}" {% if page.url contains 'conjurador' %}class="active"{% endif %}>Conjurador de Guerra</a></li>
+    </ul>
+  </div>
+  {% endif %}
+
+  {% elsif page.url contains 'aventuras' %}
+  <!-- Sidebar de Aventuras -->
+  <div class="nav-section">
+    <h3>⚙ Aventuras</h3>
+    <ul>
+      <li><a href="{{ '/aventuras/' | relative_url }}" {% if page.url == '/aventuras/' or page.url == '/aventuras/index.html' %}class="active"{% endif %}>Índice</a></li>
+      <li><a href="{{ '/aventuras/aldea-de-espiritus/' | relative_url }}" {% if page.url contains 'aldea-de-espiritus' %}class="active"{% endif %}>Aldea de Espíritus</a></li>
+      <li><a href="{{ '/aventuras/cabeza-ferrea/' | relative_url }}" {% if page.url contains 'cabeza-ferrea' %}class="active"{% endif %}>Cabeza Férrea</a></li>
+    </ul>
+  </div>
+
+  {% else %}
+  <!-- Sidebar por defecto (Inicio) -->
+  <div class="nav-section">
+    <h3>⚙ Navegación</h3>
+    <ul>
+      <li><a href="{{ '/' | relative_url }}">Inicio</a></li>
+      <li><a href="{{ '/guia-del-mundo/' | relative_url }}">Guía del Mundo</a></li>
+      <li><a href="{{ '/naciones' | relative_url }}">Naciones</a></li>
+      <li><a href="{{ '/personajes/' | relative_url }}">Personajes</a></li>
+      <li><a href="{{ '/aventuras/' | relative_url }}">Aventuras</a></li>
+    </ul>
+  </div>
+
+  <div class="nav-section">
+    <h3>⚙ Naciones</h3>
+    <ul>
+      <li><a href="{{ '/naciones#cygnar' | relative_url }}">Cygnar</a></li>
+      <li><a href="{{ '/naciones#khador' | relative_url }}">Khador</a></li>
+      <li><a href="{{ '/naciones#llael-ocupada' | relative_url }}">Llael</a></li>
+      <li><a href="{{ '/naciones#ord' | relative_url }}">Ord</a></li>
+      <li><a href="{{ '/naciones#protectorado-de-menoth' | relative_url }}">Protectorado</a></li>
+      <li><a href="{{ '/naciones#cryx---el-imperio-de-pesadilla' | relative_url }}">Cryx</a></li>
+      <li><a href="{{ '/naciones#rhul---el-reino-de-los-enanos' | relative_url }}">Rhul</a></li>
+      <li><a href="{{ '/naciones#ios---el-reino-de-los-elfos' | relative_url }}">Ios</a></li>
+    </ul>
+  </div>
+  {% endif %}
+</nav>

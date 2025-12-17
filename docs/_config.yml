@@ -1,13 +1,61 @@
 title: Reinos del Hierro
 description: Referencia en español para Iron Kingdoms Requiem
-theme: jekyll-theme-slate
 markdown: kramdown
 
 # Configuración del sitio
 baseurl: ""
 url: "https://rdh.ludobermejo.es"
 
+# Usar layouts personalizados en lugar de tema remoto
+# theme: jekyll-theme-slate
+
+# Configuración de Kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Navegación principal
+navigation:
+  - title: Inicio
+    url: /
+  - title: Ambientación
+    url: /naciones
+    children:
+      - title: Guía del Mundo
+        url: /guia-del-mundo/
+      - title: Historia
+        url: /historia
+      - title: Naciones
+        url: /naciones
+      - title: Religión
+        url: /religion
+      - title: Magia
+        url: /magia
+      - title: Tecnología
+        url: /tecnologia
+      - title: Mecánika
+        url: /mecanika
+      - title: Alquimia
+        url: /alquimia
+  - title: Personajes
+    url: /personajes/
+    children:
+      - title: Esencias
+        url: /personajes/esencias
+      - title: Razas
+        url: /personajes/razas
+      - title: Clases
+        url: /personajes/clases/
+      - title: Trasfondos
+        url: /personajes/trasfondos/
+  - title: Aventuras
+    url: /aventuras/
+
 # Excluir archivos innecesarios
 exclude:
   - README.md
   - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
