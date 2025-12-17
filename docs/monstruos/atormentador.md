@@ -5,6 +5,9 @@ title: Atormentador
 
 # Atormentador
 
+![Atormentador](../../assets/monsters/excruciator.jpeg)
+
+
 *Muerto viviente Mediano, neutral malvado*
 
 ___

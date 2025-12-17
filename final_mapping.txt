@@ -1,0 +1,33 @@
+# YAML_slug|Spanish_Name|Image_file
+agorero|Agorero|foreboder_foreboder.jpeg
+aparicion-mecanika|Aparición Mecánika|machine_wraith_machine_wraith.jpeg
+atormentador|Atormentador|excruciator.jpeg
+aullador|Aullador|howler.jpeg
+batelero|Batelero|boatman.jpeg
+brujarborea|Brujarbórea|witchwood.jpeg
+cascabel|Cascabel|rattler_rattler.jpeg
+cefalico-cognifex|Cefálico Cognifex|cephalyx_cognifex_cephalyx_cognifex.jpeg
+cefalico-demoledor|Cefálico Demoledor|warden.jpeg
+cefalico-esclavista|Cefálico Esclavista|cephalyx_slaver.jpeg
+cefalico-esclavo|Cefálico Esclavo|cephalyx_drudge.jpeg
+cefalico-subyugador|Cefálico Subyugador|subduer.jpeg
+desgarrado|Desgarrado|riven.jpeg
+desolador-umbrio|Desolador Umbrío|desolator.jpeg
+dracodrilo|Dracodrilo|dracodile.jpeg
+dregg|Dregg|dregg.jpeg
+dregg-doloroso|Dregg Doloroso|dregg.jpeg
+esclavo|Esclavo|cephalyx_drudge.jpeg
+gorax|Górax|gorax.jpeg
+gremlin|Gremlin|gremlin.jpeg
+hueco|Hueco|hollowed.jpeg
+mogote-fatidico|Mogote Fatídico|wold_wight.jpeg
+mogote-guardian|Mogote Guardián|wold_guardian.jpeg
+sabuesanguinario|Sabuesanguinario|gorehound_gorehound.jpeg
+saqu|Saqu|saqu.jpeg
+satiro|Sátiro|satyr.jpeg
+skigg|Skigg|skigg.jpeg
+suido-bruto|Suido Bruto|farrow_brute.jpeg
+suido-caudillo|Suido Caudillo|farrow_warlord_farrow_warlord.jpeg
+suido-chaman|Suido Chamán|farrow.jpeg
+suido-gigante|Suido Gigante|farrow.jpeg
+tatzylwurm-viperino|Tatzylwurm Viperino|tatzylwurm_viper.jpeg

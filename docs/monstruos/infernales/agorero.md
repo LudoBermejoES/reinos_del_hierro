@@ -5,6 +5,9 @@ title: Agorero
 
 # Agorero
 
+![Agorero](../../assets/monsters/foreboder_foreboder.jpeg)
+
+
 *Demonio Pequeño (horror infernal), legal malvado*
 
 ___

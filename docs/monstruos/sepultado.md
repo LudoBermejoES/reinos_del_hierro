@@ -5,6 +5,9 @@ title: Sepultado
 
 # Sepultado
 
+![Sepultado](../../assets/monsters/entombed.jpeg)
+
+
 *Muerto viviente Mediano, caótico malvado*
 
 ___

@@ -5,6 +5,9 @@ title: Chillador
 
 # Chillador
 
+![Chillador](../../assets/monsters/shrieker.jpeg)
+
+
 *Demonio Mediano (horror infernal), legal malvado*
 
 ___

@@ -5,6 +5,9 @@ title: Argos Común
 
 # Argos Común
 
+![Argos Común](../../assets/monsters/common_argus.jpeg)
+
+
 *Bestia Mediana, sin alineamiento*
 
 ___

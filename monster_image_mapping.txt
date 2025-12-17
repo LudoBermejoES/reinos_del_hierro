@@ -1,0 +1,8 @@
+# YAML slug | Spanish Name | Image file
+dregg|Dregg|dregg.jpeg
+dregg-doloroso|Dregg Doloroso|dregg.jpeg
+gorax|Górax|gorax.jpeg
+gremlin|Gremlin|gremlin.jpeg
+saqu|Saqu|saqu.jpeg
+skigg|Skigg|skigg.jpeg
+tatzylwurm-viperino|Tatzylwurm Viperino|tatzylwurm_viper.jpeg

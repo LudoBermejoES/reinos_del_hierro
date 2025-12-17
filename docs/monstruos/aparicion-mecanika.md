@@ -5,6 +5,9 @@ title: Aparición Mecánika
 
 # Aparición Mecánika
 
+![Aparición Mecánika](../../assets/monsters/machine_wraith_machine_wraith.jpeg)
+
+
 *Autómata Grande (necrotécniko), caótico malvado*
 
 ___

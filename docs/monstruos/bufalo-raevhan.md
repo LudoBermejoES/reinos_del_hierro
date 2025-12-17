@@ -5,6 +5,9 @@ title: Búfalo Raevhan
 
 # Búfalo Raevhan
 
+![Búfalo Raevhan](../../assets/monsters/raevhan_buffalo.jpeg)
+
+
 *Bestia Enorme, sin alineamiento*
 
 ___

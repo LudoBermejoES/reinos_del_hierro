@@ -5,6 +5,9 @@ title: Enjambre Óseo
 
 # Enjambre Óseo
 
+![Enjambre Óseo](../../assets/monsters/boneswarm.jpeg)
+
+
 *Muerto viviente Grande, sin alineamiento*
 
 ___

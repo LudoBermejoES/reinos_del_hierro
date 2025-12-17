@@ -5,6 +5,9 @@ title: Dregg Doloroso
 
 # Dregg Doloroso
 
+![Dregg Doloroso](../../assets/monsters/dregg_pain_monger.jpeg)
+
+
 *Humanoide Mediano, caótico malvado*
 
 ___

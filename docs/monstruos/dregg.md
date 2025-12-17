@@ -5,6 +5,9 @@ title: Dregg
 
 # Dregg
 
+![Dregg](../../assets/monsters/dregg.jpeg)
+
+
 *Humanoide Mediano, caótico malvado*
 
 ___

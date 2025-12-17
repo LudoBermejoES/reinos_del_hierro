@@ -5,6 +5,9 @@ title: Sythyss
 
 # Sythyss
 
+![Sythyss](../../assets/monsters/sea_drake.jpeg)
+
+
 *Muerto viviente Mediano, cualquier alineamiento malvado*
 
 ___
@@ -19,8 +22,8 @@ ___
 
 ___
 - **Tiradas de salvación** Des +9, Sab +7, Car +9
-- **Habilidades** Conocimiento Arcano +8, Historia +8, Percepción
-- **Resistencia a daño** frío, necrótico; contundente, cortante y perforante no mágicos ni hechos con armas de material orgánico (hueso, madera, etcétera).
+- **Habilidades** Conocimiento Arcano +8, Historia +8, Percepción +7
+- **Resistencia a daño** frío, necrótico; contundente, cortante y perforante no mágicos ni hechos con armas de material orgánico (hueso, madera, etcétera)
 - **Inmunidad a estados** cansancio, envenenado
 - **Sentidos** visión en la oscuridad 120 pies, Percepción pasiva 17
 - **Idiomas** los idiomas que conociera en vida
@@ -29,17 +32,23 @@ ___
 ___
 ***Aura Profanadora.*** Cualquier criatura viva que comience su turno a 5 pies del sobrenatural debe superar una tirada de salvación de Constitución CD 18 o adquirir vulnerabilidad al daño necrótico hasta el comienzo de su siguiente turno. Si la criatura no es un autómata y tiene resistencia o inmunidad al daño necrótico, las perderá hasta el comienzo de su siguiente turno.
 
-***Debilidades del Sobrenatural.*** Un sobrenatural debe cometer trece asesinatos rituales cada año. Si no logra completar este rito, su puntuación de Fuerza se reduce en 1 cada semana hasta que se cometan todos los crímenes. La puntuación de Fuerza del sobrenatural no se puede reducir a  0.
+***Debilidades del Sobrenatural.*** Un sobrenatural debe cometer trece asesinatos rituales cada año. Si no logra completar este rito, su puntuación de Fuerza se reduce en 1 cada semana hasta que se cometan todos los crímenes. La puntuación de Fuerza del sobrenatural no se puede reducir a 0.
 
-***Lanzamiento de Conjuros Innato.*** Su aptitud mágica es Carisma (salvación de conjuros CD 17, +9 a impactar con ataques de conjuro). Puede lanzar de forma innata los siguientes conjuros, sin necesidad de componentes materiales: A voluntad: disfrazarse, oscuridad, rayo de escarcha, toque helado 1/día cada uno: acelerar, círculo de muerte, inmovilizar monstruo, susurros discordantes
+***Lanzamiento de Conjuros Innato.*** Su aptitud mágica es Carisma (salvación de conjuros CD 17, +9 a impactar con ataques de conjuro). Puede lanzar de forma innata los siguientes conjuros, sin necesidad de componentes materiales:
+- A voluntad: disfrazarse, oscuridad, rayo de escarcha, toque helado
+- 1/día cada uno: acelerar, círculo de muerte, inmovilizar monstruo, susurros discordantes
 
-***Regeneración.*** El sobrenatural recupera 20 puntos de golpe al principio de su turno si tiene al menos 1 punto de golpe. Si recibe daño radiante, este atributo no tendrá efecto al comienzo de su siguiente turno. Resistencia Legendaria (3/día). El sobrenatural puede elegir tener éxito en una tirada de salvación que haya fallado.
+***Regeneración.*** El sobrenatural recupera 20 puntos de golpe al principio de su turno si tiene al menos 1 punto de golpe. Si recibe daño radiante, este atributo no tendrá efecto al comienzo de su siguiente turno.
+
+***Resistencia Legendaria (3/día).*** El sobrenatural puede elegir tener éxito en una tirada de salvación que haya fallado.
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El sobrenatural realiza dos ataques: uno con su toque helado y otro con su garra, o dos ataques con su garra.
 
-***Acciones Ataque múltiple.***
+***Toque helado.*** Ataque con arma cuerpo a cuerpo: +9 a impactar, alcance 5 pies, un objetivo. Impacto: 17 (3d8 + 4) de daño necrótico.
+
+***Garra.*** Ataque con arma cuerpo a cuerpo: +9 a impactar, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) de daño cortante.
 
 ___
 ---

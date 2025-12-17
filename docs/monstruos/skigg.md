@@ -5,6 +5,9 @@ title: Skigg
 
 # Skigg
 
+![Skigg](../../assets/monsters/skigg.jpeg)
+
+
 *Bestia Pequeña, sin alineamiento*
 
 ___

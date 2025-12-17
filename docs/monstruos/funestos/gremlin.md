@@ -5,6 +5,9 @@ title: Gremlin
 
 # Gremlin
 
+![Gremlin](../../assets/monsters/gremlin.jpeg)
+
+
 *Feérico Diminuto (funesto), caótico neutral*
 
 ___

@@ -1,0 +1,11 @@
+skigg.md|skigg.jpeg|exacto
+saqu.md|saqu.jpeg|exacto
+gorax.md|gorax.jpeg|exacto
+dregg.md|dregg.jpeg|exacto
+dregg-doloroso.md|dregg.jpeg|img en md
+hombres-caiman/bokor.md|gatorman_bokor.jpeg|md en img
+mogotes/guardian.md|wold_guardian.jpeg|md en img
+funestos/gremlin.md|gremlin.jpeg|exacto
+cefalicos/guardian.md|wold_guardian.jpeg|md en img
+cefalicos/cognifex.md|cephalyx_cognifex_cephalyx_cognifex.jpeg|md en img
+dracos/mar.md|thamarite_archon.jpeg|md en img

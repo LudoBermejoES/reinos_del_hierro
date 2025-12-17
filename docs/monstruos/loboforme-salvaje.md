@@ -5,6 +5,9 @@ title: Loboforme Salvaje
 
 # Loboforme Salvaje
 
+![Loboforme Salvaje](../../assets/monsters/feral_warpwolf.jpeg)
+
+
 *Humanoide Grande (humano, cambiaformas), caótico malvado*
 
 ___

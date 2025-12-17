@@ -5,6 +5,9 @@ title: Cascabel
 
 # Cascabel
 
+![Cascabel](../../assets/monsters/rattler_rattler.jpeg)
+
+
 *Feérico Grande (funesto), caótico neutral*
 
 ___

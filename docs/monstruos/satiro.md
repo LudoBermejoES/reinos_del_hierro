@@ -5,6 +5,9 @@ title: Sátiro
 
 # Sátiro
 
+![Sátiro](../../assets/monsters/satyr.jpeg)
+
+
 *Bestia Grande, neutral*
 
 ___

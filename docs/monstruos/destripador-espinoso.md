@@ -5,6 +5,9 @@ title: Destripador Espinoso
 
 # Destripador Espinoso
 
+![Destripador Espinoso](../../assets/monsters/spine_ripper.jpeg)
+
+
 *Monstruosidad Grande, sin alineamiento*
 
 ___

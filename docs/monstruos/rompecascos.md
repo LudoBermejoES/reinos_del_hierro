@@ -5,6 +5,9 @@ title: Rompecascos
 
 # Rompecascos
 
+![Rompecascos](../../assets/monsters/wrecker.jpeg)
+
+
 *Bestia Enorme, sin alineamiento*
 
 ___

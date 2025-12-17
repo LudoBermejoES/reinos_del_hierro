@@ -5,6 +5,9 @@ title: Fantasma Feral
 
 # Fantasma Feral
 
+![Fantasma Feral](../../assets/monsters/wraith.jpeg)
+
+
 *Muerto viviente Mediano, caótico malvado*
 
 ___

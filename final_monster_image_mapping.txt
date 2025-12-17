@@ -1,0 +1,127 @@
+# YAML_slug|Spanish_Name|Image_file
+acechador-sepulcral|Acechador Sepulcral|sepulchral_lurker.jpeg
+acechadora-de-almas|Acechadora de Almas|soul_stalker.jpeg
+agorero|Agorero|foreboder_foreboder.jpeg
+aparecido-mortalicio|Aparecido Mortalicio|deathbound_revenant.jpeg
+aparicion-mecanika|Aparición Mecánika|machine_wraith_machine_wraith.jpeg
+aporreador-del-bosquespino|Aporreador del Bosquespino|thornwood_mauler.jpeg
+arana-de-cripta|Araña de Cripta|crypt_spider.jpeg
+arconte-del-vacio|Arconte del Vacío|void_archon.jpeg
+arconte-dhuniano|Arconte Dhuniano|dhunian_archon.jpeg
+arconte-menita|Arconte Menita|menite_archon.jpeg
+arconte-morrowano|Arconte Morrowano|morrowan_archon.jpeg
+arconte-primordial|Arconte Primordial|primal_archon.jpeg
+arconte-thamarita|Arconte Thamarita|thamarite_archon.jpeg
+argos-comun|Argos Común|common_argus.jpeg
+argos-invernal|Argos Invernal|winter_argus.jpeg
+asolador|Asolador|desolator.jpeg
+atormentador|Atormentador|excruciator.jpeg
+aullador|Aullador|howler.jpeg
+bandada-de-escilas|Bandada de Escilas|scylla_flock.jpeg
+batelero|Batelero|boatman.jpeg
+brujarborea|Brujarbórea|witchwood.jpeg
+bufalo-raevhan|Búfalo Raevhan|raevhan_buffalo.jpeg
+cascabel|Cascabel|rattler_rattler.jpeg
+cazador-totemico|Cazador Totémico|totem_hunter.jpeg
+cefalico-cognifex|Cefálico Cognifex|cephalyx_cognifex_cephalyx_cognifex.jpeg
+cefalico-demoledor|Cefálico Demoledor|warden.jpeg
+cefalico-esclavista|Cefálico Esclavista|cephalyx_slaver.jpeg
+cefalico-esclavo|Cefálico Esclavo|cephalyx_drudge.jpeg
+cefalico-guardian|Cefálico Guardián|cephalyx_cognifex_cephalyx_cognifex.jpeg
+cefalico-subyugador|Cefálico Subyugador|subduer.jpeg
+chillador|Chillador|shrieker.jpeg
+comisario|Comisario|archons.jpeg
+croan-cazador|Croan Cazador|croak_hunter.jpeg
+croan-hechicero|Croan Hechicero|croak_sorcerer.jpeg
+cuervo-asesino|Cuervo Asesino|murder_crow.jpeg
+desgarrado|Desgarrado|riven.jpeg
+desolador-umbrio|Desolador Umbrío|desolator.jpeg
+destripador-espinoso|Destripador Espinoso|spine_ripper.jpeg
+doncella-de-hierro|Doncella de Hierro|iron_maiden.jpeg
+draco-de-la-escarcha|Draco de la Escarcha|frost_drake.jpeg
+draco-de-las-profundidades|Draco de las Profundidades|deep_drake.jpeg
+draco-de-mar|Draco de Mar|sea_drake.jpeg
+draco-de-niebla|Draco de Niebla|fog_drake.jpeg
+dracodrilo|Dracodrilo|dracodile.jpeg
+dregg|Dregg|dregg.jpeg
+dregg-doloroso|Dregg Doloroso|dregg_pain_monger.jpeg
+duende-de-la-cuba|Duende de la Cuba|cask_imp.jpeg
+duende-del-reflejo|Duende del Reflejo|glimmer_imp.jpeg
+engendro-de-dragon|Engendro de Dragón|drakes.jpeg
+engendro-de-dragon-menor|Engendro de Dragón Menor|drakes.jpeg
+enjambre-de-ratas-del-diablo|Enjambre de Ratas del Diablo|swarm_of_devil_rats.jpeg
+enjambre-oseo|Enjambre Óseo|boneswarm.jpeg
+escarabajo-catafracto|Escarabajo Catafracto|cataphract_beetle.jpeg
+escarabajos-buitre|Escarabajos Buitre|swarm_of_buzzard_beetles.jpeg
+esclavo|Esclavo|cephalyx_drudge.jpeg
+espanto|Espanto|horror.jpeg
+excavador-mandiente|Excavador Mandiente|burrow_mawg.jpeg
+fantasma-feral|Fantasma Feral|wraith.jpeg
+giganton-de-chatarra|Gigantón de Chatarra|junker_hulk.jpeg
+gorax|Górax|gorax.jpeg
+gremlin|Gremlin|gremlin.jpeg
+grifo-de-colinamarcada|Grifo de Colinamarcada|scarsfell_griffon.jpeg
+hermanas-del-crepusculo|Hermanas del Crepúsculo|grymkin.jpeg
+hombre-caiman-alma-esclava|Hombre Caimán Alma Esclava|gatorman_gatorman.jpeg
+hombre-caiman-bokor|Hombre Caimán Bokor|gatorman_bokor.jpeg
+hombre-caiman-cascaron|Hombre Caimán Cascarón|gatorman_husk.jpeg
+hombre-hueco|Hombre Hueco|hollowman_hollowman.jpeg
+hueco|Hueco|hollowed.jpeg
+inmortal|Inmortal|deathless.jpeg
+lastimero|Lastimero|lamenter.jpeg
+liche-de-hierro|Liche de Hierro|iron_lich.jpeg
+lobo-del-ocaso|Lobo del Ocaso|duskwolf.jpeg
+loboforme-salvaje|Loboforme Salvaje|feral_warpwolf.jpeg
+matadero|Matadero|slaughterhouse.jpeg
+mecaesclavo-abotagado|Mecaesclavo Abotagado|laborjack.jpeg
+mecaesclavo-biliar|Mecaesclavo Biliar|laborjack.jpeg
+mecaesclavo-brutal|Mecaesclavo Brutal|laborjack.jpeg
+mecaesclavo-cazador-de-almas|Mecaesclavo Cazador de Almas|laborjack.jpeg
+merodeador-de-las-dunas|Merodeador de las Dunas|dune_prowler.jpeg
+mogote-alcaide|Mogote Alcaide|woldwarden.jpeg
+mogote-centinela|Mogote Centinela|woldwatcher.jpeg
+mogote-fatidico|Mogote Fatídico|wold_wight.jpeg
+mogote-fatuo|Mogote Fatuo|woldwyrd.jpeg
+mogote-guardian|Mogote Guardián|wold_guardian.jpeg
+mortificante|Mortificante|dread.jpeg
+murcielagos-navaja|Murciélagos Navaja|razorbat_swarm.jpeg
+oso-viudo|Oso Viudo|widow_bear.jpeg
+piel-y-planidos|Piel y Plañidos|grymkin.jpeg
+pistolero-espectral|Pistolero Espectral|nightmare.jpeg
+podredumbre-terrorifica|Podredumbre Terrorífica|dread_rot.jpeg
+rata-del-diablo-matriarca|Rata del Diablo Matriarca|devil_rat.jpeg
+rata-del-diablo-putrida|Rata del Diablo Pútrida|devil_rat.jpeg
+rompecascos|Rompecascos|wrecker.jpeg
+sabuesanguinario|Sabuesanguinario|gorehound_gorehound.jpeg
+saqu|Saqu|saqu.jpeg
+satiro|Sátiro|satyr.jpeg
+senor-de-la-voracidad|Señor de la Voracidad|greed_lord.jpeg
+sepultado|Sepultado|entombed.jpeg
+siervo-de-guerra-ligero|Siervo de Guerra Ligero|laborjack.jpeg
+siervo-de-la-muerte|Siervo de la Muerte|deathjack.jpeg
+siervo-de-trabajo-ligero|Siervo de Trabajo Ligero|light_laborjack.jpeg
+siervo-de-trabajo-pesado|Siervo de Trabajo Pesado|heavy_laborjack.jpeg
+skigg|Skigg|skigg.jpeg
+suido-bruto|Suido Bruto|farrow_brute.jpeg
+suido-caudillo|Suido Caudillo|farrow_warlord_farrow_warlord.jpeg
+suido-chaman|Suido Chamán|farrow_shaman_farrow_shaman.jpeg
+suido-gigante|Suido Gigante|giant_farrow.jpeg
+sythyss|Sythyss|sea_drake.jpeg
+tatzylwurm-coloreado|Tatzylwurm Coloreado|painted_tatzylwurm.jpeg
+tatzylwurm-negro|Tatzylwurm Negro|black_tatzylwurm.jpeg
+tatzylwurm-palido|Tatzylwurm Pálido|pale_tatzylwurm.jpeg
+tatzylwurm-viperino|Tatzylwurm Viperino|tatzylwurm_viper.jpeg
+thrullg|Thrullg|trolls.jpeg
+trampillero|Trampillero|trapperkin.jpeg
+trask-bocacuerno|Trask Bocacuerno|hornbeak_trask.jpeg
+troglodita-del-pantano-arrastrero|Troglodita del Pantano Arrastrero|bog_trog_trawler.jpeg
+troglodita-del-pantano-orador-de-la-niebla|Troglodita del Pantano Orador de la Niebla|croak_sorcerer.jpeg
+troll-comun|Troll Común|common_troll.jpeg
+troll-de-pantano|Troll de Pantano|swamp_troll.jpeg
+troll-incandescente|Troll Incandescente|pyre_troll.jpeg
+troll-invernal|Troll Invernal|winter_troll.jpeg
+troll-magmatico|Troll Magmático|slag_troll.jpeg
+troll-nocturno|Troll Nocturno|night_troll.jpeg
+troll-terrible|Troll Terrible|dire_troll.jpeg
+vektiss|Vektiss|sea_drake.jpeg
+yegua-pesadillesca|Yegua Pesadillesca|nightmare.jpeg

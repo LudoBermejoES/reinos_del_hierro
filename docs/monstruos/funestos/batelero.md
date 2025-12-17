@@ -5,6 +5,9 @@ title: Batelero
 
 # Batelero
 
+![Batelero](../../assets/monsters/boatman.jpeg)
+
+
 *Feérico mediano (funesto), legal malvado*
 
 ___

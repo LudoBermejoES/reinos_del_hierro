@@ -5,6 +5,9 @@ title: Acechador Sepulcral
 
 # Acechador Sepulcral
 
+![Acechador Sepulcral](../../assets/monsters/sepulchral_lurker.jpeg)
+
+
 *Muerto viviente Grande, neutral malvado*
 
 ___

@@ -5,6 +5,9 @@ title: Thrullg
 
 # Thrullg
 
+![Thrullg](../../assets/monsters/trolls.jpeg)
+
+
 *Aberración Grande, sin alineamiento*
 
 ___

@@ -5,6 +5,9 @@ title: Escarabajo Catafracto
 
 # Escarabajo Catafracto
 
+![Escarabajo Catafracto](../../assets/monsters/cataphract_beetle.jpeg)
+
+
 *Bestia Pequeña, sin alineamiento*
 
 ___

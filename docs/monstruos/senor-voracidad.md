@@ -9,7 +9,7 @@ title: Señor de la Voracidad
 
 ___
 - **Clase de Armadura** 19 (armadura natural)
-- **Puntos de Golpe** 285 (20d10 + 80)
+- **Puntos de Golpe** 285 (20d10 + 80)
 - **Velocidad** 40 pies
 
 ___
@@ -28,11 +28,11 @@ ___
 - **Desafío** 17 (18.000 PX)
 
 ___
-***Armas Primordiales.*** Los ataques con armas del Señor de la
+***Armas Primordiales.*** Los ataques con armas del Señor de la Voracidad son mágicos. Cuando impacta con cualquier arma, esta inflige 10 (3d6) de daño necrótico adicional (ya incluido en el ataque).
 
-***Voracidad son mágicos.*** Cuando impacta con cualquier arma, esta inflige 10 (3d6) de daño necrótico adicional (ya incluido en el ataque).
+***Frenesí Sangriento.*** El Señor de la Voracidad tiene ventaja en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura que no tenga todos sus puntos de golpe.
 
-***Frenesí Sangriento.*** El Señor de la Voracidad tiene ventaja en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura que no tenga todos sus puntos de golpe. Resistencia Legendaria (3/día). El Señor de la Voracidad puede elegir tener éxito en una tirada de salvación que haya fallado.
+***Resistencia Legendaria (3/día).*** El Señor de la Voracidad puede elegir tener éxito en una tirada de salvación que haya fallado.
 
 ***Resistencia Mágica.*** El Señor de la Voracidad tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
@@ -40,9 +40,11 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El Señor de la Voracidad realiza cuatro ataques con sus garras.
 
-***El vuelo del cuervo (recarga 5–6).***
+***Garra.*** Ataque con arma cuerpo a cuerpo: +12 a impactar, alcance 10 pies, un objetivo. Impacto: 13 (2d6 + 6) de daño cortante más 10 (3d6) de daño necrótico.
+
+***El vuelo del cuervo (recarga 5–6).*** El Señor de la Voracidad se transforma en una nube de cuervos espectrales y se teletransporta hasta 120 pies a un espacio desocupado que pueda ver. Todas las criaturas en un radio de 10 pies alrededor del punto de partida y destino deben superar una tirada de salvación de Destreza CD 18 o recibir 27 (6d8) de daño necrótico, o la mitad si tienen éxito.
 
 ___
 ---

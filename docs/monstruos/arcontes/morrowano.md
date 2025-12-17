@@ -38,20 +38,24 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El arconte realiza dos ataques con su lanza.
 
 ### Reacciones
 
-***Defensa con escudo.*** Cuando una criatura aliada a 15 pies o menos del arconte sea impactada por un ataque a distancia, este puede usar su reacción para recibir el impacto en su lugar. Acciones legendarias El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones presentadas a continuación. Solo es capaz de utilizar una acción legendaria a la vez, y únicamente al final del turno de otra criatura. El arconte recupera las acciones legendarias gastadas al principio de su turno.
+***Defensa con escudo.*** Cuando una criatura aliada a 15 pies o menos del arconte sea impactada por un ataque a distancia, este puede usar su reacción para recibir el impacto en su lugar.
+
+### Acciones Legendarias
+
+El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones presentadas a continuación. Solo es capaz de utilizar una acción legendaria a la vez, y únicamente al final del turno de otra criatura. El arconte recupera las acciones legendarias gastadas al principio de su turno.
 
 ***Moverse.*** El arconte se mueve toda su velocidad sin provocar ataques de oportunidad.
 
-***Ataque de lanza.*** El arconte realiza un ataque con lanza. Inspiración divina (cuesta 2 acciones). Hasta el final del próximo turno del arconte, las criaturas aliadas a 30 pies o menos hacen las tiradas de ataque con ventaja. Arconte morrowano El término «arconte» se ha convertido en sinónimo de la fe morrowana para la mayoría de las personas que viven en
+***Ataque de lanza.*** El arconte realiza un ataque con lanza.
 
-***Immoren Occidental.*** La Hueste de Arcontes es aceptada como la manifestación de la voluntad de Morrow en Caen y sus impresionantes apariciones siempre son trascendentales. La visión de un solo arconte morrowano puede helar hasta la sangre de los más devotos, ya que estos seres anuncian acontecimientos tan terroríficos como revolucionarios. Aunque se cree que la hueste incluye a todos los antiguos primarcas, hay otras almas en sus filas que incluyen a los grandes héroes y campeones de la fe que perecieron tras un servicio inquebrantable. Los arcontes morrowanos se han descrito de varias maneras, aunque «ángeles de luz» es la más habitual. Algunos observadores han comentado que las alas de estos arcontes están hechas de luz pura, como si el resplandor del sol que aparece en el símbolo sagrado de
-
-***Morrow se manifestara en Caen.*** Aunque la mayoría de los arcontes morrowanos no tienen rostro o resultan irreconocibles, los hay que han sido reconocidos como un héroe de la fe fallecido, ya fuera un antiguo primarca, un caballero o incluso un ascendente. De igual manera, se han manifestado vistiendo armaduras y ropas de todo tipo y empuñando diferentes armas o símbolos de la fe.
+***Inspiración divina (cuesta 2 acciones).*** Hasta el final del próximo turno del arconte, las criaturas aliadas a 30 pies o menos hacen las tiradas de ataque con ventaja.
 
 ___
+> *El término «arconte» se ha convertido en sinónimo de la fe morrowana para la mayoría de las personas que viven en Immoren Occidental. La Hueste de Arcontes es aceptada como la manifestación de la voluntad de Morrow en Caen y sus impresionantes apariciones siempre son trascendentales. La visión de un solo arconte morrowano puede helar hasta la sangre de los más devotos, ya que estos seres anuncian acontecimientos tan terroríficos como revolucionarios. Aunque se cree que la hueste incluye a todos los antiguos primarcas, hay otras almas en sus filas que incluyen a los grandes héroes y campeones de la fe que perecieron tras un servicio inquebrantable. Los arcontes morrowanos se han descrito de varias maneras, aunque «ángeles de luz» es la más habitual. Algunos observadores han comentado que las alas de estos arcontes están hechas de luz pura, como si el resplandor del sol que aparece en el símbolo sagrado de Morrow se manifestara en Caen. Aunque la mayoría de los arcontes morrowanos no tienen rostro o resultan irreconocibles, los hay que han sido reconocidos como un héroe de la fe fallecido, ya fuera un antiguo primarca, un caballero o incluso un ascendente. De igual manera, se han manifestado vistiendo armaduras y ropas de todo tipo y empuñando diferentes armas o símbolos de la fe.*
+
 ---
 [← Volver al Índice](../index.md)

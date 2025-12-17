@@ -5,6 +5,9 @@ title: Saqu
 
 # Saqu
 
+![Saqu](../../assets/monsters/saqu.jpeg)
+
+
 *Bestia Grande, sin alineamiento*
 
 ___

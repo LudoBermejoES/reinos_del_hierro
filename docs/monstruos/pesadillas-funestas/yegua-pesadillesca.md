@@ -5,6 +5,9 @@ title: Yegua Pesadillesca
 
 # Yegua Pesadillesca
 
+![Yegua Pesadillesca](../../assets/monsters/nightmare.jpeg)
+
+
 *Feérico Grande (funesto), sin alineamiento*
 
 ___
