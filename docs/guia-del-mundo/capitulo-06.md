@@ -80,7 +80,9 @@ En términos geográficos, el Protectorado ha descubierto tres recursos muy abun
 
 El Protectorado no estará satisfecho hasta que todo el reino (y el resto de la humanidad) esté sometida a la voluntad de Menoth. Los sul-menitas sienten un odio especial hacia el Santuario de Caspia. Este odio se ha visto avivado por el Jerarca Garrick Voyle, quien ha trabajado incesantemente para construir las fuerzas armadas del Protectorado, violando los tratados .
 
-###¿QUIÉN ES EL HERALDO?El Protectorado está inmerso en una cruzada para reclamar toda Immoren occidental para Menoth. Previamente a la declaración de guerra, Menoth les envió una señal bajo la forma del **Heraldo**, una profetisa de gran poder de la cual se dice que habla directamente con su dios. El Jerarca Voyle consulta al Heraldo en todos los asuntos espirituales. Voyle usó al Heraldo como incentivo para una Gran Peregrinación, convocando a todo menita de Immoren para que presenciasen su gloria; decenas de miles de peregrinos desbordaron el Protectorado, incrementando la población y confiriendo los números necesarios para la guerra santa .
+### ¿QUIÉN ES EL HERALDO?
+
+El Protectorado está inmerso en una cruzada para reclamar toda Immoren occidental para Menoth. Previamente a la declaración de guerra, Menoth les envió una señal bajo la forma del **Heraldo**, una profetisa de gran poder de la cual se dice que habla directamente con su dios. El Jerarca Voyle consulta al Heraldo en todos los asuntos espirituales. Voyle usó al Heraldo como incentivo para una Gran Peregrinación, convocando a todo menita de Immoren para que presenciasen su gloria; decenas de miles de peregrinos desbordaron el Protectorado, incrementando la población y confiriendo los números necesarios para la guerra santa .
 
 ### AIRES DE GUERRA* 
 

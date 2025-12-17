@@ -1,4 +1,6 @@
-# CRYX, IOS, RHUL Y OTROS> “¡De rodillas, mis vermes hijos! ¡Inclinad vuestras miserables cabezas! ¡Seréis mi progenie o mi festín! Vuestro destino es el servicio, y sólo el servicio, pues sois míos tanto en vida como en muerte. Escoged la insolencia, y la liberación de la muerte siempre os será negada. En su lugar, sufriréis un tormento eterno. Ahora arrodillaos, y forjaremos una nación imperecedera que sacudirá los cimientos del mundo. ¡Arrodillaos!”
+# CRYX, IOS, RHUL Y OTROS
+
+> “¡De rodillas, mis vermes hijos! ¡Inclinad vuestras miserables cabezas! ¡Seréis mi progenie o mi festín! Vuestro destino es el servicio, y sólo el servicio, pues sois míos tanto en vida como en muerte. Escoged la insolencia, y la liberación de la muerte siempre os será negada. En su lugar, sufriréis un tormento eterno. Ahora arrodillaos, y forjaremos una nación imperecedera que sacudirá los cimientos del mundo. ¡Arrodillaos!”
 > —Lord Toruk, el Dragón Padre, a los futuros señores liche .
 > 
 > 
