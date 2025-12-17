@@ -13,21 +13,21 @@ Fuente: https://dnd5e.wikidot.com//background:entertainer
 
 ## Características del Trasfondo
 
-**Mejora de Característica:** Por completar.
+**Mejora de Característica:** Tu puntuación de Carisma o Destreza aumenta en 1.
 
-**Competencias en habilidades:** Por completar.
+**Competencias en habilidades:** Interpretación y Acrobacias o Persuasión (elige una).
 
-**Competencias con herramientas:** Por completar.
+**Competencias con herramientas:** Un instrumento musical a tu elección y kit de disfraz.
 
-**Idiomas:** Por completar.
+**Idiomas:** Uno a tu elección.
 
-**Equipo:** Por completar.
+**Equipo:** Un instrumento musical (a tu elección), un atuendo llamativo de intérprete, un recuerdo de un público agradecido (una flor prensada, una nota o baratija), y una bolsa con 15 po.
 
 ---
 
 ## Rasgo: Por completar
 
-Describe aquí el beneficio característico de este trasfondo.
+Tu presencia en escena y tu reputación te abren puertas. En asentamientos donde hayas actuado, puedes encontrar con facilidad alojamiento modesto y comida a cambio de ofrecer actuaciones breves. Además, cuando llegas a una ciudad, puedes averiguar rápidamente dónde se reúnen artistas, promotores y público, y obtener información sobre eventos locales relacionados con espectáculos.
 
 ---
 
@@ -37,19 +37,49 @@ Los artistas son carismáticos y creativos. Buscan el aplauso y las historias qu
 
 ### Rasgos de Personalidad
 
-Por completar.
+| d8 | Rasgo |
+|----|-------|
+| 1 | Siempre busco un escenario, aunque sea improvisado. |
+| 2 | No puedo resistirme a contar una buena historia. |
+| 3 | Mi atuendo dice tanto de mí como mis palabras. |
+| 4 | Practico mis números incluso cuando nadie mira. |
+| 5 | Me encanta animar a los demás con humor y música. |
+| 6 | Soy perfeccionista y repito cada gesto hasta que sale bien. |
+| 7 | Necesito la atención del público como otros necesitan aire. |
+| 8 | Tras el telón, soy más reservado de lo que aparento. |
 
 ### Ideales
 
-Por completar.
+| d6 | Ideal |
+|----|-------|
+| 1 | **Arte.** El arte debe elevar y conmover. (Bueno) |
+| 2 | **Tradición.** Mantengo vivas las viejas canciones y obras. (Legal) |
+| 3 | **Libertad.** En el escenario soy realmente libre. (Caótico) |
+| 4 | **Fama.** La gloria y el nombre son mi objetivo. (Cualquiera) |
+| 5 | **Comunidad.** Actúo para la gente, no para los nobles. (Bueno) |
+| 6 | **Ambición.** Cada función debe superar a la anterior. (Cualquiera) |
 
 ### Vínculos
 
-Por completar.
+| d6 | Vínculo |
+|----|---------|
+| 1 | Debo mi carrera a un maestro que me enseñó todo. |
+| 2 | Un teatro concreto es mi hogar y haré lo que sea por él. |
+| 3 | Una canción heredada de mi familia nunca faltará en mis actuaciones. |
+| 4 | Un público salvó mi vida en una noche difícil; siempre volveré allí. |
+| 5 | Un compañero de troupe es como mi propia sangre. |
+| 6 | Llevo conmigo el recuerdo de mi primer gran aplauso. |
 
 ### Defectos
 
-Por completar.
+| d6 | Defecto |
+|----|---------|
+| 1 | Busco la aprobación incluso cuando no hace falta. |
+| 2 | Soy vanidoso y me ofende la crítica. |
+| 3 | Prometo más actuaciones de las que puedo cumplir. |
+| 4 | Gasto en vestuario todo lo que gano. |
+| 5 | Rivalizo con otros artistas y me cuesta colaborar. |
+| 6 | Confundo la atención del público con afecto real. |
 
 ---
 
