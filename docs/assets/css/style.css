@@ -780,3 +780,39 @@ em {
   background: var(--color-brass);
   color: var(--color-bg-dark);
 }
+
+/* === IMÁGENES DE MONSTRUOS === */
+.content img[src*="/assets/monsters/"] {
+  display: block;
+  max-width: 600px;
+  max-height: 500px;
+  width: auto;
+  height: auto;
+  margin: var(--spacing-lg) auto;
+  border: 2px solid var(--color-border);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-lg);
+  object-fit: contain;
+  background: var(--color-bg-light);
+}
+
+/* Imagen de monstruo en hover */
+.content img[src*="/assets/monsters/"]:hover {
+  border-color: var(--color-brass);
+  box-shadow: 0 0 20px rgba(181, 166, 66, 0.3);
+  cursor: pointer;
+}
+
+/* Responsive: móviles */
+@media (max-width: 768px) {
+  .content img[src*="/assets/monsters/"] {
+    max-width: 100%;
+    max-height: 400px;
+  }
+}
+
+@media (max-width: 480px) {
+  .content img[src*="/assets/monsters/"] {
+    max-height: 300px;
+  }
+}
