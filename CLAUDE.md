@@ -5,11 +5,18 @@
 Sitio web en español sobre Iron Kingdoms: Requiem para servir como referencia en campañas de rol.
 Se alojará en GitHub Pages.
 
+## Proyectos Relacionados
+
+- **RdH** (`/Users/ludo/code/RdH/`) - Este proyecto: documentación y personajes en español
+- **ik** (`/Users/ludo/code/ik/`) - Módulo Foundry VTT con compendios (inglés y español)
+- **dnd5e** (`/Users/ludo/code/dnd5e/`) - Sistema D&D 5e de Foundry (referencia)
+
 ## Estado Actual
 
 - **Fase**: Datos extraídos, pendiente de crear la página web
 - **Contenido fuente**: `content/spanish_by_bookmarks/` (301 secciones del libro)
 - **Página web**: No creada todavía
+- **Personajes**: 12 personajes pregenerados en `docs/aventuras/`
 
 ## Estructura del Proyecto
 
@@ -24,10 +31,15 @@ Se alojará en GitHub Pages.
 │       ├── 268_4-equipo-y-mecánika/      # Cap 4: Equipo
 │       ├── 283_5-siervos-de-vapor/       # Cap 5: Warjacks
 │       └── 295_6-guía-del-director-de-juego/  # Cap 6: DJ
+├── docs/                         # GitHub Pages
+│   ├── aventuras/                # Aventuras con personajes pregenerados
+│   │   ├── aldea-de-espiritus/   # 6 personajes (Khador)
+│   │   └── cabeza-ferrea/        # 6 personajes (estación de tren enana)
+│   └── personajes/               # Referencia de opciones de personaje
+│       └── trasfondos/           # Trasfondos IK con tablas de personalidad
 ├── books/                        # PDFs fuente (excluido de git)
 ├── tools/                        # Scripts Python de extracción
 ├── assets/                       # Imágenes (futuro)
-├── docs/                         # GitHub Pages (FUTURO - no existe aún)
 ├── README.md
 └── CLAUDE.md
 ```
@@ -50,6 +62,68 @@ python tools/extractByBookmarks.py books/archivo.pdf -o output --flat  # Sin dir
 
 ### foundryExporter.py
 Genera YAML para Foundry VTT (heredado del proyecto ik5e, puede no ser necesario aquí).
+
+## Personajes Pregenerados
+
+### Ubicación de los personajes
+
+Los personajes en markdown están en `docs/aventuras/`:
+- `aldea-de-espiritus/` - 6 personajes para aventura en Khador
+- `cabeza-ferrea/` - 6 personajes para aventura en estación de tren enana
+
+### Generar JSONs para Foundry VTT
+
+Los JSONs se generan con el script `characterConverter.py` del proyecto **ik**:
+
+```bash
+cd /Users/ludo/code/ik/tools
+
+# Convertir todos los personajes de una aventura
+python3 characterConverter.py /Users/ludo/code/RdH/docs/aventuras/aldea-de-espiritus -o /Users/ludo/code/ik/docs/foundry_actors
+
+python3 characterConverter.py /Users/ludo/code/RdH/docs/aventuras/cabeza-ferrea -o /Users/ludo/code/ik/docs/foundry_actors
+
+# Convertir un solo personaje
+python3 characterConverter.py /Users/ludo/code/RdH/docs/aventuras/aldea-de-espiritus/yuri-koskov.md -o /Users/ludo/code/ik/docs/foundry_actors
+```
+
+Los JSONs generados van a `/Users/ludo/code/ik/docs/foundry_actors/`.
+
+### Formato del Markdown de Personaje
+
+Ver `/Users/ludo/code/ik/CLAUDE.md` para el formato completo. Secciones clave:
+
+- `# Nombre` - Nombre del personaje
+- `**Clase N** · Raza` - Clase, nivel y raza
+- `## Características` - Tabla con FUE, DES, CON, INT, SAB, CAR
+- `## Atributos de Combate` - CA, PG, Velocidad
+- `## Trucos` - Trucos para conjuradores (formato: `- **Nombre** — descripción`)
+- `## Conjuros Preparados > ### Nivel 1` - Conjuros de nivel 1
+- `## Equipo` - Tabla con objetos y peso
+- `## Trasfondo: Nombre > ### Personalidad` - Rasgos de personalidad
+- `## Notas` - Esencia, Aspecto, Historia
+
+### Personajes Actuales
+
+**Aldea de Espíritus:**
+| Personaje | Clase | Raza | Conjurador |
+|-----------|-------|------|------------|
+| Dmitri Volkov | Paladín 1 | Humano Khadorano | Sí |
+| Gorluk Tharok | Guerrero 1 | Ogrun | No |
+| Ivan Starov | Bardo 1 | Humano Khadorano | Sí |
+| Misha Krasnov | Pícaro 1 | Humano Khadorano | No |
+| Grindar Bloodborn | Explorador 1 | Troloide | Sí |
+| Yuri Koskov | Clérigo 1 | Humano Khadorano | Sí |
+
+**Cabeza Férrea:**
+| Personaje | Clase | Raza | Conjurador |
+|-----------|-------|------|------------|
+| Brokk Steadfast | Clérigo 1 | Troloide Urbano | Sí |
+| Elias Dunford | Pícaro 1 | Humano Cygnarano | No |
+| Torgun Ironbid | Guerrero 1 | Ogrun Rhúlico | No |
+| Nola Carvalo | Maga Pistolera 1 | Humana Órdica | Sí |
+| Gek-Darabin | Alquimista 1 | Gobo | No |
+| Hilda Forgebloom | Mecánika 1 | Enana Rhúlica | No |
 
 ## Contenido del Libro (referencia rápida)
 

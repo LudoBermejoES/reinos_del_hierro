@@ -130,6 +130,13 @@ Como **acción adicional**, puedes crear: fluido alcalino, gas fétido, humo sim
 - **Idiomas:** Rhúlico, Molgur-og
 - **Rasgo:** Regateador Experto
 
+### Personalidad
+
+- **Rasgo:** Siempre soy optimista. Pocos eventos, si es que hay alguno, pueden amargar mi estado de ánimo.
+- **Ideal:** Rareza. Las baratijas comunes no me interesan. Quiero encontrar las cosas más inusuales que pueda. (Cualquiera)
+- **Vínculo:** Trabajo duro para mantener a mi familia.
+- **Defecto:** Arriesgar mi vida por artículos raros y caros no es algo que considere inadmisible.
+
 ---
 
 ## Notas

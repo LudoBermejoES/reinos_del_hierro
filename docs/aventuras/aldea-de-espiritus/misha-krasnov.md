@@ -120,7 +120,14 @@ Tienes pericia (doble competencia) en **2 habilidades**: Sigilo y Juego de manos
 - **Competencias de habilidad:** Engaño, Intimidación
 - **Competencias de herramientas:** Juego de cartas
 - **Idioma adicional:** Germanía de Cinco Dedos
-- **Rasgo:** Contactos Criminales
+- **Rasgo:** Pasado Violento
+
+### Personalidad
+
+- **Rasgo:** Actúo rápido y sin llamar la atención.
+- **Ideal:** Libertad. Esta vida me permite elegir mi camino. (Caótico)
+- **Vínculo:** Me traicionó un camarada. Me vengaré.
+- **Defecto:** Me obsesiono con los problemas, y tengo dificultades para dejar pasar un objetivo.
 
 ---
 

@@ -124,12 +124,19 @@ Puedes usar propiedades de maestría con 2 tipos de armas: **arco largo** y **ha
 
 ---
 
-## Trasfondo: Nómada
+## Trasfondo: Vagabundo
 
 - **Competencias de habilidad:** Atletismo, Supervivencia
 - **Competencias de herramientas:** Instrumento musical (cuerno de guerra)
 - **Idioma adicional:** Molgur-og
-- **Rasgo:** Errante
+- **Rasgo:** Sentido del Peligro
+
+### Personalidad
+
+- **Rasgo:** Lo he visto todo. Ya no me sorprende nada.
+- **Ideal:** Camaradas. Lucho por los que están a mi lado. (Bueno)
+- **Vínculo:** Lucho por aquellos que no pueden luchar por sí mismos.
+- **Defecto:** Los recuerdos de la guerra a menudo me llevan al fondo de una botella.
 
 ---
 

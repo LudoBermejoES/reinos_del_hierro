@@ -134,6 +134,13 @@ Competencia en armas marciales y entrenamiento con armaduras pesadas.
 - **Idioma adicional:** Rhúlico
 - **Rasgo:** Sentido del Peligro
 
+### Personalidad
+
+- **Rasgo:** Me gusta ayudar a quienes lo necesitan.
+- **Ideal:** Camaradas. Lucho por los que están a mi lado. (Bueno)
+- **Vínculo:** Lucho con la esperanza de que nadie más tenga que experimentar este nivel de calamidad.
+- **Defecto:** Cometí un error vital que llevó a la muerte de varios compañeros. Viviré con esa vergüenza para el resto de mi vida.
+
 ---
 
 ## Notas

@@ -124,6 +124,13 @@ Puedes usar propiedades de maestría con 2 tipos de armas: **espada larga** y **
 - **Competencias de herramientas:** Juego de cartas, vehículos terrestres
 - **Rasgo:** Rango Militar
 
+### Personalidad
+
+- **Rasgo:** Siempre soy educado y respetuoso.
+- **Ideal:** Bien mayor. Nuestro destino es dar la vida en defensa de otros. (Bueno)
+- **Vínculo:** Lucho por aquellos que no pueden luchar por sí mismos.
+- **Defecto:** Estoy atormentado por los recuerdos de la guerra. No puedo quitarme las imágenes de violencia de la mente.
+
 ---
 
 ## Notas

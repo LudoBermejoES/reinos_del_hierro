@@ -129,6 +129,13 @@ Tienes pericia (doble competencia) en **2 habilidades**: Engaño e Investigació
 - **Idioma adicional:** Khadorano
 - **Rasgo:** Astuto
 
+### Personalidad
+
+- **Rasgo:** La confianza se tiene que ganar. Nunca la doy sin más.
+- **Ideal:** Verdad. La verdad, por muy incómoda que sea, debe ser descubierta y contada. (Legal)
+- **Vínculo:** No fui lo suficientemente bueno para atrapar a alguien que terminó arruinando mi vida, pero lograré justicia.
+- **Defecto:** Espero que me mientan en todo momento.
+
 ---
 
 ## Notas

@@ -120,6 +120,13 @@ Ventaja en tiradas de Percepción en entornos industriales. Sabes si una máquin
 - **Idiomas:** Molgur-og, Gobés
 - **Rasgo:** Empleo Fácil
 
+### Personalidad
+
+- **Rasgo:** Si vale la pena hacer un trabajo, vale la pena hacerlo bien.
+- **Ideal:** Profesión. Soy buena en lo que hago y eso me da de comer. (Cualquiera)
+- **Vínculo:** La primera cuadrilla que dirigí se convirtió en una familia adoptiva para mí. Todavía tengo fuertes lazos con ellos.
+- **Defecto:** Me enfado rápido cuando me llevan la contraria.
+
 ---
 
 ## Notas

@@ -134,6 +134,13 @@ Como **acción adicional**, concede un **d6** a una criatura a 18 m que pueda o�
 - **Competencias de herramientas:** Kit de disfraz
 - **Rasgo:** Actuación Popular
 
+### Personalidad
+
+- **Rasgo:** Conozco una historia relevante para casi cualquier situación.
+- **Ideal:** Honestidad. El arte debe reflejar el alma; debe venir de dentro. (Cualquiera)
+- **Vínculo:** Una vez satiricé a un noble que aún quiere mi cabeza.
+- **Defecto:** Tengo problemas para ocultar mis verdaderos sentimientos. Mi lengua afilada me mete en problemas.
+
 ---
 
 ## Notas

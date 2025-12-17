@@ -129,7 +129,14 @@ Competencia en armas marciales y entrenamiento con armaduras pesadas.
 - **Competencias de habilidad:** Naturaleza, Supervivencia
 - **Competencias de herramientas:** Herramientas de cartógrafo
 - **Idioma adicional:** Molgur-trul
-- **Rasgo:** Guía del Yermo
+- **Rasgo:** Patrón
+
+### Personalidad
+
+- **Rasgo:** Las fogatas son el escenario perfecto y me encanta contar historias.
+- **Ideal:** Descubrimiento. Quiero descubrir todo lo que hay que saber sobre el mundo y compartir esa comprensión con los demás. (Bueno)
+- **Vínculo:** Seré el primero en trazar los desconocidos misterios de Zu.
+- **Defecto:** Ser el primero en hacer un descubrimiento es más importante que mi seguridad y tengo cicatrices que lo demuestran.
 
 ---
 

@@ -112,7 +112,14 @@ Como **acción adicional**, recuperas **1d10 + 1 puntos de golpe**.
 - **Competencias de habilidad:** Atletismo, Percepción
 - **Competencias de herramientas:** Vehículos terrestres
 - **Idioma adicional:** Cygnarano
-- **Rasgo:** Vida de Mercenario
+- **Rasgo:** La Cédula
+
+### Personalidad
+
+- **Rasgo:** Me cuesta confiar incluso en mis camaradas.
+- **Ideal:** Protección. Aunque lucho por dinero, hago lo posible por defender a los indefensos. (Bueno)
+- **Vínculo:** Busco deshacer un terrible mal de mi pasado.
+- **Defecto:** La batalla me ha marcado física y mentalmente, y nunca seré igual otra vez.
 
 ---
 

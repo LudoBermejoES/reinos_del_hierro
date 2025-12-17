@@ -19,7 +19,9 @@ Si usas las reglas de esencia pero quieres usar un trasfondo que no se incluye a
 
 ---
 
-## Trasfondos por Categoría
+## Trasfondos de Iron Kingdoms: Requiem
+
+Los siguientes trasfondos son específicos del setting de los Reinos de Hierro.
 
 ### Órdenes Arcanas
 
@@ -80,7 +82,94 @@ Si usas las reglas de esencia pero quieres usar un trasfondo que no se incluye a
 
 ---
 
+## Trasfondos del Manual del Jugador (D&D 5e)
+
+Los siguientes trasfondos provienen del Manual del Jugador de D&D 5e y pueden usarse en cualquier campaña.
+
+### Religiosos y Eruditos
+
+| Trasfondo | Descripción |
+|-----------|-------------|
+| [Acólito](acolito.md) | Servidor de un templo que actúa como intermediario entre lo divino y lo mortal |
+| [Erudito Enclaustrado](erudito-enclaustrado.md) | Estudioso que ha pasado años en una biblioteca o monasterio |
+| [Sabio](sabio.md) | Dedicado al estudio de historia, arcanos o ciencias naturales |
+
+### Militares y Guerreros
+
+| Trasfondo | Descripción |
+|-----------|-------------|
+| [Soldado](soldado.md) | Veterano de un ejército o milicia con experiencia en combate |
+| [Veterano Mercenario](veterano-mercenario.md) | Soldado de fortuna con años de experiencia en compañías de mercenarios |
+| [Caballero de la Orden](caballero-de-la-orden.md) | Miembro de una orden caballeresca con deberes y privilegios |
+| [Guardia Urbana](guardia-urbana.md) | Protector del orden en una ciudad o asentamiento |
+| [Vigilante de la Ciudad](vigilante-de-la-ciudad.md) | Defensor de las calles que conoce los secretos urbanos |
+
+### Marítimos y Viajeros
+
+| Trasfondo | Descripción |
+|-----------|-------------|
+| [Marinero](marinero.md) | Trabajador de barcos que domina la jerga y oficios del mar |
+| [Marino](marino.md) | Experimentado navegante de los océanos |
+| [Maestro de Barcos](maestro-de-barcos.md) | Capitán o navegante experto en rutas marítimas |
+| [Pescador](pescador.md) | Conocedor de las aguas y sus secretos |
+| [Contrabandista](contrabandista.md) | Experto en mover mercancías evitando la ley |
+
+### Crimen y Engaño
+
+| Trasfondo | Descripción |
+|-----------|-------------|
+| [Criminal](criminal.md) | Experimentado en el mundo del hampa y los bajos fondos |
+| [Charlatán](charlatan.md) | Maestro del engaño que vive de estafas y mentiras |
+
+### Nobleza y Corte
+
+| Trasfondo | Descripción |
+|-----------|-------------|
+| [Noble](noble.md) | Miembro de una familia con título y privilegios |
+| [Cortesano](cortesano.md) | Conocedor de la política y las intrigas de la corte |
+| [Heredero](heredero.md) | Destinado a recibir título, tierras o responsabilidades |
+
+### Artesanos y Artistas
+
+| Trasfondo | Descripción |
+|-----------|-------------|
+| [Artista](artista.md) | Intérprete que vive del escenario y cautiva audiencias |
+| [Artesano de Clan](artesano-de-clan.md) | Maestro de un oficio respetado por su comunidad |
+| [Artesano de Gremio](artesano-de-gremio.md) | Miembro de un gremio de artesanos con contactos y recursos |
+| [Tallador de Runas](tallador-de-runas.md) | Experto en trazar símbolos antiguos con poder sutil |
+
+### Exploradores y Supervivientes
+
+| Trasfondo | Descripción |
+|-----------|-------------|
+| [Forastero](forastero.md) | Habitante de tierras salvajes que conoce la supervivencia |
+| [Héroe del Pueblo](heroe-del-pueblo.md) | Defensor de los humildes reconocido por su comunidad |
+| [Atleta](atleta.md) | Competidor entrenado en disciplinas físicas |
+| [Antropólogo](antropologo.md) | Estudioso de culturas y pueblos lejanos |
+| [Arqueólogo](arqueologo.md) | Explorador de ruinas y buscador de tesoros antiguos |
+| [Viajero Lejano](viajero-lejano.md) | Vagabundo que ha recorrido tierras distantes |
+
+### Organizaciones y Facciones
+
+| Trasfondo | Descripción |
+|-----------|-------------|
+| [Agente de Facción](agente-de-faccion.md) | Miembro de una organización con objetivos y recursos |
+| [Agente de Casa](agente-de-casa.md) | Representante de una casa noble o mercantil |
+
+### Orígenes Especiales
+
+| Trasfondo | Descripción |
+|-----------|-------------|
+| [Atormentado](atormentado.md) | Marcado por experiencias traumáticas o sobrenaturales |
+| [Cría de Gigante](cria-de-gigante.md) | Criado entre gigantes con una perspectiva única |
+| [Perdido entre las Hadas](perdido-entre-las-hadas.md) | Alguien que pasó tiempo en el reino feérico |
+| [Sin Rostro](sin-rostro.md) | Maestro del anonimato con una identidad secreta |
+
+---
+
 ## Lista Alfabética Completa
+
+### Trasfondos de Iron Kingdoms
 
 | Trasfondo | Mejora | Descripción Breve |
 |-----------|--------|-------------------|
@@ -106,6 +195,45 @@ Si usas las reglas de esencia pero quieres usar un trasfondo que no se incluye a
 | [Soldado de Trinchera](soldado-trinchera.md) | FUE/CON | Veterano del frente |
 | [Vagabundo](vagabundo.md) | DES/SAB | Refugiado o errante |
 | [Veterano de la Resistencia](veterano-resistencia.md) | DES/CAR | Combatiente de la resistencia llaelesa |
+
+### Trasfondos de D&D 5e
+
+| Trasfondo | Fuente | Descripción Breve |
+|-----------|--------|-------------------|
+| [Acólito](acolito.md) | PHB | Servidor de un templo |
+| [Agente de Casa](agente-de-casa.md) | Suplemento | Representante de una casa noble |
+| [Agente de Facción](agente-de-faccion.md) | Suplemento | Miembro de una organización |
+| [Antropólogo](antropologo.md) | Suplemento | Estudioso de culturas |
+| [Arqueólogo](arqueologo.md) | Suplemento | Explorador de ruinas |
+| [Artesano de Clan](artesano-de-clan.md) | Suplemento | Maestro artesano de comunidad |
+| [Artesano de Gremio](artesano-de-gremio.md) | PHB | Miembro de gremio de artesanos |
+| [Artista](artista.md) | PHB | Intérprete y artista escénico |
+| [Atleta](atleta.md) | Suplemento | Competidor entrenado |
+| [Atormentado](atormentado.md) | Suplemento | Marcado por el trauma |
+| [Caballero de la Orden](caballero-de-la-orden.md) | Suplemento | Miembro de orden caballeresca |
+| [Charlatán](charlatan.md) | PHB | Maestro del engaño |
+| [Contrabandista](contrabandista.md) | Suplemento | Experto en comercio ilegal |
+| [Cortesano](cortesano.md) | Suplemento | Conocedor de la corte |
+| [Cría de Gigante](cria-de-gigante.md) | Suplemento | Criado entre gigantes |
+| [Criminal](criminal.md) | PHB | Experimentado en el hampa |
+| [Erudito Enclaustrado](erudito-enclaustrado.md) | Suplemento | Estudioso recluido |
+| [Forastero](forastero.md) | PHB | Habitante de tierras salvajes |
+| [Guardia Urbana](guardia-urbana.md) | Suplemento | Protector del orden urbano |
+| [Heredero](heredero.md) | Suplemento | Destinado a heredar |
+| [Héroe del Pueblo](heroe-del-pueblo.md) | PHB | Defensor de los humildes |
+| [Maestro de Barcos](maestro-de-barcos.md) | Suplemento | Capitán o navegante experto |
+| [Marinero](marinero.md) | PHB | Trabajador de barcos |
+| [Marino](marino.md) | Suplemento | Navegante experimentado |
+| [Noble](noble.md) | PHB | Miembro de familia noble |
+| [Perdido entre las Hadas](perdido-entre-las-hadas.md) | Suplemento | Visitante del reino feérico |
+| [Pescador](pescador.md) | Suplemento | Conocedor de las aguas |
+| [Sabio](sabio.md) | PHB | Dedicado al estudio |
+| [Sin Rostro](sin-rostro.md) | Suplemento | Maestro del anonimato |
+| [Soldado](soldado.md) | PHB | Veterano militar |
+| [Tallador de Runas](tallador-de-runas.md) | Suplemento | Experto en símbolos antiguos |
+| [Veterano Mercenario](veterano-mercenario.md) | Suplemento | Soldado de fortuna veterano |
+| [Viajero Lejano](viajero-lejano.md) | Suplemento | Vagabundo de tierras distantes |
+| [Vigilante de la Ciudad](vigilante-de-la-ciudad.md) | Suplemento | Defensor de las calles |
 
 ---
 

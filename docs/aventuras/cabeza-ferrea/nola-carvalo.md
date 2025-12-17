@@ -137,7 +137,14 @@ A nivel 1 elige tu Orden. **Aún no seleccionada** (se elige a nivel 1 pero otor
 - **Competencias de habilidad:** Atletismo, Intimidación
 - **Competencias de herramientas:** Vehículos acuáticos, Juego de cartas
 - **Idioma adicional:** Scharde
-- **Rasgo:** Reputación Intimidante
+- **Rasgo:** Autoridad Legal
+
+### Personalidad
+
+- **Rasgo:** Valoro mi libertad por encima de todo y no puedo soportar ver a nadie atado u oprimido.
+- **Ideal:** Tripulación. Mis compañeros de tripulación son más importantes para mí que cualquier código ético. (Cualquiera)
+- **Vínculo:** Mi tripulación es mi vida y los protejo a toda costa.
+- **Defecto:** Soy incapaz de huir de una pelea.
 
 ---
 

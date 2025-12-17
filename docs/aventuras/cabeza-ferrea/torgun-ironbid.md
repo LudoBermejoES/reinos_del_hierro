@@ -121,6 +121,13 @@ Como **acción adicional**, recuperas **1d10 + 1 puntos de golpe**.
 - **Idiomas:** Cygnarano, Khadorano
 - **Rasgo:** Patrón
 
+### Personalidad
+
+- **Rasgo:** He pasado tanto tiempo en la naturaleza que no sé actuar ante compañías selectas.
+- **Ideal:** Historia. Comprender el pasado de nuestras naciones es la única forma de trazar nuestro camino a seguir. (Bueno)
+- **Vínculo:** Algún día publicaré mis escritos en la biblioteca de mi universidad.
+- **Defecto:** No puedo soportar las puertas cerradas. Como mínimo tengo que echarle un vistazo a lo que hay detrás.
+
 ---
 
 ## Notas
