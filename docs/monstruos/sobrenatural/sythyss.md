@@ -5,7 +5,7 @@ title: Sythyss
 
 # Sythyss
 
-![Sythyss](../../assets/monsters/sea_drake.jpeg)
+![Sythyss](/assets/monsters/sea_drake.jpeg)
 
 
 *Muerto viviente Mediano, cualquier alineamiento malvado*

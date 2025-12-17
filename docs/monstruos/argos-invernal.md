@@ -5,7 +5,7 @@ title: Argos Invernal
 
 # Argos Invernal
 
-![Argos Invernal](../../assets/monsters/winter_argus.jpeg)
+![Argos Invernal](/assets/monsters/winter_argus.jpeg)
 
 
 *Bestia Mediana, sin alineamiento*

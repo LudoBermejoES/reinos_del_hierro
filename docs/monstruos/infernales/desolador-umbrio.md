@@ -5,7 +5,7 @@ title: Desolador Umbrío
 
 # Desolador Umbrío
 
-![Desolador Umbrío](../../assets/monsters/desolator.jpeg)
+![Desolador Umbrío](/assets/monsters/desolator.jpeg)
 
 
 *Demonio Mediano (infernal), legal malvado*

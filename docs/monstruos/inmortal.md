@@ -5,7 +5,7 @@ title: Inmortal
 
 # Inmortal
 
-![Inmortal](../../assets/monsters/deathless.jpeg)
+![Inmortal](/assets/monsters/deathless.jpeg)
 
 
 *Muerto viviente Mediano, neutral malvado*

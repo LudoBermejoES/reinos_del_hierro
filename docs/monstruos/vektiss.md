@@ -5,7 +5,7 @@ title: Vektiss
 
 # Vektiss
 
-![Vektiss](../../assets/monsters/sea_drake.jpeg)
+![Vektiss](/assets/monsters/sea_drake.jpeg)
 
 
 *Aberración Mediana, sin alineamiento*

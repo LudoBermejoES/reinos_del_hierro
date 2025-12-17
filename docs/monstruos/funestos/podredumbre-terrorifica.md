@@ -5,7 +5,7 @@ title: Podredumbre Terrorífica
 
 # Podredumbre Terrorífica
 
-![Podredumbre Terrorífica](../../assets/monsters/dread_rot.jpeg)
+![Podredumbre Terrorífica](/assets/monsters/dread_rot.jpeg)
 
 
 *Feérico mediano (funesto), legal malvado*

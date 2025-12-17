@@ -5,7 +5,7 @@ title: Excavador Mandiente
 
 # Excavador Mandiente
 
-![Excavador Mandiente](../../assets/monsters/burrow_mawg.jpeg)
+![Excavador Mandiente](/assets/monsters/burrow_mawg.jpeg)
 
 
 *Bestia Diminuta, sin alineamiento*

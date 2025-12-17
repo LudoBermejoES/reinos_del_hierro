@@ -5,7 +5,7 @@ title: Cazador Totémico
 
 # Cazador Totémico
 
-![Cazador Totémico](../../assets/monsters/totem_hunter.jpeg)
+![Cazador Totémico](/assets/monsters/totem_hunter.jpeg)
 
 
 *Humanoide Mediano, neutral*

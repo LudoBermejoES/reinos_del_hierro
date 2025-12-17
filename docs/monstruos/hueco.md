@@ -5,7 +5,7 @@ title: Hueco
 
 # Hueco
 
-![Hueco](../../assets/monsters/hollowed.jpeg)
+![Hueco](/assets/monsters/hollowed.jpeg)
 
 
 *Muerto viviente Mediano, neutral malvado*

@@ -5,7 +5,7 @@ title: Pistolero Espectral
 
 # Pistolero Espectral
 
-![Pistolero Espectral](../../assets/monsters/nightmare.jpeg)
+![Pistolero Espectral](/assets/monsters/nightmare.jpeg)
 
 
 *Muerto viviente Mediano, cualquier alineamiento malvado*

@@ -5,7 +5,7 @@ title: Escarabajos Buitre
 
 # Escarabajos Buitre
 
-![Escarabajos Buitre](../../assets/monsters/swarm_of_buzzard_beetles.jpeg)
+![Escarabajos Buitre](/assets/monsters/swarm_of_buzzard_beetles.jpeg)
 
 
 *Enjambre Mediano de bestias Diminutas, sin alineamiento*

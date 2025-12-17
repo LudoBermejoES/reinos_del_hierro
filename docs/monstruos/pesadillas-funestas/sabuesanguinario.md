@@ -5,7 +5,7 @@ title: Sabuesanguinario
 
 # Sabuesanguinario
 
-![Sabuesanguinario](../../assets/monsters/gorehound_gorehound.jpeg)
+![Sabuesanguinario](/assets/monsters/gorehound_gorehound.jpeg)
 
 
 *Feérico Grande (funesto), legal malvado*

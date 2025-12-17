@@ -5,7 +5,7 @@ title: Mortificante
 
 # Mortificante
 
-![Mortificante](../../assets/monsters/dread.jpeg)
+![Mortificante](/assets/monsters/dread.jpeg)
 
 
 *Demonio Pequeño (horror infernal), legal malvado*

@@ -5,7 +5,7 @@ title: Asolador
 
 # Asolador
 
-![Asolador](../../assets/monsters/desolator.jpeg)
+![Asolador](/assets/monsters/desolator.jpeg)
 
 
 *Demonio Grande (horror infernal), legal malvado*

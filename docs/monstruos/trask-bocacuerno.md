@@ -5,7 +5,7 @@ title: Trask Bocacuerno
 
 # Trask Bocacuerno
 
-![Trask Bocacuerno](../../assets/monsters/hornbeak_trask.jpeg)
+![Trask Bocacuerno](/assets/monsters/hornbeak_trask.jpeg)
 
 
 *Bestia Pequeña, sin alineamiento*

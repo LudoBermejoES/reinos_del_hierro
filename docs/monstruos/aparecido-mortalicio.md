@@ -5,7 +5,7 @@ title: Aparecido Mortalicio
 
 # Aparecido Mortalicio
 
-![Aparecido Mortalicio](../../assets/monsters/deathbound_revenant.jpeg)
+![Aparecido Mortalicio](/assets/monsters/deathbound_revenant.jpeg)
 
 
 *Muerto viviente Mediano, caótico malvado*

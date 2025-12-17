@@ -5,7 +5,7 @@ title: Brujarbórea
 
 # Brujarbórea
 
-![Brujarbórea](../../assets/monsters/witchwood.jpeg)
+![Brujarbórea](/assets/monsters/witchwood.jpeg)
 
 
 *Feérico Grande (funesto), caótico neutral*

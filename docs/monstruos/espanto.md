@@ -5,7 +5,7 @@ title: Espanto
 
 # Espanto
 
-![Espanto](../../assets/monsters/horror.jpeg)
+![Espanto](/assets/monsters/horror.jpeg)
 
 
 *Muerto viviente Mediano, neutral malvado*

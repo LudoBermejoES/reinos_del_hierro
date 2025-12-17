@@ -5,7 +5,7 @@ title: Aullador
 
 # Aullador
 
-![Aullador](../../assets/monsters/howler.jpeg)
+![Aullador](/assets/monsters/howler.jpeg)
 
 
 *Demonio Mediano (infernal), legal malvado*

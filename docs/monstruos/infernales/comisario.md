@@ -5,7 +5,7 @@ title: Comisario
 
 # Comisario
 
-![Comisario](../../assets/monsters/archons.jpeg)
+![Comisario](/assets/monsters/archons.jpeg)
 
 
 *Demonio Grande (infernal), legal malvado*

@@ -5,7 +5,7 @@ title: Trampillero
 
 # Trampillero
 
-![Trampillero](../../assets/monsters/trapperkin.jpeg)
+![Trampillero](/assets/monsters/trapperkin.jpeg)
 
 
 *Feérico Pequeño (funesto), caótico malvado*

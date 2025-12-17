@@ -5,7 +5,7 @@ title: Murciélagos Navaja
 
 # Murciélagos Navaja
 
-![Murciélagos Navaja](../../assets/monsters/razorbat_swarm.jpeg)
+![Murciélagos Navaja](/assets/monsters/razorbat_swarm.jpeg)
 
 
 *Enjambre Mediano de bestias Diminutas, sin alineamiento*

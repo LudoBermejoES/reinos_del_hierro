@@ -5,7 +5,7 @@ title: Lastimero
 
 # Lastimero
 
-![Lastimero](../../assets/monsters/lamenter.jpeg)
+![Lastimero](/assets/monsters/lamenter.jpeg)
 
 
 *Demonio Grande (horror infernal), legal malvado*

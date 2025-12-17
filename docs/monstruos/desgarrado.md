@@ -5,7 +5,7 @@ title: Desgarrado
 
 # Desgarrado
 
-![Desgarrado](../../assets/monsters/riven.jpeg)
+![Desgarrado](/assets/monsters/riven.jpeg)
 
 
 *Muerto viviente Mediano, neutral malvado*

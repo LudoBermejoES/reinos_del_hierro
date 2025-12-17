@@ -5,7 +5,7 @@ title: Cuervo Asesino
 
 # Cuervo Asesino
 
-![Cuervo Asesino](../../assets/monsters/murder_crow.jpeg)
+![Cuervo Asesino](/assets/monsters/murder_crow.jpeg)
 
 
 *Feérico Mediano (funesto), caótico neutral*

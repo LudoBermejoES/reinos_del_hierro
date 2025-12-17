@@ -5,7 +5,7 @@ title: Esclavo
 
 # Esclavo
 
-![Esclavo](../../assets/monsters/cephalyx_drudge.jpeg)
+![Esclavo](/assets/monsters/cephalyx_drudge.jpeg)
 
 
 *Muerto viviente Mediano, neutral malvado*

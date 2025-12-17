@@ -5,7 +5,7 @@ title: Hombre Hueco
 
 # Hombre Hueco
 
-![Hombre Hueco](../../assets/monsters/hollowman_hollowman.jpeg)
+![Hombre Hueco](/assets/monsters/hollowman_hollowman.jpeg)
 
 
 *Feérico Mediano (funesto), sin alineamiento*

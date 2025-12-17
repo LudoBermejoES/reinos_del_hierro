@@ -5,7 +5,7 @@ title: Górax
 
 # Górax
 
-![Górax](../../assets/monsters/gorax.jpeg)
+![Górax](/assets/monsters/gorax.jpeg)
 
 
 *Bestia Grande, neutral*

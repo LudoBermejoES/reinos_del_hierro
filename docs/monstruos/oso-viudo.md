@@ -5,7 +5,7 @@ title: Oso Viudo
 
 # Oso Viudo
 
-![Oso Viudo](../../assets/monsters/widow_bear.jpeg)
+![Oso Viudo](/assets/monsters/widow_bear.jpeg)
 
 
 *Bestia Grande, sin alineamiento*

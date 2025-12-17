@@ -5,7 +5,7 @@ title: Dracodrilo
 
 # Dracodrilo
 
-![Dracodrilo](../../assets/monsters/dracodile.jpeg)
+![Dracodrilo](/assets/monsters/dracodile.jpeg)
 
 
 *Bestia Enorme, sin alineamiento*

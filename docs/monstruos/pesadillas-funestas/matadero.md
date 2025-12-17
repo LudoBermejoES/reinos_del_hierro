@@ -5,7 +5,7 @@ title: Matadero
 
 # Matadero
 
-![Matadero](../../assets/monsters/slaughterhouse.jpeg)
+![Matadero](/assets/monsters/slaughterhouse.jpeg)
 
 
 *Autómata feérico Enorme (funesto), sin alineamiento*
