@@ -14,7 +14,7 @@ Esta guía resume el proceso de creación de personajes para Iron Kingdoms: Requ
 1. **Elige una [Esencia](esencias.md)** - Define tus aptitudes naturales
 2. **Elige una [Raza](razas.md)** - Tu pueblo y herencia
 3. **Elige una [Clase](clases/index.md)** - Tu profesión y habilidades
-4. **Elige un [Trasfondo](trasfondos.md)** - Tu historia antes de ser aventurero
+4. **Elige un [Trasfondo](trasfondos/)** - Tu historia antes de ser aventurero
 5. **Considera una [Compañía Aventurera](companias.md)** - El tipo de grupo al que perteneces
 
 ---
@@ -83,22 +83,21 @@ Tu trasfondo describe quién eras antes de convertirte en aventurero. Proporcion
 
 | Trasfondo | Descripción |
 |-----------|-------------|
-| [Arcanista](trasfondos.md#arcanista) | Estudioso de la magia arcana |
-| [Capataz](trasfondos.md#capataz) | Supervisor de trabajadores |
-| [Cazador de Magos](trasfondos.md#cazador-de-magos) | Persigue usuarios de magia peligrosa |
-| [Comerciante](trasfondos.md#comerciante) | Negociante y mercader |
-| [Corsario](trasfondos.md#corsario) | Marinero con patente de corso |
-| [Espía](trasfondos.md#espía) | Agente de inteligencia |
-| [Expedicionario](trasfondos.md#expedicionario) | Explorador de tierras salvajes |
-| [Guardia de Invierno](trasfondos.md#guardia-de-invierno) | Soldado khadorano |
-| [Investigador](trasfondos.md#investigador) | Detective o inquisidor |
-| [Kayazy](trasfondos.md#kayazy) | Miembro de la mafia khadorana |
-| [Mercenario](trasfondos.md#mercenario) | Soldado de fortuna |
-| [Soldado](trasfondos.md#soldado) | Veterano militar |
-| [Vagabundo](trasfondos.md#vagabundo) | Viajero sin hogar fijo |
-| ... | [y más](trasfondos.md) |
+| [Capataz](trasfondos/capataz.md) | Supervisor de trabajadores |
+| [Castigo de Scyrah](trasfondos/castigo-scyrah.md) | Persigue usuarios de magia peligrosa |
+| [Comerciante](trasfondos/comerciante.md) | Negociante y mercader |
+| [Corsario](trasfondos/corsario.md) | Marinero con patente de corso |
+| [Espía](trasfondos/espia.md) | Agente de inteligencia |
+| [Expedicionario](trasfondos/expedicionario.md) | Explorador de tierras salvajes |
+| [Guardia de Invierno](trasfondos/guardia-invierno.md) | Soldado khadorano |
+| [Investigador](trasfondos/investigador.md) | Detective o inquisidor |
+| [Kayazy](trasfondos/kayazy.md) | Miembro de la mafia khadorana |
+| [Mercenario](trasfondos/mercenario.md) | Soldado de fortuna |
+| [Orden de Hechicería](trasfondos/orden-hechiceria.md) | Estudioso de la magia arcana |
+| [Vagabundo](trasfondos/vagabundo.md) | Viajero sin hogar fijo |
+| ... | [y más](trasfondos/) |
 
-→ [Ver todos los trasfondos en detalle](trasfondos.md)
+→ [Ver todos los trasfondos en detalle](trasfondos/)
 
 ---
 
