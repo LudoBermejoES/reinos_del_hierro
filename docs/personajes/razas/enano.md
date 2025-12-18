@@ -11,43 +11,25 @@ Los enanos de Rhul son artesanos legendarios, maestros del metal y la piedra, qu
 
 | Rasgo | Valor |
 |-------|-------|
-| **Mejora de Característica** | CON +2, INT +1 |
-| **Tamaño** | Mediano (3'7"-4'5", 120-200 lb) |
-| **Velocidad** | 25 pies (no reducida por armadura pesada) |
+| **Mejora de Característica** | INT +1 (además de los rasgos base de enano) |
+| **Tamaño** | Mediano (1,1 m aprox., 54 kg) |
+| **Velocidad** | 7,5 m (25 pies) |
 | **Edad** | Madurez a los 50 años, viven 350+ años |
 
-## Rasgos Estándar de Enano
-
-**Visión en la Oscuridad**
-Acostumbrado a la vida subterránea, tienes una visión superior en condiciones de oscuridad y luz tenue. Puedes ver en luz tenue a 60 pies como si fuera luz brillante, y en la oscuridad como si fuera luz tenue.
-
-**Resiliencia Enana**
-Tienes ventaja en las tiradas de salvación contra veneno y tienes resistencia contra el daño de veneno.
-
-**Entrenamiento de Combate Enano**
-Tienes competencia con el hacha de guerra, hacha de mano, martillo de guerra y martillo ligero.
-
-**Competencia con Herramientas**
-Obtienes competencia con las herramientas de artesano de tu elección: herramientas de herrero, suministros de cervecero o herramientas de albañil.
-
-**Conocimiento de la Piedra**
-Siempre que hagas una prueba de Inteligencia (Historia) relacionada con el origen de un trabajo en piedra, se considera que tienes competencia en la habilidad Historia y añades el doble de tu bonificador de competencia a la prueba.
+> **Nota:** Los enanos rhúlicos usan los rasgos base de enano de D&D 5e (como Visión en la Oscuridad, Resiliencia Enana, etc.) más los rasgos rhúlicos específicos que se detallan a continuación.
 
 ## Rasgos Rhúlicos
 
-**Entrenamiento en Armas de Fuego**
-Tienes competencia con carabinas y otras armas de fuego rhúlicas.
+**Entrenamiento en Armas de Fuego** (*Firearms Training*)
+Tienes competencia con carabinas.
 
-**Maestro Artesano**
-Cuando fabricas objetos mágicos, lo haces al doble de velocidad (50 po/día en lugar de 25 po/día). Cuando fabricas objetos mundanos, lo haces a 15 po/día en lugar de 5 po/día.
+**Maestro Artesano** (*Master Craftsman*)
+Tienes competencia con herramientas de manitas. Puedes fabricar objetos mágicos en incrementos de 50 po en lugar de los 25 po normales, y puedes fabricar objetos mundanos en incrementos de 15 po en lugar de los 5 po normales.
 
-**Juramento**
-Puedes hacer juramentos formales que te otorgan poder pero te comprometen irrevocablemente:
-- Puedes hacer 1 juramento al nivel 1
-- Obtienes otro juramento al nivel 7
-- Obtienes un tercer juramento al nivel 12
-- Mientras cumplas un juramento, obtienes +1 a todas las pruebas relacionadas con ese juramento
-- **No puedes romper un juramento** bajo ninguna circunstancia
+**Juramento** (*Oathbound*)
+Los Rhulfolk de alineamiento legal (la gran mayoría) se toman sus juramentos en serio y han sido condicionados durante milenios a obedecerlos. Un juramento formal hecho por un enano rhulico no puede ser roto intencionalmente de ninguna manera, ni los Rhulfolk buscan vacíos legales para hacerlo. Cuando realizas una tarea directamente relacionada con un juramento jurado, recibes un bonificador de +1 en todas las pruebas de habilidad.
+
+Puedes tener un juramento jurado en el nivel 1, un segundo en el nivel 7 y un tercero en el nivel 12. Los juramentos deben ser tareas increíblemente específicas y duraderas que tomarán la mayor parte de tu vida completar. Buenos ejemplos incluyen "Juro proteger a los hijos de mi camarada caído", "Nunca permitiré que nadie robe a los pobres" y "Veré los tesoros ancestrales del Clan Wroughthammer destruidos". Malos ejemplos incluyen "Siempre ganaré una pelea", "Mataré a todos mis enemigos" y "Siempre persuadiré a otros".
 
 ## Apariencia y Físico
 

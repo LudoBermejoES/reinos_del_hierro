@@ -12,23 +12,29 @@ Primos de los iosanos, los nyss son elfos adaptados al frío extremo del norte. 
 | Rasgo | Valor |
 |-------|-------|
 | **Mejora de Característica** | DES +2, INT +1 |
-| **Tamaño** | Mediano |
-| **Velocidad** | 30 pies |
-| **Edad** | Madurez a los 20 años, viven 400+ años |
+| **Tamaño** | Mediano (ligeramente más altos que el humano promedio) |
+| **Velocidad** | 9 m (30 pies) |
+| **Edad** | Madurez a los 20 años, viven más de 400 años |
 
 ## Rasgos
 
-**Hijo del Invierno**: Resistencia al daño de frío. Adaptado al clima frío extremo.
+**Hijo del Invierno** (*Child of Winter*)
+Acostumbrado a las montañas heladas de tu tierra natal, tienes resistencia al daño de frío y estás naturalmente adaptado a los climas fríos.
 
-**Sentidos Agudos**: Competencia en Percepción.
+**Sentidos Agudos** (*Keen Senses*)
+Tienes competencia en la habilidad Percepción.
 
-**Entrenamiento con Armamento Nyss**: Competencia con arco largo nyss y claymore nyss.
+**Entrenamiento con Armamento Nyss** (*Nyss Weapon Training*)
+Tienes competencia con el arco largo nyss y el claymore nyss.
 
-**Respuesta Rápida**: Ventaja en iniciativa (1/descanso largo).
+**Respuesta Rápida** (*Quick Response*)
+Puedes usar tu naturaleza astuta para responder rápidamente a una amenaza. Cuando tiras iniciativa, puedes hacerlo con ventaja. No puedes usar esta característica de nuevo hasta que completes un descanso largo.
 
-**Resistencia a la Luz**: Ventaja contra ceguera.
+**Resistencia a la Luz** (*Light Resilience*)
+Acostumbrado al brillo de la luz del sol sobre la nieve, tienes ventaja en las tiradas de salvación contra ser cegado.
 
-**Idiomas**: Shyr + otro idioma.
+**Idiomas**
+Puedes hablar, leer y escribir Shyr y otro idioma de tu elección.
 
 ## Apariencia y Físico
 

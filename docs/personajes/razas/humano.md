@@ -11,10 +11,12 @@ Los humanos dominan Immoren Occidental con una diversidad sin igual de culturas,
 
 | Rasgo | Valor |
 |-------|-------|
-| **Tamaño** | Mediano (5-6+ pies, varía según nacionalidad) |
-| **Velocidad** | 30 pies |
+| **Tamaño** | Mediano (1,5-1,8+ m, varía según nacionalidad) |
+| **Velocidad** | 9 m (30 pies) |
 | **Edad** | Madurez al final de la adolescencia, viven menos de 100 años |
-| **Idiomas** | 2 idiomas a elección |
+| **Idiomas** | Puedes hablar el idioma de tu nación natal, pero leer y escribir no son del todo universales. Como lengua comercial principal usada por mercaderes y viajeros en todos los Reinos de Hierro, el Cygnarano es el idioma más hablado en Immoren occidental. Puedes hablar, leer y escribir dos idiomas de tu elección. |
+
+> **Nota:** Elige la nación de la que proviene tu personaje: Cygnar, el Protectorado de Menoth, Khador, Llael, Ord o Cryx. Después de elegir una nación, puedes usar los rasgos estándar para humanos de D&D 5e, o puedes usar los rasgos específicos listados para la nación de tu personaje a continuación.
 
 ## Nacionalidades
 
@@ -69,7 +71,7 @@ Los llaeleses son conocidos por su refinamiento cultural, diplomacia y tradicion
 **Mejoras de Característica:** FUE +1, DES +1
 
 **Rasgos:**
-- **Hijo del Mar:** Velocidad de nado de 30 pies
+- **Hijo del Mar:** Velocidad de nado de 9 m (30 pies)
 - **Navegante Experto:** Competencia con vehículos acuáticos y herramientas de navegación
 
 Los ordic son un pueblo marinero, comerciantes y piratas por igual. Su nación neutral prospera en el comercio marítimo y la navegación.
@@ -90,12 +92,12 @@ Los cryxianos viven en una nación de muerte y horror, gobernados por Toruk el P
 
 **Kossitas**
 - **Origen:** Khorva y Khador
-- **Físico:** Altura media (hombres 5'7", mujeres 5'3"), complexión robusta
+- **Físico:** Altura media (hombres 1,70 m, mujeres 1,60 m), complexión robusta
 - **Cultura:** Cazadores, tramperos y recolectores que valoran la familia y la vida rural. Prefieren el aislamiento social y tienen profundas raíces en la tradición guerrera khadorana.
 
 **Rynios**
 - **Origen:** Rynn (subyugada por Khador)
-- **Físico:** Altura media-alta (hombres 5'11", mujeres 5'6"), apariencia refinada
+- **Físico:** Altura media-alta (hombres 1,80 m, mujeres 1,68 m), apariencia refinada
 - **Cultura:** Sofisticados, educados y maquinadores. Excelentes en política y diplomacia.
 
 **Skirovos**
@@ -105,19 +107,19 @@ Los cryxianos viven en una nación de muerte y horror, gobernados por Toruk el P
 
 **Umbranos**
 - **Origen:** Umbrey (frontera Llael-Khador)
-- **Físico:** Altura media-baja (hombres 5'5", mujeres 5')
+- **Físico:** Altura media-baja (hombres 1,65 m, mujeres 1,52 m)
 - **Cultura:** Profundas raíces en la antigua capital del Imperio Khardico. Prefieren ser vistos como rudos y eligen el aislamiento.
 
 ### Centrales
 
 **Midlundenses**
 - **Origen:** Midlund, norte de Cygnar
-- **Físico:** Altura media (hombres 5'9", mujeres 5'4"), apariencia limpia y tranquila
+- **Físico:** Altura media (hombres 1,75 m, mujeres 1,63 m), apariencia limpia y tranquila
 - **Cultura:** Los señores de Cygnar septentrional. La etnia humana más común en Immoren central. Influyentes y capacitados para la guerra.
 
 **Thurianos**
 - **Origen:** Páramos de Thuria
-- **Físico:** Pelo rubio o rojizo, piel pálida, rasgos finos. Altura baja (hombres 5'3", mujeres 4'8")
+- **Físico:** Pelo rubio o rojizo, piel pálida, rasgos finos. Altura baja (hombres 1,60 m, mujeres 1,42 m)
 - **Cultura:** Conocidos por su astucia e inteligencia. Prefieren una vida indisciplinada y despreocupada. Hablan la Lengua del Dragón.
 
 ### Meridionales
@@ -134,7 +136,7 @@ Los cryxianos viven en una nación de muerte y horror, gobernados por Toruk el P
 
 **Idrianos**
 - **Origen:** Marcado del Este (desiertos del sur)
-- **Físico:** Ojos almendrados, piel oscura. Altura baja (hombres 5'2", mujeres 4'8")
+- **Físico:** Ojos almendrados, piel oscura. Altura baja (hombres 1,57 m, mujeres 1,42 m)
 - **Cultura:** Bárbaros nómadas con fuertes tradiciones marciales. Extremadamente resistentes al dolor e incomodidad. Practican ceremonias tribales y rituales sangrientos.
 
 **Schardeneses**

@@ -12,26 +12,26 @@ Los gobos (también llamados gobbers o trasgos) son un pueblo amable, curioso y 
 | Rasgo | Valor |
 |-------|-------|
 | **Mejora de Característica** | DES +2, CAR +1 |
-| **Tamaño** | Pequeño (aproximadamente 2'7"-2'8", 40 lb) |
-| **Velocidad** | 25 pies |
+| **Tamaño** | Pequeño (aprox. 80 cm, 18 kg) |
+| **Velocidad** | 7,5 m (25 pies) |
 | **Edad** | Madurez temprana, viven aproximadamente 65 años |
 
 ## Rasgos
 
-**Sin Llamar la Atención**
-Tienes competencia en la habilidad Sigilo. Además, puedes intentar Esconderte después de Destrabarte de una criatura hostil.
+**Sin Llamar la Atención** (*Beneath Notice*)
+Tienes competencia en la habilidad Sigilo. Además, cuando realizas la acción Destrabarse, después de moverte puedes intentar realizar la acción Esconderse para permanecer oculto de cualquier criatura contra la que tengas cobertura.
 
 **Visión en la Oscuridad Superior**
-Acostumbrado a la vida en túneles y bajo techo, tienes una visión superior en condiciones de oscuridad y luz tenue. Puedes ver en luz tenue a 120 pies como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir colores en la oscuridad, solo tonos de gris.
+Acostumbrado a la vida en túneles y bajo techo, tienes una visión superior en condiciones de oscuridad y luz tenue. Puedes ver en luz tenue a 36 m (120 pies) como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir colores en la oscuridad, solo tonos de gris.
 
-**Agilidad de Gobo**
+**Agilidad** (*Nimbleness*)
 Puedes moverte a través del espacio de cualquier criatura que sea de un tamaño mayor que el tuyo.
 
-**Manitas**
+**Manitas** (*Tinkerer*)
 Tienes competencia con una de las siguientes herramientas de artesano: herramientas de alquimista, herramientas de albañil, herramientas de herrero o herramientas de manitas.
 
 **Idiomas**
-Puedes hablar, leer y escribir Gobés (aunque tradicionalmente no tiene forma escrita) y otro idioma de tu elección.
+Puedes hablar Gobés (que no tiene forma escrita), y puedes hablar, leer y escribir otro idioma de tu elección, usualmente el idioma de tu reino natal.
 
 ## Apariencia y Físico
 

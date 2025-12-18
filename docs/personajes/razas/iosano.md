@@ -11,30 +11,27 @@ Los elfos de Ios son un pueblo antiguo que enfrenta una crisis existencial. Long
 
 | Rasgo | Valor |
 |-------|-------|
-| **Mejora de Característica** | DES +2, INT +1 |
-| **Tamaño** | Mediano (aproximadamente 6 pies) |
-| **Velocidad** | 30 pies |
-| **Edad** | Madurez a los 100 años, viven 750+ años |
+| **Mejora de Característica** | INT +2, CAR +1 |
+| **Tamaño** | Mediano (aprox. 1,8 m) |
+| **Velocidad** | 9 m (30 pies) |
+| **Edad** | Madurez a la misma edad que los humanos, viven más de 200 años (algunos hasta 300 años) |
 
 ## Rasgos
 
-**Visión en la Oscuridad**
-Acostumbrado a los bosques crepusculares y el cielo nocturno, tienes una visión superior en condiciones de oscuridad y luz tenue. Puedes ver en luz tenue a 60 pies como si fuera luz brillante, y en la oscuridad como si fuera luz tenue.
+**Visión en la Oscuridad** (*Darkvision*)
+Acostumbrado a los bosques sombríos de Ios, tienes una visión superior en condiciones de oscuridad y luz tenue. Puedes ver en luz tenue a 18 m (60 pies) como si fuera luz brillante, y en la oscuridad como si fuera luz tenue. No puedes discernir colores en la oscuridad, solo tonos de gris.
 
-**Ascendencia Feérica**
-Tienes ventaja en las tiradas de salvación contra ser hechizado, y la magia no puede dormirte.
+**Sentidos Agudos** (*Keen Senses*)
+Tienes competencia en la habilidad Percepción.
 
-**Trance**
-Los elfos no necesitan dormir. En su lugar, meditan profundamente, permaneciendo semiconscientes, durante 4 horas al día (la palabra común para tal meditación es "trance"). Mientras meditas, puedes soñar a tu manera; tales sueños son en realidad ejercicios mentales que se han vuelto reflexivos a través de años de práctica. Después de descansar de esta manera, obtienes el mismo beneficio que un humano obtiene de 8 horas de sueño.
+**Sociedad Marcial** (*Martial Society*)
+Cuando haces una tirada de ataque y sacas un 1, puedes repetir el dado pero debes usar la nueva tirada, incluso si es otro 1.
 
-**Entrenamiento con Armamento Iosano**
-Tienes competencia con la espada larga, espada corta, arco largo y arco corto.
-
-**Truco**
-Conoces un truco de la lista de conjuros del mago. La Inteligencia es tu aptitud mágica para él.
+**Versatilidad de Habilidades** (*Skill Versatility*)
+La larga vida de los iosanos les da la oportunidad de dominar muchas habilidades y oficios. Tienes competencia con cualquier combinación de dos habilidades o herramientas adicionales de tu elección.
 
 **Idiomas**
-Puedes hablar, leer y escribir Shyr (élfico) y otro idioma de tu elección.
+Puedes hablar, leer y escribir Shyr y otro idioma que hayas aprendido en tus viajes.
 
 ## Apariencia y Físico
 
