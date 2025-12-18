@@ -47,6 +47,8 @@ entes de Menoth. Su sociedad es una teocracia donde la fe y la ley están entrel
 
 ### Khador
 
+![Khador](/assets/razas/khador.jpeg)
+
 **Mejoras de Característica:** CON +1, SAB +1
 
 **Rasgos:**
@@ -58,6 +60,8 @@ Los khadoranos son guerreros duros y resistentes, formados por el frío del nort
 
 ### Llael
 
+![Llael](/assets/razas/llael.jpg)
+
 **Mejoras de Característica:** INT +1, CAR +1
 
 **Rasgos:**
@@ -68,6 +72,8 @@ Los llaeleses son conocidos por su refinamiento cultural, diplomacia y tradicion
 
 ### Ord
 
+![Ord](/assets/razas/ord.webp)
+
 **Mejoras de Característica:** FUE +1, DES +1
 
 **Rasgos:**
@@ -77,6 +83,8 @@ Los llaeleses son conocidos por su refinamiento cultural, diplomacia y tradicion
 Los ordic son un pueblo marinero, comerciantes y piratas por igual. Su nación neutral prospera en el comercio marítimo y la navegación.
 
 ### Cryx
+
+![Cryx](/assets/razas/cryx.jpeg)
 
 **Mejoras de Característica:** DES +1, SAB +1
 

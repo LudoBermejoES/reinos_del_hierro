@@ -5,6 +5,8 @@ title: Nyss
 
 # Nyss
 
+![Nyss](/assets/razas/nyss.webp)
+
 Primos de los iosanos, los nyss son elfos adaptados al frío extremo del norte. Una vez fueron un pueblo orgulloso, pero la mayoría fueron corrompidos por el dragón Everblight. Los supervivientes viven como refugiados, buscando venganza y redención.
 
 ## Características Raciales

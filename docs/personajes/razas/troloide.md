@@ -5,6 +5,8 @@ title: Troloide
 
 # Troloide
 
+![Troloide](/assets/razas/troloide.jpg)
+
 Los troloides son un pueblo tribal conectado con la naturaleza y la diosa Dhunia. Regeneran heridas de forma natural y son conocidos por sus voces poderosas y su cultura de clanes (kriels).
 
 ## Características Raciales

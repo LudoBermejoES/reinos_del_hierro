@@ -5,6 +5,8 @@ title: Gobo
 
 # Gobo
 
+![Gobo](/assets/razas/gobo.jpeg)
+
 Los gobos (también llamados gobbers o trasgos) son un pueblo amable, curioso y astuto que ha encontrado un nicho en las sociedades humanas. A pesar de su pequeño tamaño, han demostrado ser valiosos como comerciantes, artesanos, ingenieros y alquimistas.
 
 ## Características Raciales

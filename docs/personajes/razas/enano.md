@@ -5,6 +5,8 @@ title: Enano Rhúlico
 
 # Enano Rhúlico
 
+![Enano Rhúlico](/assets/razas/enano.jpeg)
+
 Los enanos de Rhul son artesanos legendarios, maestros del metal y la piedra, que se toman sus juramentos con extrema seriedad. Esta raza antigua y orgullosa ha mantenido su independencia durante milenios gracias a su código de honor inquebrantable y sus incomparables habilidades de artesanía.
 
 ## Características Raciales

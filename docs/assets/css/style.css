@@ -816,3 +816,40 @@ em {
     max-height: 300px;
   }
 }
+
+/* === IMÁGENES DE RAZAS === */
+/* Imagen de raza */
+.content img[src*="/assets/razas/"] {
+  display: block;
+  max-width: 600px;
+  max-height: 500px;
+  width: auto;
+  height: auto;
+  margin: var(--spacing-lg) auto;
+  border: 2px solid var(--color-border);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-lg);
+  object-fit: contain;
+  background: var(--color-bg-light);
+}
+
+/* Imagen de raza en hover */
+.content img[src*="/assets/razas/"]:hover {
+  border-color: var(--color-brass);
+  box-shadow: 0 0 20px rgba(181, 166, 66, 0.3);
+  cursor: pointer;
+}
+
+/* Responsive: móviles */
+@media (max-width: 768px) {
+  .content img[src*="/assets/razas/"] {
+    max-width: 100%;
+    max-height: 400px;
+  }
+}
+
+@media (max-width: 480px) {
+  .content img[src*="/assets/razas/"] {
+    max-height: 300px;
+  }
+}

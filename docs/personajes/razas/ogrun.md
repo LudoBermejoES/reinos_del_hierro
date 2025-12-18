@@ -5,6 +5,8 @@ title: Ogrun
 
 # Ogrun
 
+![Ogrun](/assets/razas/ogrun.jpeg)
+
 Los ogrun son gigantes honorables conocidos por su fuerza sobrehumana y lealtad inquebrantable. El concepto del **korune** —jurar lealtad eterna a un señor digno— define su cultura y su lugar en la sociedad de Immoren.
 
 ## Características Raciales

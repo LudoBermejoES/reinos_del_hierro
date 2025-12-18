@@ -5,6 +5,8 @@ title: Iosano
 
 # Iosano
 
+![Iosano](/assets/razas/ios.jpeg)
+
 Los elfos de Ios son un pueblo antiguo que enfrenta una crisis existencial. Longevos, hábiles y reservados, estos elfos guardan celosamente los secretos de su civilización moribunda mientras luchan por encontrar una forma de salvar a sus dioses.
 
 ## Características Raciales
