@@ -11,16 +11,19 @@ title: Batelero
 *Feérico mediano (funesto), legal malvado*
 
 ___
+
 - **Clase de Armadura** 15 (armadura natural)
 - **Puntos de Golpe** 91 (14d8 + 28)
 - **Velocidad** 30 pies, nadar 30 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|13 (+1)|14 (+2)|13 (+1)|13 (+1)|15 (+2)|
 
 ___
+
 - **Tiradas de salvación** Sabiduría +4, Carisma +5
 - **Habilidades** Engaño +5, Percepción +4
 - **Inmunidad a estados** asustado, hechizado
@@ -29,6 +32,7 @@ ___
 - **Desafío** 7 (2.900 PX)
 
 ___
+
 ***Anfibio.*** El batelero puede respirar tanto dentro del agua como fuera de ella.
 
 ***Trato del Batelero.*** Cuando el batelero recoge por primera vez a una criatura viajera, elige un único artículo que pueda ver y que posea valor sentimental o monetario para la criatura; luego comienza a negociar por el objeto a cambio de un pasaje. El batelero solo se conformará con el artículo elegido. Además, si una criatura intenta regatear o negociar, el batelero es hechizado por ella durante 1 minuto o hasta que se cierre el trato. Si el batelero acepta, estará obligado por el trato durante 1 día.
@@ -44,5 +48,6 @@ ___
 ***Ataque múltiple.***
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

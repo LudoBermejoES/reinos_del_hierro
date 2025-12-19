@@ -8,16 +8,19 @@ title: Arconte Menita
 *Celestial Grande (arconte), neutral bueno*
 
 ___
+
 - **Clase de Armadura** 17 (armadura natural)
 - **Puntos de Golpe** 285 (30d10 + 120)
 - **Velocidad** 30 pies, volar 30 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|17 (+3)|19 (+4)|14 (+2)|16 (+3)|18 (+4)|
 
 ___
+
 - **Tiradas de salvación** Int +8, Sab +9, Car +10
 - **Habilidades** Percepción +9, Perspicacia +9
 - **Resistencia a daño** contundente, cortante y perforante de ataques no mágicos
@@ -28,6 +31,7 @@ ___
 - **Desafío** 18 (20.000 PX)
 
 ___
+
 ***Combustible para las Llamas.*** Cualquier criatura hostil hacia el arconte que comience su turno a 20 pies o menos de él, pierde su resistencia al daño de fuego y no puede obtenerla hasta que se aleje al menos 20 pies.
 
 ***Resistencia Mágica.*** El arconte tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
@@ -55,5 +59,6 @@ El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones pr
 ***Inspiración divina (cuesta 2 acciones).*** Hasta el final del próximo turno del arconte, las criaturas aliadas a 30 pies o menos de él hacen las tiradas de ataque con ventaja.
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

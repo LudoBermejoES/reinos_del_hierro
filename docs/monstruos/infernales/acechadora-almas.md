@@ -8,16 +8,19 @@ title: Acechadora de Almas
 *Demonio Grande (horror infernal), legal malvado*
 
 ___
+
 - **Clase de Armadura** 19 (armadura natural)
 - **Puntos de Golpe** 133 (14d10 + 56)
 - **Velocidad** 40 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|18 (+4)|18 (+4)|10 (+0)|10 (+0)|10 (+0)|
 
 ___
+
 - **Habilidades** Percepción +4
 - **Resistencia a daño** psíquico, veneno
 - **Inmunidad a estados** asustado, cansancio, cegado, derribado, hechizado
@@ -26,6 +29,7 @@ ___
 - **Desafío** 12 (8.400 PX)
 
 ___
+
 ***Armas Mágicas.*** Los ataques con armas de la acechadora de almas son mágicos.
 
 ***Desalmado.*** La acechadora de almas carece de alma.
@@ -45,5 +49,6 @@ ___
 ***Ataque múltiple.***
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

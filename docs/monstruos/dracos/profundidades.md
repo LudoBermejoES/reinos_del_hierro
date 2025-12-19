@@ -8,16 +8,19 @@ title: Draco de las Profundidades
 *Dragón enorme, neutral malvado*
 
 ___
+
 - **Clase de Armadura** 18 (armadura natural)
 - **Puntos de Golpe** 262 (21d12 + 126)
 - **Velocidad** 40 pies, trepar 40 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|15 (+2)|22 (+6)|4 (−3)|12 (+1)|15 (+2)|
 
 ___
+
 - **Tiradas de salvación** Fue +13, Con +11
 - **Habilidades** Atletismo +13, Percepción +6, Sigilo +7
 - **Inmunidad a daño** relámpago
@@ -27,6 +30,7 @@ ___
 - **Desafío** 13 (10.000 PX)
 
 ___
+
 ***Vista Abisal.*** La oscuridad mágica no obstruye la visión ciega del draco.
 
 ***Trepar cual Arácnido.*** El draco  puede trepar por superficies difíciles, incluyendo recorrer el techo boca abajo, sin tener que realizar pruebas de característica.
@@ -42,5 +46,6 @@ ___
 ***Aliento de estática (se recarga tras un descanso corto o largo).***
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

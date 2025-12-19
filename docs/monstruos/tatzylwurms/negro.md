@@ -8,16 +8,19 @@ title: Tatzylwurm Negro
 *Bestia Mediana, sin alineamiento*
 
 ___
+
 - **Clase de Armadura** 15 (armadura natural)
 - **Puntos de Golpe** 76 (9d8 + 36)
 - **Velocidad** 30 pies, trepar 20 pies, nadar 20 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|15 (+2)|18 (+4)|4 (−3)|14 (+2)|4 (−3)|
 
 ___
+
 - **Habilidades** Atletismo +6, Sigilo +5, Supervivencia +5
 - **Inmunidad a daño** veneno
 - **Inmunidad a estados** asustado, envenenado
@@ -26,6 +29,7 @@ ___
 - **Desafío** 5 (1.800 PX)
 
 ___
+
 ***Acciones Ataque múltiple.*** El tatzylwurm realiza dos ataques con su mordisco. Puede reemplazar uno de esos ataques por escupir veneno o cautivar.
 
 ***Mordisco.*** Ataque con arma cuerpo a cuerpo: +6 a impactar, alcance 5 pies, una criatura. Impacto: 10 (2d6 + 3) de daño perforante y el objetivo debe hacer una tirada de salvación de Constitución CD 15, sufriendo 10 (3d6) de daño de veneno si la falla o la mitad de ese daño si la supera.
@@ -39,5 +43,6 @@ ___
 ***Ataque múltiple.***
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

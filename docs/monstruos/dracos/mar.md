@@ -8,16 +8,19 @@ title: Draco de Mar
 *Dragón enorme, neutral malvado*
 
 ___
+
 - **Clase de Armadura** 16 (armadura natural)
 - **Puntos de Golpe** 195 (17d12 + 85)
 - **Velocidad** 20 pies, nadar 60 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |22 (+6)|15 (+2)|20 (+5)|4 (−3)|12 (+1)|15 (+2)|
 
 ___
+
 - **Tiradas de salvación** Fue +10, Con +9
 - **Habilidades** Atletismo +10, Percepción +5
 - **Sentidos** visión en la oscuridad 60 pies, Percepción pasiva 15
@@ -25,6 +28,7 @@ ___
 - **Desafío** 9 (5.000 PX)
 
 ___
+
 ***Aguantar la Respiración.*** El draco puede contener la respiración durante 1 hora mientras está fuera del agua.
 
 ***Respirar en el Agua.*** El draco solo puede respirar bajo el agua.
@@ -40,5 +44,6 @@ ___
 ***Nube de tinta (se recarga tras un descanso corto o largo).***
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

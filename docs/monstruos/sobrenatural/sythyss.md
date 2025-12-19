@@ -11,16 +11,19 @@ title: Sythyss
 *Muerto viviente Mediano, cualquier alineamiento malvado*
 
 ___
+
 - **Clase de Armadura** 16 (armadura natural)
 - **Puntos de Golpe** 144 (17d8 + 68)
 - **Velocidad** 30 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
 
 ___
+
 - **Tiradas de salvación** Des +9, Sab +7, Car +9
 - **Habilidades** Conocimiento Arcano +8, Historia +8, Percepción +7
 - **Resistencia a daño** frío, necrótico; contundente, cortante y perforante no mágicos ni hechos con armas de material orgánico (hueso, madera, etcétera)
@@ -30,6 +33,7 @@ ___
 - **Desafío** 13 (10.000 PX)
 
 ___
+
 ***Aura Profanadora.*** Cualquier criatura viva que comience su turno a 5 pies del sobrenatural debe superar una tirada de salvación de Constitución CD 18 o adquirir vulnerabilidad al daño necrótico hasta el comienzo de su siguiente turno. Si la criatura no es un autómata y tiene resistencia o inmunidad al daño necrótico, las perderá hasta el comienzo de su siguiente turno.
 
 ***Debilidades del Sobrenatural.*** Un sobrenatural debe cometer trece asesinatos rituales cada año. Si no logra completar este rito, su puntuación de Fuerza se reduce en 1 cada semana hasta que se cometan todos los crímenes. La puntuación de Fuerza del sobrenatural no se puede reducir a 0.
@@ -51,5 +55,6 @@ ___
 ***Garra.*** Ataque con arma cuerpo a cuerpo: +9 a impactar, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) de daño cortante.
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

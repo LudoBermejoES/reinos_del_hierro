@@ -8,16 +8,19 @@ title: Liche de Hierro
 *Muerto viviente Mediano, cualquier alineamiento malvado*
 
 ___
+
 - **Clase de Armadura** 16 (armadura natural)
 - **Puntos de Golpe** 90 (12d8 + 36)
 - **Velocidad** 30 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |11 (+0)|14 (+2)|16 (+3)|20 (+5)|14 (+2)|16 (+3)|
 
 ___
+
 - **Tiradas de salvación** Con +8, Int +10, Sab +7
 - **Habilidades** Conocimiento Arcano +15, Historia +10
 - **Resistencia a daño** frío, necrótico, relámpago
@@ -28,6 +31,7 @@ ___
 - **Desafío** 14 (11.500 PX)
 
 ___
+
 ***Equipo especial.*** El liche tiene 1d4 jaulas de almas vacías.
 
 ***Lanzamiento de conjuros.*** El liche es un lanzador de conjuros de nivel 14. Su aptitud mágica es Inteligencia (salvación de conjuros CD 18, +9 a impactar con ataques de conjuro). El liche tiene preparados los siguientes conjuros:
@@ -59,6 +63,7 @@ ___
 ***Jaula del alma.*** Si una criatura viva con alma muere mientras se encuentra a 15 pies o menos del liche, este puede usar su reacción para capturar el alma en una de sus jaulas del alma. Cada una de ellas solo puede contener un alma.
 
 ___
+
 > *Semejante combinación impía de muerte viviente y mecánika. Es difícil creer que ningún mago estuviera dispuesto a hacerse esto a sí mismo, por muy loco que esté.*
 >
 > *Un liche de hierro es un receptáculo físico que alberga el alma. En realidad la criatura no puede ser destruida mientras su filacteria permanezca intacta. La destrucción de su forma física es simplemente un revés, ya que el liche incorpóreo puede ordenar a sus sirvientes que le construyan una nueva. Como la filacteria es la única verdadera vulnerabilidad de un liche de hierro, estos se esfuerzan mucho por ocultar y proteger estos dispositivos, ya sea creando señuelos para desviar a los rivales del camino, construyendo criptas llenas de elaboradas trampas a su alrededor o rodeándose de vastas multitudes de esclavos leales hasta la médula que sirven como fieles guardianes.*

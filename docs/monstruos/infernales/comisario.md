@@ -11,16 +11,19 @@ title: Comisario
 *Demonio Grande (infernal), legal malvado*
 
 ___
+
 - **Clase de Armadura** 19 (armadura natural)
 - **Puntos de Golpe** 313 (33d10 + 132)
 - **Velocidad** 40 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|20 (+5)|16 (+3)|19 (+4)|22 (+6)|22 (+6)|
 
 ___
+
 - **Tiradas de salvación** Des +11, Con +9, Sab +12
 - **Habilidades** Engaño +12, Intimidación +12, Percepción +12,
 - **Resistencia a daño** psíquico, veneno
@@ -30,6 +33,7 @@ ___
 - **Desafío** 20 (25.000 PX)
 
 ___
+
 ***Presencia Infernal.*** El entorno a 500 pies alrededor de un comisario se deforma, aunque este efecto está limitado al área inmediata (por ejemplo, si es invocado en una habitación se limita a la habitación, si es convocado en un almacén se limita al almacén, etcétera). En el área afectada todo se oscurece, hay ruidos extraños, gritos lejanos y el tintineo de cadenas, se levanta un viento donde no debería haberlo y efectos similares. Estas circunstancias no pueden ser mitigadas y además el invocador queda atrapado en el área, con las puertas cerrándose y escombros bloqueando las rutas de huida de manera que es imposible escapar por medios mundanos, a menos que el comisario desee lo contrario.
 
 ***Resistencia Mágica.*** El comisario tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
@@ -57,5 +61,6 @@ ___
 ***Ataque múltiple.***
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

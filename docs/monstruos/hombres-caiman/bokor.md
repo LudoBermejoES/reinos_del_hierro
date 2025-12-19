@@ -8,16 +8,19 @@ title: Hombre Caimán Bokor
 *Humanoide Grande, neutral*
 
 ___
+
 - **Clase de Armadura** 12 (armadura natural)
 - **Puntos de Golpe** 85 (10d10 + 30)
 - **Velocidad** 30 pies, nadar 30 pies.
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |15 (+2)|12 (+1)|16 (+3)|10 (+0)|15 (+2)|10 (+0)|
 
 ___
+
 - **Habilidades** Atletismo +4, Sigilo +3
 - **Inmunidad a daño** veneno
 - **Inmunidad a estados** envenenado
@@ -26,6 +29,7 @@ ___
 - **Desafío** 3 (700 PX)
 
 ___
+
 ***Aguantar la Respiración.*** El hombre caimán puede contener la respiración durante 15 minutos.
 
 ***Camuflaje del Pantano.*** El hombre caimán tiene ventaja en las pruebas de Destreza (Sigilo) realizadas para esconderse en terreno pantanoso.
@@ -41,5 +45,6 @@ ___
 ***Beligerante.*** Cuando el cascarón sufre daño de un ataque que no sea un ataque de oportunidad, puede usar su reacción para moverse hasta su velocidad hacia la criatura que le hirió.
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

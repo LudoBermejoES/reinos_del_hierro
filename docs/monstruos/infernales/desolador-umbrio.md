@@ -11,16 +11,19 @@ title: Desolador Umbrío
 *Demonio Mediano (infernal), legal malvado*
 
 ___
+
 - **Clase de Armadura** 21 (armadura almaforjada)
 - **Puntos de Golpe** 136 (16d8 + 64)
 - **Velocidad** 40 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |20 (+5)|16 (+3)|18 (+4)|13 (+1)|13 (+1)|13 (+1)|
 
 ___
+
 - **Tiradas de salvación** Sab +5, Car +5
 - **Habilidades** Acrobacias +8, Percepción +5, Sigilo +8
 - **Resistencia a daño** psíquico, veneno
@@ -30,6 +33,7 @@ ___
 - **Desafío** 10 (5.900 PX)
 
 ___
+
 ***Armas Mágicas.*** Los ataques con armas del desolador son mágicos.
 
 ***Carente de Alma.*** El desolador carece de alma.
@@ -49,5 +53,6 @@ ___
 ***Espada sombría.*** Ataque con arma cuerpo a cuerpo: +9 a impactar, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) de daño cortante más 10 (3d6) de daño psíquico.
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

@@ -8,16 +8,19 @@ title: Siervo de la Muerte
 *Autómata Enorme (siervo infernal), caótico malvado*
 
 ___
+
 - **Clase de Armadura** 20 (armadura natural)
 - **Puntos de Golpe** 378 (28d12 + 196)
 - **Velocidad** 30 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |27 (+8)|10 (+0)|24 (+7)|14 (+2)|21 (+5)|16 (+3)|
 
 ___
+
 - **Tiradas de salvación** Con +15, Sab +13, Car +11
 - **Habilidades** Percepción +13
 - **Resistencia a daño** contundente, cortante, perforante
@@ -28,6 +31,7 @@ ___
 - **Desafío** 25 (75.000 PX)
 
 ___
+
 ***Armas Mágicas.*** Los ataques con armas del Siervo de la muerte son mágicos.
 
 ***Calaveras del Odio.*** Tira 1d10 al comienzo de cada turno del Siervo de la Muerte. Con una tirada de 1 a 9, recupera un espacio de conjuro de ese número o inferior. Con una tirada de 10, el Siervo de la muerte recupera todos los espacios de conjuro gastados.
@@ -62,5 +66,6 @@ Si hay un lanzador de conjuros aliado a 120 pies o menos del Siervo de la muerte
 ***Garra.*** Ataque con arma cuerpo a cuerpo: +16 a impactar, alcance 10 pies, un objetivo. Impacto: 18 (3d6 + 8) de daño cortante.
 
 ___
+
 ---
 [← Volver al Índice](index.md)

@@ -11,16 +11,19 @@ title: Brujarbórea
 *Feérico Grande (funesto), caótico neutral*
 
 ___
+
 - **Clase de Armadura** 16 (armadura natural)
 - **Puntos de Golpe** 114 (12d10 + 48)
 - **Velocidad** 0 pies (árbol), 30 pies (humanoide)
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |17 (+3)|10 (+0)|18 (+4)|10 (+0)|14 (+2)|18 (+4)|
 
 ___
+
 - **Tiradas de salvación** Sab +4, Car +6
 - **Habilidades** Engaño +6, Percepción +4, Persuasión +6
 - **Resistencia a daño** contundente, cortante y perforante de ataques no mágicos
@@ -30,6 +33,7 @@ ___
 - **Desafío** 4 (1.100 PX)
 
 ___
+
 ***Aversión al Fuego.*** La brujarbórea tendrá desventaja en las tiradas de ataque y las pruebas de característica hasta el final de su siguiente turno si sufre daño de fuego. Apariencia Falsa (solo árbol). Mientras la parte árbol de la brujarbórea permanece inmóvil, es indistinguible de un árbol normal.
 
 ***Llamada de la Sirena.*** La brujarbórea tiene ventaja en las tiradas de ataque contra objetivos hechizados.
@@ -45,5 +49,6 @@ ___
 ***Ataque múltiple.***
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

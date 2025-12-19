@@ -8,16 +8,19 @@ title: Gigantón de Chatarra
 *Autómata Grande, sin alineamiento*
 
 ___
+
 - **Clase de Armadura** 13 (armadura natural)
 - **Puntos de Golpe** 105 (10d10 + 50)
 - **Velocidad** 30 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |23 (+6)|8 (−1)|20 (+5)|5 (−3)|10 (+0)|7 (−2)|
 
 ___
+
 - **Resistencia a daño** contundente, cortante y perforante de ataques no mágicos
 - **Inmunidad a daño** psíquico, veneno
 - **Inmunidad a estados** asustado, cansancio, envenenado, hechizado, paralizado, petrificado
@@ -26,6 +29,7 @@ ___
 - **Desafío** 6 (2.300 PX)
 
 ___
+
 ***Fabricado con Restos.*** El gigantón de chatarra posee una de las siguientes opciones (a elección del director de juego). Si el gigantón de chatarra destruye a un siervo de vapor, puede dedicar 1 minuto a incorporar partes de este a sí mismo, lo que le proporciona una opción adicional a elección del director de juego. •
 
 ***Ataque Mortal.*** El gigantón de chatarra añade un arma peligrosa a uno de sus brazos, como una cuchilla gigante, una garra, un taladro a vapor, una porra eléctrica o algo similar. El daño de sus ataques de golpe aumenta de 15 (2d8 + 6) a 17 (2d10 + 6) y el ataque puede causar daño perforante o cortante en lugar de daño contundente (a elección del director de juego). •
@@ -47,5 +51,6 @@ ___
 ***Ataque múltiple.***
 
 ___
+
 ---
 [← Volver al Índice](index.md)

@@ -8,16 +8,19 @@ title: Arconte Primordial
 *Celestial Enorme (arconte), caótico neutral*
 
 ___
+
 - **Clase de Armadura** 20 (armadura natural)
 - **Puntos de Golpe** 195 (17d12 + 85)
 - **Velocidad** 30 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |24 (+7)|9 (−1)|20 (+5)|20 (+5)|11 (+0)|1 (−5)|
 
 ___
+
 - **Inmunidad a daño** fuego, psíquico, veneno; contundente, cortante y perforante de ataques no mágicos
 - **Inmunidad a estados** asustado, cansancio, derribado, envenenado, hechizado, paralizado, petrificado
 - **Sentidos** visión en la oscuridad 120 pies, Percepción pasiva 10
@@ -25,6 +28,7 @@ ___
 - **Desafío** 19 (22.000 PX)
 
 ___
+
 ***Forma Inmutable.*** El arconte es inmune a cualquier conjuro o efecto que fuera a alterar su forma.
 
 ***Sacudir la Tierra.*** Cuando el arconte impacta a un objetivo con un ataque de arma cuerpo a cuerpo, cada criatura a 20 pies o menos de este debe superar una tirada de salvación de Fuerza CD 17 o caerá derribada.
@@ -58,6 +62,7 @@ El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones pr
 ***Golpe estremecedor (cuesta 2 acciones).*** El arconte golpea el suelo con sus puños, provocando un temblor de tierra. Cada criatura en el suelo a 60 pies o menos del arconte debe superar una tirada de salvación de Fuerza CD 17 o caerá derribada.
 
 ___
+
 > *Se cree que los arcontes primordiales son manifestaciones menores de la Sierpe enviadas desde las infernales tierras salvajes de Urcaen. Estas criaturas que priorizan la acción y violencia a las palabras y profecías, se lanzan al combate sin dudarlo en cuanto se manifiestan en Caen. Resplandeciendo con el poder de la naturaleza y aullando de pura hambre, los primordiales buscan aniquilar todo aquello que no pertenezca a Caen. Cada uno es a la vez una fuerza de la naturaleza y una criatura de carne y hueso con garras y colmillos. Sus cuerpos son fuertes como montañas y sus enormes brazos y garras están hechos de granito, obsidiana y trozos de cristal. Su masa les permite soportar los daños más terribles sin inmutarse y su naturaleza aparentemente imperecedera les hace regenerar rápidamente cualquier parte seccionada en combate. Los arcontes primordiales luchan con una ferocidad impredecible, sin dudar jamás, y cargan contra sus enemigos sin pensar en su propia supervivencia.*
 
 ---

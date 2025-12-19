@@ -11,16 +11,19 @@ title: Inmortal
 *Muerto viviente Mediano, neutral malvado*
 
 ___
+
 - **Clase de Armadura** 19 (armadura de placas orgoth)
 - **Puntos de Golpe** 313 (33d8 + 165)
 - **Velocidad** 30 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|14 (+2)|20 (+5)|14 (+2)|16 (+3)|18 (+4)|
 
 ___
+
 - **Tiradas de salvación** Constitución +11, Carisma +10
 - **Habilidades** Conocimiento Arcano +8, Engaño +10, Historia +8
 - **Resistencia a daño** contundente, cortante y perforante de ataques no mágicos
@@ -31,6 +34,7 @@ ___
 - **Desafío** 20 (25.000 PX)
 
 ___
+
 ***Armas Mágicas.*** Los ataques con armas del inmortal son mágicos.
 
 ***Lanzamiento de Conjuros Innato.*** La aptitud mágica del inmortal es Carisma (salvación de conjuros CD 20). Puede lanzar de forma innata los siguientes conjuros:
@@ -50,5 +54,6 @@ ___
 ***Espada.*** Ataque con arma cuerpo a cuerpo: +11 a impactar, alcance 5 pies, un objetivo. Impacto: 12 (2d6 + 5) de daño cortante más 21 (6d6) de daño necrótico.
 
 ___
+
 ---
 [← Volver al Índice](index.md)

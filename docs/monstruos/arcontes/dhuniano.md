@@ -8,16 +8,19 @@ title: Arconte Dhuniano
 *Celestial Grande (arconte), neutral bueno*
 
 ___
+
 - **Clase de Armadura** 20 (armadura natural)
 - **Puntos de Golpe** 161 (17d10 + 68)
 - **Velocidad** 25 pies
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |21 (+5)|14 (+2)|19 (+4)|19 (+4)|20 (+5)|20 (+5)|
 
 ___
+
 - **Tiradas de salvación** Con +10, Sab +11, Car +11
 - **Habilidades** Percepción +11, Perspicacia +11, Trato con Animales +11
 - **Resistencia a daño** contundente, cortante y perforante de ataques no mágicos
@@ -28,6 +31,7 @@ ___
 - **Desafío** 17 (18.000 PX)
 
 ___
+
 ***Paso Forestal.*** El terreno difícil conformado por árboles y maleza no cuesta movimiento adicional al arconte.
 
 ***Lanzamiento de Conjuros Innato.*** La aptitud mágica del arconte es Carisma (salvación de conjuros CD 19). El arconte puede lanzar de forma innata los siguientes conjuros, sin necesidad de componentes materiales:
@@ -66,5 +70,6 @@ El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones pr
 ***Hilo vital (cuesta 2 acciones).*** El arconte puede elegir hasta cinco criaturas aliadas que tenga a 60 pies o menos a las que pueda ver. El arconte pierde el atributo de Regeneración hasta el final de su siguiente turno y lo obtienen las criaturas elegidas.
 
 ___
+
 ---
 [← Volver al Índice](../index.md)

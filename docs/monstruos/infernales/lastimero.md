@@ -11,16 +11,19 @@ title: Lastimero
 *Demonio Grande (horror infernal), legal malvado*
 
 ___
+
 - **Clase de Armadura** 16 (armadura natural)
 - **Puntos de Golpe** 142 (15d10 + 60)
 - **Velocidad** 30 pies, trepar 30 pies.
 
 ___
+
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |18 (+4)|18 (+4)|18 (+4)|13 (+1)|14 (+2)|16 (+3)|
 
 ___
+
 - **Tiradas de salvación** Des +8
 - **Habilidades** Atletismo +8, Percepción +6
 - **Resistencia a daño** ácido, psíquico, veneno
@@ -30,6 +33,7 @@ ___
 - **Desafío** 9 (5.000 PX)
 
 ___
+
 ***Apartarse de un Salto.*** El lastimero puede llevar a cabo la acción de Esquivar como acción adicional en cada uno de sus turnos.
 
 ***El lastimero carece de alma.***
@@ -45,5 +49,6 @@ ___
 ***Trepar cual Arácnido.*** El lastimero puede trepar por superficies difíciles, incluyendo recorrer el techo boca abajo, sin tener que realizar pruebas de característica.
 
 ___
+
 ---
 [← Volver al Índice](../index.md)
