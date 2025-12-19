@@ -68,10 +68,16 @@ Genera YAML para Foundry VTT (heredado del proyecto ik5e, puede no ser necesario
 ### Ubicación de los personajes
 
 Los personajes en markdown están en `docs/aventuras/`:
-- `aldea-de-espiritus/` - 6 personajes para aventura en Khador
-- `cabeza-ferrea/` - 6 personajes para aventura en estación de tren enana
+- `aldea-de-espiritus/` - 6 PJs para aventura en Khador
+- `aldea-de-espiritus/taberna/` - 6 NPCs de la taberna local
+- `aldea-remota/` - 10 NPCs de aldea de montaña
+- `cabeza-ferrea/` - 6 PJs para aventura en estación de tren enana
 
-### Generar JSONs para Foundry VTT
+### Paso 1: Crear Personajes en Markdown
+
+Crear archivos `.md` siguiendo las templates de abajo. El nombre del archivo debe ser en minúsculas con guiones: `nombre-apellido.md`.
+
+### Paso 2: Generar JSONs para Foundry VTT
 
 Los JSONs se generan con el script `characterConverter.py` del proyecto **ik**:
 
@@ -79,29 +85,349 @@ Los JSONs se generan con el script `characterConverter.py` del proyecto **ik**:
 cd /Users/ludo/code/ik/tools
 
 # Convertir todos los personajes de una aventura
-python3 characterConverter.py /Users/ludo/code/RdH/docs/aventuras/aldea-de-espiritus -o /Users/ludo/code/ik/docs/foundry_actors
+python3 characterConverter.py /Users/ludo/code/RdH/docs/aventuras/aldea-de-espiritus -o /Users/ludo/code/ik/tools/foundry_export_es/actors/aldea-de-espiritus
 
-python3 characterConverter.py /Users/ludo/code/RdH/docs/aventuras/cabeza-ferrea -o /Users/ludo/code/ik/docs/foundry_actors
+python3 characterConverter.py /Users/ludo/code/RdH/docs/aventuras/cabeza-ferrea -o /Users/ludo/code/ik/tools/foundry_export_es/actors/cabeza-ferrea
 
 # Convertir un solo personaje
-python3 characterConverter.py /Users/ludo/code/RdH/docs/aventuras/aldea-de-espiritus/yuri-koskov.md -o /Users/ludo/code/ik/docs/foundry_actors
+python3 characterConverter.py /Users/ludo/code/RdH/docs/aventuras/aldea-de-espiritus/yuri-koskov.md -o /Users/ludo/code/ik/tools/foundry_export_es/actors/aldea-de-espiritus
 ```
 
-Los JSONs generados van a `/Users/ludo/code/ik/docs/foundry_actors/`.
+El script carga automáticamente:
+- **Armas y armaduras** de D&D 5e (en inglés) y de IK (en español)
+- **Conjuros** de D&D 5e y de IK
+- **Razas, clases y trasfondos** de IK
 
-### Formato del Markdown de Personaje
+Items reconocidos mostrarán `[+] Matched`, items no reconocidos crean loot genérico `[-] No match`.
 
-Ver `/Users/ludo/code/ik/CLAUDE.md` para el formato completo. Secciones clave:
+### Paso 3: Generar Packs LevelDB para Foundry VTT
 
-- `# Nombre` - Nombre del personaje
-- `**Clase N** · Raza` - Clase, nivel y raza
-- `## Características` - Tabla con FUE, DES, CON, INT, SAB, CAR
-- `## Atributos de Combate` - CA, PG, Velocidad
-- `## Trucos` - Trucos para conjuradores (formato: `- **Nombre** — descripción`)
-- `## Conjuros Preparados > ### Nivel 1` - Conjuros de nivel 1
-- `## Equipo` - Tabla con objetos y peso
-- `## Trasfondo: Nombre > ### Personalidad` - Rasgos de personalidad
-- `## Notas` - Esencia, Aspecto, Historia
+Después de generar los JSONs, crear el pack de Foundry:
+
+```bash
+cd /Users/ludo/code/ik
+
+# Crear directorio del pack si no existe
+mkdir -p foundry_packs_es/ik-actors-NOMBRE-AVENTURA
+
+# Empaquetar los JSONs en LevelDB
+fvtt package pack ik-actors-NOMBRE-AVENTURA \
+  --in tools/foundry_export_es/actors/NOMBRE-AVENTURA \
+  --out foundry_packs_es/ik-actors-NOMBRE-AVENTURA \
+  --type Actor
+
+# IMPORTANTE: fvtt crea un subdirectorio anidado, mover los archivos:
+cd foundry_packs_es/ik-actors-NOMBRE-AVENTURA
+mv ik-actors-NOMBRE-AVENTURA/* .
+rmdir ik-actors-NOMBRE-AVENTURA
+```
+
+### Paso 4: Registrar el Pack en module.json
+
+Editar `/Users/ludo/code/ik/module.json`:
+
+1. Añadir entrada en `packs`:
+```json
+{
+  "name": "ik-actors-NOMBRE-AVENTURA",
+  "label": "RdH: Personajes - Nombre Aventura",
+  "path": "foundry_packs_es/ik-actors-NOMBRE-AVENTURA",
+  "type": "Actor",
+  "ownership": {
+    "PLAYER": "OBSERVER",
+    "ASSISTANT": "OWNER"
+  },
+  "system": "dnd5e",
+  "flags": {}
+}
+```
+
+2. Añadir el nombre del pack a `packFolders[0].packs`.
+
+---
+
+## Templates de Personajes
+
+### Template: Personaje Jugador (PJ)
+
+```markdown
+---
+layout: default
+title: Nombre Apellido - Clase
+---
+
+# Nombre Apellido
+
+**Clase N** · Raza (Nacionalidad)
+
+---
+
+## Características
+
+| Característica | Puntuación | Modificador | Notas |
+|----------------|------------|-------------|-------|
+| Fuerza | 10 | +0 | Base X + racial |
+| Destreza | 10 | +0 | |
+| Constitución | 10 | +0 | |
+| Inteligencia | 10 | +0 | |
+| Sabiduría | 10 | +0 | |
+| Carisma | 10 | +0 | |
+
+*Point buy: X+X+X+X+X+X = 27 pts*
+
+---
+
+## Atributos de Combate
+
+| Atributo | Valor |
+|----------|-------|
+| **Clase de Armadura** | X (tipo armadura) |
+| **Puntos de Golpe** | X (dado + CON) |
+| **Velocidad** | 30 pies |
+| **Bonificador de Competencia** | +2 |
+| **Iniciativa** | +X |
+
+---
+
+## Rasgos Raciales (Raza)
+
+- **Rasgo 1:** Descripción
+- **Idiomas:** Idioma1, Idioma2
+
+---
+
+## Rasgos de Clase (Clase N)
+
+### Rasgo Principal
+- Descripción del rasgo
+
+---
+
+## Trucos
+
+- **Nombre del truco** — Descripción breve
+
+---
+
+## Conjuros Preparados
+
+### Nivel 1 (X espacios)
+- **Nombre del conjuro** — Descripción breve
+
+---
+
+## Competencias
+
+### Tiradas de Salvación
+- Característica (+X)
+
+### Habilidades
+- Habilidad (+X) — fuente
+
+### Armas y Armaduras
+- Lista de competencias
+
+### Herramientas
+- Lista de herramientas
+
+---
+
+## Equipo
+
+| Objeto | Peso |
+|--------|------|
+| Objeto 1 | X lb. |
+| **Total** | **X lb.** |
+
+**Monedas:** X po
+
+---
+
+## Ataques
+
+| Arma | Ataque | Daño | Propiedades |
+|------|--------|------|-------------|
+| Arma 1 | +X | XdX+X tipo | Propiedades |
+
+---
+
+## Trasfondo: Nombre Trasfondo
+
+- **Competencias de habilidad:** Hab1, Hab2
+- **Rasgo:** Nombre del rasgo
+
+### Personalidad
+
+- **Rasgo:** Texto del rasgo de personalidad.
+- **Ideal:** Texto del ideal. (Alineamiento)
+- **Vínculo:** Texto del vínculo.
+- **Defecto:** Texto del defecto.
+
+---
+
+## Notas
+
+**Esencia:** Nombre (bonus)
+
+**Aspecto:** Descripción física detallada.
+
+**Historia:** Trasfondo narrativo del personaje.
+
+---
+
+← [Volver al Grupo](index.md)
+```
+
+### Template: NPC Plebeyo
+
+```markdown
+---
+layout: default
+title: Nombre Apellido - Rol
+---
+
+# Nombre Apellido
+
+**Plebeyo** · Raza Nacionalidad
+
+---
+
+## Características
+
+| Característica | Puntuación | Modificador |
+|----------------|------------|-------------|
+| Fuerza | 10 | +0 |
+| Destreza | 10 | +0 |
+| Constitución | 10 | +0 |
+| Inteligencia | 10 | +0 |
+| Sabiduría | 10 | +0 |
+| Carisma | 10 | +0 |
+
+---
+
+## Atributos de Combate
+
+| Atributo | Valor |
+|----------|-------|
+| **Clase de Armadura** | 10 |
+| **Puntos de Golpe** | 4 (1d8) |
+| **Velocidad** | 30 pies |
+| **Iniciativa** | +0 |
+
+---
+
+## Rasgos Raciales (Nacionalidad)
+
+- **Rasgo racial:** Descripción
+- **Idiomas:** Idioma
+
+---
+
+## Habilidades
+
+- Habilidad (+X)
+
+---
+
+## Equipo
+
+| Objeto | Peso |
+|--------|------|
+| Objeto | X lb. |
+| **Total** | **X lb.** |
+
+**Monedas:** X pc
+
+---
+
+## Ataques
+
+| Arma | Ataque | Daño | Propiedades |
+|------|--------|------|-------------|
+| Garrote | +2 | 1d4 contundente | — |
+
+---
+
+## Trasfondo: Rol en la Comunidad
+
+Descripción del rol del NPC en la comunidad.
+
+### Personalidad
+
+- **Rasgo:** Texto.
+- **Ideal:** Texto. (Alineamiento)
+- **Vínculo:** Texto.
+- **Defecto:** Texto.
+
+---
+
+## Notas
+
+**Aspecto:** Descripción física.
+
+**Historia:** Trasfondo breve.
+
+---
+
+← [Volver al Índice](index.md)
+```
+
+---
+
+## Mapeo de Items Español → Inglés
+
+El script `characterConverter.py` reconoce automáticamente estos nombres en español:
+
+### Armas (mapean a D&D 5e)
+| Español | Inglés |
+|---------|--------|
+| Daga/Dagas | Dagger |
+| Espada corta | Shortsword |
+| Espada larga | Longsword |
+| Espadón | Greatsword |
+| Hacha de batalla/guerra | Battleaxe |
+| Martillo de guerra | Warhammer |
+| Maza | Mace |
+| Lanza | Spear |
+| Jabalina/Jabalinas | Javelin |
+| Arco corto | Shortbow |
+| Arco largo | Longbow |
+| Ballesta ligera | Light Crossbow |
+| Cimitarra | Scimitar |
+| Alabarda | Halberd |
+| Bastón | Quarterstaff |
+
+### Armaduras (mapean a D&D 5e)
+| Español | Inglés |
+|---------|--------|
+| Armadura de cuero | Leather Armor |
+| Cuero tachonado | Studded Leather Armor |
+| Camisa de malla | Chain Shirt |
+| Cota de malla | Chain Mail |
+| Cota de escamas | Scale Mail |
+| Escudo | Shield |
+
+### Items de IK (mapean al compendio de IK)
+| Español | Item IK |
+|---------|---------|
+| Pistola magifusil | Pistola de Cerrojo Mágico |
+| Rifle magifusil | Rifle de Cerrojo Mágico |
+| Kit de alquimia de campo | Kit de Alquimia de Campo |
+| Delantal blindado | Delantal Blindado |
+| Máscara de gas | Máscara de Gas |
+| Pistola de remaches | Pistola de Remaches |
+
+### Equipo Aventurero (mapean a D&D 5e)
+| Español | Inglés |
+|---------|--------|
+| Flechas | Arrows |
+| Aljaba/Carcaj | Quiver |
+| Herramientas de ladrón | Thieves' Tools |
+| Mochila | Backpack |
+| Antorcha | Torch |
+| Cuerda/Soga | Rope |
+
+---
 
 ### Personajes Actuales
 
