@@ -37,6 +37,17 @@ Las clases del manual básico tienen opciones de subclase específicas de los Re
 | [Explorador](explorador.md) | Rastreadores, cazadores de magos y vigilantes |
 | [Pícaro](picaro.md) | Criminales y duelistas de los bajos fondos |
 
+## Clases Básicas sin Subclases Específicas
+
+Estas clases del manual básico no tienen subclases propias de IK, pero están disponibles para jugar.
+
+| Clase | Descripción |
+|-------|-------------|
+| [Brujo](brujo.md) | Arcanistas que forjan pactos con patrones sobrenaturales |
+| [Druida](druida.md) | Guardianes de la naturaleza con poder sobre los elementos y las bestias |
+| [Hechicero](hechicero.md) | Lanzadores de magia innata que manipulan la energía arcana pura |
+| [Mago](mago.md) | Estudiosos de lo arcano que dominan la magia mediante el conocimiento |
+
 ---
 
 ## Subclases por Clase
