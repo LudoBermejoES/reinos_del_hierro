@@ -33,22 +33,22 @@ Los exploradores a menudo sirven como rastreadores y centinelas de largo alcance
 | 2 | +2 | Estilo de Combate, Explorador Hábil | 2 | 3 | 2 | — | — | — | — |
 | 3 | +2 | Subclase de Explorador | 2 | 4 | 3 | — | — | — | — |
 | 4 | +2 | Mejora de Característica | 2 | 5 | 3 | — | — | — | — |
-| 5 | +3 | Ataque Adicional | 2 | 6 | 4 | 2 | — | — | — |
-| 6 | +3 | Errante | 3 | 6 | 4 | 2 | — | — | — |
-| 7 | +3 | Rasgo de Subclase | 3 | 7 | 4 | 3 | — | — | — |
-| 8 | +3 | Mejora de Característica | 3 | 7 | 4 | 3 | — | — | — |
-| 9 | +4 | Pericia | 3 | 9 | 4 | 3 | 2 | — | — |
-| 10 | +4 | Infatigable | 3 | 9 | 4 | 3 | 2 | — | — |
-| 11 | +4 | Rasgo de Subclase | 3 | 10 | 4 | 3 | 3 | — | — |
-| 12 | +4 | Mejora de Característica | 3 | 10 | 4 | 3 | 3 | — | — |
-| 13 | +5 | Cazador Persistente | 3 | 11 | 4 | 3 | 3 | 1 | — |
-| 14 | +5 | Velo de la Naturaleza | 3 | 11 | 4 | 3 | 3 | 1 | — |
-| 15 | +5 | Rasgo de Subclase | 3 | 12 | 4 | 3 | 3 | 2 | — |
-| 16 | +5 | Mejora de Característica | 3 | 12 | 4 | 3 | 3 | 2 | — |
-| 17 | +6 | Cazador Preciso | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 18 | +6 | Sentidos Salvajes | 3 | 14 | 4 | 3 | 3 | 3 | 1 |
-| 19 | +6 | Don Épico | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
-| 20 | +6 | Azote de Enemigos | 3 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 5 | +3 | Ataque Adicional | 3 | 6 | 4 | 2 | — | — | — |
+| 6 | +3 | Errante | 3 | 7 | 4 | 2 | — | — | — |
+| 7 | +3 | Rasgo de Subclase | 3 | 8 | 4 | 3 | — | — | — |
+| 8 | +3 | Mejora de Característica | 3 | 9 | 4 | 3 | — | — | — |
+| 9 | +4 | Pericia | 4 | 10 | 4 | 3 | 2 | — | — |
+| 10 | +4 | Infatigable | 4 | 10 | 4 | 3 | 2 | — | — |
+| 11 | +4 | Rasgo de Subclase | 4 | 11 | 4 | 3 | 3 | — | — |
+| 12 | +4 | Mejora de Característica | 4 | 11 | 4 | 3 | 3 | — | — |
+| 13 | +5 | Cazador Persistente | 5 | 12 | 4 | 3 | 3 | 1 | — |
+| 14 | +5 | Velo de la Naturaleza | 5 | 12 | 4 | 3 | 3 | 1 | — |
+| 15 | +5 | Rasgo de Subclase | 5 | 14 | 4 | 3 | 3 | 2 | — |
+| 16 | +5 | Mejora de Característica | 5 | 14 | 4 | 3 | 3 | 2 | — |
+| 17 | +6 | Cazador Preciso | 6 | 15 | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Sentidos Salvajes | 6 | 15 | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | Don Épico | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Azote de Enemigos | 6 | 15 | 4 | 3 | 3 | 3 | 2 |
 
 ---
 
@@ -194,6 +194,27 @@ El dado de daño de tu *marca del cazador* es un d10 en lugar de un d6.
 | [Cazarrecompensas](explorador-cazarrecompensas.md) | Cazadores de criminales y desertores, expertos en capturar vivos a sus objetivos |
 | [Cazador de Magos](explorador-cazador-magos.md) | Asesinos iosanos especializados en eliminar lanzadores de conjuros y autómatas |
 | [Vigilante](explorador-vigilante.md) | Fanáticos de la Orden de la Iluminación que cazan aberraciones e infernales |
+
+---
+
+## Lista de Conjuros de Explorador
+
+*Los conjuros marcados con ᴵᴷ son exclusivos de los Reinos de Hierro.*
+
+### Nivel 1
+Alarma, Buenas bayas, Curar heridas, Detectar magia, Detectar venenos y enfermedades, Encantar animal, Enmarañar, Golpe apresador, Hablar con animales, Marca del cazador, *Precisión* ᴵᴷ, Salto, Zancada prodigiosa
+
+### Nivel 2
+Arma mágica, Auxilio, Cordón de flechas, Crecimiento espinoso, Detectar trampas, Disipar magia, Localizar animales o plantas, Localizar objeto, Pasar sin rastro, Piel robliza, Protección contra veneno, Ráfaga de viento, Silencio, Visión en la oscuridad
+
+### Nivel 3
+Arma elemental, Caminar sobre el agua, Conjurar animales, Conjurar descarga de proyectiles, Crecimiento vegetal, Disipar magia, Flecha de relámpago, Fundirse con la piedra, Hablar con las plantas, Indetectable, Luz del día, Protección contra energía, *Reflejos aumentados* ᴵᴷ, Revivir
+
+### Nivel 4
+Conjurar seres del bosque, Enredadera, Libertad de movimiento, Localizar criatura, Piel pétrea
+
+### Nivel 5
+Carcaj veloz, Comunión con la naturaleza, Conjurar lluvia de flechas, Golpe de viento acerado, Paso arbóreo
 
 ---
 

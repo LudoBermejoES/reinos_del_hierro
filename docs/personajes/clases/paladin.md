@@ -198,4 +198,25 @@ Obtienes una dote de don épico u otra dote de tu elección para la que cumplas 
 
 ---
 
+## Lista de Conjuros de Paladín
+
+*Los conjuros marcados con ᴵᴷ son exclusivos de los Reinos de Hierro.*
+
+### Nivel 1
+Bendición, Castigo abrasador, Castigo atronador, Castigo divino, Castigo furioso, Curar heridas, Detectar el bien y el mal, Detectar magia, Detectar venenos y enfermedades, Duelo forzado, Escudo de fe, Favor divino, Heroísmo, *Hoja guiada* ᴵᴷ, Orden imperiosa, Protección contra el bien y el mal, Santuario
+
+### Nivel 2
+Arma mágica, Auxilio, Castigo brillante, Dulce descanso, Hallar corcel, Localizar objeto, Plegaria de curación, Protección contra veneno, Vínculo protector, Zona de la verdad
+
+### Nivel 3
+Arma elemental, Aura de vitalidad, Castigo cegador, Círculo mágico, Crear comida y agua, Disipar magia, *Hoja de resplandor* ᴵᴷ, Levantar maldición, Luz del día, Manto del cruzado, Revivir
+
+### Nivel 4
+Aura de pureza, Aura de vida, Castigo abrumador, Destierro, Guarda contra la muerte, Localizar criatura
+
+### Nivel 5
+Alzar a los muertos, Castigo desterrador, Círculo de poder, Disipar el bien y el mal, Geas
+
+---
+
 ← [Volver a Clases](index.md)

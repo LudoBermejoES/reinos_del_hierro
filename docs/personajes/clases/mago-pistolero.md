@@ -157,4 +157,29 @@ Las armas de fuego que no son magifusiles ni están vinculadas se deterioran al 
 
 ---
 
+## Lista de Conjuros de Mago Pistolero
+
+### Trucos (Nivel 0)
+Impacto certero, Luces danzantes, Luz, Prestidigitación, Reparar
+
+### Nivel 1
+Céfiro, Detectar magia, Disfrazarse, Escudo, Esquivabalas, Nube de oscurecimiento, Precisión, Retirada expeditiva, Salto
+
+### Nivel 2
+Cargador infinito, Contorno borroso, Horca, Paso brumoso, Trepar cual arácnido, Ver invisibilidad, Visión en la oscuridad
+
+### Nivel 3
+Acelerar, Calamidad, Desplazamiento, Luz del día, Protección contra energía, Reflejos aumentados, Refugio
+
+### Nivel 4
+Guarda contra la muerte, Localizar criatura, Ojo arcano, Piel pétrea, Vista de mago
+
+### Nivel 5
+Apariencia, Bombardeo fantasmal, Inmovilizar monstruo, Pasamuros
+
+### Nivel 6
+Contingencia, Encontrar el camino, Visión veraz
+
+---
+
 ← [Volver a Clases](index.md) | [Creación de Personajes](../index.md)

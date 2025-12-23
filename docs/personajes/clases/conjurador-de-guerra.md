@@ -166,4 +166,26 @@ Al inicio de cada turno, si tienes menos de la mitad de tus puntos de enfoque m�
 
 ---
 
+## Lista de Conjuros de Conjurador de Guerra
+
+### Trucos (Nivel 0)
+Agarre electrizante, Descarga de fuego, Flecha arcana, Impacto certero, Luz, Rayo de escarcha, Salpicadura ácida, Sentir córtex, Toque helado
+
+### Nivel 1
+Arranque, Detectar magia, Escudo, Manos ardientes, Nube de oscurecimiento, Ocultar córtex, Ola atronadora, Salto, Viento afilado
+
+### Nivel 2
+Ariete, Contorno borroso, Descarga eléctrica, Detener engranajes, Esfera llameante, Flecha ácida, Hacer añicos, Hoja fulgurante, Línea roja, Llama permanente, Paso brumoso, Ráfaga de viento, Rayo abrasador
+
+### Nivel 3
+Acelerar, Bola de fuego, Contraconjuro, Erupción, Moler, Ralentizar, Relámpago, Revolver, Sobrecargar, Tormenta de aguanieve
+
+### Nivel 4
+Escudo de fuego, Moldear la piedra, Muro de fuego, Tormenta de hielo
+
+### Nivel 5
+Cono de frío, Choque sísmico, Ira del invierno, Muro de fuerza, Telequinesis
+
+---
+
 ← [Volver a Clases](index.md) | [Creación de Personajes](../index.md)

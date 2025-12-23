@@ -173,4 +173,40 @@ Cuando uses tu rasgo Intercesión Divina, puedes elegir *deseo* al seleccionar u
 
 ---
 
+## Lista de Conjuros de Clérigo
+
+*Los conjuros marcados con ᴵᴷ son exclusivos de los Reinos de Hierro.*
+
+### Trucos (Nivel 0)
+Guía, Llama sagrada, Luz, Piedad con los moribundos, Resistencia, Taumaturgia, Toque helado
+
+### Nivel 1
+Bendición, Crear o destruir agua, Curar heridas, Detectar el bien y el mal, Detectar magia, Detectar venenos y enfermedades, Escudo de fe, *Exorcismo* ᴵᴷ, Infligir heridas, Orden imperiosa, Perdición, Santuario
+
+### Nivel 2
+Arma espiritual, Augurio, Auxilio, Calmar emociones, Detectar trampas, Dulce descanso, Llama permanente, Plegaria de curación, Silencio, Vínculo protector, Zona de la verdad
+
+### Nivel 3
+Animar a los muertos, Aura de vitalidad, Caminar sobre el agua, Círculo mágico, Crear comida y agua, Disipar magia, Don de lenguas, Espíritus guardianes, Fingir muerte, Fundirse con la piedra, Glifo custodio, Hablar con los muertos, Levantar maldición, Luz del día, Palabra de curación en masa, Revivir
+
+### Nivel 4
+Adivinación, Aura de pureza, Aura de vida, Controlar agua, Destierro, Guardián de la fe, Guarda contra la muerte, Libertad de movimiento, Localizar criatura, *Retener Muertos Vivientes* ᴵᴷ
+
+### Nivel 5
+*Castigar* ᴵᴷ, Círculo de poder, Comunión, Contagio, Consagrar, Conocer las leyendas, Curar heridas en masa, Disipar el bien y el mal, Escudriñar, Golpe flamígero, Plaga de insectos, *Purificación* ᴵᴷ, Restablecimiento mayor
+
+### Nivel 6
+Aliado planar, Barrera de cuchillas, Conjurar celestial, Crear muerto viviente, Curar, Dañar, Encontrar el camino, Festín de héroes, Palabra de regreso, Prohibición
+
+### Nivel 7
+Conjurar celestial, Desplazamiento entre planos, Excursión etérea, Palabra divina, Regenerar, Resurrección, Símbolo
+
+### Nivel 8
+Aura sagrada, Campo antimagia, Controlar el clima, Explosión solar, Terremoto
+
+### Nivel 9
+Curar en masa, Portal, Proyección astral, Resurrección verdadera
+
+---
+
 ← [Volver a Clases](index.md)

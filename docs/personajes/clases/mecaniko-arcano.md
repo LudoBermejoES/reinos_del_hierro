@@ -99,4 +99,23 @@ Aprendes a acelerar el proceso de construcción de mecánika:
 
 ---
 
+## Lista de Conjuros de Mecániko Arcano
+
+### Trucos (Nivel 0)
+Agarre electrizante, Cortocircuito, Luz, Martillo arcano, Potenciador, Reparar, Resistencia
+
+### Nivel 1
+Arranque, Disparo arcántriko, Electrizar, Escudo, Fortificar, Grasa, Retirada expeditiva, Sifón de energía
+
+### Nivel 2
+Abrir, Auxilio, Calentar metal, Cerradura arcana, Contorno borroso, Escudo de polaridad, Hacer añicos, Línea roja, Localizar objeto, Silencio
+
+### Nivel 3
+Acelerar, Llamar al relámpago, Moler, Protección contra energía, Ralentizar, Refugio, Relámpago
+
+### Nivel 4
+Apagón, Esfera elástica, Fabricar, Libertad de movimiento, Muro de vapor
+
+---
+
 ← [Volver a Mecániko](mecaniko.md) · [Mecániko de Combate](mecaniko-combate.md) · [Cabezaférrea](mecaniko-cabezaferrea.md)

@@ -159,4 +159,40 @@ Ahora dominas dos de las palabras de creación: las palabras de la vida y de la 
 
 ---
 
+## Lista de Conjuros de Bardo
+
+*Los conjuros marcados con ᴵᴷ son exclusivos de los Reinos de Hierro.*
+
+### Trucos (Nivel 0)
+Amistad, Burla dañina, Guardia de cuchillas, Impacto certero, Ilusión menor, Luces danzantes, Luz, Mano de mago, Mensaje
+
+### Nivel 1
+Caída de pluma, Curar heridas, Disfrazarse, Dormir, Encantar animal, Entender idiomas, Fuego feérico, Heroísmo, Identificar, *Manto de terror* ᴵᴷ, Orden imperiosa, Perdición, Risa horrible de Tasha
+
+### Nivel 2
+Abrir, Agrandar/reducir, Auxilio, Boca mágica, Calentar metal, Calmar emociones, Corona de la locura, Detectar pensamientos, Embelesar, Fuerza fantasmal, Hacer añicos, Imagen múltiple, Inmovilizar persona, Invisibilidad, Sugestión
+
+### Nivel 3
+Clarividencia, Crecimiento vegetal, Despertar, Disipar magia, Don de lenguas, Fingir muerte, Glifo custodio, Imponer maldición, Indetectable, Patrón hipnótico, Pequeña choza de Leomund, Ralentizar, *Reflejos aumentados* ᴵᴷ
+
+### Nivel 4
+Compulsión, Confusión, Fuente de luz lunar, Libertad de movimiento, Polimorfar, Puerta dimensional
+
+### Nivel 5
+Alterar los recuerdos, Alzar a los muertos, Animar objetos, Apariencia, Atadura planar, Conocer las leyendas, Curar heridas en masa, Engañar, Enlace telepático de Rary, Ensueño, Escudriñar, Estática sináptica, *Obediencia forzada* ᴵᴷ
+
+### Nivel 6
+Baile irresistible de Otto, Encontrar el camino, Festín de héroes, Guardas y guardias, Mal de ojo, Palabra de curación en masa, Sugestión en masa
+
+### Nivel 7
+Espada de Mordenkainen, Espejismo arcano, Excursión etérea, Jaula de fuerza, Mansión magnífica de Mordenkainen, Símbolo
+
+### Nivel 8
+Antipatía/simpatía, Labia, Mente en blanco, Ofuscación, Palabra de poder: aturdir
+
+### Nivel 9
+Palabra de poder: matar, Palabra de poder: sanar, Presciencia
+
+---
+
 ← [Volver a Clases](index.md)
