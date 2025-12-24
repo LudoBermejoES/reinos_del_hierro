@@ -150,6 +150,46 @@ Editar `/Users/ludo/code/ik/module.json`:
 
 ### Template: Personaje Jugador (PJ)
 
+**IMPORTANTE:** El script `characterConverter.py` parsea campos específicos del markdown. El formato exacto es crítico para que la conversión a JSON funcione correctamente.
+
+#### Campos parseados por el script
+
+| Campo MD | Campo JSON | Formato exacto |
+|----------|------------|----------------|
+| Línea título | `name` | `# Nombre Apellido` |
+| Línea subtítulo | `class`, `race`, `alignment` | `**Clase N** · Raza · Alineamiento` |
+| Tabla características | `abilities` | Ver template |
+| Tabla combate | `ac`, `hp`, `speed` | Ver template |
+| Sección Trucos | `cantrips` | `- **Nombre** — descripción` |
+| Sección Conjuros | `spells` | `- **Nombre** — descripción` |
+| Tabla Equipo | `equipment` | `\| Nombre \| X lb. \|` |
+| Sección Personalidad | `trait`, `ideal`, `bond`, `flaw` | `- **Campo:** valor` |
+| `**Género:**` | `gender` | Texto libre |
+| `**Edad:**` | `age` | Ej: `35 años` |
+| `**Altura:**` | `height` | Ej: `1,78 m` |
+| `**Peso:**` | `weight` | Ej: `72 kg` |
+| `**Ojos:**` | `eyes` | Texto libre |
+| `**Pelo:**` | `hair` | Texto libre |
+| `**Piel:**` | `skin` | Texto libre |
+| `**Creencia:**` | `faith` | Texto libre |
+| `**Aspecto:**` | `appearance` | Texto libre |
+| `**Historia:**` | `biography` | Texto libre |
+
+#### Alineamientos válidos
+
+El alineamiento debe estar en español y ser uno de:
+- `Legal Bueno` → LG
+- `Neutral Bueno` → NG
+- `Caótico Bueno` → CG
+- `Legal Neutral` → LN
+- `Neutral` o `Neutral Verdadero` → N
+- `Caótico Neutral` → CN
+- `Legal Malvado` → LE
+- `Neutral Malvado` → NE
+- `Caótico Malvado` → CE
+
+#### Template completa
+
 ```markdown
 ---
 layout: default
@@ -158,7 +198,7 @@ title: Nombre Apellido - Clase
 
 # Nombre Apellido
 
-**Clase N** · Raza (Nacionalidad)
+**Clase N** · Raza (Nacionalidad) · Alineamiento
 
 ---
 
@@ -166,12 +206,12 @@ title: Nombre Apellido - Clase
 
 | Característica | Puntuación | Modificador | Notas |
 |----------------|------------|-------------|-------|
-| Fuerza | 10 | +0 | Base X + racial |
-| Destreza | 10 | +0 | |
-| Constitución | 10 | +0 | |
-| Inteligencia | 10 | +0 | |
-| Sabiduría | 10 | +0 | |
-| Carisma | 10 | +0 | |
+| Fuerza | 10 | +0 | Base X (Y pts) + racial |
+| Destreza | 10 | +0 | Base X (Y pts) |
+| Constitución | 10 | +0 | Base X (Y pts) |
+| Inteligencia | 10 | +0 | Base X (Y pts) |
+| Sabiduría | 10 | +0 | Base X (Y pts) |
+| Carisma | 10 | +0 | Base X (Y pts) |
 
 *Point buy: X+X+X+X+X+X = 27 pts*
 
@@ -182,7 +222,7 @@ title: Nombre Apellido - Clase
 | Atributo | Valor |
 |----------|-------|
 | **Clase de Armadura** | X (tipo armadura) |
-| **Puntos de Golpe** | X (dado + CON) |
+| **Puntos de Golpe** | X (1dY + CON) |
 | **Velocidad** | 30 pies |
 | **Bonificador de Competencia** | +2 |
 | **Iniciativa** | +X |
@@ -191,6 +231,7 @@ title: Nombre Apellido - Clase
 
 ## Rasgos Raciales (Raza)
 
+- **Mejora de Característica:** CAR +X, DES +X
 - **Rasgo 1:** Descripción
 - **Idiomas:** Idioma1, Idioma2
 
@@ -199,7 +240,10 @@ title: Nombre Apellido - Clase
 ## Rasgos de Clase (Clase N)
 
 ### Rasgo Principal
-- Descripción del rasgo
+Descripción del rasgo.
+
+### Otro Rasgo
+Descripción.
 
 ---
 
@@ -237,6 +281,7 @@ title: Nombre Apellido - Clase
 | Objeto | Peso |
 |--------|------|
 | Objeto 1 | X lb. |
+| Objeto 2 (cantidad) | X lb. |
 | **Total** | **X lb.** |
 
 **Monedas:** X po
@@ -254,7 +299,9 @@ title: Nombre Apellido - Clase
 ## Trasfondo: Nombre Trasfondo
 
 - **Competencias de habilidad:** Hab1, Hab2
-- **Rasgo:** Nombre del rasgo
+- **Competencias de herramientas:** Herramienta (si aplica)
+- **Idiomas:** Idioma (si aplica)
+- **Rasgo:** Nombre del rasgo de trasfondo
 
 ### Personalidad
 
@@ -267,16 +314,41 @@ title: Nombre Apellido - Clase
 
 ## Notas
 
-**Esencia:** Nombre (bonus)
+**Esencia:** Nombre (descripción del bonus)
 
-**Aspecto:** Descripción física detallada.
+**Género:** Masculino/Femenino
+**Edad:** X años
+**Altura:** X,XX m
+**Peso:** X kg
+**Ojos:** Color/descripción
+**Pelo:** Color/descripción
+**Piel:** Color/descripción
+**Creencia:** Dios o panteón
 
-**Historia:** Trasfondo narrativo del personaje.
+**Aspecto:** Descripción física detallada del personaje. Puede ser un párrafo largo describiendo apariencia, vestimenta, rasgos distintivos, etc.
+
+**Historia:** Trasfondo narrativo del personaje. Puede ser varios párrafos explicando su origen, motivaciones, eventos importantes de su vida, y por qué está donde está ahora.
 
 ---
 
 ← [Volver al Grupo](index.md)
 ```
+
+#### Notas sobre el parsing
+
+1. **Línea de subtítulo**: El formato `**Clase N** · Raza · Alineamiento` usa el carácter `·` (punto medio, U+00B7) como separador, NO un punto normal.
+
+2. **Conjuros**: Deben estar en español. El script mapea nombres comunes:
+   - `Curar heridas` → Cure Wounds
+   - `Proyectil mágico` → Magic Missile
+   - `Armadura de mago` → Mage Armor
+   - Ver mapeo completo en sección de conjuros más abajo.
+
+3. **Equipo**: Usar los nombres exactos del mapeo (ver sección "Mapeo de Items"). Items no reconocidos se crean como "loot" genérico.
+
+4. **Datos físicos**: Los campos `**Género:**`, `**Edad:**`, etc. deben estar en la sección Notas, cada uno en su propia línea con el formato exacto `**Campo:** valor`.
+
+5. **Aspecto e Historia**: Deben empezar con `**Aspecto:**` y `**Historia:**` respectivamente. Pueden ser párrafos largos.
 
 ### Template: NPC Plebeyo
 
@@ -288,7 +360,7 @@ title: Nombre Apellido - Rol
 
 # Nombre Apellido
 
-**Plebeyo** · Raza Nacionalidad
+**Plebeyo** · Raza Nacionalidad · Alineamiento
 
 ---
 
@@ -363,6 +435,15 @@ Descripción del rol del NPC en la comunidad.
 
 ## Notas
 
+**Género:** Masculino/Femenino
+**Edad:** X años
+**Altura:** X,XX m
+**Peso:** X kg
+**Ojos:** Color/descripción
+**Pelo:** Color/descripción
+**Piel:** Color/descripción
+**Creencia:** Dios o panteón
+
 **Aspecto:** Descripción física.
 
 **Historia:** Trasfondo breve.
@@ -426,6 +507,56 @@ El script `characterConverter.py` reconoce automáticamente estos nombres en esp
 | Mochila | Backpack |
 | Antorcha | Torch |
 | Cuerda/Soga | Rope |
+
+### Conjuros (mapean a D&D 5e)
+
+El script `characterConverter.py` contiene un mapeo completo de ~200 conjuros español → inglés.
+
+**Ubicación del mapeo:** `/Users/ludo/code/ik/tools/characterConverter.py`, función `find_spell_in_database()`, diccionario `spell_aliases`.
+
+#### Trucos (Cantrips) comunes
+| Español | Inglés |
+|---------|--------|
+| Descarga de fuego | Fire Bolt |
+| Guía | Guidance |
+| Llama sagrada / Palabra sagrada | Sacred Flame |
+| Luz | Light |
+| Mano de mago | Mage Hand |
+| Piedad | Spare the Dying |
+| Prestidigitación | Prestidigitation |
+| Rayo de escarcha | Ray of Frost |
+| Taumaturgia | Thaumaturgy |
+
+#### Nivel 1 comunes
+| Español | Inglés |
+|---------|--------|
+| Armadura de mago | Mage Armor |
+| Bendición | Bless |
+| Curar heridas | Cure Wounds |
+| Detectar magia | Detect Magic |
+| Dormir | Sleep |
+| Escudo | Shield |
+| Escudo de la fe | Shield of Faith |
+| Heroísmo | Heroism |
+| Marca del cazador | Hunter's Mark |
+| Palabra de curación | Healing Word |
+| Proyectil mágico | Magic Missile |
+| Rayo guiado | Guiding Bolt |
+| Santuario | Sanctuary |
+
+#### Niveles superiores comunes
+| Español | Inglés | Nivel |
+|---------|--------|-------|
+| Bola de fuego | Fireball | 3 |
+| Disipar magia | Dispel Magic | 3 |
+| Espíritus guardianes | Spirit Guardians | 3 |
+| Revivificar | Revivify | 3 |
+| Destierro | Banishment | 4 |
+| Polimorfar | Polymorph | 4 |
+| Alzar a los muertos | Raise Dead | 5 |
+| Curar | Heal | 6 |
+| Resurrección | Resurrection | 7 |
+| Deseo | Wish | 9 |
 
 ---
 

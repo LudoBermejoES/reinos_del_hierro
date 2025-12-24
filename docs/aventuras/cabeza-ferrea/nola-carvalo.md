@@ -5,7 +5,7 @@ title: Nola Carvalo - Maga Pistolera
 
 # Nola Carvalo
 
-**Maga Pistolera 1** · Humana (Órdica - Tordorana)
+**Maga Pistolera 1** · Humana (Órdica - Tordorana) · Caótico Bueno
 
 ---
 
@@ -148,9 +148,34 @@ A nivel 1 elige tu Orden. **Aún no seleccionada** (se elige a nivel 1 pero otor
 
 ---
 
+## Compañía Treslunas
+
+**Reclutada hace:** 6 meses
+
+Nola encontró en Treslunas lo que perdió cuando su barco se hundió: una tripulación. No importa que naveguen por túneles en lugar de por el mar. Lo que importa es que cubren sus espaldas y ella cubre las de ellos. Echa de menos el océano, pero estos inadaptados se han convertido en su nueva familia.
+
+### Relaciones con el Grupo
+
+- **Elias:** El investigador piensa demasiado. Nola prefiere actuar. Chocan constantemente sobre tácticas, pero en el fondo sabe que él suele tener razón. No lo admitirá jamás.
+- **Brokk:** El troloide es el corazón del grupo. Nola confía en él para mantenerla viva y para decirle cuando se está pasando de la raya. Es como el capellán que nunca tuvo.
+- **Torgun:** El viejo ogrun le recuerda al contramaestre de su barco: lento, metódico, fiable como una roca. Le respeta más de lo que demuestra.
+- **Gek:** El gobo es un desastre adorable. Sus granadas han salvado al grupo más de una vez. Nola lo trata como a un hermano pequeño excesivamente combustible.
+- **Hilda:** La enana tiene agallas. Nola reconoce a alguien que no se rinde. A veces se quedan despiertas hablando de sus respectivos pasados y de lo que harán cuando consigan lo que buscan.
+
+---
+
 ## Notas
 
 **Esencia:** Ágil (DES, SAB o CAR +2 → DES +1, CAR +1)
+
+**Género:** Femenino
+**Edad:** 28 años
+**Altura:** 1,68 m
+**Peso:** 62 kg
+**Ojos:** Oscuros (marrón oscuro)
+**Pelo:** Negro, rizado
+**Piel:** Olivácea
+**Creencia:** Morrow (nominal)
 
 **Aspecto:** Mujer de unos veintiocho años, piel olivácea y cabello negro rizado recogido en un pañuelo rojo. Ojos oscuros con un brillo peligroso. Complexión atlética de quien ha pasado años trepando por aparejos. Una cicatriz pálida cruza su mejilla izquierda desde la oreja hasta la comisura de la boca. Viste ropa práctica de viajera sobre la que destaca un cinturón de cuero con cartucheras y una pistola magifusil con runas grabadas en el cañón. Lleva un pendiente de oro en forma de ancla en la oreja derecha.
 

@@ -5,7 +5,7 @@ title: Elias Dunford - Pícaro
 
 # Elias Dunford
 
-**Pícaro 1** · Humano (Cygnarano)
+**Pícaro 1** · Humano (Cygnarano) · Legal Bueno
 
 ---
 
@@ -138,9 +138,34 @@ Tienes pericia (doble competencia) en **2 habilidades**: Engaño e Investigació
 
 ---
 
+## Compañía Treslunas
+
+**Reclutado hace:** 4 meses
+
+Elias se unió a Treslunas cuando la compañía necesitaba a alguien que supiera moverse en las sombras y hacer las preguntas correctas. Su experiencia como investigador resultó invaluable para rastrear contratos y evaluar riesgos. No buscaba camaradería —nunca la ha buscado—, pero ha encontrado algo parecido a la confianza entre estos mercenarios.
+
+### Relaciones con el Grupo
+
+- **Brokk:** Respeta su honestidad brutal. El troloide es incapaz de mentir, lo que para Elias es un soplo de aire fresco después de años entre corruptos.
+- **Torgun:** Ve en el viejo ogrun a un hombre atormentado por los mismos fantasmas que él. No hablan mucho, pero hay un entendimiento silencioso.
+- **Nola:** La corsaria le pone nervioso con su impulsividad, pero admira que siempre dice exactamente lo que piensa. A veces discuten sobre tácticas.
+- **Gek:** El gobo es más listo de lo que aparenta. Elias sospecha que oculta algo, pero ¿quién no lo hace?
+- **Hilda:** La enana le recuerda a sí mismo: obsesionada con demostrar algo, dispuesta a ir demasiado lejos. Le preocupa adónde les llevará esa obsesión.
+
+---
+
 ## Notas
 
 **Esencia:** Ágil (DES, SAB o CAR +2 → DES)
+
+**Género:** Masculino
+**Edad:** 35 años
+**Altura:** 1,78 m
+**Peso:** 72 kg
+**Ojos:** Grises
+**Pelo:** Castaño con sienes grises
+**Piel:** Clara
+**Creencia:** Morrow
 
 **Aspecto:** Hombre de unos treinta y cinco años, cabello castaño con las sienes grises, rostro anguloso con nariz torcida (rota más de una vez). Ojos grises que parecen no perderse nada. Viste ropa práctica de tonos oscuros, nada que llame la atención. Lleva siempre un pequeño diario de cuero donde anota sus observaciones. Tiene las manos de alguien acostumbrado tanto a sostener una pluma como a forzar una cerradura.
 

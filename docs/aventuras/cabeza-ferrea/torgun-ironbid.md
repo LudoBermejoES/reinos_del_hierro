@@ -5,7 +5,7 @@ title: Torgun Ironbid - Guerrero
 
 # Torgun Ironbid
 
-**Guerrero 1** · Ogrun Rhúlico
+**Guerrero 1** · Ogrun Rhúlico · Legal Bueno
 
 ---
 
@@ -130,11 +130,36 @@ Como **acción adicional**, recuperas **1d10 + 1 puntos de golpe**.
 
 ---
 
+## Compañía Treslunas
+
+**Reclutado hace:** 3 meses
+
+Torgun no se unió a Treslunas por el dinero ni por la aventura. Se unió porque Hilda se unió, y donde va su korune, va él. Es el veterano del grupo, el que mantiene la calma cuando todo se desmorona. Los demás han aprendido a confiar en su experiencia, aunque a veces se exasperen con su ritmo pausado.
+
+### Relaciones con el Grupo
+
+- **Elias:** El investigador le recuerda a un joven supervisor que conoció hace décadas: demasiado listo para su propio bien, demasiado solo. Torgun intenta incluirlo en las conversaciones.
+- **Brokk:** El troloide es un buen muchacho con demasiado peso sobre los hombros. Torgun reconoce el duelo de un superviviente. A veces comparten silencio.
+- **Nola:** La corsaria tiene fuego en las venas. Le recuerda a los jóvenes impetuosos que entraban en las minas pensando que lo sabían todo. Pero dispara bien y protege a los suyos.
+- **Gek:** El gobo habla demasiado y explota cosas. Torgun finge que le molesta, pero le hace gracia. Le ha cogido cariño al pequeño loco.
+- **Hilda:** Su korune. Torgun daría su vida por ella sin pensarlo. Ve en Hilda la misma determinación que tuvo él de joven, antes de que los años le enseñaran el coste del orgullo.
+
+---
+
 ## Notas
 
 **Esencia:** Poderosa (FUE, DES o CON +2 → FUE)
 
 **Korune:** Hilda Forgebloom (Juramento de Lealtad)
+
+**Género:** Masculino
+**Edad:** 52 años
+**Altura:** 2,55 m
+**Peso:** 195 kg
+**Ojos:** Pequeños, oscuros
+**Pelo:** Calvo, barba negra trenzada
+**Piel:** Gris rojizo
+**Creencia:** El Gran Padre (panteón rhúlico)
 
 **Aspecto:** Ogrun macizo de más de dos metros y medio, con piel de un gris rojizo y barba negra trenzada con cuentas de metal. Cabeza calva con cicatrices de antiguos accidentes mineros. Ojos pequeños pero amables bajo cejas pobladas. Manos enormes cubiertas de callos. Viste una cota de malla sobre ropa de trabajo y lleva su martillo de guerra colgado a la espalda como si fuera un simple martillo de carpintero.
 

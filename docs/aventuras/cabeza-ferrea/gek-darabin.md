@@ -5,7 +5,7 @@ title: Gek-Darabin - Alquimista
 
 # Gek-Darabin
 
-**Alquimista 1** · Gobo
+**Alquimista 1** · Gobo · Caótico Bueno
 
 ---
 
@@ -139,9 +139,34 @@ Como **acción adicional**, puedes crear: fluido alcalino, gas fétido, humo sim
 
 ---
 
+## Compañía Treslunas
+
+**Reclutado hace:** 1 año
+
+Gek fue el primer recluta de Treslunas, aunque técnicamente fue él quien reclutó a los demás. Necesitaba escolta para sus expediciones a los túneles profundos y puso anuncios en las tabernas de la estación. Lo que empezó como un acuerdo comercial se ha convertido en algo más. Gek jamás admitiría que le importan estos grandullones, pero les guarda las mejores granadas.
+
+### Relaciones con el Grupo
+
+- **Elias:** El humano hace preguntas incómodas, pero Gek aprecia su mente analítica. A veces comparan notas sobre los túneles. Elias piensa que Gek oculta algo. Tiene razón.
+- **Brokk:** El troloide le trata como a un cachorro perdido. Gek finge que le molesta, pero secretamente agradece que alguien se preocupe por si ha comido.
+- **Torgun:** El ogrun es enorme, lento y sorprendentemente gentil. Gek le trepa encima cuando necesita ver por encima de las rocas. Torgun finge quejarse.
+- **Nola:** La corsaria está tan loca como él, solo que con pistolas en vez de granadas. Gek la admira. A veces compiten por ver quién causa más destrucción.
+- **Hilda:** La enana entiende de química y mecánika. Gek la considera la única que realmente aprecia su trabajo. Han colaborado en varios proyectos explosivos.
+
+---
+
 ## Notas
 
 **Esencia:** Intelectual (INT, SAB o CAR +2 → INT)
+
+**Género:** Masculino
+**Edad:** 19 años
+**Altura:** 0,95 m
+**Peso:** 18 kg
+**Ojos:** Amarillos, enormes y saltones
+**Pelo:** Ninguno
+**Piel:** Verde grisáceo (amarillenta cuando nervioso)
+**Creencia:** Ninguna particular
 
 **Aspecto:** Gobo pequeño incluso para su raza, con piel de un verde grisáceo que se torna amarillenta cuando está nervioso (casi siempre). Ojos enormes y saltones protegidos por unas gafas de cristales ahumados. Orejas puntiagudas con múltiples perforaciones de las que cuelgan pequeños viales. Dedos largos y manchados de químicos de diversos colores. Lleva una bandolera repleta de frascos, tubos de ensayo y recipientes que tintinean al caminar.
 

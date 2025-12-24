@@ -5,7 +5,7 @@ title: Brokk Steadfast - Clérigo
 
 # Brokk Steadfast
 
-**Clérigo 1** · Troloide Urbano
+**Clérigo 1** · Troloide Urbano · Legal Bueno
 
 ---
 
@@ -143,9 +143,34 @@ Competencia en armas marciales y entrenamiento con armaduras pesadas.
 
 ---
 
+## Compañía Treslunas
+
+**Reclutado hace:** 8 meses
+
+Brokk no buscaba trabajo como mercenario. Buscaba compañeros dispuestos a descender a los túneles profundos donde Dhunia le había mostrado la corrupción. Treslunas le ofreció exactamente eso: un grupo de inadaptados con sus propios motivos para explorar lo que nadie más quería explorar. Como sanador del grupo, ha salvado más de una vida y ha ganado el respeto de todos.
+
+### Relaciones con el Grupo
+
+- **Elias:** El humano es desconfiado hasta el extremo, pero Brokk ve el dolor bajo esa máscara. Le gustaría ayudarle a sanar, si algún día se lo permite.
+- **Torgun:** El ogrun es como un hermano mayor. Ambos cargan con pérdidas, ambos buscan redención. A veces rezan juntos al amanecer, cada uno a su dios.
+- **Nola:** La corsaria es fuego puro. A Brokk le divierte su temperamento, aunque a veces tiene que interponerse cuando las discusiones se calientan.
+- **Gek:** El gobo es impredecible, pero tiene buen corazón bajo toda esa paranoia. Brokk se asegura de que coma y duerma, porque Gek se olvida de ambas cosas.
+- **Hilda:** Admira su determinación, pero le preocupa su obsesión. Ha visto cómo el resentimiento pudre el alma. Intenta guiarla sin que parezca un sermón.
+
+---
+
 ## Notas
 
 **Esencia:** Piadosa (SAB, INT o CAR +2 → SAB)
+
+**Género:** Masculino
+**Edad:** 28 años
+**Altura:** 1,85 m
+**Peso:** 110 kg
+**Ojos:** Blanquecinos con pupilas apenas visibles
+**Pelo:** Negro, ralo, en pequeñas trenzas
+**Piel:** Gris azulada con vetas más claras
+**Creencia:** Dhunia
 
 **Aspecto:** Troloide de complexión media para su raza, poco más de metro ochenta. Piel gris azulada con vetas más claras, ojos blanquecinos con pupilas apenas visibles. Protuberancias óseas en la frente y mandíbula, colmillos inferiores prominentes pero bien cuidados. Lleva el cabello —ralo y oscuro— recogido en pequeñas trenzas. Viste una cota de escamas sobre ropas sencillas, con un símbolo de Dhunia tallado en hueso colgando del cuello. Su quitari, de tartán verde oscuro con líneas doradas, identifica a un kriel que ya no existe.
 

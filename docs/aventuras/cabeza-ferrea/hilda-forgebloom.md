@@ -5,7 +5,7 @@ title: Hilda Forgebloom - Mecánika
 
 # Hilda Forgebloom
 
-**Mecánika 1** · Enana Rhúlica
+**Mecánika 1** · Enana Rhúlica · Neutral Bueno
 
 ---
 
@@ -129,11 +129,36 @@ Ventaja en tiradas de Percepción en entornos industriales. Sabes si una máquin
 
 ---
 
+## Compañía Treslunas
+
+**Reclutada hace:** 3 meses
+
+Hilda se unió a Treslunas porque necesitaba acceso a los túneles profundos donde, según los rumores, hay yacimientos de cristales arcanos de una pureza excepcional. Esos cristales podrían ser la clave para su nuevo condensador. Trajo consigo a Torgun, su korune, y ha descubierto que el resto del grupo son más capaces de lo que aparentan.
+
+### Relaciones con el Grupo
+
+- **Elias:** El investigador cygnarano tiene secretos. Hilda respeta eso. Lo que no respeta es que a veces cuestione sus decisiones técnicas. Ella sabe lo que hace.
+- **Brokk:** El clérigo troloide es amable hasta resultar irritante. Pero sus bendiciones funcionan y una vez le salvó la vida. Eso crea deudas.
+- **Torgun:** Su korune, su protector, su familia adoptiva. Hilda a veces se pregunta si merece la lealtad de este viejo guerrero. Intenta ser digna de ella.
+- **Nola:** La corsaria es ruidosa, impulsiva y se mete en peleas innecesarias. También es valiente, leal y dice exactamente lo que piensa. Hilda no sabe si la admira o la envidia.
+- **Gek:** El gobo es un genio, aunque nunca se lo dirá a la cara. Sus fórmulas alquímicas han dado a Hilda ideas para mejorar sus diseños de condensadores. Trabajan bien juntos.
+
+---
+
 ## Notas
 
 **Esencia:** Poderosa (FUE, DES o CON +2 → CON)
 
 **Juramento (nivel 1):** "Restauraré el honor del Clan Forgebloom demostrando que nuestras técnicas de forja son superiores a las del Clan Hammerfall."
+
+**Género:** Femenino
+**Edad:** 35 años
+**Altura:** 1,30 m
+**Peso:** 68 kg
+**Ojos:** Ámbar
+**Pelo:** Cobrizo, en trenzas
+**Piel:** Clara, cubierta de hollín
+**Creencia:** El Gran Padre (panteón rhúlico)
 
 **Aspecto:** Enana de mediana edad, robusta y cubierta de hollín y grasa de máquina. Cabello cobrizo recogido en trenzas prácticas bajo un gorro de cuero. Ojos ámbar tras unas gafas de aumento con múltiples lentes intercambiables. Manos callosas con quemaduras antiguas. Lleva siempre un cinturón de herramientas y un delantal de cuero reforzado con placas de metal.
 

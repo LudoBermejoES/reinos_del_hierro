@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ik"
+		},
+		{
+			"path": "../dnd5e"
+		}
+	],
+	"settings": {}
+}
