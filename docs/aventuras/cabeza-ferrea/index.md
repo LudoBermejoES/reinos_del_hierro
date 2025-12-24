@@ -1,24 +1,36 @@
 ---
 layout: default
-title: Estación Cabezaférrea - Grupo de Aventureros
+title: Compañía Treslunas - Estación Cabezaférrea
 ---
 
-# Los Excavadores de Cabezaférrea
+# Compañía Treslunas
 
-Grupo de aventureros de nivel 1 basado en Estación Cabezaférrea.
+Compañía mercenaria de nivel 1 basada en Estación Cabezaférrea.
+
+---
+
+## Sobre la Compañía
+
+**Treslunas** es una pequeña compañía mercenaria que opera desde Estación Cabezaférrea. El nombre hace referencia a las tres lunas de Caen —Calder, Laris y Artis— que según la superstición troloide traen buena fortuna cuando se alinean.
+
+La compañía se formó hace aproximadamente un año cuando **Gek-Darabin**, un alquimista gobo, necesitaba escolta para sus expediciones a los túneles profundos en busca de hongos con propiedades alquímicas únicas. Lo que empezó como un acuerdo comercial informal entre inadaptados ha evolucionado en algo parecido a una familia.
+
+Treslunas acepta contratos variados: escoltas en los túneles, eliminación de plagas, investigaciones discretas y trabajos que nadie más quiere hacer. Su reputación en la estación es la de un grupo fiable aunque poco convencional.
+
+**Tipo de Compañía:** [Cédula de Mercenarios](../../personajes/companias/cedula-mercenarios.md)
 
 ---
 
 ## Miembros del Grupo
 
-| Personaje | Raza | Clase | Rol |
-|-----------|------|-------|-----|
-| [Hilda Forgebloom](hilda-forgebloom.md) | Enana Rhúlica | Mecánika 1 | Apoyo técnico, Reparaciones |
-| [Gek-Darabin](gek-darabin.md) | Gobo | Alquimista 1 | Apoyo alquímico, Granadas |
-| [Torgun Ironbid](torgun-ironbid.md) | Ogrun Rhúlico | Guerrero 1 | Combatiente pesado, Tanque |
-| [Elias Dunford](elias-dunford.md) | Humano (Cygnarano) | Pícaro 1 | Investigación, Infiltración |
-| [Brokk Steadfast](brokk-steadfast.md) | Troloide Urbano | Clérigo 1 (Dhunia) | Sanador, Apoyo divino |
-| [Nola Carvalo](nola-carvalo.md) | Humana (Órdica) | Maga Pistolera 1 | Daño a distancia, Magia |
+| Personaje | Raza | Clase | Rol | Antigüedad |
+|-----------|------|-------|-----|------------|
+| [Gek-Darabin](gek-darabin.md) | Gobo | Alquimista 1 | Apoyo alquímico, Granadas | 1 año (fundador) |
+| [Brokk Steadfast](brokk-steadfast.md) | Troloide Urbano | Clérigo 1 (Dhunia) | Sanador, Apoyo divino | 8 meses |
+| [Nola Carvalo](nola-carvalo.md) | Humana (Órdica) | Maga Pistolera 1 | Daño a distancia, Magia | 6 meses |
+| [Elias Dunford](elias-dunford.md) | Humano (Cygnarano) | Pícaro 1 | Investigación, Infiltración | 4 meses |
+| [Hilda Forgebloom](hilda-forgebloom.md) | Enana Rhúlica | Mecánika 1 | Apoyo técnico, Reparaciones | 3 meses |
+| [Torgun Ironbid](torgun-ironbid.md) | Ogrun Rhúlico | Guerrero 1 | Combatiente pesado, Tanque | 3 meses |
 
 ---
 
