@@ -5,7 +5,7 @@ title: Torgun Ironbid - Guerrero
 
 # Torgun Ironbid
 
-![Torgun Ironbid](/assets/aventuras/cabezaferrea/Torgun Ironbid.png)
+![Torgun Ironbid](/assets/aventuras/cabezaferrea/torgun-ironbid.png)
 
 **Guerrero 1** · Ogrun Rhúlico · Legal Bueno
 
