@@ -54,6 +54,7 @@ Es el año **605-606 d.R.** (después de la Rebelión), y los reinos están en g
 |----------|-------------|
 | [Aldea de Espíritus](aventuras/aldea-de-espiritus/) | Aventura en las tierras de Khador |
 | [Cabeza Férrea](aventuras/cabeza-ferrea/) | Aventura en las fronteras de Cygnar |
+| [Historia de una Invasión](aventuras/historia-de-una-invasion/) | Aventura en Llael ocupada |
 
 ---
 
