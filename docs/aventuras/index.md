@@ -60,9 +60,6 @@ Una aventura en **Llael ocupada**, donde los personajes navegan las peligrosas a
 | [Valya Morvaine](historia-de-una-invasion/valya-morvaine) | Clérigo | Humana Llaelesiana |
 | [Geka-Dabin](historia-de-una-invasion/geka-dabin) | Pícaro | Gobo |
 | [Brynn Forjafuerte](historia-de-una-invasion/brynn-forjafuerte) | Guerrero | Enana Rhúlica |
-| *(Por definir)* | — | — |
-| *(Por definir)* | — | — |
-| *(Por definir)* | — | — |
 
 [Ver aventura completa](historia-de-una-invasion/)
 

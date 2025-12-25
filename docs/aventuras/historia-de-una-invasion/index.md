@@ -67,9 +67,6 @@ Los personajes trabajan para el **Crisol Dorado**, el gremio de alquimistas de L
 | [Valya Morvaine](valya-morvaine) | Clérigo de Cyriss, calculista del gremio |
 | [Geka-Dabin](geka-dabin) | Pícara gobo, adquisiciones especiales |
 | [Brynn Forjafuerte](brynn-forjafuerte) | Guerrera enana, guardia de seguridad |
-| *(Por definir)* | ... |
-| *(Por definir)* | ... |
-| *(Por definir)* | ... |
 
 ---
 
@@ -77,7 +74,7 @@ Los personajes trabajan para el **Crisol Dorado**, el gremio de alquimistas de L
 
 Esta aventura está diseñada para **D&D 5e** usando el suplemento **Iron Kingdoms: Requiem**. Incluye:
 
-- **6 personajes pregenerados de nivel 1**, listos para jugar
+- **3 personajes pregenerados de nivel 1**, listos para jugar
 - **Información detallada sobre Elsinberg** y su gente
 - **El contexto de la ocupación khadorana** y sus consecuencias
 - **Ganchos de aventura** que entrelazan las historias de los personajes
