@@ -7,7 +7,7 @@ title: Hilda Forgebloom - Mecánika
 
 ![Hilda Forgebloom](/assets/aventuras/cabezaferrea/hilda-forgebloom.jpg)
 
-**Mecánika 1** · Enana Rhúlica · Neutral Bueno
+**[Mecánika](../../personajes/clases/mecaniko.md) 1** · [Enana](../../personajes/razas/enano.md) Rhúlica · Neutral Bueno
 
 ---
 

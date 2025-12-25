@@ -7,7 +7,7 @@ title: Nola Carvalo - Maga Pistolera
 
 ![Nola Carvalo](/assets/aventuras/cabezaferrea/nola-carvalo.jpg)
 
-**Maga Pistolera 1** · Humana (Órdica - Tordorana) · Caótico Bueno
+**[Maga Pistolera](../../personajes/clases/mago-pistolero.md) 1** · [Humana](../../personajes/razas/humano.md) (Órdica - Tordorana) · Caótico Bueno
 
 ---
 

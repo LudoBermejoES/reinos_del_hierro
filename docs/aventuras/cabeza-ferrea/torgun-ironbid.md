@@ -7,7 +7,7 @@ title: Torgun Ironbid - Guerrero
 
 ![Torgun Ironbid](/assets/aventuras/cabezaferrea/torgun-ironbid.jpg)
 
-**Guerrero 1** · Ogrun Rhúlico · Legal Bueno
+**[Guerrero](../../personajes/clases/guerrero.md) 1** · [Ogrun](../../personajes/razas/ogrun.md) Rhúlico · Legal Bueno
 
 ---
 

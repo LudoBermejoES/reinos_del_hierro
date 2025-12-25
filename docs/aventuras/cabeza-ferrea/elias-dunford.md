@@ -7,7 +7,7 @@ title: Elias Dunford - Pícaro
 
 ![Elias Dunford](/assets/aventuras/cabezaferrea/elias-dunford.jpg)
 
-**Pícaro 1** · Humano (Cygnarano) · Legal Bueno
+**[Pícaro](../../personajes/clases/picaro.md) 1** · [Humano](../../personajes/razas/humano.md) (Cygnarano) · Legal Bueno
 
 ---
 

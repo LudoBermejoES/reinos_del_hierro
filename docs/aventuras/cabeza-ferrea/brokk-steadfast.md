@@ -7,7 +7,7 @@ title: Brokk Steadfast - Clérigo
 
 ![Brokk Steadfast](/assets/aventuras/cabezaferrea/brokk-steadfast.jpg)
 
-**Clérigo 1** · Troloide Urbano · Legal Bueno
+**[Clérigo](../../personajes/clases/clerigo.md) 1** · [Troloide](../../personajes/razas/troloide.md) Urbano · Legal Bueno
 
 ---
 

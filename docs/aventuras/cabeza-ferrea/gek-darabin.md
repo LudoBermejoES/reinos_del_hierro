@@ -7,7 +7,7 @@ title: Gek-Darabin - Alquimista
 
 ![Gek-Darabin](/assets/aventuras/cabezaferrea/gek-darabin.jpg)
 
-**Alquimista 1** · Gobo · Caótico Bueno
+**[Alquimista](../../personajes/clases/alquimista.md) 1** · [Gobo](../../personajes/razas/gobo.md) · Caótico Bueno
 
 ---
 
