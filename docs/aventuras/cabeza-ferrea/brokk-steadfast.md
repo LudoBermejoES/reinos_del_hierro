@@ -5,7 +5,7 @@ title: Brokk Steadfast - Clérigo
 
 # Brokk Steadfast
 
-![Brokk Steadfast](/assets/aventuras/cabezaferrea/brokk-steadfast.png)
+![Brokk Steadfast](/assets/aventuras/cabezaferrea/brokk-steadfast.jpg)
 
 **Clérigo 1** · Troloide Urbano · Legal Bueno
 
