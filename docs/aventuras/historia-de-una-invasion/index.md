@@ -54,6 +54,8 @@ La **Marcha de los Muertos** siempre ha sido una curiosidad, un espectáculo que
 
 ## La Compañía
 
+![Los rebeldes](/assets/aventuras/historia-de-una-invasion/rebeldes.jpg)
+
 *(Próximamente)*
 
 En tiempos de ocupación, algunos eligen someterse. Otros eligen luchar. Y unos pocos encuentran un camino entre ambos: trabajando en las sombras, aceptando encargos peligrosos, manteniendo la cabeza baja mientras buscan una oportunidad.
