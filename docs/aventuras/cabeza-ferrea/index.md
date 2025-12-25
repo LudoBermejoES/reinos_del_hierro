@@ -5,7 +5,7 @@ title: Compañía Treslunas - Estación Cabezaférrea
 
 # Compañía Treslunas
 
-Compañía mercenaria de nivel 1 basada en Estación Cabezaférrea.
+Compañía mercenaria de nivel 1 basada en [Estación Cabezaférrea](estacion-cabezaferrea.md).
 
 ---
 
