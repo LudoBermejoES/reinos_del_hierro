@@ -329,9 +329,7 @@ Los extranjeros admiten que la ciudad les impresiona e intimida con sus descomun
 
 ### LUGARES DE INTERÉS
 
-* **
-
-Acrennia:** Estas ruinas, situadas ante el mar y gastadas por los elementos, no hacen justicia a la gran ciudad que hubo aquí en el pasado. Se cree que fue una ciudad menita de magnificencia superada tan sólo por Icthier. El pueblo de Acrennia degeneró hasta convertirse en un estado corrupto y cuenta la leyenda que declararon la guerra a Icthier. Tras décadas de batallas, los acrenianos se desvanecieron repentina y misteriosamente en una sola noche. Ahora Acrennia yace medio enterrada bajo la arena y los menitas la temen .
+* **Acrennia:** Estas ruinas, situadas ante el mar y gastadas por los elementos, no hacen justicia a la gran ciudad que hubo aquí en el pasado. Se cree que fue una ciudad menita de magnificencia superada tan sólo por Icthier. El pueblo de Acrennia degeneró hasta convertirse en un estado corrupto y cuenta la leyenda que declararon la guerra a Icthier. Tras décadas de batallas, los acrenianos se desvanecieron repentina y misteriosamente en una sola noche. Ahora Acrennia yace medio enterrada bajo la arena y los menitas la temen .
 
 
 * **Factorium:** El Factorium es un campamento industrial secreto de los menitas, situado a la sombra de la Torre de la Sentencia. La extensa construcción de metal es parte templo y parte fundición de guerra. El Factorium cuenta con cientos de fieles menitas y esclavos idrianos y está supervisado por escrutadores. Es la planta de montaje del terrorífico siervo de guerra **Enjuiciador**, una creación inspirada por las sagradas palabras del Canon de la Verdadera Ley .

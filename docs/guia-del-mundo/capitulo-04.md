@@ -219,9 +219,7 @@ Desde entonces, Cherov-on-Dron se ha transformado en una floreciente ciudad port
 
 #### KHARDOV
 
-* **
-
-En el poder:** Posadnik Korab Tishnikov.
+* **En el poder:** Posadnik Korab Tishnikov.
 * **Población:** 410.000 humanos (en su mayoría khardios y skirovanos), 5.000 individuos entre gobos y bogrin, 3.000 troloides.
 * **Ejército:** Khardov tiene una gran milicia de Guardia Invernal, apoyada por docenas de siervos de guerra. Los kayazi locales tienen una fuerza policial privada de quinientos guardias denominada *olcheniy*. En todo momento hay compañías de la Guardia Invernal que pasan por Khardov en ferrocarril.
 * **Importaciones:** Mecanismos, mano de obra, azúcar.
@@ -280,9 +278,7 @@ La *olcheniy* interrumpe huelgas, reprime los saqueos de comida y en general pro
 
 #### KORSK
 
-* **
-
-En el poder:** Reina Ayn Vanar XI.
+* **En el poder:** Reina Ayn Vanar XI.
 * **Población:** 790.000 (humanos diversos, principalmente khardios, skirovanos, kossitanos y umbreanos), 30.000 gobos, 20.000 ogrun, 15.000 enanos, 10.000 humanoides varios (bogrin, nyss, troloides, etc.).
 * **Ejército:** Korsk está guarnicionada por una tremenda cantidad de guardias invernales, piqueros de Colmillo de Hierro y tropas de asalto acorazadas, apoyados por un contingente pesado de siervos de guerra. La *Druzhina* alberga entre 3.000 y 5.000 uhlanos, guardias invernales y lanzadores de guerra cadetes. El palacio en sí da cobijo a la guardia personal de la reina (dos mil soldados de élite). En todo momento hay miles de soldados adicionales pasando por Korsk en tren. El Aquelarre de los Señores Grises tiene una fuerte presencia en la capital y prestará ayuda militar si se le pide.
 * **Importaciones:** Cerveza, pescado, productos manufacturados, vino.
@@ -347,9 +343,7 @@ Militarmente hablando, el palacio es prácticamente invulnerable a la invasión.
 
 ### NUEVA VROGGEN
 
-* **
-
-En el poder:** Posadnik Ladon Prasetik.
+* **En el poder:** Posadnik Ladon Prasetik.
 * **Población:** 8.000 humanos (mayoría khardia), con algunos gobos y troloides dispersos.
 * **Ejército:** Nueva Vroggen tiene una pequeña milicia de Guardia Invernal.
 * **Importaciones:** Tejidos, verduras.
@@ -376,9 +370,7 @@ Nueva Vroggen está centrada en sus cada vez mayores muelles de pesca, y la dár
 
 ### OHK
 
-* **
-
-En el poder:** Conde Ubisch Oblezov, respaldado por el kapitán Budimir Nadmienovich.
+* **En el poder:** Conde Ubisch Oblezov, respaldado por el kapitán Budimir Nadmienovich.
 * **Población:** 330.000 humanos (en su mayoría kossitanos, khardios y algunos tordoranos), 10.000 gobos.
 * **Ejército:** Ohk tiene una enorme guarnición de soldados de la Guardia Invernal, apoyados por docenas de siervos de guerra y varios buques de guerra.
 * **Importaciones:** Pólvora, hierro.
@@ -417,9 +409,7 @@ Las calles siempre están limpias, y las farolas de aceite de cristal esférico 
 
 ### PASO DEL INFIERNO
 
-* **
-
-En el poder:** Gran princesa Regna Gravnoy.
+* **En el poder:** Gran princesa Regna Gravnoy.
 * **Población:** 8.000 humanos (en su mayoría khardios, algunos skirovanos y umbreanos), 3.000 ogrun, algunos centenares de enanos.
 * **Ejército:** Paso del Infierno está guarnecido por un reducido contingente de la Guardia Invernal.
 * **Importaciones:** Cereales, metales sin refinar.
@@ -451,9 +441,7 @@ Paso del Infierno es un pueblo frío y azotado por el viento. Huele a progreso, 
 
 ### PORSK
 
-* **
-
-En el poder:** Príncipe Neplakh Vanar.
+* **En el poder:** Príncipe Neplakh Vanar.
 * **Población:** 40.000 humanos (mayoría khardia y skirovana).
 * **Ejército:** Porsk cuenta con una guarnición moderada de la Guardia Invernal.
 * **Importaciones:** Hierro, brea.
@@ -486,9 +474,7 @@ Porsk tiene un aire indiscutiblemente rural. La ciudad en sí es una comunidad g
 
 ### PUERTO VLADOVAR
 
-* **
-
-En el poder:** Posadnik Ysak Smyvalov, respaldado por el bolshik mariscal Piotr Ustinov.
+* **En el poder:** Posadnik Ysak Smyvalov, respaldado por el bolshik mariscal Piotr Ustinov.
 * **Población:** 250.000 humanos (en su mayoría khardios), 2.000 troloides.
 * **Ejército:** Puerto Vladovar es un gran puerto marítimo y alberga al grueso de la flota khadorana. La ciudad posee una cuantiosa guarnición permanente de la Guardia Invernal y un contingente moderado de siervos de guerra. En tiempos de necesidad se pueden pedir refuerzos de la cercana Borstov.
 * **Importaciones:** Tejidos, verduras.
@@ -533,9 +519,7 @@ Vladovar tiene lazos directos con Ord y recibe gran cantidad del tráfico proced
 
 ### RORSCHIK
 
-* **
-
-En el poder:** Posadnik Khleb Spesitev.
+* **En el poder:** Posadnik Khleb Spesitev.
 * **Población:** 62.000 humanos (en su mayoría umbreanos y khardios), 3.500 gobos.
 * **Ejército:** Rorschik aloja a una milicia considerable de la Guardia Invernal, reforzada por más de una veintena de certeros hacedores de viudas.
 * **Importaciones:** Carbón, hierro, artículos de lujo.
@@ -611,9 +595,7 @@ Los agentes y capataces de Cavapiedra consideran a cada minero un obrero muy val
 
 ### SKROVENBERG
 
-* **
-
-En el poder:** Posadnik Dmitri Meshik.
+* **En el poder:** Posadnik Dmitri Meshik.
 * **Población:** 70.000 (humanos en su mayoría khardios, algunos kossitanos y unos pocos gobos).
 * **Ejército:** En Skrovenberg hay una abundante guarnición de soldados de la Guardia Invernal, un pequeño contingente de siervos de guerra, y cientos de guardias marinos en el puerto en todo momento.
 * **Importaciones:** Obras de arte y artículos de lujo, productos manufacturados, carnes.
@@ -649,9 +631,7 @@ Para combatir el hecho de que esta generación de nobles poderosos sólo se preo
 
 ### TVERKUTSK
 
-* **
-
-En el poder:** Posadnik Anton Voyt.
+* **En el poder:** Posadnik Anton Voyt.
 * **Población:** 15.000 (casi todos humanos, en su mayoría kossitanos).
 * **Ejército:** Tverkutsk posee una guarnición de varios centenares de soldados de la Guardia Invernal. En tiempos de necesidad se pueden contratar u obligar a los leñadores kossitanos a formar filas. Los príncipes que se quedan aquí también traen consigo su propia guardia personal.
 * **Importaciones:** Cereales, productos manufacturados.
@@ -680,9 +660,7 @@ Actualmente los barracones Chaktokol se hallan en el borde meridional de la ciud
 
 ### ULDENFROST
 
-* **
-
-En el poder:** Posadnik Barak Afonos.
+* **En el poder:** Posadnik Barak Afonos.
 * **Población:** 7.000 humanos (principalmente kossitanos).
 * **Ejército:** Un pequeño contingente de la Guardia Invernal protege Uldenfrost, y en tiempos de necesidad se obliga a los cazadores de cabezas y tramperos locales a hacer otro tanto.
 * **Importaciones:** Productos manufacturados, verduras.
@@ -707,9 +685,7 @@ Los edificios y murallas de Uldenfrost están construidos con madera de secoya p
 
 ### VOLNINGRAD
 
-* **
-
-En el poder:** Komandante Karl Szvette, conde alguacil.
+* **En el poder:** Komandante Karl Szvette, conde alguacil.
 * **Población:** 145.000 humanos (mayoría khardia con mezcla de skirovanos, kossitanos y umbreanos).
 * **Ejército:** Volningrad alberga una gran cantidad de personal militar apoyados por un gran contingente de siervos de guerra. Además de la cuantiosa guarnición de la ciudad, miles de reclutas reciben aquí su entrenamiento.
 * **Importaciones:** Cereales, ganado, materias primas para el ejército y los herreros, tejidos.
@@ -747,9 +723,7 @@ La única excepción real a esta permisividad se da con la Hermandad del Colmill
 
 ### LUGARES DE INTERÉS
 
-* **
-
-Tumba de lord Khazarak:** Khazarak, un señor jinete del Imperio, se hizo famoso por rechazar una y otra vez oleadas de bárbaros con su hacha y su fe. Las leyendas hablan de un hombre gigantesco que montaba un poderoso corcel negro. En sus tiempos ayudó a conquistar a los skirovanos, expulsó a los troloides del territorio khárdico y se adentró en las profundidades de Tordor. De hecho, durante una campaña contra los tordoranos Khazarak sucumbió a unas heridas que habrían acabado con cualquier otro hombre de inmediato. Como parte de sus concesiones de guerra, el Imperio Khárdico exigió que Tordor erigiera una tumba en honor de Khazarak. Así lo hicieron: levantaron una inmensa tumba de mármol gris donde fueron enterrados el señor jinete y su montura. Con el paso de los años la tumba de lord Khazarak se ha deteriorado hasta casi desmoronarse, pues ni los tordoranos ni los orgoth tenían motivos para repararla. Ahora tan sólo algún que otro peregrino menita acude al lugar para honrar a un gran héroe de su religión .
+* **Tumba de lord Khazarak:** Khazarak, un señor jinete del Imperio, se hizo famoso por rechazar una y otra vez oleadas de bárbaros con su hacha y su fe. Las leyendas hablan de un hombre gigantesco que montaba un poderoso corcel negro. En sus tiempos ayudó a conquistar a los skirovanos, expulsó a los troloides del territorio khárdico y se adentró en las profundidades de Tordor. De hecho, durante una campaña contra los tordoranos Khazarak sucumbió a unas heridas que habrían acabado con cualquier otro hombre de inmediato. Como parte de sus concesiones de guerra, el Imperio Khárdico exigió que Tordor erigiera una tumba en honor de Khazarak. Así lo hicieron: levantaron una inmensa tumba de mármol gris donde fueron enterrados el señor jinete y su montura. Con el paso de los años la tumba de lord Khazarak se ha deteriorado hasta casi desmoronarse, pues ni los tordoranos ni los orgoth tenían motivos para repararla. Ahora tan sólo algún que otro peregrino menita acude al lugar para honrar a un gran héroe de su religión .
 
 
 * **Vieja Korska:** Una enorme ruina de piedra y metal de los tiempos de la invasión orgoth. La antigua capital es un laberinto de edificios derruidos y calles agrietadas en la que habitan multitud de bogrin. Bajo la ciudad, en las extensas y secas alcantarillas y catacumbas, los salvajes *dreggs* moran en la oscuridad. Los asaltos de dichos *dreggs* a la superficie y el constante asedio de los bogrin oportunistas convierten a Vieja Korska en un lugar muy peligroso. Aun así, los eruditos y los buscadores de emociones siguen yendo a explorarla con la esperanza de encontrar pruebas de la legendaria vieja bruja de Khador .
@@ -760,9 +734,7 @@ Tumba de lord Khazarak:** Khazarak, un señor jinete del Imperio, se hizo famoso
 
 ### TIERRAS SALVAJES KHADORANAS
 
-* **
-
-Raíz Negra:** Al norte del prohibido Shadoweald se encuentra el bosque Raíz Negra, una extensión de prolífico bosque de coníferas muy trabajada y transitada cuyos árboles hunden sus raíces en las profundidades de una fértil tierra negra (de ahí su nombre). Los árboles han sido habilitados por los equipos de leñadores para facilitar las idas y venidas entre ellos, y algunas comunidades granjeras han enviado carretas para recolectar terrones del fértil suelo y aprovecharlo en sus cultivos. Las dificultades ocasionales suelen estar relacionadas con el descubrimiento de nidos de malhumorados excavadores mandientes .
+* **Raíz Negra:** Al norte del prohibido Shadoweald se encuentra el bosque Raíz Negra, una extensión de prolífico bosque de coníferas muy trabajada y transitada cuyos árboles hunden sus raíces en las profundidades de una fértil tierra negra (de ahí su nombre). Los árboles han sido habilitados por los equipos de leñadores para facilitar las idas y venidas entre ellos, y algunas comunidades granjeras han enviado carretas para recolectar terrones del fértil suelo y aprovecharlo en sus cultivos. Las dificultades ocasionales suelen estar relacionadas con el descubrimiento de nidos de malhumorados excavadores mandientes .
 
 
 * **Colinas Kovosk:** En cada rincón de estas colinas rocosas yacen viejas fincas de los antiguos señores jinetes, varias de ellas olvidadas hace mucho. En su extremo oriental, la mayor de estas fincas deshabitadas es la mansión Tzepesci, que domina las tierras de la Vieja Umbrey como ha hecho durante siglos. Las colinas también son el hogar de pequeñas tribus de bárbaros y de miles de bogrin. Su interior está plagado de menas de hierro y cobre, pero el gran príncipe Tzepesci y su pueblo no han permitido que se excaven minas en las Kovosk .
@@ -787,9 +759,7 @@ Raíz Negra:** Al norte del prohibido Shadoweald se encuentra el bosque Raíz Ne
 
 ### FORTIFICACIONES KHADORANAS
 
-* **
-
-Desembarcadero Borstov:** El desembarcadero Borstov, una descomunal fortaleza que domina la Bahía de Kulvorn, permanece en pie desde que Puerto Vladovar fuera un puerto de escala órdico llamado Radahvo. Docenas de cañones de gran calibre apuntan hacia el mar abierto para protegerlo contra navíos, y una moderada guarnición de guardias invernales llaman a Borstov su hogar. Está dirigido por el recién ascendido komandante Riste Harobrisk (varón khardio Gue10) después de haber sido retirado del servicio activo en Llael. Borstov es ahora el principal puesto de vigía que alerta de ataques navales por parte de Ord o Cryx, y alberga un establo lleno de sementales extremadamente veloces para enviar mensajes a cualquier lugar en caso de que aparezca una flota de guerra en el horizonte .
+* **Desembarcadero Borstov:** El desembarcadero Borstov, una descomunal fortaleza que domina la Bahía de Kulvorn, permanece en pie desde que Puerto Vladovar fuera un puerto de escala órdico llamado Radahvo. Docenas de cañones de gran calibre apuntan hacia el mar abierto para protegerlo contra navíos, y una moderada guarnición de guardias invernales llaman a Borstov su hogar. Está dirigido por el recién ascendido komandante Riste Harobrisk (varón khardio Gue10) después de haber sido retirado del servicio activo en Llael. Borstov es ahora el principal puesto de vigía que alerta de ataques navales por parte de Ord o Cryx, y alberga un establo lleno de sementales extremadamente veloces para enviar mensajes a cualquier lugar en caso de que aparezca una flota de guerra en el horizonte .
 
 
 * **Fortaleza Brunzig:** Numerosos guardias invernales y varios Hacedores de Viudas detienen e inspeccionan todo tren que pasa bajo el túnel de pesados ladrillos que hay en la fortaleza Brunzig en busca de contrabando, pasajeros ilegales o evidencias de sabotaje. La escala dura casi dos horas por cada recorrido de la línea skirovana. La fortaleza Brunzig es también el hogar de un gran equipo de mecánicos continuamente disponibles por si algún tren se avería o sufre un accidente .
@@ -817,9 +787,7 @@ Desembarcadero Borstov:** El desembarcadero Borstov, una descomunal fortaleza qu
 
 ### FORTIFICACIONES KHADORANAS
 
-* **
-
-Desembarcadero Borstov:** El desembarcadero Borstov, una descomunal fortaleza que domina la Bahía de Kulvorn, permanece en pie desde que Puerto Vladovar fuera un puerto de escala órdico llamado Radahvo. Docenas de cañones de gran calibre apuntan hacia el mar abierto para protegerlo contra navíos, y una moderada guarnición de guardias invernales llaman a Borstov su hogar. Está dirigido por el recién ascendido komandante Riste Harobrisk (varón khardio Gue10) después de haber sido retirado del servicio activo en Llael. Borstov es ahora el principal puesto de vigía que alerta de ataques navales por parte de Ord o Cryx, y alberga un establo lleno de sementales extremadamente veloces para enviar mensajes a cualquier lugar en caso de que aparezca una flota de guerra en el horizonte .
+* **Desembarcadero Borstov:** El desembarcadero Borstov, una descomunal fortaleza que domina la Bahía de Kulvorn, permanece en pie desde que Puerto Vladovar fuera un puerto de escala órdico llamado Radahvo. Docenas de cañones de gran calibre apuntan hacia el mar abierto para protegerlo contra navíos, y una moderada guarnición de guardias invernales llaman a Borstov su hogar. Está dirigido por el recién ascendido komandante Riste Harobrisk (varón khardio Gue10) después de haber sido retirado del servicio activo en Llael. Borstov es ahora el principal puesto de vigía que alerta de ataques navales por parte de Ord o Cryx, y alberga un establo lleno de sementales extremadamente veloces para enviar mensajes a cualquier lugar en caso de que aparezca una flota de guerra en el horizonte .
 
 
 * **Fortaleza Brunzig:** Numerosos guardias invernales y varios Hacedores de Viudas detienen e inspeccionan todo tren que pasa bajo el túnel de pesados ladrillos que hay en la fortaleza Brunzig en busca de contrabando, pasajeros ilegales o evidencias de sabotaje. La escala dura casi dos horas por cada recorrido de la línea skirovana. La fortaleza Brunzig es también el hogar de un gran equipo de mecánicos continuamente disponibles por si algún tren se avería o sufre un accidente .

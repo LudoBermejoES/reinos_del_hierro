@@ -187,9 +187,7 @@ Los armandoranos son principalmente thurianos con una mezcla de tordoranos de cl
 
 #### BERCK
 
-* **
-
-En el poder:** Señor castellano Heiro Mascal y el Comité de la Ciudad de Berck.
+* **En el poder:** Señor castellano Heiro Mascal y el Comité de la Ciudad de Berck.
 * **Población:** 420.000 humanos (los tordoranos superan en número a los thurianos en una proporción de cinco a uno), 3.000 gobos, 500 enanos, 300 troloides, alrededor de 100 ogrun, varios centenares de morridanos y khardios.
 * **Ejército:** Cientos de barcos atracan en Berck, cuartel general de la Armada Órdica. Además de los miles de marineros que la consideran su hogar, Berck está defendida por una inmensa guarnición de guardia marina apoyada por un pequeño contingente de siervos de guerra. Berck también cuenta con una guardia urbana de quinientos efectivos.
 * **Importaciones:** Hierro, ganado, hooaga, verduras, lana.
@@ -244,9 +242,7 @@ Varias de las antiguas y extensas fincas tordoranas han sido construidas sobre s
 
 #### CARRE DOVA
 
-* **
-
-En el poder:** Murgrave Conor Lochlan.
+* **En el poder:** Murgrave Conor Lochlan.
 * **Población:** 72.000 humanos (los thurianos superan en número a los tordoranos en una proporción de siete a uno), 1.500 gobos, 800 troloides.
 * **Ejército:** En Carre Dova hay una guarnición de casi mil guardias marinos y una guardia de más de trescientos vigilantes. La Armada Real de Ord tiene destinada en ella a una flotilla de fuerza variable, normalmente compuesta por entre dos y tres docenas de balandros y dos o tres goletas veloces.
 * **Importaciones:** Cereales, cáñamo, metales.
@@ -280,9 +276,7 @@ La quintaesencia de los navíos de Carre Dova son los estilizados balandros que 
 
 #### CINCO DEDOS
 
-* **
-
-En el poder:** Oficialmente, el gobernador Eilish Doyle bajo la autoridad del murgrave Lochlan, pero los denominados Cuatro Grandes Capitanes son quienes ostentan realmente el poder en Cinco Dedos.
+* **En el poder:** Oficialmente, el gobernador Eilish Doyle bajo la autoridad del murgrave Lochlan, pero los denominados Cuatro Grandes Capitanes son quienes ostentan realmente el poder en Cinco Dedos.
 * **Población:** 160.000 humanos (en su mayoría thurianos, con una minoría de tordoranos y otras culturas humanas), 6.000 gobos, 2.000 troloides, 2.000 bogrin.
 * **Ejército:** Supuestamente los miembros de la pequeña guarnición de Cinco Dedos deben registrar a todo navío sospechoso que entre en puerto, pero los sobornos parecen ir incluidos en el cargo. La guardia local está igual de corrupta y saturada de trabajo. La ciudad recibe la "protección" adicional de crueles mercenarios contratados por los Grandes Capitanes y despiadadas bandas que controlan los diversos barrios.
 * **Importaciones:** Madera, minerales, cereales, ganado.
@@ -352,9 +346,7 @@ Cinco Dedos está gobernada oficialmente por el lord gobernador Eilish Doyle, de
 
 #### CORBHEN
 
-* **
-
-En el poder:** Castellano Olyado Caetan.
+* **En el poder:** Castellano Olyado Caetan.
 * **Población:** 42.000 humanos (los tordoranos superan en número a los thurianos en una proporción de diez a uno), más de 400 troloides, alrededor de 100 gobos.
 * **Ejército:** El rey Baird II no ha aumentado el tamaño de la pequeña guarnición de Corbhen a pesar del estallido de la guerra. Las colinas septentrionales son difíciles de atravesar, lo cual facilita la defensa de la ciudad. Baird considera improbable que Khador intente una invasión por tierra a través de Corbhen, estando las fuerzas de la Madre Patria divididas entre la Llael ocupada y la guerra contra Cygnar.
 * **Importaciones:** Productos manufacturados, tejidos, trigo.
@@ -398,9 +390,7 @@ Las dos estructuras más grandes y antiguas, el castillo Deiridh al suroeste y l
 
 ### HOGARPÉTREO
 
-* **
-
-En el poder:** Lord valvasor Ross Kaddock.
+* **En el poder:** Lord valvasor Ross Kaddock.
 * **Población:** 18.000 humanos (mezcla más o menos equitativa de thurianos y tordoranos junto a una minoría morridana), más de 200 gobos, alrededor de 100 troloides.
 * **Ejército:** Hogarpétreo tiene una diminuta guarnición y paga a cerca de cien guardias locales. Debido a los recientes problemas en la región se han solicitado más soldados al murgrave de Armandor. Los lugareños han organizado una milicia armada de varios centenares de hombres, aunque carecen de armas y entrenamiento.
 * **Importaciones:** Carbón, hierro, productos manufacturados, tejidos.
@@ -433,9 +423,7 @@ Hogarpétreo es una comunidad lejana y a menudo ignorada de huertas escabrosas y
 
 ### MEDIOAYUNO
 
-* **
-
-En el poder:** Señor castellano Ostal Vascar.
+* **En el poder:** Señor castellano Ostal Vascar.
 * **Población:** 120.000 humanos (en su mayoría tordoranos y thurianos).
 * **Ejército:** Medioayuno es el hogar de una impresionante armería y de la mayor guarnición del reino, complementada por un contingente moderado de siervos de guerra.
 * **Importaciones:** Cereales, alimentos, armas, armaduras, ingredientes alquímicos, cerveza, vino, carnes, tejidos.
@@ -475,9 +463,7 @@ El pueblo de Medioayuno es enérgico y partidario de vivir una vida plena. Son s
 
 ### MERIN
 
-* **
-
-En el poder:** Rey Baird II, príncipe Baird III y los castellanos de Ord.
+* **En el poder:** Rey Baird II, príncipe Baird III y los castellanos de Ord.
 * **Población:** 265.000 humanos (en su mayoría tordoranos), 5.000 enanos, 3.500 gobos, más de 500 troloides, más de 300 ogrun.
 * **Ejército:** Merin cuenta con una cuantiosa guarnición bien equipada (según los patrones órdicos), apoyada por un pequeño contingente de siervos de guerra. En el palacio real hay doscientos guardias reales de élite que protegen al rey y a su corte. La guardia de Merin, desbordada de trabajo, ronda las seiscientas unidades.
 * **Importaciones:** Muchas.
@@ -523,9 +509,7 @@ Todos los años a finales de verano, se celebra una Gran Reunión a la que todos
 
 ### TARNA
 
-* **
-
-En el poder:** Murgrave Gralan Turlough.
+* **En el poder:** Murgrave Gralan Turlough.
 * **Población:** 22.000 humanos (thurianos, con una minoría morridana y tordorana y recientes refugiados llaelesianos), 1.600 gobos.
 * **Ejército:** Tarna cuenta con una pequeña guarnición de guardias.
 * **Importaciones:** Carbón, hierro, trigo.
@@ -557,9 +541,7 @@ Algunos años después de aquellos años oscuros, Tarna se convirtió en un cent
 
 ### LUGARES DE INTERÉS
 
-* **
-
-Puerta del Jabalí:** Esta fortificación de piedra y madera toscamente labrada está situada en el único tramo amplio de terreno bajo que hay en la escarpada cadena montañosa que delimita la mayor parte de la frontera septentrional de Ord. Antes de la construcción de la Muralla de Markus era poco más que una estructura de césped y madera, pero hace pocos años se empezaron a utilizar piedras de la muralla para fortificar Puerta del Jabalí. Relativamente cerca de Medioayuno, su obligación es resistir un ataque y enviar una advertencia a la ciudad de la proximidad del ejército enemigo. Históricamente, los soldados de Medioayuno se han negado a abandonar su puesto por ir a defender Puerta del Jabalí, y ésta ha caído frente a Khador en más de una ocasión para luego ser recuperada de nuevo (a costa de numerosas vidas). Como resultado, los soldados la han apodado "Puerta Sangrienta". Actualmente la guarnición pasa gran parte del tiempo ampliando el foso de Puerta del Jabalí y llenándolo de estacas puntiagudas, apuntalando las almenas, fortaleciendo la torre de entrada y restaurando la Muralla de Markus. Además, los exploradores y soldados de caballería órdicos hacen patrullas frecuentes por todo este sector de los montes rocosos del norte, pues se trata de una región peligrosa habitada por criaturas tales como bogrin salvajes, tatabros, diversas clases de trolls y tal vez esclavos ocultos o batidores de la Guardia Invernal .
+* **Puerta del Jabalí:** Esta fortificación de piedra y madera toscamente labrada está situada en el único tramo amplio de terreno bajo que hay en la escarpada cadena montañosa que delimita la mayor parte de la frontera septentrional de Ord. Antes de la construcción de la Muralla de Markus era poco más que una estructura de césped y madera, pero hace pocos años se empezaron a utilizar piedras de la muralla para fortificar Puerta del Jabalí. Relativamente cerca de Medioayuno, su obligación es resistir un ataque y enviar una advertencia a la ciudad de la proximidad del ejército enemigo. Históricamente, los soldados de Medioayuno se han negado a abandonar su puesto por ir a defender Puerta del Jabalí, y ésta ha caído frente a Khador en más de una ocasión para luego ser recuperada de nuevo (a costa de numerosas vidas). Como resultado, los soldados la han apodado "Puerta Sangrienta". Actualmente la guarnición pasa gran parte del tiempo ampliando el foso de Puerta del Jabalí y llenándolo de estacas puntiagudas, apuntalando las almenas, fortaleciendo la torre de entrada y restaurando la Muralla de Markus. Además, los exploradores y soldados de caballería órdicos hacen patrullas frecuentes por todo este sector de los montes rocosos del norte, pues se trata de una región peligrosa habitada por criaturas tales como bogrin salvajes, tatabros, diversas clases de trolls y tal vez esclavos ocultos o batidores de la Guardia Invernal .
 
 
 > **LA MASACRE DE PUERTA DEL JABALÍ**

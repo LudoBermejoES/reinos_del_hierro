@@ -255,8 +255,7 @@ Wessina incluye Elsinberg y varias aldeas granjeras cercanas al fértil Río Neg
 * **Población:** Anteriormente 58.000 (en su mayoría humanos, varios cientos de enanos, algunos ogrun), ahora sólo unos pocos centenares dispersos por aldeas cercanas.
 * **Ejército:** Una fuerza regional moderada de ocupación de la Guardia Invernal reside en una finca capturada a diez millas al sur de las ruinas quemadas de Confluencia.
 * **Importaciones:** Ninguna.
-* 
-**Exportaciones:** Ninguna .
+* **Exportaciones:** Ninguna.
 
 
 La destrucción de Confluencia, a la que a veces se hace referencia como la "masacre de la ciudad de los tres ríos", es posiblemente la peor depravación cometida durante la invasión khadorana. Ciertamente, su historia ha avivado la imaginación de los enemigos de Khador. Mercaderes ambulantes, bardos de guerra y soldados narran la historia con frecuencia. Cada una de ellas es diferente, y muchos de los detalles se han exagerado, pero los hechos fundamentales son siempre los mismos: donde antaño se encontraba Confluencia, una próspera ciudad de sesenta mil habitantes, ahora no hay más que restos carbonizados. Algunos de los supervivientes de la ciudad han regresado para rebuscar entre los escombros, pero la mayoría dejaron atrás Confluencia y se mudaron a las aldeas vecinas o huyeron a Rhydden, Corvis o más allá .
@@ -282,14 +281,11 @@ Las hostilidades siguientes fueron más veladas y destructivas, y convirtieron l
 
 #### ELSINBERG
 
-* **
-
-En el poder:** Komandante Negomir Tarovic.
+* **En el poder:** Komandante Negomir Tarovic.
 * **Población:** 74.000 (humanos en su mayoría rynios, una gran minoría de umbreanos y algunos centenares de gobos).
 * **Ejército:** La guarnición de Elsinberg consiste en un fuerte contingente de la Guardia Invernal, apoyado por un pequeño destacamento de Hacedores de Viudas bajo el mando del komandante Negomir Tarovic. Miles de tropas adicionales atraviesan regularmente la zona de operaciones, pues Elsinberg es un importante punto de abastecimiento entre Laedry y Merywyn. Una pequeña milicia local se encarga de imponer la ley bajo el ojo vigilante de los khadoranos.
 * **Importaciones:** Cuero, productos manufacturados, tejidos.
-* 
-**Exportaciones:** Textos eruditos, mármol, esculturas, lana .
+* **Exportaciones:** Textos eruditos, mármol, esculturas, lana.
 
 
 Elsinberg, la Ciudad del Recuerdo, tiene una historia profusa. Cada siglo pasado ha dejado una huella profunda en el propio tejido de la ciudad. Estatuas de mármol y señalizadores de piedra conmemoran batallas, glorifican a grandes héroes y vilipendian antiguos enemigos. Cada mes, los habitantes de Elsinberg celebran al menos una festividad para evocar un acontecimiento histórico significativo, y una vez al año la población casi se dobla debido a la gran afluencia de visitantes para contemplar el más famoso de estos acontecimientos: la Marcha de los Muertos.
@@ -328,14 +324,11 @@ Este año los lugareños esperan que los fantasmas aparezcan durante las última
 
 ### LAEDRY
 
-* **
-
-En el poder:** El Consejo de Ilustres, al servicio del vizconde Barak Ushka, vasallo del gran príncipe Vladimir Tzepesci de Umbresk.
+* **En el poder:** El Consejo de Ilustres, al servicio del vizconde Barak Ushka, vasallo del gran príncipe Vladimir Tzepesci de Umbresk.
 * **Población:** 130.000 (casi todos humanos, excepto algunos ogrun, enanos y muy pocos troloides).
 * **Ejército:** Laedry albergó en el pasado uno de los mayores barracones del ejército llaelesiano occidental además de la legendaria compañía de mercenarios de los Irregulares de Timón Tronador. Ahora la guarnición de la ciudad consiste en un sustancial grupo de la Guardia Invernal bajo el mando del komandante Jozak Milianov. Por la ciudad pasa una cantidad considerable de tropas y suministros procedentes de Korsk y de camino a Merywyn o a otras ciudades ocupadas.
 * **Importaciones:** Alimentos, tejidos, armas, caballos.
-* 
-**Exportaciones:** Minerales sin refinar, carbón, licores .
+* **Exportaciones:** Minerales sin refinar, carbón, licores.
 
 
 Laedry no es ajena a la guerra y la destrucción. Hace doce siglos era la gran ciudad umbreana de Korska, capital oriental del Imperio Khárdico. En el 542 a.R. los orgoth devastaron Korska por completo cuando conquistaron la región y subyugaron a los rynios del este. Más tarde sus alrededores fueron el escenario de algunas de las guerras más brutales de la Rebelión y sufrió aún más durante las guerras fronterizas entre Khador y Llael, antes de ser cedida al este en el 313 d.R. La nueva ciudad de Laedry, fundada por manos llaelesianas, llegó a restaurar parte de la antigua gloria de Vieja Korska (construida al estilo umbreano para honrar a las gentes de la región). Muchos de sus edificios más antiguos son relativamente modernos para la media immorense, y sus orgullosos ciudadanos la mantienen en condiciones prístinas .
@@ -382,14 +375,11 @@ De igual modo, no aprecian a su actual supervisor, el vizconde Barak Ushka, pese
 
 ### LERYN
 
-* **
-
-En el poder:** La Orden del Crisol Dorado, supervisada por el koldun de los Señores Grises lord Volkh Lazar.
+* **En el poder:** La Orden del Crisol Dorado, supervisada por el koldun de los Señores Grises lord Volkh Lazar.
 * **Población:** 115.000 (en su mayoría rynios, junto a una minoría umbreana y varios miles de enanos).
 * **Ejército:** Leryn está ocupada actualmente por una considerable milicia de la Guardia Invernal, reforzada por ternos de los Señores Grises bajo el mando del lord koldun Lazar. Aunque algunos de ellos murieron en combate, la mayor parte de la célebre Guardia del Crisol fue desmantelada por los ocupadores khadoranos. Los miembros de la Guardia que no aceptaron esta jubilación digna ni se ocultaron, huyeron al sur hacia Rhydden o Corvis.
 * **Importaciones:** Alimentos, tejidos, madera, acero.
-* 
-**Exportaciones:** Productos químicos, polvo explosivo, carbón, pistolas, piedra de cantera, cobre .
+* **Exportaciones:** Productos químicos, polvo explosivo, carbón, pistolas, piedra de cantera, cobre.
 
 
 El rey Artys di la Martyn I describió Leryn como "la ciudad más fortificada que nadie osará atacar jamás". Esta atrincherada ciudad, situada en la base del monte Borgio a orillas del caudaloso río Viejamecha, es famosa por el papel que desempeñó durante la Rebelión. Fue una de las primeras ciudades de las que se logró expulsar y mantener alejados a los orgoth. Tiene una ubicación geográfica excepcional para resistir un asedio, y sus defensas se mantuvieron meticulosamente por una cuestión de orgullo civil. La mayoría de los llaelesianos y cygnaritas esperaban que la gran ciudad resistiera indefinidamente la invasión khadorana y se convirtiera de nuevo en un refugio para los supervivientes. Tristemente, las cosas no salieron como era de esperar y la ciudad cayó sin apenas presentar batalla (un golpe tremendo para la moral del pueblo llaelesiano) .
@@ -463,9 +453,7 @@ De hecho, Merywyn es un caldo de cultivo para la resistencia llaelesiana. Peque�
 
 ### RHYDDEN
 
-* **
-
-En el poder:** Duque Gregore Delryv IV.
+* **En el poder:** Duque Gregore Delryv IV.
 * **Población:** 70.000 (humanos, unos centenares de gobos, ogrun y enanos, algunas docenas de elfos iosenses exiliados). Esta población se ha doblado durante el último año; la mitad son refugiados del oeste azotado por la guerra (incluidos varios millares procedentes de Confluencia).
 * **Ejército:** Antes de la invasión, Rhydden sólo contaba con una pequeña milicia de menos de cien soldados dedicados a proteger de sabotajes la industria de la explotación forestal. Desde que se convirtiera en un centro de refugiados, varios miles de soldados de unidades diversas están apostados aquí, la mayoría sumidos aún en un estado de caos desorganizado. Aquí se incluyen algunos soldados cygnaritas (aunque la mayoría fueron requeridos de nuevo en el sur). La guardia personal de lord Delryv consiste en cincuenta vasallos armados y oficiales escogidos de entre el reagrupado ejército.
 * **Importaciones:** Hierro, tejidos.
@@ -498,9 +486,7 @@ El suelo aquí no es tan fértil como parece. Aun así, los vinos de Rhydden se 
 
 ### RYNYR
 
-* **
-
-En el poder:** Posadnik Igor Vojinovich.
+* **En el poder:** Posadnik Igor Vojinovich.
 * **Población:** 19.000 (humanos, muy pocos miembros de otras razas).
 * **Ejército:** Rynyr cuenta con una presencia sustancial de la Guardia Invernal bajo el mando de la kovnik Ninete Pytorevna.
 * **Importaciones:** Tejidos, cuerda, ganado, madera.
@@ -527,9 +513,7 @@ El pueblo está separado del suelo en su mayor parte, debido al intenso calor qu
 
 ### LUGARES DE INTERÉS
 
-* **
-
-Almacén Aliston:** El Almacén Aliston fue en el pasado una fortaleza mucho mayor, construida por un príncipe rynio generaciones antes de que los orgoth invadiesen Rynyr. La fortaleza se alza sobre un terreno elevado, con unas murallas de veinticinco pies de grosor en su base y que se elevan a una altura de cien pies . Durante algunas de las peores temporadas de inundaciones (que abundan en el valle del Río Negro de Llael), este terreno elevado se convierte en cientos de islotes en un mar de agua desbordada, y el Almacén Aliston se halla en el único trozo de tierra seca de tamaño sustancial que queda en esta parte del valle en mil yardas a la redonda. La fortaleza cayó en desuso cuando sus propietarios perdieron gran parte de sus riquezas, y de hecho estuvo vacía hasta que los invasores orgoth llegaron y la utilizaron como base de operaciones durante más de un siglo. Destruida durante el Azote, es desde entonces una ruina chamuscada y desmoronada .
+* **Almacén Aliston:** El Almacén Aliston fue en el pasado una fortaleza mucho mayor, construida por un príncipe rynio generaciones antes de que los orgoth invadiesen Rynyr. La fortaleza se alza sobre un terreno elevado, con unas murallas de veinticinco pies de grosor en su base y que se elevan a una altura de cien pies . Durante algunas de las peores temporadas de inundaciones (que abundan en el valle del Río Negro de Llael), este terreno elevado se convierte en cientos de islotes en un mar de agua desbordada, y el Almacén Aliston se halla en el único trozo de tierra seca de tamaño sustancial que queda en esta parte del valle en mil yardas a la redonda. La fortaleza cayó en desuso cuando sus propietarios perdieron gran parte de sus riquezas, y de hecho estuvo vacía hasta que los invasores orgoth llegaron y la utilizaron como base de operaciones durante más de un siglo. Destruida durante el Azote, es desde entonces una ruina chamuscada y desmoronada .
 Recientemente, el Almacén Aliston ha sido el escenario de una encarnizada batalla entre tropas khadoranas y cygnaritas que luchaban por asegurarse el terreno elevado de la región durante la temporada de inundación. Más tarde aparecieron en las cercanías tropas cryxianas y menitas con el mismo objetivo, y las cuatro fuerzas se enfrentaron en una violenta disputa por controlar esta porción del valle del Río Negro .
 
 
