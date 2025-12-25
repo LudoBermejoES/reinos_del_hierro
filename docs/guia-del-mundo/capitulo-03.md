@@ -71,7 +71,9 @@ Aunque Leto jamás quiso gobernar Cygnar, la corona del reino parece hecha a su 
 
 ### HISTORIA Y MONARQUÍA
 
-#### TABLA 3-1: LISTADO DE MONARCAS DE CYGNAR*(Desde la redacción de los Tratados de Corvis)*
+#### TABLA 3-1: LISTADO DE MONARCAS DE CYGNAR
+
+*(Desde la redacción de los Tratados de Corvis)*
 
 | Fecha del reinado | Soberano                                                                                                                                                                                 | Duración | Causa de la muerte                   |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------------------ |
@@ -118,35 +120,40 @@ Los altos cargos de la Iglesia de Morrow también se incluyen en las tablas de p
 
 #### TABLA 3-2: PRECEDENCIA REAL CYGNARITA
 
-| Título                                                                                                                                                                                | Por definición | N° en el reino |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------- |
-| **Rey/reina**                             | Monarca(s) soberano(s) del reino                                                                                                                                                      | 1              |
-| **Primarca**                              | Cabeza de la Iglesia de Morrow y consejero de la Corona cygnarita                                                                                                                     | 1              |
-| **Lord Canciller Supremo**                | Consejero personal de la familia real de la Corona cygnarita                                                                                                                          | 1              |
-| **Gran Canciller**                        | Consejero del lord Canciller Supremo y de la Corona cygnarita                                                                                                                         | 1-7 (varía)    |
-| **Duque**                                 | Incluye a los archiduques y duques que gobiernan los ducados de Cygnar y responden directamente ante el rey/reina o un canciller de la Corona. (Cada duque es también un alto conde). | 8              |
-| **Conde**                                 | Señor de una de las provincias mayores de Cygnar                                                                                                                                      | 15             |
-| **Exarca**                                | Consejeros y ministros del Primarca                                                                                                                                                   | 36             |
-| **Regidor**                               | Un vizconde o barón; suele ser un alcalde, concejal o magistrado que responde directamente ante un conde o duque                                                                      | Aprox. 300     |
-| **Vicario/Gran Prelado**                  | Líderes de las diversas diócesis de toda Cygnar                                                                                                                                       | Aprox. 300     |
-| **Alguacil**                              | Barón, caballero o dignatario menor; oficial que se encarga de muchas tareas municipales y responde ante un regidor o directamente ante un conde o duque                              | Aprox. 1.000   |
-| **Caballero mesnadero**                   | Un caballero con derecho a conducir hombres bajo su propio estandarte; aquellos que han sido designados por el rey tienen preferencia sobre los que no lo han sido                    | Aprox. 5.000   |
-| **Caballero vasallo**                     | Caballero de menor orden que sirve a cualquiera de los títulos por debajo del duque                                                                                                   | Miles          |
+| Título                     | Por definición                                                                                                                                              | N° en el reino |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| **Rey/reina**              | Monarca(s) soberano(s) del reino                                                                                                                            | 1              |
+| **Primarca**               | Cabeza de la Iglesia de Morrow y consejero de la Corona cygnarita                                                                                           | 1              |
+| **Lord Canciller Supremo** | Consejero personal de la familia real de la Corona cygnarita                                                                                                | 1              |
+| **Gran Canciller**         | Consejero del lord Canciller Supremo y de la Corona cygnarita                                                                                               | 1-7 (varía)    |
+| **Duque**                  | Incluye a los archiduques y duques que gobiernan los ducados de Cygnar y responden directamente ante el rey/reina o un canciller de la Corona. (Cada duque es también un alto conde). | 8              |
+| **Conde**                  | Señor de una de las provincias mayores de Cygnar                                                                                                            | 15             |
+| **Exarca**                 | Consejeros y ministros del Primarca                                                                                                                         | 36             |
+| **Regidor**                | Un vizconde o barón; suele ser un alcalde, concejal o magistrado que responde directamente ante un conde o duque                                            | Aprox. 300     |
+| **Vicario/Gran Prelado**   | Líderes de las diversas diócesis de toda Cygnar                                                                                                             | Aprox. 300     |
+| **Alguacil**               | Barón, caballero o dignatario menor; oficial que se encarga de muchas tareas municipales y responde ante un regidor o directamente ante un conde o duque    | Aprox. 1.000   |
+| **Caballero mesnadero**    | Un caballero con derecho a conducir hombres bajo su propio estandarte; aquellos que han sido designados por el rey tienen preferencia sobre los que no lo han sido | Aprox. 5.000   |
+| **Caballero vasallo**      | Caballero de menor orden que sirve a cualquiera de los títulos por debajo del duque                                                                         | Miles          |
 
 ---
 
 
 
-### GOBIERNO Y EJÉRCITO####TABLA 3-3: LOS GRANDES CANCILLERES | Título                                                                   | Ostentador actual del título |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------ | ---------------------------- |
-| **Lord Canciller Supremo**                                   | (Vacante)                                                                |
-| **Gran Canciller**                                           | General y consejero de guerra Olson Turpin, líder del Ejército cygnarita |
-| **Gran Canciller**                                           | Navarca Govan Trent, líder de la marina cygnarita                        |
-| **Gran Canciller**                                           | Gran Mago Arland Calster, mago de la corte del rey Leto                  |
-| **Gran Canciller**                                           | General de batidores Bolden Rebald                                       |
-| **Gran Canciller**                                           | Lord tesorero Lars Corumny                                               |
+### GOBIERNO Y EJÉRCITO
 
-####¿DÓNDE ESTÁ EL LORD CANCILLER SUPREMO?El anterior Lord Canciller Supremo de Cygnar murió en el año 602 d.R. Era lord Brendon Wyatt, un amigo muy querido de Leto y su madre. El puesto ha estado vacante estos últimos años, y el asunto provoca cada vez más descontento en la Real Asamblea. El rey Leto ha confiado más en el consejo del Primarca Arius últimamente para llenar este vacío, pero sabe que no es la mejor solución a largo plazo. De hecho, el propio Primarca ha instado al rey Leto a que coloque a alguien en este puesto, pero el comienzo de la guerra le ha distraído de esta tarea.
+#### TABLA 3-3: LOS GRANDES CANCILLERES
+
+| Título                     | Ostentador actual del título                                             |
+| -------------------------- | ------------------------------------------------------------------------ |
+| **Lord Canciller Supremo** | (Vacante)                                                                |
+| **Gran Canciller**         | General y consejero de guerra Olson Turpin, líder del Ejército cygnarita |
+| **Gran Canciller**         | Navarca Govan Trent, líder de la marina cygnarita                        |
+| **Gran Canciller**         | Gran Mago Arland Calster, mago de la corte del rey Leto                  |
+| **Gran Canciller**         | General de batidores Bolden Rebald                                       |
+| **Gran Canciller**         | Lord tesorero Lars Corumny                                               |
+
+> **¿DÓNDE ESTÁ EL LORD CANCILLER SUPREMO?**
+> El anterior Lord Canciller Supremo de Cygnar murió en el año 602 d.R. Era lord Brendon Wyatt, un amigo muy querido de Leto y su madre. El puesto ha estado vacante estos últimos años, y el asunto provoca cada vez más descontento en la Real Asamblea. El rey Leto ha confiado más en el consejo del Primarca Arius últimamente para llenar este vacío, pero sabe que no es la mejor solución a largo plazo. De hecho, el propio Primarca ha instado al rey Leto a que coloque a alguien en este puesto, pero el comienzo de la guerra le ha distraído de esta tarea.
 
 #### EL EJÉRCITO DE CYGNAR
 
