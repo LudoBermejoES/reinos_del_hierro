@@ -49,6 +49,25 @@ Una aventura en las fronteras de **Cygnar**, donde los personajes se ven envuelt
 
 ---
 
+### Historia de una Invasión
+
+Una aventura en **Llael ocupada**, donde los personajes navegan las peligrosas aguas de la ocupación khadorana en Elsinberg, la Ciudad del Recuerdo. Resistencia, espionaje y los fantasmas de un ejército que marcha cada otoño.
+
+**Personajes pregenerados:** *(Próximamente)*
+
+| Personaje | Clase | Raza |
+|-----------|-------|------|
+| *(Por definir)* | — | — |
+| *(Por definir)* | — | — |
+| *(Por definir)* | — | — |
+| *(Por definir)* | — | — |
+| *(Por definir)* | — | — |
+| *(Por definir)* | — | — |
+
+[Ver aventura completa](historia-de-una-invasion/)
+
+---
+
 ## Recursos para el DJ
 
 - Consulta la [Guía del Mundo](../guia-del-mundo/) para información detallada sobre cada nación
