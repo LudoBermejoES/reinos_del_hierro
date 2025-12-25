@@ -249,7 +249,9 @@ Wessina incluye Elsinberg y varias aldeas granjeras cercanas al fértil Río Neg
 
 ### PRINCIPALES CIUDADES
 
-#### CONFLUENCIA* **En el poder:** Kovnik Corinna Yurikevna.
+#### CONFLUENCIA
+
+* **En el poder:** Kovnik Corinna Yurikevna.
 * **Población:** Anteriormente 58.000 (en su mayoría humanos, varios cientos de enanos, algunos ogrun), ahora sólo unos pocos centenares dispersos por aldeas cercanas.
 * **Ejército:** Una fuerza regional moderada de ocupación de la Guardia Invernal reside en una finca capturada a diez millas al sur de las ruinas quemadas de Confluencia.
 * **Importaciones:** Ninguna.
@@ -270,15 +272,17 @@ Las hostilidades siguientes fueron más veladas y destructivas, y convirtieron l
 > 
 > 
 
-#### Personajes célebres (Confluencia)* 
+#### Personajes célebres (Confluencia)
 
-**Lord Mylo di Nordryne, "el Trapero" (varón rynio Nig13):** Hombre amable vestido con andrajos, Nordryne y el grupo de hombres y mujeres igualmente harapientos que le acompañan ofrecen una convincente imagen como antiguos refugiados que han establecido un campamento junto a la ciudad en ruinas con el pretexto de buscar los cadáveres de sus parientes. Lord Nordryne es en realidad un poderoso nigromante thamarita y adorador de la vástaga Delesle. Se ha visto atraído a Confluencia por el hedor palpable a muerte que rodea las ruinas de la ciudad. Le ayuda la prelectora Evalayne Lorynse (mujer rynia Clr9) y una banda de bandidos bien armados (aunque muy mal vestidos). Lord Nordryne investiga con ansia los restos de los esclavos descubiertos entre las ruinas y se ha dedicado a estudiarlos para aprender habilidades necromecánicas para su séquito. Dado que se le ha visto luchando contra grupos de incursores cryxianos oportunistas, los supervivientes locales y los grupos de rescate creen que es un buen hombre (reputación de la cual se aprovecha) .
+* **Lord Mylo di Nordryne, "el Trapero" (varón rynio Nig13):** Hombre amable vestido con andrajos, Nordryne y el grupo de hombres y mujeres igualmente harapientos que le acompañan ofrecen una convincente imagen como antiguos refugiados que han establecido un campamento junto a la ciudad en ruinas con el pretexto de buscar los cadáveres de sus parientes. Lord Nordryne es en realidad un poderoso nigromante thamarita y adorador de la vástaga Delesle. Se ha visto atraído a Confluencia por el hedor palpable a muerte que rodea las ruinas de la ciudad. Le ayuda la prelectora Evalayne Lorynse (mujer rynia Clr9) y una banda de bandidos bien armados (aunque muy mal vestidos). Lord Nordryne investiga con ansia los restos de los esclavos descubiertos entre las ruinas y se ha dedicado a estudiarlos para aprender habilidades necromecánicas para su séquito. Dado que se le ha visto luchando contra grupos de incursores cryxianos oportunistas, los supervivientes locales y los grupos de rescate creen que es un buen hombre (reputación de la cual se aprovecha) .
 
 
 * **Kovnik Corinna Yurikevna (mujer kossitana Exp6/Fus2):** Pocas veces consigue alguien del rango de kovnik supervisar todo un ducado, pero tal es la tarea de Corinna. Se trata más bien de un testimonio de su total subyugación, pues Confluencia era la única gran ciudad de esta zona. La kovnik es una endurecida batidora fronteriza encargada de vigilar el río e informar de cualquier señal de movimiento de tropas y demás actividades sospechosas. Ha informado de la presencia de navíos rhúlicos bajando de las montañas y descargando al sur de su posición, donde contactaban con comerciantes que llevaban los suministros al sureste, hacia Rhydden. Sus órdenes son registrar este tráfico pero no enfrentarse a nadie directamente. Aun así, la kovnik y sus tropas se han enzarzado en varias ocasiones con los incursores cryxianos atraídos por los cadáveres de Confluencia, y Corinna cree que pueden resultar una amenaza hasta que la zona sea despejada y los cuerpos enterrados convenientemente .
 
 
-#### ELSINBERG* **
+#### ELSINBERG
+
+* **
 
 En el poder:** Komandante Negomir Tarovic.
 * **Población:** 74.000 (humanos en su mayoría rynios, una gran minoría de umbreanos y algunos centenares de gobos).
@@ -301,9 +305,9 @@ Este año los lugareños esperan que los fantasmas aparezcan durante las última
 > 
 > 
 
-#### Personajes célebres (Elsinberg)* 
+#### Personajes célebres (Elsinberg)
 
-**Archiduque Wyle Cherydwyn de Wessina, conde de Elsinberg (varón rynio Ari8):** El archiduque sigue siendo el dirigente nominal del gobierno local de Elsinberg. Siempre vestido impecablemente y a la última moda, lord Cherydwyn es un pisaverde arrogante. Desprecia todo tipo de ejercicio o actividad física y tiene un rostro fláccido y fama de delegar la mayor parte del trabajo de gobierno en sus vasallos. Varios barones y ministros comunes se encargan de la administración diaria de la ciudad mientras lady Ganelyn se ocupa de imponer la ley. Aunque la adornada espada del archiduque es meramente decorativa, es un tirador sorprendentemente excelente con su pistola y siempre lleva una maravillosa Radliffe consigo. Se rindió rápidamente durante la invasión inicial de Elsinberg y vive atemorizado por el komandante Tarovic. Obedece sin discusión toda orden de los ocupadores y no ha hecho nada por tranquilizar a su comunidad .
+* **Archiduque Wyle Cherydwyn de Wessina, conde de Elsinberg (varón rynio Ari8):** El archiduque sigue siendo el dirigente nominal del gobierno local de Elsinberg. Siempre vestido impecablemente y a la última moda, lord Cherydwyn es un pisaverde arrogante. Desprecia todo tipo de ejercicio o actividad física y tiene un rostro fláccido y fama de delegar la mayor parte del trabajo de gobierno en sus vasallos. Varios barones y ministros comunes se encargan de la administración diaria de la ciudad mientras lady Ganelyn se ocupa de imponer la ley. Aunque la adornada espada del archiduque es meramente decorativa, es un tirador sorprendentemente excelente con su pistola y siempre lleva una maravillosa Radliffe consigo. Se rindió rápidamente durante la invasión inicial de Elsinberg y vive atemorizado por el komandante Tarovic. Obedece sin discusión toda orden de los ocupadores y no ha hecho nada por tranquilizar a su comunidad .
 
 
 * **Baronesa Rashel Ganelyn (mujer rynia Ari3/Gue8):** Se murmura que hay un umbreano oculto en algún lugar del árbol genealógico de esta delicada belleza de cabellos color castaño rojizo, lo cual explicaría su oscuro tono de pelo y su elevada altura. Lady Ganelyn llega a medir seis pies de altura con sus altas botas militares, y hay algo en el arco de sus cejas y en las comisuras de sus labios que le confieren un aire constante de tristeza. Esta expresión habitual, unida a su tipo ceñido, le ha granjeado el apodo "la Baronesa del Sauce", juego de palabras por las desoladas tierras del oeste de Elsinberg que caen bajo su dominio. No obstante, hay muy poca gente viviendo en las Planicies del Sauce, por lo que la baronesa vive en la ciudad desde donde dirige la guardia de la ciudad y la milicia (ahora considerablemente reducida). No es ningún secreto que lady Ganelyn combatió a los invasores en su ciudad, y se rumorea que evitó ser ejecutada sólo porque su fuerte atractivo llamó la atención del komandante Tarovic. Éste la desconcierta; debe despreciarlo como asesino de muchos de sus camaradas de armas, pero en diferentes circunstancias podría llegar a admitir que tiene un rudo atractivo. Recientemente la baronesa ha ayudado a los luchadores de la resistencia llaelesiana a pasar información a Cygnar y al pueblo libre de Rhydden. Si fuera descubierta, probablemente se enfrentaría a la ejecución .
@@ -312,9 +316,9 @@ Este año los lugareños esperan que los fantasmas aparezcan durante las última
 * **Komandante Negomir Tarovic, posadnik de Elsinberg (varón khárdico Gue10/Fus5):** Viejo y curtido veterano del ejército khadorano y devoto morrowano, el komandante Tarovic es uno de los oficiales más competentes de Khador. Tras ayudar a la komandante Kratikoff a capturar Elsinberg, marchó a desempeñar un papel clave en el asedio de Merywyn. Tarovic ha presenciado innumerables escaramuzas fronterizas y es un astuto combatiente. Aunque no solicitó el cargo de posadnik, se sintió honrado cuando lo recibió por su actuación en la campaña. Durante los largos meses de la guerra, el recuerdo de una mujer alta combatiendo en el frente junto a los funestos soldados de Elsinberg provocó a Tarovic. En un momento de la lid, la mira de su fusil se centró sobre la dama conocida como la Baronesa del Sauce, pero fue incapaz de apretar el gatillo. Ha permitido a lady Ganelyn conservar su posición en la ciudad, pues cree que puede hacer las paces con la mujer y establecer un hogar en Elsinberg pese a la petulancia de los lugareños .
 
 
-#### Lugares de Elsinberg* 
+#### Lugares de Elsinberg
 
-**Biblioteca de Elsinberg:** Este recio edificio de mármol no sólo contiene una de las colecciones más completas de la historia escrita de los Reinos de Hierro, sino que el edificio en sí es todo un monumento histórico. La mismísima ascendida Angellia fundó la biblioteca original en el 1033 a.R. La parte más antigua del edificio es una bóveda de piedra sencilla situada en el corazón de la estructura actual y ahora alberga los tomos más valiosos de la biblioteca. Durante la ocupación orgoth, los monjes sacaron toda la colección de la biblioteca y la dispersaron por cientos de escondrijos distintos para preservarla. La biblioteca está atendida y custodiada por monjes eruditos y clérigos que han escogido a Angellia como su patrona. El conservador jefe es Ion Badescu (varón umbreano Ext5/Mnj4), que protege celosamente la colección y es muy selectivo a la hora de permitir que alguien la examine detenidamente .
+* **Biblioteca de Elsinberg:** Este recio edificio de mármol no sólo contiene una de las colecciones más completas de la historia escrita de los Reinos de Hierro, sino que el edificio en sí es todo un monumento histórico. La mismísima ascendida Angellia fundó la biblioteca original en el 1033 a.R. La parte más antigua del edificio es una bóveda de piedra sencilla situada en el corazón de la estructura actual y ahora alberga los tomos más valiosos de la biblioteca. Durante la ocupación orgoth, los monjes sacaron toda la colección de la biblioteca y la dispersaron por cientos de escondrijos distintos para preservarla. La biblioteca está atendida y custodiada por monjes eruditos y clérigos que han escogido a Angellia como su patrona. El conservador jefe es Ion Badescu (varón umbreano Ext5/Mnj4), que protege celosamente la colección y es muy selectivo a la hora de permitir que alguien la examine detenidamente .
 
 
 * **Relicario y Monasterio de la ascendida Angellia:** El monasterio morrowano de Elsinberg ha soportado bien el paso de los siglos. Tras la liberación el monasterio fue reparado y santificado de nuevo. Al igual que con la Biblioteca de Elsinberg, el komandante Tarovic se aseguró de no dañar este lugar sagrado durante la invasión. La parte más importante del monasterio es el sarcófago de mármol que hay en su santuario, que contiene los restos mortales de la ascendida Angellia, patrona de la historia y el conocimiento. Yació sin ser molestada durante generaciones hasta la llegada de los orgoth. En aquel entonces sus huesos y cenizas se colocaron en un relicario de hierro y se confiaron a un paladín umbreano llamado Alexei Tzentesci, que hizo voto de celibato y asumió el título de "Esposo de Angellia". En la actualidad la ascendida Angellia duerme a salvo en su sarcófago rodeada y protegida por sus nueve "Esposos", todos los cuales yacen enterrados en el suelo de su santuario en honor a su dedicación y sacrificio. El clero de la ciudad está supervisado por la prelada Mara Lynyse (mujer rynia Clr8) .
@@ -322,7 +326,9 @@ Este año los lugareños esperan que los fantasmas aparezcan durante las última
 
 * **Tumba de los orgoth:** Una elaborada valla de pinchos de negro hierro forjado rodea este pequeño patio. En su centro hay una zona de tierra ennegrecida con la forma de una silueta humana, donde cayó una bruja guerrera orgoth en el 181 d.R. durante la liberación de Elsinberg. La orgoth anónima fue la última de su especie en poner pie en la ciudad. Desde entonces nada ha crecido en el lugar y nadie se atreve a edificar en él. En estos últimos años, durante la Marcha de los Muertos se ha visto al espectro de Ghan Horcada y a tres de sus hombres de pie en el lugar, mirándolo fija y atentamente. Cada primavera se celebra el Día de la Liberación y los festejantes suelen pasar por este lugar para hacer gestos obscenos a la silueta chamuscada y romper sus botellas de vino contra la valla .
 
-### LAEDRY* **
+### LAEDRY
+
+* **
 
 En el poder:** El Consejo de Ilustres, al servicio del vizconde Barak Ushka, vasallo del gran príncipe Vladimir Tzepesci de Umbresk.
 * **Población:** 130.000 (casi todos humanos, excepto algunos ogrun, enanos y muy pocos troloides).
@@ -344,9 +350,9 @@ De igual modo, no aprecian a su actual supervisor, el vizconde Barak Ushka, pese
 > 
 > 
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Komandante Jozak Milianov, posadnik (varón khárdico Gue10):** Otro de los competentes subordinados del komandante Irusk, el komandante Milianov adquirió fama por su valor durante el asalto a la fortaleza Muralla Roja. Aunque cuenta con el aprecio de sus hombres, está a disgusto en Laedry a pesar del honor que supone su nuevo título de posadnik, pues lo que realmente desea es volver a la guerra. Se le mantiene aquí para asegurar la presencia de un soldado de lealtad incuestionable al frente de la milicia (la reina Ayn no confía del todo en el vizconde). En realidad, a Jozak también le incomodan Barak y todos los demás umbreanos. Considera a los habitantes de Laedry unos traidores ancestrales, y está más que dispuesto a tomar medidas extremas con aquellos que violen las leyes khadoranas o molesten a sus soldados. Se rumorea que tiene Saqueadores Funestos encerrados en el sótano del tribunal por si se produjera una insurrección .
+* **Komandante Jozak Milianov, posadnik (varón khárdico Gue10):** Otro de los competentes subordinados del komandante Irusk, el komandante Milianov adquirió fama por su valor durante el asalto a la fortaleza Muralla Roja. Aunque cuenta con el aprecio de sus hombres, está a disgusto en Laedry a pesar del honor que supone su nuevo título de posadnik, pues lo que realmente desea es volver a la guerra. Se le mantiene aquí para asegurar la presencia de un soldado de lealtad incuestionable al frente de la milicia (la reina Ayn no confía del todo en el vizconde). En realidad, a Jozak también le incomodan Barak y todos los demás umbreanos. Considera a los habitantes de Laedry unos traidores ancestrales, y está más que dispuesto a tomar medidas extremas con aquellos que violen las leyes khadoranas o molesten a sus soldados. Se rumorea que tiene Saqueadores Funestos encerrados en el sótano del tribunal por si se produjera una insurrección .
 
 
 * **Vizconde Barak Ushka (varón umbreano Gue7/Uhl7):** Uno de los nobles más enigmáticos del este de Khador, el vizconde Ushka es leal vasallo del príncipe Tzepesci de Umbresk. Barak tomó parte en la invasión, pero sólo marginalmente. Es grande como un oso, procede de la orgullosa tradición de la caballería pesada uhlana, y cabalgó al servicio de Vladimir Tzepesci en varios enfrentamientos. Antes de la desaparición del príncipe Tzepesci, éste dio instrucciones a su vizconde para que obtuviese el control de Laedry. Así, no se ha instalado oficialmente en la ciudad, sino que se ha impuesto sobre ella y ha informado de su reivindicación a la reina con humilde respeto. A falta de nobles de rango similar que reivindicaran su precedencia, la reina no tuvo forma políticamente oportuna de expulsarle, por lo que los Ushka han ocupado una gran finca al norte de la ciudad. El vizconde tiene su propia guardia personal de élite que incluye tres subordinados uhlanos, una veintena de piqueros y una docena de batidores a caballo .
@@ -357,9 +363,9 @@ De igual modo, no aprecian a su actual supervisor, el vizconde Barak Ushka, pese
 > 
 > 
 
-#### Lugares de Laedry* 
+#### Lugares de Laedry
 
-**Capilla Bendita de Markus:** Al ser el lugar de culto favorito de Laedry, sobre todo para el ejército local, la capilla del capellán Lugo Savugal (varón umbreano CapBat3/Clr6) ha sido ampliada recientemente para acomodar a un gran número de fieles. En los tres años de obras se ha ensanchado la nave con ocho columnas y una serie de impresionantes contrafuertes. Ahora, con la mayoría de los soldados de Laedry muertos, se ha transformado en un lugar de reunión para las familias de los caídos. El capellán Savugal perdió la mitad de su pie izquierdo en anteriores escaramuzas fronterizas, y tres dedos de su mano izquierda luchando contra los khadoranos en la Batalla de Laedry. Se ha vuelto malhumorado y propenso a ataques de ira, y ya no es el hombre decoroso que fuera antaño. Apenas puede tolerar la presencia de khadoranos en su ciudad, y le ha dado por beber hasta caer redondo. Esto le ha dejado en muy mal lugar ante el gran prelado Garris di Wynton, que supervisa a los morrowanos de Laedry desde la catedral de los Primeros Ascendidos .
+* **Capilla Bendita de Markus:** Al ser el lugar de culto favorito de Laedry, sobre todo para el ejército local, la capilla del capellán Lugo Savugal (varón umbreano CapBat3/Clr6) ha sido ampliada recientemente para acomodar a un gran número de fieles. En los tres años de obras se ha ensanchado la nave con ocho columnas y una serie de impresionantes contrafuertes. Ahora, con la mayoría de los soldados de Laedry muertos, se ha transformado en un lugar de reunión para las familias de los caídos. El capellán Savugal perdió la mitad de su pie izquierdo en anteriores escaramuzas fronterizas, y tres dedos de su mano izquierda luchando contra los khadoranos en la Batalla de Laedry. Se ha vuelto malhumorado y propenso a ataques de ira, y ya no es el hombre decoroso que fuera antaño. Apenas puede tolerar la presencia de khadoranos en su ciudad, y le ha dado por beber hasta caer redondo. Esto le ha dejado en muy mal lugar ante el gran prelado Garris di Wynton, que supervisa a los morrowanos de Laedry desde la catedral de los Primeros Ascendidos .
 
 
 * **Crisol de Laedry:** La Orden del Crisol Dorado tiene una gran sucursal y taller en Laedry. Varios de sus magos más patriotas murieron durante la invasión o inmediatamente después, pero ha reanudado sus actividades bajo la atenta mirada de los Señores Grises. Todos los magos y alquimistas locales se han registrado en ella y deben portar credenciales en papel. Milianov ha promulgado leyes estrictas contra el lanzamiento de hechizos en la ciudad fuera de los talleres sancionados por los khadoranos .
@@ -374,7 +380,9 @@ De igual modo, no aprecian a su actual supervisor, el vizconde Barak Ushka, pese
 * **Templo de la Ira:** Este imponente edificio de piedra es el mayor edificio de la zona menita del sur de Laedry (donde viven miles de menitas). Esta rama concreta del culto de Menoth presenta un gran parecido con la Vieja Fe de Khador, más que aquellos que viven en el Protectorado. La congregación del templo ha aumentado debido sobre todo a los numerosos soldados khadoranos que rinden culto a Menoth. Durante los meses posteriores a la invasión, la ciudad experimentó un éxodo de sus lugareños menitas, pues varios centenares decidieron huir del Protectorado al oír hablar del milagro del Heraldo. La mayoría de los menitas de la ciudad rechazan el duro mensaje del Jerarca sureño, pues creen que su interpretación de la fe es más fiel a la voluntad de Menoth. Entre éstos se incluye su líder, la soberana Misha Rudovna (mujer umbreana Clr9), quien piensa que el Heraldo no es más que un elaborado engaño .
 
 
-### LERYN* **
+### LERYN
+
+* **
 
 En el poder:** La Orden del Crisol Dorado, supervisada por el koldun de los Señores Grises lord Volkh Lazar.
 * **Población:** 115.000 (en su mayoría rynios, junto a una minoría umbreana y varios miles de enanos).
@@ -396,9 +404,9 @@ Leryn ha crecido considerablemente desde su fundación. Hay tres etapas de creci
 
 Muchos de los edificios de Leryn se conservan como museos vivientes de una era más oscura, y sus ciudadanos reflejan esta actitud, pues algunos de ellos viven más para el pasado que para el presente. Prácticamente todos los habitantes de la ciudad pueden (y así lo hacen) enumerar sus antepasados hasta un soldado u oficial de la Rebelión. Se enorgullecen de sus tradiciones marciales, desfiles, conmemoraciones y herencias morbosas. También cabe destacar que Leryn posee mayor población de enanos que ninguna otra ciudad de Llael, concentrados en una creciente comunidad en el Arrabal. Algunos de estos enanos se marcharon a Rhul tras la toma de la ciudad, pero la mayoría se han quedado pues llevan muchos años considerando esta ciudad como su hogar .
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Maestro Tyrwen Culpyn (varón rynio Alq8/Ext2):** Con la ejecución de sus líderes más aptos y carismáticos, Tyrwen se ha convertido en el líder nominal de la Orden del Crisol Dorado en Llael. Se ha concedido a sí mismo el título de "maestro", aunque no se lo ha ganado y no era especialmente respetado antes de la invasión. Tyrwen es un anciano y sumiso alquimista resentido porque el viejo Aurum Magnus nunca reconoció su talento. Sirve al koldun Lazar con gusto. En realidad lleva varios años comiendo de la mano del Aquelarre de los Señores Grises. Le pagaron generosamente para que traicionase a sus colegas llegado el momento. Aunque muchos creen que Culpyn es un esbirro del primer ministro Glabryn, la verdad es que no es uno de sus agentes (su traición fue totalmente independiente) .
+* **Maestro Tyrwen Culpyn (varón rynio Alq8/Ext2):** Con la ejecución de sus líderes más aptos y carismáticos, Tyrwen se ha convertido en el líder nominal de la Orden del Crisol Dorado en Llael. Se ha concedido a sí mismo el título de "maestro", aunque no se lo ha ganado y no era especialmente respetado antes de la invasión. Tyrwen es un anciano y sumiso alquimista resentido porque el viejo Aurum Magnus nunca reconoció su talento. Sirve al koldun Lazar con gusto. En realidad lleva varios años comiendo de la mano del Aquelarre de los Señores Grises. Le pagaron generosamente para que traicionase a sus colegas llegado el momento. Aunque muchos creen que Culpyn es un esbirro del primer ministro Glabryn, la verdad es que no es uno de sus agentes (su traición fue totalmente independiente) .
 
 
 * **Lord koldun Volkh Lazar (varón khardio Mag18):** El koldun Lazar, el dirigente del terno más poderoso de Llael, representa la autoridad total del Aquelarre de los Señores Grises en Leryn. Absolutamente dedicado a la Madre Patria, el viejo y arisco mago era la elección más obvia para posadnik de Leryn. Su principal preocupación es mantener controlado al Crisol Dorado. Comprende la seriedad de sus responsabilidades, y que conservar Leryn y la fortaleza Cima del Trueno supone una enorme victoria simbólica para Khador. El koldun Lazar tiene un interés personal en los secretos del Crisol y espera desvelar sus preciados conocimientos alquímicos. Hasta ahora no ha tenido éxito. Sospecha que los refugiados escondieron o se llevaron muchos de estos secretos, y está seguro de que los colaboradores del Crisol no se vuelcan tanto como deberían .
@@ -420,9 +428,9 @@ De hecho, Merywyn es un caldo de cultivo para la resistencia llaelesiana. Peque�
 > 
 > 
 
-#### Personajes célebres (Merywyn)* 
+#### Personajes célebres (Merywyn)
 
-**Primer ministro Deyar Glabryn, archiduque del Nordryne (varón rynio Alq4/Ari10):** El primer ministro deja los asuntos de la ciudad al conde Hygrenne mientras viaja con un destacamento de soldados de la Guardia Invernal y una comitiva selecta de magos pistoleros guardaespaldas. Incluso a pesar de la ocupación, se le ha permitido conservar a sus guardaespaldas como recompensa por su cooperación y por la certeza de que, de lo contrario, sería asesinado enseguida .
+* **Primer ministro Deyar Glabryn, archiduque del Nordryne (varón rynio Alq4/Ari10):** El primer ministro deja los asuntos de la ciudad al conde Hygrenne mientras viaja con un destacamento de soldados de la Guardia Invernal y una comitiva selecta de magos pistoleros guardaespaldas. Incluso a pesar de la ocupación, se le ha permitido conservar a sus guardaespaldas como recompensa por su cooperación y por la certeza de que, de lo contrario, sería asesinado enseguida .
 
 
 * **Conde Jessup Hygrenne (varón rynio Ari8):** Adulador sumiso del archiduque Glabryn, Jessup es el alcalde nominal para la enrevesada burocracia de la ciudad. Pasa parte de cada día atendiendo a las peticiones del komandante Ivdanovich e intentando hacerlas realidad. El conde cuenta con un abundante personal que se aloja en una mansión situada en la Explanada Suprema y en varios de los edificios cercanos .
@@ -439,9 +447,9 @@ De hecho, Merywyn es un caldo de cultivo para la resistencia llaelesiana. Peque�
 > 
 > 
 
-#### Lugares de Merywyn* 
+#### Lugares de Merywyn
 
-**Gran Catedral de la ascendida Rowan:** Alzándose hacia las alturas, decorado con cientos de pinturas al fresco minuciosamente detalladas y estatuas de los ascendidos, y sostenido por arbotantes, este hermoso edificio es la mayor catedral de toda Llael. Sólo la Catedral de la Archicorte en el Santuario la sobrepasa como triunfo de arquitectura sacra. El Concilio Vicariato de Merywyn no ve ironía alguna en nombrar esta suntuosa catedral igual que la patrona de los pobres. A su favor hay que decir que celebran una fiesta anual en el nombre de la ascendida Rowan durante la cual piden donativos en forma de comida y ropa para los menos afortunados de la ciudad. Los vicarios que se reúnen en las oficinas anexas a la catedral son los responsables de toda la Iglesia de Morrow en Llael. La catedral no sufrió ningún daño durante el prolongado asedio de Merywyn, incluso aunque se libraron varios combates encarnizados muy cerca de ella. Esto se ha considerado un milagro menor y ha revigorizado las oraciones a la ascendida Rowan .
+* **Gran Catedral de la ascendida Rowan:** Alzándose hacia las alturas, decorado con cientos de pinturas al fresco minuciosamente detalladas y estatuas de los ascendidos, y sostenido por arbotantes, este hermoso edificio es la mayor catedral de toda Llael. Sólo la Catedral de la Archicorte en el Santuario la sobrepasa como triunfo de arquitectura sacra. El Concilio Vicariato de Merywyn no ve ironía alguna en nombrar esta suntuosa catedral igual que la patrona de los pobres. A su favor hay que decir que celebran una fiesta anual en el nombre de la ascendida Rowan durante la cual piden donativos en forma de comida y ropa para los menos afortunados de la ciudad. Los vicarios que se reúnen en las oficinas anexas a la catedral son los responsables de toda la Iglesia de Morrow en Llael. La catedral no sufrió ningún daño durante el prolongado asedio de Merywyn, incluso aunque se libraron varios combates encarnizados muy cerca de ella. Esto se ha considerado un milagro menor y ha revigorizado las oraciones a la ascendida Rowan .
 
 
 * **Gremio de canteros y constructores:** Un contratiempo con el contrato de arrendamiento obligó al gremio de canteros y constructores a erigir su sede en el barrio Porbyle, comúnmente conocido como el peor suburbio de Merywyn. Esto, combinado con la reciente andanada de leyes que confieren a cada barrio distintas regulaciones relativas a los estilos arquitectónicos y materiales permitidos, casi provocó la sublevación del colectivo antes de la invasión khadorana. Sin embargo, el asedio de Merywyn le ha dado un vuelco a la situación. Los tremendos daños infligidos a los edificios periféricos y a los muros que rodean la capital han hecho que los servicios del gremio estén muy solicitados, y ahora reciben el respeto y la deferencia de nobles y ciudadanos por igual .
@@ -453,7 +461,9 @@ De hecho, Merywyn es un caldo de cultivo para la resistencia llaelesiana. Peque�
 * **Ventura:** A un par de millas al sur de Merywyn, Río Negro abajo, se encuentra la espectacular aldea de Ventura, considerada parte de la nación a la hora de adjudicar impuestos. Varios miles de gobos trabajadores viven en esta aldea de terrazas con elegantes casas, molinos de agua y plataformas elevadoras manuales. Temiendo ser aniquilados durante el asedio, su alcalde se rindió a los khadoranos antes incluso de que Merywyn cayese. Aparte de estar vigilados por una compañía de soldados de la Guardia Invernal que patrulla la región, por lo demás los invasores han dejado tranquilos a los gobos. Muchos de estos gobos trabajan en la capital y recorren la larga distancia dos veces al día .
 
 
-### RHYDDEN* **
+### RHYDDEN
+
+* **
 
 En el poder:** Duque Gregore Delryv IV.
 * **Población:** 70.000 (humanos, unos centenares de gobos, ogrun y enanos, algunas docenas de elfos iosenses exiliados). Esta población se ha doblado durante el último año; la mitad son refugiados del oeste azotado por la guerra (incluidos varios millares procedentes de Confluencia).
@@ -467,14 +477,14 @@ Bien alejada de las rutas de comercio regulares, Rhydden tiene fama de ser un pu
 
 El suelo aquí no es tan fértil como parece. Aun así, los vinos de Rhydden se solicitan desde lugares tan apartados como Ceryl y Ohk, y se cotizan a precios elevadísimos entre aquellos con paladares refinados. Muchos de estos campos han sido transformados recientemente para cultivar alimentos. Los refugiados y su necesidad de alojamiento han exprimido al máximo todos los recursos locales. El duque Gregore Delryv ha subido los impuestos y ha reunido a los lugareños para levantar defensas, con especial énfasis en la construcción de emplazamientos de artillería y almenas con enormes bloques de piedra .
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Lord Gregore Delryv IV, duque de Rhydden (varón rynio Ari3/Gue4/Pist1):** Insólito héroe y líder (si alguna vez lo hubo), lord Delryv ha impresionado incluso a los miembros de su familia al encargarse de los recientes desafíos. Lord Delryv tiene tan sólo veinticuatro años, y recientemente ha heredado las fincas de su padre. Es uno de los pocos parientes (lejanos) del rey di la Martyn que queda con vida, y por tanto es uno de los posibles aspirantes al trono llaelesiano. Por esta razón su familia se ha mantenido en el anonimato durante el "gobierno" de Glabryn. Si no hubiera sido por la invasión, probablemente Gregore habría llevado la vida sosegada de un consentido señor vinatero, marcada tan sólo por su temperamento impulsivo y su tendencia a provocar duelos de honor. Sin embargo, desde la ejecución de su señor, el archiduque Balen di Voxsauny, ha demostrado su valía como protector de los refugiados y patriota de Llael. Abrió Voxsauny a aquellos que buscaran protección de los ocupadores y ha puesto a toda la población a trabajar construyendo defensas y albergues para los desplazados .
+* **Lord Gregore Delryv IV, duque de Rhydden (varón rynio Ari3/Gue4/Pist1):** Insólito héroe y líder (si alguna vez lo hubo), lord Delryv ha impresionado incluso a los miembros de su familia al encargarse de los recientes desafíos. Lord Delryv tiene tan sólo veinticuatro años, y recientemente ha heredado las fincas de su padre. Es uno de los pocos parientes (lejanos) del rey di la Martyn que queda con vida, y por tanto es uno de los posibles aspirantes al trono llaelesiano. Por esta razón su familia se ha mantenido en el anonimato durante el "gobierno" de Glabryn. Si no hubiera sido por la invasión, probablemente Gregore habría llevado la vida sosegada de un consentido señor vinatero, marcada tan sólo por su temperamento impulsivo y su tendencia a provocar duelos de honor. Sin embargo, desde la ejecución de su señor, el archiduque Balen di Voxsauny, ha demostrado su valía como protector de los refugiados y patriota de Llael. Abrió Voxsauny a aquellos que buscaran protección de los ocupadores y ha puesto a toda la población a trabajar construyendo defensas y albergues para los desplazados .
 
 
-#### Lugares de Rhydden* 
+#### Lugares de Rhydden
 
-**Maderera Boscoriental:** Aunque es más famosa por sus vinos, Rhydden también es importante por su madera. Boscoriental, la más próspera de las tres principales compañías de explotación forestal, emplea a muchas personas honradas y trabajadoras. Por desgracia cada vez ha sido más difícil cumplir las cuotas, sobre todo dada la necesidad de alojamiento para los refugiados. Para satisfacer los pedidos, los leñadores se han visto obligados a aventurarse al este y al sur en territorio prohibido. Recientemente un grupo cruzó la frontera con Ios y regresó con media docena de hombres menos. Ahora la comunidad de Rhydden se encuentra en un estado de tensión, furia y miedo .
+* **Maderera Boscoriental:** Aunque es más famosa por sus vinos, Rhydden también es importante por su madera. Boscoriental, la más próspera de las tres principales compañías de explotación forestal, emplea a muchas personas honradas y trabajadoras. Por desgracia cada vez ha sido más difícil cumplir las cuotas, sobre todo dada la necesidad de alojamiento para los refugiados. Para satisfacer los pedidos, los leñadores se han visto obligados a aventurarse al este y al sur en territorio prohibido. Recientemente un grupo cruzó la frontera con Ios y regresó con media docena de hombres menos. Ahora la comunidad de Rhydden se encuentra en un estado de tensión, furia y miedo .
 
 
 > **¿PROTEGIDOS POR IOS?**
@@ -486,7 +496,9 @@ El suelo aquí no es tan fértil como parece. Aun así, los vinos de Rhydden se 
 * **Capilla del ascendido Gordenn de Rhydden:** El grueso pero trabajador prelado Giusef Escovar (varón rynio Clr7) supervisa esta modesta iglesia. Su capilla pastoral está situada fuera de la ciudad, en una antigua granja convertida al servicio religioso. Sus subordinados y él se mantienen ocupados ayudando a los refugiados, despejando la tierra y cultivando cosechas para alimentar al abrumado pueblo .
 
 
-### RYNYR* **
+### RYNYR
+
+* **
 
 En el poder:** Posadnik Igor Vojinovich.
 * **Población:** 19.000 (humanos, muy pocos miembros de otras razas).
@@ -498,20 +510,24 @@ Rynyr, posiblemente el amago de civilización más inhóspito de todos los Reino
 
 El pueblo está separado del suelo en su mayor parte, debido al intenso calor que emana de la roca volcánica. Altísimas pasarelas y caballetes conectan grandes grupos de edificios, y toda la zona está cubierta por una maraña de cables por los cuales se transportan cubos de minerales de un lado para otro. Los edificios están completamente construidos con piedra y metal (la madera supone un riesgo de incendio demasiado elevado). Es un lugar horrible para vivir, pero aquellos que pueden soportarlo y trabajar duro pueden ganarse la vida bastante bien. En consecuencia, es un refugio para los no humanos y para aquellos que huyen de la ley, pues los patrones contratan indiscriminadamente y muy pocos proscritos merecen el esfuerzo de ser perseguidos hasta Rynyr. La ocupación de Rynyr apenas ha causado molestias a los lugareños, que no ofrecieron resistencia y que han seguido trabajando exactamente igual que antes .
 
-#### Personajes célebres* **Lord Palyn d'Myr (varón rynio Ext4/Per2):** Lord d'Myr es el dueño de muchas de las minas de Rynyr, ya sea abiertamente o a través de su consorcio de socios. Es un antiguo residente de Rynyr, y casi todos en el pueblo respetan o temen al "tirano del polvo", como se le llama a veces. Lord d'Myr cerró una serie de tratos lucrativos con el posadnik Vojinovich, que sin duda convertirá a los dos en hombres más ricos de lo que nunca soñaron. Desde la ocupación, d'Myr ha intensificado su control sobre Rynyr con la ayuda del posadnik, y le importa un bledo que lo tachen de colaborador .
+#### Personajes célebres
+
+* **Lord Palyn d'Myr (varón rynio Ext4/Per2):** Lord d'Myr es el dueño de muchas de las minas de Rynyr, ya sea abiertamente o a través de su consorcio de socios. Es un antiguo residente de Rynyr, y casi todos en el pueblo respetan o temen al "tirano del polvo", como se le llama a veces. Lord d'Myr cerró una serie de tratos lucrativos con el posadnik Vojinovich, que sin duda convertirá a los dos en hombres más ricos de lo que nunca soñaron. Desde la ocupación, d'Myr ha intensificado su control sobre Rynyr con la ayuda del posadnik, y le importa un bledo que lo tachen de colaborador .
 
 
 * **Posadnik Igor Vojinovich (varón khardio Ext9):** El posadnik Vojinovich es un oportunista kayaz que viajó al este para hacer una fortuna tras el inicio de la invasión. Ayudaba a supervisar la extracción del polvo rojo en la volozk de Tverkatka, en el centro de Khador. Con el apoyo del ejército khadorano dirige este pueblo y ha aumentado considerablemente su productividad. A Vojinovich le preocupa exclusivamente su trabajo y ha dejado el gobierno de la ciudad en manos de lord d'Myr .
 
 
-#### Lugares de Rynyr* 
+#### Lugares de Rynyr
 
-**Capilla de Morrow:** En Rynyr hay un único centro de culto, una pequeña capilla de Morrow situada cerca del centro del pueblo. Es prácticamente indistinguible del resto de edificios de piedra cubiertos de polvo, salvo por el gran símbolo morrowano que adorna sus puertas. El interior de la capilla está decorado como cualquier otra del resto de los reinos y ofrece a los fieles un momento de calma lejos del polvo y el ruido. El prelado Tynwald Mesmyth (varón rynio Clr5) la preside, y parte de su deber consiste en ayudar en la curación de cualquier minero herido .
+* **Capilla de Morrow:** En Rynyr hay un único centro de culto, una pequeña capilla de Morrow situada cerca del centro del pueblo. Es prácticamente indistinguible del resto de edificios de piedra cubiertos de polvo, salvo por el gran símbolo morrowano que adorna sus puertas. El interior de la capilla está decorado como cualquier otra del resto de los reinos y ofrece a los fieles un momento de calma lejos del polvo y el ruido. El prelado Tynwald Mesmyth (varón rynio Clr5) la preside, y parte de su deber consiste en ayudar en la curación de cualquier minero herido .
 
 
 * **Gruta enana:** Aparte de las minas y la apariencia única de todo el pueblo de Rynyr, lo primero en lo que suelen reparar los visitantes es en la Gruta enana. Este enorme edificio parece estar tallado en un único y gigantesco trozo de piedra y alberga a un numeroso grupo de mineros enanos y ogrun que viven en Rynyr prácticamente desde su fundación. De hecho, los enanos ayudaron a los humanos de la región en sus primeras excavaciones en las minas de polvo. La Gruta es mucho mayor de lo que puede parecer a simple vista; el edificio que se alza por encima del nivel del suelo no es más que la mitad de todo el complejo, el resto desciende cientos de pies bajo tierra .
 
-### LUGARES DE INTERÉS* **
+### LUGARES DE INTERÉS
+
+* **
 
 Almacén Aliston:** El Almacén Aliston fue en el pasado una fortaleza mucho mayor, construida por un príncipe rynio generaciones antes de que los orgoth invadiesen Rynyr. La fortaleza se alza sobre un terreno elevado, con unas murallas de veinticinco pies de grosor en su base y que se elevan a una altura de cien pies . Durante algunas de las peores temporadas de inundaciones (que abundan en el valle del Río Negro de Llael), este terreno elevado se convierte en cientos de islotes en un mar de agua desbordada, y el Almacén Aliston se halla en el único trozo de tierra seca de tamaño sustancial que queda en esta parte del valle en mil yardas a la redonda. La fortaleza cayó en desuso cuando sus propietarios perdieron gran parte de sus riquezas, y de hecho estuvo vacía hasta que los invasores orgoth llegaron y la utilizaron como base de operaciones durante más de un siglo. Destruida durante el Azote, es desde entonces una ruina chamuscada y desmoronada .
 Recientemente, el Almacén Aliston ha sido el escenario de una encarnizada batalla entre tropas khadoranas y cygnaritas que luchaban por asegurarse el terreno elevado de la región durante la temporada de inundación. Más tarde aparecieron en las cercanías tropas cryxianas y menitas con el mismo objetivo, y las cuatro fuerzas se enfrentaron en una violenta disputa por controlar esta porción del valle del Río Negro .

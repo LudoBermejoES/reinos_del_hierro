@@ -82,8 +82,7 @@ El Protectorado no estará satisfecho hasta que todo el reino (y el resto de la 
 
 El Protectorado está inmerso en una cruzada para reclamar toda Immoren occidental para Menoth. Previamente a la declaración de guerra, Menoth les envió una señal bajo la forma del **Heraldo**, una profetisa de gran poder de la cual se dice que habla directamente con su dios. El Jerarca Voyle consulta al Heraldo en todos los asuntos espirituales. Voyle usó al Heraldo como incentivo para una Gran Peregrinación, convocando a todo menita de Immoren para que presenciasen su gloria; decenas de miles de peregrinos desbordaron el Protectorado, incrementando la población y confiriendo los números necesarios para la guerra santa .
 
-### AIRES DE GUERRA* 
-
+### AIRES DE GUERRA
 El Protectorado atacó las murallas de Caspia el 6 de Vendarl, Octesh del 605 d.R. Aunque fueron rechazados, la guerra había comenzado .
 
 
@@ -102,9 +101,9 @@ El Protectorado atacó las murallas de Caspia el 6 de Vendarl, Octesh del 605 d.
 * **Recursos Naturales:** Pescado, sal, azufre, mármol, piedra caliza, depósitos menores de carbón, oro, plomo, níquel, estaño y cobre. Abundancia de diamantes y petróleo .
 
 
-### EL JERARCA GARRICK VOYLE**
+### EL JERARCA GARRICK VOYLE
 
-Jerarca Garrick Voyle (varón sulesiano Clr10/Mnj15/Ect10):** Inundado de la gloria del Creador, Garrick Voyle se halla entre los individuos más poderosos de los Reinos de Hierro. En todo el Protectorado, su palabra adjudica vida o muerte. Es tanto el líder indiscutible del Templo como el maestro soberano de sus dominios . Voyle desprecia lo que considera conducta herética y está absolutamente consagrado a la voluntad de Menoth.
+**Jerarca Garrick Voyle (varón sulesiano Clr10/Mnj15/Ect10):** Inundado de la gloria del Creador, Garrick Voyle se halla entre los individuos más poderosos de los Reinos de Hierro. En todo el Protectorado, su palabra adjudica vida o muerte. Es tanto el líder indiscutible del Templo como el maestro soberano de sus dominios . Voyle desprecia lo que considera conducta herética y está absolutamente consagrado a la voluntad de Menoth.
 
 Además de sus dotes espirituales, es un maestro del antiguo estilo de artes marciales que los monjes menitas llevan siglos practicando. Fundó la **Orden del Puño**, una orden de monjes dedicada a servir al sacerdocio . Se conserva joven y vigoroso debido a su entrenamiento; está en perfecta forma física. Cuando obtuvo el cargo fue víctima de atentados, pero despachó a los asesinos sin ayuda, convenciendo a sus enemigos de que era invulnerable .
 
@@ -199,7 +198,9 @@ La población general debe obedecer a todos los sacerdotes además de a cualquie
 
 ---
 
-### PROVINCIAS DEL PROTECTORADO DE MENOTH* **GEDORRA:** 
+### PROVINCIAS DEL PROTECTORADO DE MENOTH
+
+* **GEDORRA:** 
 
 La gran provincia central comprende la capital Imer y se extiende hacia el sur hasta Acrennia, incluyendo un largo trecho de costa y el norte de las colinas Erud. Los recursos más abundantes de esta región se hallan en las abarrotadas minas al este de Imer, una de las mejores fuentes de hierro y demás metales útiles del Protectorado. Gedorra está gobernada por los seis visgodos de Imer .
 
@@ -217,7 +218,9 @@ La gran provincia central comprende la capital Imer y se extiende hacia el sur h
 
 ### PRINCIPALES CIUDADES
 
-#### ANTIGUA ICTHIER* **En el poder:** Escrutador soberano Jarok Shaw (responde ante el visgodo Brone Scarrel).
+#### ANTIGUA ICTHIER
+
+* **En el poder:** Escrutador soberano Jarok Shaw (responde ante el visgodo Brone Scarrel).
 * **Población:** 50.000 (mayoría sulesiana con una minoría idriana); la población ha aumentado drásticamente desde el año pasado debido a la llegada de peregrinos.
 * **Ejército:** La guarnición de Antigua Icthier se compone de un gran contingente de custodios de la Llama del Templo, apoyados por caballeros dechados y batidores idrianos. La ciudad es patrullada por los Puños de Menoth. En tiempos de necesidad la mayor parte de la población puede ser convocada para defender la ciudad.
 * **Importaciones:** Productos manufacturados, tejidos, trigo.
@@ -324,7 +327,9 @@ Los extranjeros admiten que la ciudad les impresiona e intimida con sus descomun
 * **Evocación de Sulon:** La Evocación es una milla cuadrada de barracones atestados de guerreros menitas y sacerdotes de batalla, situado cerca del centro de Sul. Se rumorea que está construido sobre el lugar en el que cayó el Jerarca Sulon en combate. Desde el inicio de la guerra santa del Protectorado, la Evocación de Sulon no ha estado tan tranquila y silenciosa como ahora, pues nunca antes se necesitaron a tantos de sus habitantes a la vez .
 
 
-### LUGARES DE INTERÉS* **
+### LUGARES DE INTERÉS
+
+* **
 
 Acrennia:** Estas ruinas, situadas ante el mar y gastadas por los elementos, no hacen justicia a la gran ciudad que hubo aquí en el pasado. Se cree que fue una ciudad menita de magnificencia superada tan sólo por Icthier. El pueblo de Acrennia degeneró hasta convertirse en un estado corrupto y cuenta la leyenda que declararon la guerra a Icthier. Tras décadas de batallas, los acrenianos se desvanecieron repentina y misteriosamente en una sola noche. Ahora Acrennia yace medio enterrada bajo la arena y los menitas la temen .
 

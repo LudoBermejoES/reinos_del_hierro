@@ -127,7 +127,9 @@ El cuantioso ejército de Khador personifica sus ideales: fuerza y resistencia p
 
 La reina dirige las legiones de Khador mediante su Alto Mando. Este grupo de venerables soldados veteranos ha afrontado grandes adversidades y se ha retirado del campo de batalla para asumir posiciones de prestigio. No dan órdenes desde líneas de artillería en el campo, sino desde las grandes cámaras de guerra del palacio Stasikov en Korsk. Aunque están sometidos a la reina (quien a menudo se lo recuerda dando órdenes directas a sus oficiales), ellos son las principales mentes en tiempos de guerra y sus consejos son escuchados en todo momento .
 
-### VOLOZKYAS DE KHADOR* **BORSTOI:** 
+### VOLOZKYAS DE KHADOR
+
+* **BORSTOI:** 
 
 Borstoi es un territorio costero del oeste que abarca Puerto Vladovar y Skrovenberg, y limita al este con los ríos Lokhpool y Shadoweald. La bahía Kulvorn convierte a Puerto Vladovar en uno de los mejores fondeaderos naturales de Khador, y en el pasado fue territorio órdico. Incluso después de casi dos siglos algunos norteños siguen desconfiando de los antiguos tordoranos de esta región. Skrovenberg, hacia el norte, es más conciliadoramente khárdica, al igual que la mayoría de los pueblos y aldeas intermedios. Borstoi está gobernada por el gran príncipe Sergei Marvor .
 
@@ -190,7 +192,9 @@ Borstoi es un territorio costero del oeste que abarca Puerto Vladovar y Skrovenb
 
 ### PRINCIPALES CIUDADES
 
-#### CHEROV-ON-DRON* **En el poder:** Posadnik Liubun Onopinskaia.
+#### CHEROV-ON-DRON
+
+* **En el poder:** Posadnik Liubun Onopinskaia.
 * **Población:** 37.000 humanos (la mayoría khardios).
 * **Ejército:** Cherov-on-Dron cuenta con un moderado contingente de la Guardia Invernal como guarnición.
 * **Importaciones:** Madera.
@@ -213,7 +217,9 @@ Desde entonces, Cherov-on-Dron se ha transformado en una floreciente ciudad port
 * **Bosque de la Ceniza Espectral:** Hace ya mucho que el pequeño trecho de espeso bosque que antaño rodease Cherov-on-Dron se extendió sobre la zona en la que se hallaba la ciudadela de roble de Vladykin. Los árboles clavaron sus raíces en lo profundo del suelo ceniciento y crecieron con una rapidez aparentemente mayor que la vegetación local restante. Los mismos árboles han adquirido un tono más oscuro en sus hojas y la fauna parece evitar esta zona. Los supersticiosos rumorean que el bosque ha sido embrujado por los nobles que murieron quemados en el incendio que consumió la ciudadela, y se dice que sus espíritus cazan a los vivos para aliviar su eterno tormento .
 
 
-#### KHARDOV* **
+#### KHARDOV
+
+* **
 
 En el poder:** Posadnik Korab Tishnikov.
 * **Población:** 410.000 humanos (en su mayoría khardios y skirovanos), 5.000 individuos entre gobos y bogrin, 3.000 troloides.
@@ -242,17 +248,17 @@ La *olcheniy* interrumpe huelgas, reprime los saqueos de comida y en general pro
 > 
 > 
 
-#### Personajes célebres (Khardov)* 
+#### Personajes célebres (Khardov)
 
-**Gran príncipe Aeniv Rolonovik, koldun del Aquelarre de los Señores Grises (varón khardio Ari6/Mag10):** Aeniv desciende de un antiguo linaje de nobles magos al servicio de Khador desde los primeros días de la Orden. Su lealtad a los Señores Grises es inquebrantable y se le considera uno de los miembros de mayor estatus político. Ronda los cincuenta y comienzan a notársele las canas en la sien, pero su cuerpo sigue siendo fuerte y sano pese a la exposición continuada a agentes alquímicos y a las letales nieblas de Khardov. Aeniv pasa gran parte del tiempo en la fortaleza orgoth de Khardov desenterrando y estudiando sus secretos e intentando darles un uso productivo para la Madre Patria. Se rumorea que Rolonovik ha dominado el arte de la creación de las temibles hojas taladoras (armas de un poder increíble vinculadas a los Saqueadores Funestos berserker de Khador) .
+* **Gran príncipe Aeniv Rolonovik, koldun del Aquelarre de los Señores Grises (varón khardio Ari6/Mag10):** Aeniv desciende de un antiguo linaje de nobles magos al servicio de Khador desde los primeros días de la Orden. Su lealtad a los Señores Grises es inquebrantable y se le considera uno de los miembros de mayor estatus político. Ronda los cincuenta y comienzan a notársele las canas en la sien, pero su cuerpo sigue siendo fuerte y sano pese a la exposición continuada a agentes alquímicos y a las letales nieblas de Khardov. Aeniv pasa gran parte del tiempo en la fortaleza orgoth de Khardov desenterrando y estudiando sus secretos e intentando darles un uso productivo para la Madre Patria. Se rumorea que Rolonovik ha dominado el arte de la creación de las temibles hojas taladoras (armas de un poder increíble vinculadas a los Saqueadores Funestos berserker de Khador) .
 
 
 * **Posadnik Korab Tishnikov (varón khardio Ari6/Gue7):** Korab Tishnikov es un hombre que gobierna con puño de hierro, acostumbrado a vivir del sudor y la sangre de los que están por debajo de él. Antes de redescubrirse como industrial kayaz, Tishnikov alcanzó el rango de kovnik sirviendo en la célebre 5ª Legión Fronteriza de Khador. A lo largo de su carrera militar ha despuntado como un sádico brutal al que llena de júbilo interrogar a los prisioneros cygnaritas. Tishnikov es, físicamente, un hombre fornido. Su rostro está surcado por un bigote cuidadosamente recortado y unos fríos ojos oscuros. Además de gobernar Khardov, también preside el *veche* de la ciudad, integrado por veinticinco kayazi, y ha reunido información vital para chantajear a todos y cada uno de ellos .
 
 
-#### Lugares de Khardov* 
+#### Lugares de Khardov
 
-**Plaza Hlebnaya:** Una gran plaza de mercado conocida para los asiduos como la "Plaza del Pan"; aquí es donde se lleva a cabo la mayor parte de las transacciones comerciales en Khardov. Mientras reina la paz, Hlebnaya es un próspero emplazamiento para que los comerciantes ferroviarios vendan y truequen, pues se encuentra cerca de la estación ferroviaria de Khardov. Está fuertemente protegida por la *olcheniy*, que a menudo supervisa el reparto de pan a los ciudadanos de clase baja; los cultivos de trigo que rodean Khardov están tan cubiertos de polvo que el pan más barato es de color gris. De vez en cuando se da una escasez de comida, y en consecuencia se producen disturbios. En estos casos, la *olcheniy* prefiere dejar que la Guardia Invernal se encargue de dispersar a la multitud .
+* **Plaza Hlebnaya:** Una gran plaza de mercado conocida para los asiduos como la "Plaza del Pan"; aquí es donde se lleva a cabo la mayor parte de las transacciones comerciales en Khardov. Mientras reina la paz, Hlebnaya es un próspero emplazamiento para que los comerciantes ferroviarios vendan y truequen, pues se encuentra cerca de la estación ferroviaria de Khardov. Está fuertemente protegida por la *olcheniy*, que a menudo supervisa el reparto de pan a los ciudadanos de clase baja; los cultivos de trigo que rodean Khardov están tan cubiertos de polvo que el pan más barato es de color gris. De vez en cuando se da una escasez de comida, y en consecuencia se producen disturbios. En estos casos, la *olcheniy* prefiere dejar que la Guardia Invernal se encargue de dispersar a la multitud .
 
 
 * **Casa de la Puerta a Urcaen:** La Casa es una fabulosa estructura de hierro bruñido y piedras pintadas de color marfil que está situada al borde de la ciudad. Las tradicionalistas cuidadoras menitas, todas ellas mujeres, viven en un convento dentro del lóbrego edificio. Su principal responsabilidad consiste en mantener su inmenso camposanto; entre sus muros hay más de siete mil tumbas y sepulcros. Estas guardianas se toman muy en serio su papel de cuidadoras y respetan fielmente la estricta doctrina de Menoth. Una de cada tres mujeres internas ha servido anteriormente como soldado, por lo que son perfectamente capaces de defender el terreno. Cuando las lúgubres brumas de Khardov hacen acto de presencia, pueden oírse extraños lamentos procedentes del cementerio, y algunos ciudadanos conjeturan que las mujeres no son sólo responsables de mantener fuera a los vivos, sino también de mantener dentro a los muertos .
@@ -272,7 +278,9 @@ La *olcheniy* interrumpe huelgas, reprime los saqueos de comida y en general pro
 > 
 > 
 
-#### KORSK* **
+#### KORSK
+
+* **
 
 En el poder:** Reina Ayn Vanar XI.
 * **Población:** 790.000 (humanos diversos, principalmente khardios, skirovanos, kossitanos y umbreanos), 30.000 gobos, 20.000 ogrun, 15.000 enanos, 10.000 humanoides varios (bogrin, nyss, troloides, etc.).
@@ -294,9 +302,9 @@ Los herreros y las fraguas abundan en el barrio de Zerutsk (llamado así por el 
 
 La capital de Khador es la joya del cetro de la reina Ayn, que se asegura de que todos y cada uno de sus ciudadanos sean conscientes del orgullo que le profesa su majestuosidad. Ondean banderas casi en cada torre, luciendo su insignia dorada y escarlata, y cuando no lo hace ella misma, el primer ministro Horseze informa diariamente sobre la guerra a las masas que se reúnen frente al palacio. Los siervos de guerra nuevos desfilan por el pueblo junto a los batallones veteranos que los reciben, y casi todas las semanas se celebran fiestas (laborables, pero fiestas al fin y al cabo) en honor a los héroes de la Madre Patria. Al contemplar su reluciente capital, resulta difícil recordar la sangre y el escándalo vertidos por la política y el pasado de Khador .
 
-#### Personajes célebres (Korsk)* 
+#### Personajes célebres (Korsk)
 
-**Reina Ayn Vanar XI (mujer khardia Ari3/Gue7):** La impactante reina de Khador es una política astuta y poderosa con ambiciones más profundas que el Mar Khárdico. Está dispuesta a hacer lo que sea necesario para conseguir sus fines, y sus maquinaciones han dado fruto recientemente con la exitosa invasión de Llael. En la actualidad, sus ambiciones se han desviado hacia Cygnar. Aún no ha escogido marido (para desespero de numerosos nobles) y persigue el destino de su familia sola en palacio .
+* **Reina Ayn Vanar XI (mujer khardia Ari3/Gue7):** La impactante reina de Khador es una política astuta y poderosa con ambiciones más profundas que el Mar Khárdico. Está dispuesta a hacer lo que sea necesario para conseguir sus fines, y sus maquinaciones han dado fruto recientemente con la exitosa invasión de Llael. En la actualidad, sus ambiciones se han desviado hacia Cygnar. Aún no ha escogido marido (para desespero de numerosos nobles) y persigue el destino de su familia sola en palacio .
 
 
 * **Mhikol Horseze, primer ministro del Alto Mando khadorano (varón umbreano Gue20):** Horseze es un anciano de tremenda estatura, con cabellos canosos y unos penetrantes ojos grises. Pese a su avanzada edad, el primer ministro tiene una mente muy aguda. Como dirigente del Alto Mando khadorano se ha servido de esta presencia intimidante para guiar a los komandantes supremos de un modo eficaz y sin discusiones durante más de dos décadas. El primer ministro Horseze instruyó al célebre komandante Irusk en el arte de la guerra y se enorgullece en gran medida de los muchos logros de su antiguo pupilo. Algunos miembros del Alto Mando se ofendieron por su rápida adquisición de importancia, pero el primer ministro no ha tardado en silenciarlos .
@@ -311,9 +319,9 @@ La capital de Khador es la joya del cetro de la reina Ayn, que se asegura de que
 * **Maestro mecániko Dahlrif Salvoro II (varón khardio Mka14):** Dahlrif Salvoro II es el sucesor del orgulloso linaje Salvoro, famoso por sus desarrollos en la tecnología del vapor. Como uno de los dirigentes de la oficina principal de la Asamblea de Mecánikos Khadoranos de Korsk, Dahlrif casi siempre aparece con sus características gafas ahumadas. El hosco mecániko arcano de mediana edad no tolera a los "idiotas". Está muy interesado en toda clase de mecánika, investiga todo tipo de tecnología y se reúne frecuentemente con otros mecánikos arcanos e ingenieros. Dahlrif se implica mucho en su trabajo, como si en ello le fuera el arraigo del legado de los Salvoro, y da conferencias con cierta regularidad en el Instituto Khadorano de Ingeniería .
 
 
-#### Lugares de Korsk* 
+#### Lugares de Korsk
 
-**Gotskij Dvor:** El barrio de negocios conocido como el Gotskij Dvor es el centro de comercio permanente de Korsk. Con una extensión de tres manzanas (ocupa casi una milla cuadrada de la ciudad) y siempre lustroso y limpio aun a pesar de las fábricas vecinas y los pesados siervos de vapor, los ricos y poderosos de Korsk acuden al Dvor para el comercio a gran escala. Los sirvientes del trono contratan enormes pedidos laborales a los muchos negocios e industrias que tienen sus oficinas en él. Factorías Czavyana, Armas y armaduras Falgora, Forjas Salvoro, la Compañía de armamento Vislovski y Mercantiles Gevenorsk tienen todas sus oficinas centrales en el Dvor. Aunque la clase gobernante está situada más cerca del palacio, la mayoría de los mercaderes creen que el verdadero poder en Korsk está en los contratos que cambian de manos en Gotskij Dvor .
+* **Gotskij Dvor:** El barrio de negocios conocido como el Gotskij Dvor es el centro de comercio permanente de Korsk. Con una extensión de tres manzanas (ocupa casi una milla cuadrada de la ciudad) y siempre lustroso y limpio aun a pesar de las fábricas vecinas y los pesados siervos de vapor, los ricos y poderosos de Korsk acuden al Dvor para el comercio a gran escala. Los sirvientes del trono contratan enormes pedidos laborales a los muchos negocios e industrias que tienen sus oficinas en él. Factorías Czavyana, Armas y armaduras Falgora, Forjas Salvoro, la Compañía de armamento Vislovski y Mercantiles Gevenorsk tienen todas sus oficinas centrales en el Dvor. Aunque la clase gobernante está situada más cerca del palacio, la mayoría de los mercaderes creen que el verdadero poder en Korsk está en los contratos que cambian de manos en Gotskij Dvor .
 
 
 * **Catedral Katrinksa:** Oficialmente, Morrow y Menoth se toleran por igual en Korsk, pero la predilección de la reina queda patente en la majestuosidad de la catedral en la que decide rendir culto (cuando no lo hace en su capilla personal, claro está). Construida para impresionar, esta catedral dorada es visible desde casi cualquier punto de la capital. Descansa junto al palacio Stasikov en la seguridad de las murallas que hay tras la Puerta de Warvotsh, y se la considera un encumbrado y poderoso recordatorio de la influencia morrowana en Korsk .
@@ -337,7 +345,9 @@ Militarmente hablando, el palacio es prácticamente invulnerable a la invasión.
 * **Templo de la Verdadera Ley:** El templo de la Verdadera Ley es una impresionante estructura de piedra vetusta y agrietada cuya existencia se remonta a los tiempos del rey Khardovic. Durante la ocupación orgoth el templo sufrió graves daños, pero con pequeñas reparaciones durante el transcurso de los siglos ha perdurado como símbolo de la tenacidad de la Vieja Fe. Es el hogar de los caballeros de la Orden de la Muralla, y parte del clero residente son en realidad paladines de bajo rango a la espera de la guía de Menoth. El templo es un edificio sólido y austero con un único campanario que se alza por encima de los parapetos de sus santas murallas. La superficie exterior se suele blanquear para combatir los efectos del hollín procedente del barrio de Zerutsk, que se adhiere constantemente a ella. La cantidad de fieles ha menguado drásticamente desde el año pasado después de que el Jerarca Voyle convocase una peregrinación hacia el Protectorado (lo cual demuestra que la mayoría de los khadoranos se han visto obligados a escoger entre el nacionalismo y la religión) .
 
 
-### NUEVA VROGGEN* **
+### NUEVA VROGGEN
+
+* **
 
 En el poder:** Posadnik Ladon Prasetik.
 * **Población:** 8.000 humanos (mayoría khardia), con algunos gobos y troloides dispersos.
@@ -349,14 +359,14 @@ Nueva Vroggen es una ciudad en auge que ha superado el estigma de su tocaya Uld 
 
 Nueva Vroggen está centrada en sus cada vez mayores muelles de pesca, y la dársena es verdaderamente el núcleo de toda actividad comercial. Varias fábricas de conservas y procesamiento se alzan por encima de las casas y los puestos de las tiendas, y algunas de ellas abarcan varios muelles. Estas fábricas se han convertido rápidamente en la renovada savia vital de la ciudad, y los visitantes pueden tardar una temporada en acostumbrarse al potente olor a pescado de Nueva Vroggen .
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Posadnik Ladon Prasetik (varón khardio Ari6/Exp2):** Empresario antes que político, el posadnik Prasetik es el propietario de dos de las mayores fábricas de conservas de pescado de la ciudad, además de una pequeña flota de barcos pesqueros. Este grueso kayaz se ha desviado de los círculos políticos al tiempo que su imperio pesquero ha crecido a pasos agigantados. En un gesto de patriotismo, ha reducido a la mitad el precio de todo el pescado enlatado que vende a los soldados de la Guardia Invernal como raciones de campo. La reina Ayn le envió personalmente una carta de agradecimiento por su apoyo a la causa (el posadnik la ha enmarcado y la ha colgado en la pared de su oficina). Se dirigió a él como auténtico "hijo de Khador", lo cual Prasetik comenta (y reitera) orgulloso a todo aquél que conversa con él .
+* **Posadnik Ladon Prasetik (varón khardio Ari6/Exp2):** Empresario antes que político, el posadnik Prasetik es el propietario de dos de las mayores fábricas de conservas de pescado de la ciudad, además de una pequeña flota de barcos pesqueros. Este grueso kayaz se ha desviado de los círculos políticos al tiempo que su imperio pesquero ha crecido a pasos agigantados. En un gesto de patriotismo, ha reducido a la mitad el precio de todo el pescado enlatado que vende a los soldados de la Guardia Invernal como raciones de campo. La reina Ayn le envió personalmente una carta de agradecimiento por su apoyo a la causa (el posadnik la ha enmarcado y la ha colgado en la pared de su oficina). Se dirigió a él como auténtico "hijo de Khador", lo cual Prasetik comenta (y reitera) orgulloso a todo aquél que conversa con él .
 
 
-#### Lugares de Nueva Vroggen* 
+#### Lugares de Nueva Vroggen
 
-**Dársena del Zerutsk Mayor:** La dársena ocupa la mitad de la ciudad y es el núcleo de la actividad de Nueva Vroggen, desde poco antes del amanecer (cuando los pescadores suben a sus barcos) hasta después del anochecer (cuando regresan y desembalan a la luz de los faroles). Todo un ejército de barcos pesqueros echa anclas en la dársena del Zerutsk Mayor cada día, que sirve de núcleo de transporte con la única otra ciudad del lago, Korsk. Los gremios de estiba y enlatado han creado muchos impuestos para el tráfico no comercial, pero las naves privadas con monedas suficientes pueden anclar aquí sin mayores complicaciones. Serán avisados, no obstante, si su presencia estorba a los pescadores en forma alguna .
+* **Dársena del Zerutsk Mayor:** La dársena ocupa la mitad de la ciudad y es el núcleo de la actividad de Nueva Vroggen, desde poco antes del amanecer (cuando los pescadores suben a sus barcos) hasta después del anochecer (cuando regresan y desembalan a la luz de los faroles). Todo un ejército de barcos pesqueros echa anclas en la dársena del Zerutsk Mayor cada día, que sirve de núcleo de transporte con la única otra ciudad del lago, Korsk. Los gremios de estiba y enlatado han creado muchos impuestos para el tráfico no comercial, pero las naves privadas con monedas suficientes pueden anclar aquí sin mayores complicaciones. Serán avisados, no obstante, si su presencia estorba a los pescadores en forma alguna .
 
 
 > **SE RUMOREA QUE...**
@@ -364,7 +374,9 @@ Nueva Vroggen está centrada en sus cada vez mayores muelles de pesca, y la dár
 > 
 > 
 
-### OHK* **
+### OHK
+
+* **
 
 En el poder:** Conde Ubisch Oblezov, respaldado por el kapitán Budimir Nadmienovich.
 * **Población:** 330.000 humanos (en su mayoría kossitanos, khardios y algunos tordoranos), 10.000 gobos.
@@ -378,9 +390,9 @@ Con el paso de los años, Ohk se convirtió en el escondrijo tradicional de los 
 
 Las calles siempre están limpias, y las farolas de aceite de cristal esférico ahuyentan las sombras de la noche para que sus habitantes se sientan seguros. La Guardia Invernal preserva la ley con ayuda de la guardia marina de los gremios de mercaderes. El ferrocarril, fuertemente protegido a todas horas, es el principal punto de transferencia de las embarcaciones que descargan sus mercancías para enviarlas tierra adentro, y Ohk envía toneladas de aceite de ballena (la mayoría a través de Puerto Vladovar) a Cherov-on-Dron, Tverkutsk, Porsk, Skirov y centenares de comunidades tierra adentro más. Junto a los muelles hay innumerables antros de juego y cervecerías que impiden que los pordioseros y los indeseables (marineros las más veces) se adentren demasiado en tierra y mancillen la imagen de la Ciudad Blanca .
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Thyll Fyoras (varón iosano CazMag6/Exp5/Per4):** Veterano cazador de hombres y miembro del Castigo de Scyrah, Thyll llegó a Khador siguiendo el rastro de un mago de los Señores Grises con el que se topó en Cinco Dedos. Thyll se embarcó de polizón en un barco que se dirigía a Ohk, mató a su objetivo en alta mar, y descubrió entre las pertenencias de su presa pruebas de un nido de viles magos en la Ciudad Blanca. El año pasado emprendió la misión de eliminarlos uno a uno .
+* **Thyll Fyoras (varón iosano CazMag6/Exp5/Per4):** Veterano cazador de hombres y miembro del Castigo de Scyrah, Thyll llegó a Khador siguiendo el rastro de un mago de los Señores Grises con el que se topó en Cinco Dedos. Thyll se embarcó de polizón en un barco que se dirigía a Ohk, mató a su objetivo en alta mar, y descubrió entre las pertenencias de su presa pruebas de un nido de viles magos en la Ciudad Blanca. El año pasado emprendió la misión de eliminarlos uno a uno .
 
 
 * **Komandante Budimir Nadmienovich (varón skirovano Gue14):** El komandante Nadmienovich, un hombre viejo y escuálido, suele frecuentar los muelles y ofrece una impactante figura con su impecable uniforme y sus botas negras. Ha conservado su cargo durante varios años y se enorgullece del progreso de la ciudad. En su juventud a Nadmienovich le hubiera encantado servir en el frente, pero ahora siente que servirá mejor a la Madre Patria asegurándose de que las rutas de transporte de Ohk (tanto terrestres como marítimas) funcionan como es debido. Aspira en secreto a unirse al Alto Mando khadorano en Korsk, pero es demasiado orgulloso como para decirlo abiertamente .
@@ -392,9 +404,9 @@ Las calles siempre están limpias, y las farolas de aceite de cristal esférico 
 * **Conde Ubisch Oblezov (varón khardio Ari15):** El conde Oblezov es un hombre pálido y larguirucho de mirada fugaz y conducta nerviosa. Llegó al poder después de que todos sus parientes aptos murieran, y no parece que su gente le aprecie demasiado. Aun así, el conde se aferra a su poder con una tenacidad letal. No confía en nadie (salvo en su amante Marusia) y sospecha que algún día le arrebatarán la ciudad ya sea por la fuerza o mediante traiciones. En consecuencia, el conde Oblezov ha situado espías en todas partes. Se sabe que ha llegado a poner precio a la cabeza de cualquiera que conspirase contra él. Como muestra de la avaricia que subyace en la ciudad, el conde ha descubierto al menos nueve intentos de atentar contra su vida, pero de alguna manera ha logrado frustrarlos todos .
 
 
-#### Lugares de Ohk* 
+#### Lugares de Ohk
 
-**Catedral Ohkskaya:** Este famoso monumento de la arquitectura ostenta un espectacular campanario con cuatro gradas y una elevada aguja. Es la principal iglesia morrowana de toda la volozk de Kos y hace las veces de centro religioso. Es una síntesis de arte, tradición y cultura superada tan sólo a duras penas por la catedral Katrinksa de Korsk. Ohkskaya irradia autoridad y grandeza, poderoso recordatorio de la omnipresencia de Morrow y la fuerza y espiritualidad de Khador. La característica más sorprendente de la catedral son sus tallas en piedra blanca: más de mil quinientas piedras esculpidas que detallan el credo del culto de Morrow. La necrópolis de la catedral contiene las reliquias de los muchos condes de Ohk, de sus parientes y de numerosos prelados .
+* **Catedral Ohkskaya:** Este famoso monumento de la arquitectura ostenta un espectacular campanario con cuatro gradas y una elevada aguja. Es la principal iglesia morrowana de toda la volozk de Kos y hace las veces de centro religioso. Es una síntesis de arte, tradición y cultura superada tan sólo a duras penas por la catedral Katrinksa de Korsk. Ohkskaya irradia autoridad y grandeza, poderoso recordatorio de la omnipresencia de Morrow y la fuerza y espiritualidad de Khador. La característica más sorprendente de la catedral son sus tallas en piedra blanca: más de mil quinientas piedras esculpidas que detallan el credo del culto de Morrow. La necrópolis de la catedral contiene las reliquias de los muchos condes de Ohk, de sus parientes y de numerosos prelados .
 
 
 * **Barrio noble:** Esta parte de la ciudad es el hogar de nobles y kayazi por igual, aunque sendas clases tienden a sedimentarse la una de la otra al igual que en gran parte de Khador; esto se debe al arraigado sentimiento de privilegio de la nobleza frente al desprecio mal disimulado de los kayazi por aquellos de sangre pura. La piedra blanca que da fama a Ohk forma parte de todas las estructuras del barrio noble junto a los ribetes de madera embetunada y los tejados dorados. En efecto, unas veletas de oro adornan varias agujas como auténtico símbolo del elitismo en Ohk (y motivo de preocupación constante para la guardia al ser un botín tan tentador para posibles ladrones). Dos puertas permiten el acceso al barrio noble: la Puerta del Oro y el puente levadizo de Maghsgat, siendo este último una enorme porción de muralla baja que pasa por encima del profundo canal de Khevriev .
@@ -403,7 +415,9 @@ Las calles siempre están limpias, y las farolas de aceite de cristal esférico 
 * **Estación de Ohk:** En la estación de Ohk, el komandante Nadmienovich insiste en revisar cuidadosamente todas las mercancías que llegan y salen en tren. Hay todo un ejército de soldados vigilando la estación y ofrece una recompensa de 100 pezuñas a cualquier ciudadano que ayude a aprehender a posibles saboteadores, terroristas o polizones. Esto, desde luego, parece haber convertido a todo obrero, estibador y pasajero al corriente en vigilantes improvisados. Así, el komandante puede respirar más tranquilo la mayoría de los días. No obstante, esto también puede conllevar inconvenientes, sobre todo cuando algún trabajador espabilado intenta recaudar monedas sirviéndose de trucos, lo cual suele implicar embaucar a algunos ingenuos .
 
 
-### PASO DEL INFIERNO* **
+### PASO DEL INFIERNO
+
+* **
 
 En el poder:** Gran princesa Regna Gravnoy.
 * **Población:** 8.000 humanos (en su mayoría khardios, algunos skirovanos y umbreanos), 3.000 ogrun, algunos centenares de enanos.
@@ -419,23 +433,25 @@ Los ogrun se quedaron en la ciudad para proteger su antigua fortaleza y los sepu
 
 Paso del Infierno es un pueblo frío y azotado por el viento. Huele a progreso, y gran parte de la construcción rhúlica original permanece aún como recordatorio de su historia. Algunos ogrun siguen acudiendo de vez en cuando al Paso del Infierno para enterrar a sus muertos en las catacumbas, y para contemplar la enorme fortaleza que ahora se cierne vacía en el horizonte .
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Gran princesa Regna Gravnoy (mujer skirovana Ari9):** La alta y bien torneada princesa Regna gobierna la totalidad de Gorzytska mediante los lazos políticos aparentemente inagotables de su padre. La única mujer de entre los grandes príncipes, ha decidido no desposar a nadie para tener un heredero. Regna admira abiertamente la fuerza de los habitantes no humanos de la ciudad y tiene a su servicio a varios ogrun de confianza .
+* **Gran princesa Regna Gravnoy (mujer skirovana Ari9):** La alta y bien torneada princesa Regna gobierna la totalidad de Gorzytska mediante los lazos políticos aparentemente inagotables de su padre. La única mujer de entre los grandes príncipes, ha decidido no desposar a nadie para tener un heredero. Regna admira abiertamente la fuerza de los habitantes no humanos de la ciudad y tiene a su servicio a varios ogrun de confianza .
 
 
 * **Grokan (varón ogrun Clr11):** Grokan, un descomunal ejemplo de su especie, es un firme y tradicional chamán de Dhunia, designado por su gente como guardián de la entrada al camposanto. Durante casi siete décadas ha montado guardia en la abertura secreta que hay en la base de la fortaleza ogrun, empleando su potente magia y a sus poderosos fieles para persuadir a cualquier posible ladrón de tumbas. Recientemente ha caído enfermo presa de un extraño mal, pero afirma que su causa es nada menos que el despertar del mismísimo Wurm Devorador .
 
 
-#### Lugares de Paso del Infierno* 
+#### Lugares de Paso del Infierno
 
-**Catacumbas funerarias:** Paso del Infierno descansa sobre un entramado de túneles de lecho rocoso y macizo que serpentea bajo la ciudad. Su diámetro es lo bastante amplio como para permitir el paso a dos ogrun adultos uno junto al otro, y aún sobraría espacio para un enano. Innumerables restos ogrun (tanto de nobles como de plebeyos) yacen enterrados en las entrañas de las catacumbas junto a las riquezas que se llevaron consigo. Sólo se permite entrar en las catacumbas secretas a los ogrun y a aquellos que han demostrado su lealtad al culto de Dhunia, aunque no existe ningún sistema de seguridad perfecto. Eso sí, los rumores de lo que los ogrun hacen con los intrusos que capturan bastan por sí solos para mantener alejados a los aspirantes a saqueadores .
+* **Catacumbas funerarias:** Paso del Infierno descansa sobre un entramado de túneles de lecho rocoso y macizo que serpentea bajo la ciudad. Su diámetro es lo bastante amplio como para permitir el paso a dos ogrun adultos uno junto al otro, y aún sobraría espacio para un enano. Innumerables restos ogrun (tanto de nobles como de plebeyos) yacen enterrados en las entrañas de las catacumbas junto a las riquezas que se llevaron consigo. Sólo se permite entrar en las catacumbas secretas a los ogrun y a aquellos que han demostrado su lealtad al culto de Dhunia, aunque no existe ningún sistema de seguridad perfecto. Eso sí, los rumores de lo que los ogrun hacen con los intrusos que capturan bastan por sí solos para mantener alejados a los aspirantes a saqueadores .
 
 
 * **Fortaleza ogrun:** Este impresionante bastión, único en su especie, fue tallado en la antigüedad en la ladera de la montaña para la más poderosa tribu ogrun de la región. Tiene puertas de quince pies de altura y techos abovedados, almenas diseñadas para cuerpos enormes, y suelos y plataformas lo bastante gruesas como para sostener a un ogrun fornido. Actualmente está vacía, a excepción de algunos ogrun valientes que custodian sus amplias salas. La fortaleza sólo está abierta oficialmente para los miembros de su raza, pero se sabe que en más de una ocasión algunos exiliados y fugitivos han sobornado a los ogrun a cambio de un lugar seguro donde ocultarse .
 
 
-### PORSK* **
+### PORSK
+
+* **
 
 En el poder:** Príncipe Neplakh Vanar.
 * **Población:** 40.000 humanos (mayoría khardia y skirovana).
@@ -449,14 +465,14 @@ La población local de Porsk cultiva heno, lino y lúpulos, cría ganado, caza y
 
 Porsk tiene un aire indiscutiblemente rural. La ciudad en sí es una comunidad granjera con un gran número de gremios de cazadores y peleteros que complementan el comercio local. El trueque es habitual en el mercado, así como los cultivos extensivos de temporada. La vasta fortaleza de Vanar es una antigua *dron*, o fortaleza de montaña, cuyo tamaño ha sobrepasado el de la colina. El príncipe Neplakh se encuentra en ella cuando no está en Korsk o atendiendo tareas industriales en Skirov, y la fortaleza apuntala la ciudad con la titánica ciudadela Prushkin. Ambos edificios se alzan por encima de todas las demás estructuras de la ciudad, y sus torres y enormes banderas pueden verse desde los campos circundantes en cualquier dirección .
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Príncipe Neplakh Vanar (varón khardio Ari11):** Criado con el mismo estilo familiar que su prima hermana la reina Ayn XI, Neplakh se esforzó al máximo para llegar a ser tan poderoso como su pariente soberana sería algún día (aunque le informaron a edad temprana que no sería coronado rey). Volvió su mirada a las arcas familiares, decidido al menos a atesorar las mismas riquezas que Ayn pero sin la carga que suponía la corona. Sirviéndose de la poderosa influencia política de su familia, consiguió arrebatar la volozk de Skirovnya a sus herederos legítimos, la familia Denyana, y rápidamente empezó a chantajear y a sobornar a los kayazi para que le cedieran el control de la industria ferroviaria en Skirov. Se le considera el primer magnate del ferrocarril de Khador y recibe el apodo de "Príncipe de Hierro" por varios motivos, el menor de los cuales es su ambicioso orgullo y sus maliciosos métodos para negociar. Otras personas con cargos de poder se preocupan en secreto de que algún día sienta la necesidad de gobernar en toda la Madre Patria. Sin duda, la reina Ayn vigila de cerca a su rico y poderoso primo .
+* **Príncipe Neplakh Vanar (varón khardio Ari11):** Criado con el mismo estilo familiar que su prima hermana la reina Ayn XI, Neplakh se esforzó al máximo para llegar a ser tan poderoso como su pariente soberana sería algún día (aunque le informaron a edad temprana que no sería coronado rey). Volvió su mirada a las arcas familiares, decidido al menos a atesorar las mismas riquezas que Ayn pero sin la carga que suponía la corona. Sirviéndose de la poderosa influencia política de su familia, consiguió arrebatar la volozk de Skirovnya a sus herederos legítimos, la familia Denyana, y rápidamente empezó a chantajear y a sobornar a los kayazi para que le cedieran el control de la industria ferroviaria en Skirov. Se le considera el primer magnate del ferrocarril de Khador y recibe el apodo de "Príncipe de Hierro" por varios motivos, el menor de los cuales es su ambicioso orgullo y sus maliciosos métodos para negociar. Otras personas con cargos de poder se preocupan en secreto de que algún día sienta la necesidad de gobernar en toda la Madre Patria. Sin duda, la reina Ayn vigila de cerca a su rico y poderoso primo .
 
 
-#### Lugares de Porsk* 
+#### Lugares de Porsk
 
-**Cúpulas de la Providencia:** Fácilmente reconocibles por sus cinco cúpulas plateadas, esta iglesia está situada en el extremo norte de la ciudad. Cada una de estas cúpulas está coronada por una efigie tallada de Shevan, de las que se rumorea que valen una pequeña fortuna. Parte del clero de mayor rango ha sido trasladado a Korsk para restaurar la catedral Katrinksa, por lo que las Cúpulas de la Providencia se han quedado bastante cortas de personal .
+* **Cúpulas de la Providencia:** Fácilmente reconocibles por sus cinco cúpulas plateadas, esta iglesia está situada en el extremo norte de la ciudad. Cada una de estas cúpulas está coronada por una efigie tallada de Shevan, de las que se rumorea que valen una pequeña fortuna. Parte del clero de mayor rango ha sido trasladado a Korsk para restaurar la catedral Katrinksa, por lo que las Cúpulas de la Providencia se han quedado bastante cortas de personal .
 
 
 * **Ciudadela Prushkin:** La ciudadela de Porsk se halla en el centro de la ciudad, rodeada de torres y almenajes desiguales con rampas de tierra apuntalando sus muros. Según cuenta la historia, Prushkin siempre ha formado parte de Porsk de una u otra forma, reconstruida y rediseñada cada vez que la ciudad era asolada. La última renovación tuvo lugar hace tan sólo quince años cuando la torre meridional y el muro de cortina se desmoronaron tras un violento terremoto (circunstancia que Porsk y la cercana Skirov sufren periódicamente). La ciudad aún utiliza la ciudadela como instalaciones de almacenaje para el excedente de productos y como alojamiento adicional para las tropas (aunque la mayoría de los soldados se alojan en Puerta del Río) .
@@ -468,7 +484,9 @@ Porsk tiene un aire indiscutiblemente rural. La ciudad en sí es una comunidad g
 * **Templo de la Salvación:** Un pequeño templo consagrado al Legislador en el que una vez se celebraban servicios y se guardaba una copia escrita del Canon de la Verdadera Ley. Sus muros son de piedra grisácea, tiene una cúspide redondeada con un menofijo gastado por el tiempo, y bastante espacio para unos cincuenta parroquianos. Ahora el pequeño edificio está prácticamente vacío a excepción de unos fieles menitas rezagados que dedican oraciones y ofrendas ocasionales a su dios. Sin embargo, actualmente no hay oficios activos, pues los sacerdotes del templo han respondido a la llamada del Jerarca. Las autoridades los están buscando, ya que al parecer se llevaron consigo artefactos y reliquias valiosas en su peregrinaje .
 
 
-### PUERTO VLADOVAR* **
+### PUERTO VLADOVAR
+
+* **
 
 En el poder:** Posadnik Ysak Smyvalov, respaldado por el bolshik mariscal Piotr Ustinov.
 * **Población:** 250.000 humanos (en su mayoría khardios), 2.000 troloides.
@@ -491,9 +509,9 @@ Vladovar tiene lazos directos con Ord y recibe gran cantidad del tráfico proced
 > 
 > 
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Horluk Brámaraz (varón troloide Ext2/Pdm9):** Anciano del *kriel* Cazamareas (una casta poco unida de troloides repartidos por toda Immoren occidental), Brámaraz es enorme y está cubierto por tatuajes escarlata que indican su poder y sus correrías como cazador oceánico. Ha acumulado una pequeña fortuna mediante la pesca ballenera de su gente, y utiliza el dinero para adquirir más embarcaciones y atraer a más congéneres a su lado, para formar una poderosa flota de salvajes guerreros troloides en el centro de Puerto Vladovar .
+* **Horluk Brámaraz (varón troloide Ext2/Pdm9):** Anciano del *kriel* Cazamareas (una casta poco unida de troloides repartidos por toda Immoren occidental), Brámaraz es enorme y está cubierto por tatuajes escarlata que indican su poder y sus correrías como cazador oceánico. Ha acumulado una pequeña fortuna mediante la pesca ballenera de su gente, y utiliza el dinero para adquirir más embarcaciones y atraer a más congéneres a su lado, para formar una poderosa flota de salvajes guerreros troloides en el centro de Puerto Vladovar .
 
 
 * **Posadnik Ysak Smyvalov (varón khardio Ari12):** El posadnik Smyvalov lleva una pesada carga diaria sobre sus hombros. Debe lidiar entre las maquinaciones políticas y económicas de su gabinete, las exigencias de los kayazi y las necesidades de la armada, y todo esto está empezando a hacer mella en él. Aunque comprende perfectamente el alcance de sus responsabilidades, la presión añadida por la guerra puede resultar demasiado para él. Cada vez delega más y más de sus deberes en otros, y al parecer pasa la mayor parte del tiempo en el teatro .
@@ -502,9 +520,9 @@ Vladovar tiene lazos directos con Ord y recibe gran cantidad del tráfico proced
 * **Bolshik mariscal Piotr Ustinov (varón khardio Exp2/Gue12):** El principal oficial naval de Puerto Vladovar, el bolshik mariscal Ustinov, es un tosco marinero con el cabello blanqueado por el salitre y la piel curtida por todos los años que ha pasado en la mar. Es un firme patriota y ansía el día en que pueda enviar su flota contra los enemigos de la Madre Patria. Aunque es consciente de la creciente apatía del posadnik, sencillamente lo considera una molestia. Pasa más tiempo en tierra que en alta mar, pero a pesar de ello Ustinov es sin duda un gran comandante militar y un soberbio espadachín .
 
 
-#### Lugares de Puerto Vladovar* 
+#### Lugares de Puerto Vladovar
 
-**Colina de Orlinoye Gnezdov:** Esta colina es famosa por la espectacular vista que tiene de la ciudad. Con las numerosas penínsulas y cabos que conforman la fragmentada costa, y con las carreteras, calles y veredas que recorren las colinas y dominan estas aguas, Vladovar ofrece un paisaje urbano magnífico. La colina fue bautizada así ("nido de águilas") cuando los primeros colonos llegaron a su cima y hallaron en ella un nido en cuyo interior aún había aguiluchos .
+* **Colina de Orlinoye Gnezdov:** Esta colina es famosa por la espectacular vista que tiene de la ciudad. Con las numerosas penínsulas y cabos que conforman la fragmentada costa, y con las carreteras, calles y veredas que recorren las colinas y dominan estas aguas, Vladovar ofrece un paisaje urbano magnífico. La colina fue bautizada así ("nido de águilas") cuando los primeros colonos llegaron a su cima y hallaron en ella un nido en cuyo interior aún había aguiluchos .
 
 
 * **Colosal de Vladovar:** En el 200 d.R., Puerto Vladovar presenció una de las batallas finales de la Rebelión. Aun cuando los orgoth huían mar adentro, los magos de Immoren occidental y sus titánicos Colosales les perseguían. Mientras los navíos largos se alejaban, sus hechiceros y brujas de guerra lanzaron proyectiles de energía *eldritch* al mastodóntico siervo. Tras ser alcanzado, jamás volvió a moverse. Desde entonces hasta el día de hoy, el despojo oxidado, corroído y cubierto de percebes permanece en pie a un par de cientos de yardas de distancia de los muelles de Puerto Vladovar, con la mirada aún fija en el horizonte del océano .
@@ -513,7 +531,9 @@ Vladovar tiene lazos directos con Ord y recibe gran cantidad del tráfico proced
 * **Muelles de Vladovar:** Una serie de dársenas, muelles y embarcaderos cubiertos que se extienden por toda una legua de la costa. Los muelles de Vladovar conforman el espinazo de la ciudad. Unas grúas a vapor cargan y descargan cajones de mercancías, cientos de estibadores corren de un lado a otro, y varios siervos de vapor obreros caminan pesadamente levantando algo aquí o arrastrando algo allá. Unos sólidos pilares de granito sustentan los muelles, extendiéndose varios centenares de pies mar adentro y aun así resistiendo la constante erosión de las mareas. Los muelles fueron construidos para resistir el "beso de un cañón", y en una pequeña sección de los mismos está acordonada la prueba (una bala de cañón empotrada a dos palmos de profundidad en las planchas de madera). La bala fue disparada desde la proa de un barco pirata que logró huir a gran distancia antes de que la armada lo hundiese. Cuando impactó no agrietó los muelles, confirmando los alardes del arquitecto original .
 
 
-### RORSCHIK* **
+### RORSCHIK
+
+* **
 
 En el poder:** Posadnik Khleb Spesitev.
 * **Población:** 62.000 humanos (en su mayoría umbreanos y khardios), 3.500 gobos.
@@ -532,9 +552,9 @@ Este ambiente pastoral atrae a mucha gente espiritual; de ahí que Rorschik se h
 > 
 > 
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Komandante Fhursk Vanarov (varón khardio Ari3/Gue7):** Designado en sustitución del desaparecido vizconde Bodescu, el komandante Vanarov es un endurecido veterano de la Guardia Invernal que fue destinado a Rorschik pocas semanas antes del asalto de Khador contra Llael. Vanarov, un hombre resentido con un cargo que le resulta verdaderamente desagradable, cree que su experiencia se aprovecharía mejor en el frente de batalla. Morrowano acérrimo y seguidor de la ascendida Katrena, Vanarov siente prejuicios hacia los menitas, sobre todo después del caso Bodescu. Los lugareños consideran al komandante otra prueba de que el trono pretende aplastar sus tradiciones y creencias, por lo que sienten un gran desprecio por él. El sentimiento parece ser mutuo .
+* **Komandante Fhursk Vanarov (varón khardio Ari3/Gue7):** Designado en sustitución del desaparecido vizconde Bodescu, el komandante Vanarov es un endurecido veterano de la Guardia Invernal que fue destinado a Rorschik pocas semanas antes del asalto de Khador contra Llael. Vanarov, un hombre resentido con un cargo que le resulta verdaderamente desagradable, cree que su experiencia se aprovecharía mejor en el frente de batalla. Morrowano acérrimo y seguidor de la ascendida Katrena, Vanarov siente prejuicios hacia los menitas, sobre todo después del caso Bodescu. Los lugareños consideran al komandante otra prueba de que el trono pretende aplastar sus tradiciones y creencias, por lo que sienten un gran desprecio por él. El sentimiento parece ser mutuo .
 
 
 * **Magziev Katia Rajkovna (mujer khardia Per5/Esp3/Mag6):** Leal miembro del Aquelarre de los Señores Grises, la magziev Rajkovna está especializada en investigar traiciones. Más joven que muchos en su cargo, llegó a Rorschik hace varios años cuando los Señores Grises empezaron a sospechar que el Protectorado había establecido una red de confidentes y contrabandistas en la ciudad. Rajkovna descubrió el papel de Bodescu en las recientes operaciones de contrabando y está vigilando muy de cerca las actividades del posadnik Spesitev, pues el vizconde y él son aliados desde hace mucho .
@@ -547,9 +567,9 @@ Este ambiente pastoral atrae a mucha gente espiritual; de ahí que Rorschik se h
 
 Los agentes y capataces de Cavapiedra consideran a cada minero un obrero muy valioso, y los jefes los tratan con todo el respeto que merecen. Por otro lado, los prisioneros del gulag son obligados a trabajar bajo condiciones brutales en las minas de los Picos del Precipicio Retumbante sin tener en cuenta las bajas. Estos prisioneros suponen una fuente de trabajo inagotable, barata y desechable, con la cual los enanos se ven incapaces de competir a nivel económico .
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Posadnik Nikolei Mikolovich (varón skirovano Ari3/Gue5):** El posadnik Mikolovich, un envejecido kayaz y hombre de estado, lleva cuidando de Skirov casi treinta años. Su cargo como posadnik ha contribuido en gran medida al crecimiento de la ciudad como potencia económica, ya que cuenta con una experiencia exhaustiva en la industria ferroviaria. En su momento vio a muchos hombres condenados a la khardstadt y también ha visto gran cantidad de atrocidades cometidas por orden de sus crueles guardianes. Aunque no tiene potestad sobre las prácticas del gulag, ha tratado de influir en la política de la Madre Patria a través de su papel como kayaz, pero ha comprobado que la mayoría de los khadoranos están en su contra, y les trae sin cuidado lo que les pase a los criminales siempre y cuando no tengan que sufrir su presencia .
+* **Posadnik Nikolei Mikolovich (varón skirovano Ari3/Gue5):** El posadnik Mikolovich, un envejecido kayaz y hombre de estado, lleva cuidando de Skirov casi treinta años. Su cargo como posadnik ha contribuido en gran medida al crecimiento de la ciudad como potencia económica, ya que cuenta con una experiencia exhaustiva en la industria ferroviaria. En su momento vio a muchos hombres condenados a la khardstadt y también ha visto gran cantidad de atrocidades cometidas por orden de sus crueles guardianes. Aunque no tiene potestad sobre las prácticas del gulag, ha tratado de influir en la política de la Madre Patria a través de su papel como kayaz, pero ha comprobado que la mayoría de los khadoranos están en su contra, y les trae sin cuidado lo que les pase a los criminales siempre y cuando no tengan que sufrir su presencia .
 
 
 * **Komandante Alekseiko Skrabin (varón umbreano Gue10/Exp5):** El komandante Skrabin es un hombre duro y enjuto, con un rostro similar a la piedra agrietada. Dirige todas las tropas de la Guardia Invernal apostadas en Skirov, tanto en la ciudad como en la khardstadt. Skirov produce muchos minerales preciosos para financiar la guerra, y Skrabin debe asegurarse de que nada amenace al flujo de recursos del imperio. Ha añadido personalmente docenas de soldados para patrullar las entradas de las minas y los muelles de carga, con el fin de asegurarse de que todo transcurra con fluidez y sin fallos. Devoto menita y estricto jefe militar, el komandante Skrabin se toma muy en serio su responsabilidad de proteger a la comunidad (y a los recursos que ésta produce) .
@@ -558,9 +578,9 @@ Los agentes y capataces de Cavapiedra consideran a cada minero un obrero muy val
 * **Alcaide Jan Vyshkovich (varón skirovano Clr5/Cmb8):** El alcaide Vyshkovich está al cargo de la khardstadt. Es un hombre sin sentido del humor, con un corazón frío como el hielo y una voluntad que podría doblar el hierro. Fiel menita, cree que los prisioneros sólo pueden alcanzar la redención a través de culto vehemente y el trabajo duro. Pasa día y noche paseando por las salas de piedra de la khardstadt, custodiando a internos y vigilantes por igual. Piensa que todo hombre recoge lo que siembra, y que por tanto cada uno de los prisioneros de su gulag merece un trato severo. Sus hacedores de viudas tienen órdenes de herir (y no matar) a los presos insurgentes, pues no corresponde a los tiradores certeros decidir cuándo acaba la condena de un convicto. Si los prisioneros deben permanecer encarcelados durante diez años, hará todo lo posible por asegurarse de que lo hacen de un modo estricto, aun cuando implique amputarle el pie a un fugitivo o la lengua a un alborotador para simplificar su tarea .
 
 
-#### Lugares de Skirov* 
+#### Lugares de Skirov
 
-**Mansión Nagorka:** Antigua hacienda del vizconde Yuri Nagorka, uno de los fundadores del Aquelarre de los Señores Grises; la mansión fue dejada en herencia a su única familia (los Señores Grises) tras su prematura muerte. Aunque fue abandonada durante varias décadas y acabó en muy mal estado, algunos magos de los Señores Grises la vieron como una oportunidad para ampliar sus posesiones. Establecida como puesto avanzado septentrional en el 382 d.R., la mansión Nagorka creció hasta convertirse en un centro de aprendizaje y entrenamiento bajo la tutela de la koldun Tatyana Petrovna. Más de doscientos años después, el control de la amurallada y fortificada mansión ha sido asignado a la obavnik Ivanya Kaminsk (mujer khardia Her4/Mag15) y es uno de los cinco baluartes regionales de la orden .
+* **Mansión Nagorka:** Antigua hacienda del vizconde Yuri Nagorka, uno de los fundadores del Aquelarre de los Señores Grises; la mansión fue dejada en herencia a su única familia (los Señores Grises) tras su prematura muerte. Aunque fue abandonada durante varias décadas y acabó en muy mal estado, algunos magos de los Señores Grises la vieron como una oportunidad para ampliar sus posesiones. Establecida como puesto avanzado septentrional en el 382 d.R., la mansión Nagorka creció hasta convertirse en un centro de aprendizaje y entrenamiento bajo la tutela de la koldun Tatyana Petrovna. Más de doscientos años después, el control de la amurallada y fortificada mansión ha sido asignado a la obavnik Ivanya Kaminsk (mujer khardia Her4/Mag15) y es uno de los cinco baluartes regionales de la orden .
 
 
 * **Khardstadt de Skirov:** Rodeada de murallas coronadas con alambre de espino, la khardstadt es un gran complejo de edificios de piedra (la mayor de todas las prisiones khadoranas) aislado en un lugar más allá de los límites de la ciudad. Los ciudadanos tienen prohibido interactuar con los prisioneros en caso de que sus caminos se crucen o incluso en el interior de las minas del Precipicio Retumbante. Los prisioneros reciben raciones inadecuadas y poca ropa, por lo cual les resulta extremadamente difícil resistir los fríos inviernos y las largas horas de trabajo. Un día normal consta de unas doce horas de labor durante las cuales los prisioneros trabajan en las minas siguiendo turnos alternos. Los prisioneros que sobreviven a las minas suelen morir de enfermedad, frío o hambre en poco más de un año. Casi nadie ha intentado fugarse de la khardstadt debido a las imponentes murallas y las constantes patrullas. El kovnik Vyshkovich mantiene también una perrera de feroces perros de caza y lidera un contingente especial de Hacedores de Viudas que disuaden a los posibles evasores. Bajo su custodia sólo tres prisioneros han logrado escapar, y más de cuarenta han muerto en el intento. De los tres fugados, dos fueron abatidos por los hacedores de viudas en los bosques del norte, y el último, el asesino Acheroi Benavi (varón rynio Per14) permanece al acecho desde que se fugase en el 600 d.R. .
@@ -589,7 +609,9 @@ Los agentes y capataces de Cavapiedra consideran a cada minero un obrero muy val
 > 
 > 
 
-### SKROVENBERG* **
+### SKROVENBERG
+
+* **
 
 En el poder:** Posadnik Dmitri Meshik.
 * **Población:** 70.000 (humanos en su mayoría khardios, algunos kossitanos y unos pocos gobos).
@@ -603,9 +625,9 @@ Mientras Skrovenberg era reconstruida por tercera vez (por lo menos), las otras 
 
 Para combatir el hecho de que esta generación de nobles poderosos sólo se preocupa por las riquezas y el poder, los kayazi de la ciudad se han volcado en complementar la imagen de Skrovenberg en la medida en que les sea posible. Revolucionaron la ciudad al convertirla en un centro de escuelas y aprendizaje. Los kayazi han llegado muy lejos para embellecer la ciudad, pero el enfrentamiento constante contra las tormentas oceánicas y las alimañas de los pantanos es una difícil lucha. Las viviendas son sencillas y casi siempre están decoradas con lámparas de aceite. Las mansiones más grandes están embellecidas con lujosas alfombras y tapices para impresionar a los nobles que vienen de visita. Los negocios son pequeños pero rentables y por lo general incluyen joyerías, relojerías y bibliotecas (todos los oficios cuyos productos suelen desear más los nobles) .
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Kapitán Andrei Dereiv (varón khardio Cmb11):** El kapitán Dereiv dirige la guarnición de la Guardia Invernal apostada en Skrovenberg. Aplica la ley con un rigor draconiano y con gusto castiga a los criminales abierta y despiadadamente, pues piensa que así reduce el índice general de criminalidad. Dereiv es un viudo sin sentido del humor con una hija casada y no tiene interés alguno por volver a casarse. Se pasa todo el tiempo asegurándose de que todo va como la seda en Skrovenberg, expulsando a los vagabundos por la fuerza a los barrios de chabolas controlados por gobos en los pantanos, a millas de distancia de la ciudad, "donde las clases altas no tengan que verlos". El mayor desafío del kapitán no está en los ciudadanos, sino en el mar cuyas crecidas suelen inundar la zona de la orilla en marea alta. Se detiene periódicamente para contemplar la reciente construcción de parapetos a lo largo del tramo de costa más problemático de la ciudad .
+* **Kapitán Andrei Dereiv (varón khardio Cmb11):** El kapitán Dereiv dirige la guarnición de la Guardia Invernal apostada en Skrovenberg. Aplica la ley con un rigor draconiano y con gusto castiga a los criminales abierta y despiadadamente, pues piensa que así reduce el índice general de criminalidad. Dereiv es un viudo sin sentido del humor con una hija casada y no tiene interés alguno por volver a casarse. Se pasa todo el tiempo asegurándose de que todo va como la seda en Skrovenberg, expulsando a los vagabundos por la fuerza a los barrios de chabolas controlados por gobos en los pantanos, a millas de distancia de la ciudad, "donde las clases altas no tengan que verlos". El mayor desafío del kapitán no está en los ciudadanos, sino en el mar cuyas crecidas suelen inundar la zona de la orilla en marea alta. Se detiene periódicamente para contemplar la reciente construcción de parapetos a lo largo del tramo de costa más problemático de la ciudad .
 
 
 * **Posadnik Dmitri Meshik (varón umbreano Ari2/Gue12):** El posadnik Meshik era un komandante con una hoja de servicio genial, que se retiró tras sufrir un trastorno respiratorio del cual ha continuado aquejado hasta el día de hoy. Si no recibe un tratamiento periódico sufre dolorosos ataques de asfixia. A pesar de su papel como dirigente político y de su convalecencia, a Meshik le encantan la bebida y las mujeres, aunque el atractivo y señorial posadnik es lo bastante respetable como para evitar que sus vicios le avergüencen en público. La política de Meshik respecto a sus ciudadanos es indulgente y deja que sea el severo Dereiv quien se encargue de imponer la ley, aunque él mismo se muestra también más rígido con los extranjeros .
@@ -617,15 +639,17 @@ Para combatir el hecho de que esta generación de nobles poderosos sólo se preo
 * **Maestro Jachemir Vilimovich (varón khardio Mag14):** Bendecido con una opulenta herencia, se rumorea que el maestro Vilimovich es uno de los kayazi más cultos de toda Khador. Sus estudiantes señalan sus logros académicos como prueba de su grandeza: Jachemir desarrolló sus propios logaritmos para cálculos astronómicos, fundó el observatorio de Skrovenberg y creó la recientemente reconocida Escuela de Matemáticas de Skrovenberg, en la cual sus conferencias siempre consiguen un lleno completo. Jachemir es también un mago consumado y un experto en construcción de fortalezas y artillería .
 
 
-#### Lugares de Skrovenberg* 
+#### Lugares de Skrovenberg
 
-**Hizov mok Ryva ("puerto de Morrow en toda tormenta"):** En la orilla donde una vez existió un pequeño templo menita se yergue ahora un inmenso santuario. Inconfundiblemente morrowano, el edificio está decorado con varios Resplandores de oro y plata y presenta una estatua de mármol de tamaño humano de la "kovnika Katrene", una mujer caballero sin rostro cuya presencia se dice que ahuyenta a los enemigos de los fieles. El posadnik Meshik hizo que demoliesen el templo antiguo y gastó los impuestos de casi tres estaciones en el Hizov mok Ryva para impresionar a la reina Ayn. Ésta aún no ha ido a ver la estructura y ni siquiera ha comentado nada sobre ella, lo cual hace que el posadnik se sienta cada vez más avergonzado .
+* **Hizov mok Ryva ("puerto de Morrow en toda tormenta"):** En la orilla donde una vez existió un pequeño templo menita se yergue ahora un inmenso santuario. Inconfundiblemente morrowano, el edificio está decorado con varios Resplandores de oro y plata y presenta una estatua de mármol de tamaño humano de la "kovnika Katrene", una mujer caballero sin rostro cuya presencia se dice que ahuyenta a los enemigos de los fieles. El posadnik Meshik hizo que demoliesen el templo antiguo y gastó los impuestos de casi tres estaciones en el Hizov mok Ryva para impresionar a la reina Ayn. Ésta aún no ha ido a ver la estructura y ni siquiera ha comentado nada sobre ella, lo cual hace que el posadnik se sienta cada vez más avergonzado .
 
 
 * **Nueve Juntas:** Las Nueve Juntas consisten en nueve edificios rojiblancos situados uno al lado del otro. Cada uno de ellos aloja parte del *Kollegii* de Skrovenberg, y es en ellos donde las célebres escuelas de aprendizaje de la ciudad educan a las masas. Estas escuelas son: Asuntos Exteriores, Guerra, Marina, Rentas públicas, Justicia, Comercio, Minería, Propiedad y Gastos. Actualmente se está construyendo un décimo edificio que albergará el centro dedicado a las Matemáticas (que por el momento se imparten en el hogar del maestro Vilimovich). Los más críticos murmuran que la verdadera opinión que tiene el Alto Mando sobre la educación queda patente en la proximidad de la escuela a la capital: para justificar sus afirmaciones, señalan que el Instituto Khadorano de Ingeniería está en Korsk .
 
 
-### TVERKUTSK* **
+### TVERKUTSK
+
+* **
 
 En el poder:** Posadnik Anton Voyt.
 * **Población:** 15.000 (casi todos humanos, en su mayoría kossitanos).
@@ -641,20 +665,22 @@ Esta actividad tan imprudente tiene un precio. Los lobos eran la principal fuent
 
 Actualmente los barracones Chaktokol se hallan en el borde meridional de la ciudad, adornados con docenas de cráneos de troll clavados sobre las paredes de la empalizada. Algunos de los soldados portan trofeos de sus víctimas. Los lugareños y la Guardia Invernal no se llevan nada bien, tal vez porque los primeros creen que los soldados se están aprovechando de ellos o los consideran intrusos en sus círculos sociales. Cada año más y más kossitanos se alejan de las murallas de la ciudad y se internan en el bosque, pero la mayoría regresan por culpa de los trolls o desaparecen en las tierras salvajes (probablemente sus huesos se pierden en la taiga) .
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Posadnik Anton Voyt (varón kossitano Ari3/Exp11):** El posadnik Voyt es un hombre robusto que ronda los cuarenta. Algo bajo para ser kossitano pero más fornido que la mayoría, Anton tiene más aspecto de leñador que de burócrata. Siempre está al frente de cualquier conflicto (en política o en combate) y echará una mano en trabajos físicos si es necesario y el tiempo apremia. Tiene dos hijos adolescentes, Alexi y Vreyo, que le admiran orgullosos .
+* **Posadnik Anton Voyt (varón kossitano Ari3/Exp11):** El posadnik Voyt es un hombre robusto que ronda los cuarenta. Algo bajo para ser kossitano pero más fornido que la mayoría, Anton tiene más aspecto de leñador que de burócrata. Siempre está al frente de cualquier conflicto (en política o en combate) y echará una mano en trabajos físicos si es necesario y el tiempo apremia. Tiene dos hijos adolescentes, Alexi y Vreyo, que le admiran orgullosos .
 
 
 * **Dragho Voze (varón umbreano CazMon8/Exp6):** Tras servir los dos años obligatorios en la Guardia Invernal siendo adolescente, Dragho abandonó el ejército para buscar a su primer amor de la infancia en las colinas Kovosk: la caza mayor. Supuestamente no falla nunca con su fusil *Jennya*, y la única bala que erró el blanco la lleva colgada de una cadena al cuello. Dragho ha establecido su residencia en Tverkutsk para aprovechar las recompensas por los trolls, y es el mejor en lo que hace. Muchos guardias invernales locales parecen tener celos del éxito de este hombre .
 
 
-#### Lugares de Tverkutsk* 
+#### Lugares de Tverkutsk
 
-**Haus Prinkov ("Casa de Príncipes"):** Una gran finca de madera fortificada dentro de las murallas del pueblo. Haus Prinkov es un hogar invernal bien aislado y suntuosamente decorado para los príncipes del norte. Cuando el riguroso clima amenaza sus hogares en sus propias volozkyas, estas familias de nobles viajan a la Haus para pasar en ella los meses desapacibles. El edificio puede alojar cómodamente a las familias reales, cortesanos y guardias de hasta cuatro príncipes (aunque se pueden apretar un poco para acoger a un quinto). Durante estas vacaciones de invierno los príncipes suelen sentarse, beber y fumar alrededor de la amplia mesa de roble con el mapa de Khador esculpido en relieve mientras planean sus actividades para el año venidero .
+* **Haus Prinkov ("Casa de Príncipes"):** Una gran finca de madera fortificada dentro de las murallas del pueblo. Haus Prinkov es un hogar invernal bien aislado y suntuosamente decorado para los príncipes del norte. Cuando el riguroso clima amenaza sus hogares en sus propias volozkyas, estas familias de nobles viajan a la Haus para pasar en ella los meses desapacibles. El edificio puede alojar cómodamente a las familias reales, cortesanos y guardias de hasta cuatro príncipes (aunque se pueden apretar un poco para acoger a un quinto). Durante estas vacaciones de invierno los príncipes suelen sentarse, beber y fumar alrededor de la amplia mesa de roble con el mapa de Khador esculpido en relieve mientras planean sus actividades para el año venidero .
 
 
-### ULDENFROST* **
+### ULDENFROST
+
+* **
 
 En el poder:** Posadnik Barak Afonos.
 * **Población:** 7.000 humanos (principalmente kossitanos).
@@ -666,9 +692,9 @@ Fundada tras la Rebelión por comerciantes de pieles llamados los *promyshlennik
 
 Los edificios y murallas de Uldenfrost están construidos con madera de secoya procedente del cercano bosque Targoss. Originalmente se ataban juntos, pero en la actualidad los edificios se construyen mediante técnicas de carpintería marítima. Dentro de la empalizada de madera hay además dos almacenes, uno en la esquina norte y otro en la sur, repletos de ballestas y lanzas de caza para los lugareños en caso de emergencia. En su interior se halla la casa de dos pisos del gerente de la Factoría Czavyana, la vivienda del posadnik, los barracones y diversas tiendas y casas de desollamiento. En el centro del poblado hay un gran pozo de piedra que proporciona a los ciudadanos agua potable. Un manantial subterráneo de azufre mantiene tibia el agua, por lo que a pesar de oler y saber bastante mal nunca se congela. Uldenfrost es un lugar inhóspito; el frío se cobra muchas vidas y el sol apenas aparece durante gran parte del invierno .
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Posadnik Barak Afonos (varón khardio Ext5/Exp9):** Tras huir de su pequeña aldea natal en el centro de Khador a la edad de quince años, Afonos viajó sin descanso y quedó fascinado por lo desconocido. Probó suerte en diversas profesiones (granjero, cervecero, vidriero), pero ninguna le satisfizo. Finalmente sus viajes llamaron la atención de un emprendedor mercader de Czavyana, que le convenció de montar un negocio de comercio de pieles en el lejano norte. Poco tiempo después la enérgica personalidad de Barak le llevó a ocupar el asiento de gobierno del ayuntamiento del pueblo .
+* **Posadnik Barak Afonos (varón khardio Ext5/Exp9):** Tras huir de su pequeña aldea natal en el centro de Khador a la edad de quince años, Afonos viajó sin descanso y quedó fascinado por lo desconocido. Probó suerte en diversas profesiones (granjero, cervecero, vidriero), pero ninguna le satisfizo. Finalmente sus viajes llamaron la atención de un emprendedor mercader de Czavyana, que le convenció de montar un negocio de comercio de pieles en el lejano norte. Poco tiempo después la enérgica personalidad de Barak le llevó a ocupar el asiento de gobierno del ayuntamiento del pueblo .
 
 
 * **Valeria Karchaev (mujer skirovana Ext8):** Atraída inicialmente al lejano norte por sus investigaciones, Valeria está segura de que hay restos draconianos enterrados bajo el hielo cerca de Uldenfrost. Desde que llegó al pueblo se ha encariñado con él. Como experta local en medicina y botánica, la doctora Karchaev se mantiene ocupada luchando contra las brutalidades de la vida cotidiana en el gélido norte. Castigada con una mente curiosa en un páramo de hielo y nieve, disecciona continuamente la flora y la fauna que los *promyshlenniki* llevan a la colonia. Valeria suele acompañar a los cazadores de cabezas en sus excursiones a los páramos helados que rodean Uldenfrost. Aún ha de descubrir lo que hay de cierto en su investigación original sobre "dragonomía", pero tiene docenas de datos objetivos apuntados en un diario .
@@ -679,7 +705,9 @@ Los edificios y murallas de Uldenfrost están construidos con madera de secoya p
 * **Factoría Czavyana:** Esencialmente una alianza de libres comerciantes, la compañía de Factorías Czavyana ha comenzado a asentarse como principal abastecedora de pieles para Khador y el sur. Esta oficina está regentada por un sagaz aunque infeliz gerente, Ryon Baras (varón khardio Ext4), que odia abiertamente su cargo y a la mayoría de las personas asociadas a él, aunque sabe que no podría permitirse el estilo de vida que lleva sin su generoso sueldo. La compañía atrae a tramperos y comerciantes de todas partes ofreciéndoles contratos de siete años de trabajo en Uldenfrost; también recluta a los leñadores locales. Al finalizar sus contratos los empleados son enviados en el primer transporte disponible a cualquier otro punto de Khador, o bien se les permite quedarse en Uldenfrost como agentes libres si así lo desean .
 
 
-### VOLNINGRAD* **
+### VOLNINGRAD
+
+* **
 
 En el poder:** Komandante Karl Szvette, conde alguacil.
 * **Población:** 145.000 humanos (mayoría khardia con mezcla de skirovanos, kossitanos y umbreanos).
@@ -704,20 +732,22 @@ La única excepción real a esta permisividad se da con la Hermandad del Colmill
 > 
 > 
 
-#### Personajes célebres* 
+#### Personajes célebres
 
-**Conde alguacil komandante Karl Szvette (varón khardio Gue13):** El komandante Szvette desciende de un largo linaje de nobles militares. De aspecto elegante y porte regio, Szvette es un supervisor estricto que siempre exige lo mejor de sus oficiales. No cesa de pedir al Alto Mando que lo destinen al servicio activo, pero hasta ahora siempre se lo han denegado. Este rechazo reiterado se debe en gran medida a un accidente de entrenamiento hace años en el que se dañó la rodilla, y no a causa de su historial de servicio (el Alto Mando está bastante satisfecho con la carrera de Szvette). El komandante utiliza una costosa abrazadera ortopédica de hierro que le permite valerse sin apenas problemas. Tiene esposa, hija y un hijo pequeño que viven en una gran mansión de Korsk. Los ve muy poco, y el estar tan alejado del frente y de su amada familia no contribuye a apaciguar su frecuentemente severa conducta .
+* **Conde alguacil komandante Karl Szvette (varón khardio Gue13):** El komandante Szvette desciende de un largo linaje de nobles militares. De aspecto elegante y porte regio, Szvette es un supervisor estricto que siempre exige lo mejor de sus oficiales. No cesa de pedir al Alto Mando que lo destinen al servicio activo, pero hasta ahora siempre se lo han denegado. Este rechazo reiterado se debe en gran medida a un accidente de entrenamiento hace años en el que se dañó la rodilla, y no a causa de su historial de servicio (el Alto Mando está bastante satisfecho con la carrera de Szvette). El komandante utiliza una costosa abrazadera ortopédica de hierro que le permite valerse sin apenas problemas. Tiene esposa, hija y un hijo pequeño que viven en una gran mansión de Korsk. Los ve muy poco, y el estar tan alejado del frente y de su amada familia no contribuye a apaciguar su frecuentemente severa conducta .
 
 
-#### Lugares de Volningrad* 
+#### Lugares de Volningrad
 
-**Academia Militar Khadorana:** El único y mayor cuerpo de adiestramiento de la Guardia Invernal es la Academia Militar Khadorana con base en Volningrad pero con puestos avanzados a lo largo y ancho de la Madre Patria. El entrenamiento es una experiencia extraordinariamente dura. Antes de la iniciación, los reclutas pasan el primer año realizando ejercicios agotadores en todo tipo de entornos, y aprenden no sólo a manejar distintos tipos de armas, sino a manejarse por diversos terrenos (rocosos, legamosos, helados, montañosos y boscosos). Aquellos que sobresalen o que muestran cualidades excepcionales son enviados a la Druzhina, en Korsk, para recibir formación como oficiales .
+* **Academia Militar Khadorana:** El único y mayor cuerpo de adiestramiento de la Guardia Invernal es la Academia Militar Khadorana con base en Volningrad pero con puestos avanzados a lo largo y ancho de la Madre Patria. El entrenamiento es una experiencia extraordinariamente dura. Antes de la iniciación, los reclutas pasan el primer año realizando ejercicios agotadores en todo tipo de entornos, y aprenden no sólo a manejar distintos tipos de armas, sino a manejarse por diversos terrenos (rocosos, legamosos, helados, montañosos y boscosos). Aquellos que sobresalen o que muestran cualidades excepcionales son enviados a la Druzhina, en Korsk, para recibir formación como oficiales .
 
 
 * **Armería de Volningrad:** Esta es la instalación de producción de siervos de guerra y armas de la Asamblea de Mecánikos Khadoranos. La Armería es un núcleo de actividad perpetua. Todos los días salen siervos de guerra de los pesados postigos de hierro para dirigirse al frente. Hileras de chasis de siervos sin corteza aguardan sus preciados dispositivos internos y permanecen en pie, fantasmagóricamente fríos e inmóviles como estatuas en los patios. La instalación de producción es tan importante para la guerra que siempre hay apostado en ella todo un regimiento de la Guardia Invernal, y en las seis atalayas de la Armería hay dispuestos numerosos equipos de hacedores de viudas .
 
 
-### LUGARES DE INTERÉS* **
+### LUGARES DE INTERÉS
+
+* **
 
 Tumba de lord Khazarak:** Khazarak, un señor jinete del Imperio, se hizo famoso por rechazar una y otra vez oleadas de bárbaros con su hacha y su fe. Las leyendas hablan de un hombre gigantesco que montaba un poderoso corcel negro. En sus tiempos ayudó a conquistar a los skirovanos, expulsó a los troloides del territorio khárdico y se adentró en las profundidades de Tordor. De hecho, durante una campaña contra los tordoranos Khazarak sucumbió a unas heridas que habrían acabado con cualquier otro hombre de inmediato. Como parte de sus concesiones de guerra, el Imperio Khárdico exigió que Tordor erigiera una tumba en honor de Khazarak. Así lo hicieron: levantaron una inmensa tumba de mármol gris donde fueron enterrados el señor jinete y su montura. Con el paso de los años la tumba de lord Khazarak se ha deteriorado hasta casi desmoronarse, pues ni los tordoranos ni los orgoth tenían motivos para repararla. Ahora tan sólo algún que otro peregrino menita acude al lugar para honrar a un gran héroe de su religión .
 
@@ -728,7 +758,9 @@ Tumba de lord Khazarak:** Khazarak, un señor jinete del Imperio, se hizo famoso
 * **Uld Vroggen:** Antaño una gran aldea, Uld Vroggen quedó fragmentada y fue reconstruida como la capital del imperio de los orgoth. Innumerables esclavos fueron llevados a Uld Vroggen y sacrificados a oscuros dioses, y la misma tierra se ennegreció debido al mal que se filtró en el entorno durante generaciones. Tras la derrota de los orgoth, Uld Vroggen quedó devastada por el Azote. La magia y las hojas de los orgoth mataron a todo hombre, mujer y niño de la ciudad. Había tantos cadáveres pudriéndose en Uld Vroggen que la nube de moscas carroñeras que flotaba sobre la ciudad oscurecía al mismo sol. El lugar se conserva como una peligrosa ruina. Los habitantes de Nueva Vroggen afirman que está encantada por criaturas pavorosas (muchas de estas historias las propagan agentes de los Señores Grises que tienen un interés personal en las ruinas y en los muchos artefactos y textos orgoth que contienen) .
 
 
-### TIERRAS SALVAJES KHADORANAS* **
+### TIERRAS SALVAJES KHADORANAS
+
+* **
 
 Raíz Negra:** Al norte del prohibido Shadoweald se encuentra el bosque Raíz Negra, una extensión de prolífico bosque de coníferas muy trabajada y transitada cuyos árboles hunden sus raíces en las profundidades de una fértil tierra negra (de ahí su nombre). Los árboles han sido habilitados por los equipos de leñadores para facilitar las idas y venidas entre ellos, y algunas comunidades granjeras han enviado carretas para recolectar terrones del fértil suelo y aprovecharlo en sus cultivos. Las dificultades ocasionales suelen estar relacionadas con el descubrimiento de nidos de malhumorados excavadores mandientes .
 
@@ -753,7 +785,9 @@ Raíz Negra:** Al norte del prohibido Shadoweald se encuentra el bosque Raíz Ne
 * **Promontorios Vescheneg:** Supuestamente malditos por uno de los últimos gigantes auténticos antes de abandonar este mundo, los promontorios Vescheneg tienen mala fama más por superstición que por otras razones. A través de los promontorios serpentean varias cavernas sin explorar, la mayoría de las cuales fueron investigadas por última vez por los orgoth. Se rumorea que ninguno de ellos regresó jamás. El humo que emana a veces de las entradas a las cavernas procede seguramente de la actividad volcánica subterránea, pero algunas personas afirman que aún hay orgoth viviendo en una fortaleza excavada en las profundidades de los promontorios .
 
 
-### FORTIFICACIONES KHADORANAS* **
+### FORTIFICACIONES KHADORANAS
+
+* **
 
 Desembarcadero Borstov:** El desembarcadero Borstov, una descomunal fortaleza que domina la Bahía de Kulvorn, permanece en pie desde que Puerto Vladovar fuera un puerto de escala órdico llamado Radahvo. Docenas de cañones de gran calibre apuntan hacia el mar abierto para protegerlo contra navíos, y una moderada guarnición de guardias invernales llaman a Borstov su hogar. Está dirigido por el recién ascendido komandante Riste Harobrisk (varón khardio Gue10) después de haber sido retirado del servicio activo en Llael. Borstov es ahora el principal puesto de vigía que alerta de ataques navales por parte de Ord o Cryx, y alberga un establo lleno de sementales extremadamente veloces para enviar mensajes a cualquier lugar en caso de que aparezca una flota de guerra en el horizonte .
 
@@ -781,7 +815,9 @@ Desembarcadero Borstov:** El desembarcadero Borstov, una descomunal fortaleza qu
 * **Promontorios Vescheneg:** Supuestamente malditos por uno de los últimos gigantes auténticos antes de abandonar este mundo, los promontorios Vescheneg tienen mala fama más por superstición que por otras razones. A través de los promontorios serpentean varias cavernas sin explorar, la mayoría de las cuales fueron investigadas por última vez por los orgoth. Se rumorea que ninguno de ellos regresó jamás. El humo que emana a veces de las entradas a las cavernas procede seguramente de la actividad volcánica subterránea, pero algunas personas afirman que aún hay orgoth viviendo en una fortaleza excavada en las profundidades de los promontorios .
 
 
-### FORTIFICACIONES KHADORANAS* **
+### FORTIFICACIONES KHADORANAS
+
+* **
 
 Desembarcadero Borstov:** El desembarcadero Borstov, una descomunal fortaleza que domina la Bahía de Kulvorn, permanece en pie desde que Puerto Vladovar fuera un puerto de escala órdico llamado Radahvo. Docenas de cañones de gran calibre apuntan hacia el mar abierto para protegerlo contra navíos, y una moderada guarnición de guardias invernales llaman a Borstov su hogar. Está dirigido por el recién ascendido komandante Riste Harobrisk (varón khardio Gue10) después de haber sido retirado del servicio activo en Llael. Borstov es ahora el principal puesto de vigía que alerta de ataques navales por parte de Ord o Cryx, y alberga un establo lleno de sementales extremadamente veloces para enviar mensajes a cualquier lugar en caso de que aparezca una flota de guerra en el horizonte .
 
