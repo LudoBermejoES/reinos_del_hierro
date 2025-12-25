@@ -38,7 +38,6 @@ Leyenda del Mapa)**Provincias:**
 * Hierro, Piedras preciosas, Metales industriales 
 
 
-
 ---
 
 ### INTRODUCCIÓN
@@ -77,7 +76,6 @@ En términos geográficos, el Protectorado ha descubierto tres recursos muy abun
 **Fe:** Su devota fe en Menoth, posiblemente el mayor de sus recursos.
 
 
-
 El Protectorado no estará satisfecho hasta que todo el reino (y el resto de la humanidad) esté sometida a la voluntad de Menoth. Los sul-menitas sienten un odio especial hacia el Santuario de Caspia. Este odio se ha visto avivado por el Jerarca Garrick Voyle, quien ha trabajado incesantemente para construir las fuerzas armadas del Protectorado, violando los tratados .
 
 ### ¿QUIÉN ES EL HERALDO?
@@ -92,7 +90,6 @@ El Protectorado atacó las murallas de Caspia el 6 de Vendarl, Octesh del 605 d.
 * El 1 de Donard, Khadover del 605 d.R., las fuerzas del Protectorado destruyeron el Puente de la Marca que cruzaba el barranco conocido como Lorn de la Marca, complicando el transporte por ferrocarril cygnarita.
 
 
-
 ### DATOS DEL PROTECTORADO DE MENOTH
 
 * **Gobernante:** Jerarca Garrick Voyle.
@@ -103,7 +100,6 @@ El Protectorado atacó las murallas de Caspia el 6 de Vendarl, Octesh del 605 d.
 * **Clima:** Principalmente árido o semiárido; cálido y húmedo en la costa y desértico al este.
 * **Terreno:** Llanuras costeras estrechas con mesetas, lomas y montañas escarpadas. Desiertos elevados al norte y al sur.
 * **Recursos Naturales:** Pescado, sal, azufre, mármol, piedra caliza, depósitos menores de carbón, oro, plomo, níquel, estaño y cobre. Abundancia de diamantes y petróleo .
-
 
 
 ### EL JERARCA GARRICK VOYLE**
@@ -117,7 +113,6 @@ Espera con ansia el día en que toda Immoren occidental haya sido reivindicada p
 ### RANGOS DEL TEMPLO
 
 
-
 El poder en el Protectorado de Menoth está inseparablemente vinculado a los rangos dentro del Templo, y cada cargo acarrea cierta cantidad de autoridad sobre el populacho.
 
 * 
@@ -128,7 +123,6 @@ El poder en el Protectorado de Menoth está inseparablemente vinculado a los ran
 
 
 * **Soberanos:** Responden ante los visgodos. Son el mayor rango de sacerdocio con el que ningún ciudadano llegará a interactuar jamás. La mayoría de los soberanos residen en la capital Imer, pero algunos viven en Sul y en otras comunidades remotas. Deben supervisar a los sacerdotes inferiores y los ciudadanos que caen dentro de su jurisdicción .
-
 
 
 Para seguir la política del Protectorado hay que comprender la influencia y el poder de los escrutadores. Estos ominosos sacerdotes ostentan un rango clerical normal, pero poseen mayor poder y respeto que los clérigos simples del Templo. El Jerarca Voyle tiene en mayor estima a los visgodos escrutadores. Aun así, un sacerdote de mayor rango puede exigir obediencia a un sacerdote escrutador (es decir, un visgodo no escrutador tiene autoridad por encima de los soberanos escrutadores) .
@@ -219,7 +213,6 @@ La gran provincia central comprende la capital Imer y se extiende hacia el sur h
 * **VARHDAN:** Varhdan, la región yerma situada al sureste de Acrennia, incluye el monasterio de la Orden del Puño, el río Sithney y un largo tramo del Camino Ardiente. En esta inhóspita región hay varias aldeas pequeñas dispersas sobre todo por las cuencas fluviales y la orilla. Varhdan pone a prueba a los fieles bajo un sol implacable, y estas comunidades suelen estar vigiladas por jóvenes monjes fervientes. El santo leal supremo Haveron Morimain gobierna Varhdan .
 
 
-
 ---
 
 ### PRINCIPALES CIUDADES
@@ -230,7 +223,6 @@ La gran provincia central comprende la capital Imer y se extiende hacia el sur h
 * **Importaciones:** Productos manufacturados, tejidos, trigo.
 * 
 **Exportaciones:** Alabastro, arcilla, hierro, piedra caliza, mármol .
-
 
 
 En el lejano sureste, en la desembocadura del río Harber, se encuentra Antigua Icthier, la más sagrada de las ciudades menitas. Icthier es la sede del conocimiento del Protectorado y los sacerdotes deben acudir a ella para estudiar el *Canon de la Verdadera Ley*. La ciudad está formada por edificios y ruinas calcáreas y llenas de hoyos, entremezcladas con arquitectura moderna construida casi toda por manos sulesianas durante el último siglo. Los visitantes siempre quedan fascinados por el matiz rojo de los edificios: las desvencijadas columnas y dinteles y el antiguo templo circular están todos fabricados con adobe cocido de arcilla roja, y por esta razón a veces se la conoce como la Ciudad Roja .
@@ -244,7 +236,6 @@ A lo largo de la historia Antigua Icthier había sido un núcleo importante para
 **Personajes célebres**
 
 * **Escrutador soberano Jarok Shaw (varón sulesiano Clr10/Ect6):** El escrutador soberano Shaw es el sacerdote que gobierna Icthier. No sólo es un férreo sirviente del Legislador, sino que también es el historiador de mayor categoría en Icthier y un renombrado experto en el *Canon de la Verdadera Ley*. Aunque no es más que un soberano, incluso los visgodos se inclinan ante su sabiduría enciclopédica. En más de una ocasión ha sido convocado ante el Sínodo para dar su experta opinión sobre asuntos de ley teocrática. Shaw deja el mantenimiento y los recientes problemas de exceso de población a sus subordinados, pues prefiere pasar su tiempo en silenciosa meditación aislado en el interior del Gran Templo del Canon .
-
 
 
 **Lugares de Icthier**
@@ -279,7 +270,6 @@ Incluso los detractores del Jerarca admiten que fue muy inteligente al trasladar
 * **Duharos Sek Nathari, comandante purificador y guardián de la Llama Purificadora (varón idriano Gue9/Clr7):** Los Sek Nathari, una de las tribus leales del pueblo idriano, fueron de los primeros nativos en ser convertidos a la fe menita. Duharos nació justo semanas antes de que sus padres paganos fueran torturados por sus creencias. En vez de abandonar al niño a su suerte, algunos escrutadores decidieron criarlo. Duharos sirvió a Menoth lo mejor que le permitió su sangre infiel y encontró su verdadera vocación vistiendo la máscara dorada de purificador. La sacerdotisa de la Llama le ascendió a guardián de la Llama Purificadora, convirtiéndose en el purificador de mayor rango de Sul .
 
 
-
 **Lugares de Imer**
 
 * **Templo de los Custodios de la Llama:** Como una almenara que guía hacia el cielo, el Templo de los Custodios de la Llama se halla junto al centro de Imer. Está rodeado por un sexteto de onerosas torres coronadas por incensarios que arden con rugientes llamas doradas. En su interior hay un inmenso centro de entrenamiento para aquellos que responden a la llamada. El edificio es una auténtica fortaleza en cuyo interior hay varios siervos de guerra que esperan el lanzamiento de guerra de su controladora Feora, la sacerdotisa de la Llama .
@@ -302,7 +292,6 @@ Incluso los detractores del Jerarca admiten que fue muy inteligente al trasladar
 * **Torre de los Escrutadores:** Unida al palacio del Jerarca hay una torre de granito desprovista de ventanas y decorada únicamente con múltiples menofijos de hierro. Este es el único lugar de Imer en el que no se permite el acceso del clero inferior. La torre es la base y alojamiento de todos los escrutadores que viven en Imer. Aparte de los escrutadores, sólo se permite el paso tras los ominosos muros a su guardia privada de dechados. En el sótano hay una prisión privada donde se llevan a cabo interrogatorios especiales .
 
 
-
 ### SUL
 
 * **En el poder:** Visgodo Juviah Rhoven.
@@ -311,7 +300,6 @@ Incluso los detractores del Jerarca admiten que fue muy inteligente al trasladar
 * **Importaciones:** Alimentos diversos, madera, hierro, carbón.
 * 
 **Exportaciones:** Pescado, sal, diamantes, artículos exóticos hechos a mano y productos nativos .
-
 
 
 Hasta que la Guerra Civil cygnarita sumió a la ciudad en un sangriento caos, Sul era simplemente el distrito oriental de Caspia, conocido como el "gueto menita". Cuando estalló la guerra, el Jerarca Sulon la utilizó como fortaleza. Los puentes que cruzaban el Río Negro fueron quemados y se derrumbaron, y con el tiempo el este de Caspia se cedió al recién reconocido Protectorado como parte del acuerdo de paz. Desde aquel entonces, las murallas de Sul se han pintado de un brillante color blanco y se han coronado con almenajes dorados. Hileras de custodios de la Llama de túnicas escarlata permanecen vigilantes sobre los muros frente a los soldados cygnaritas de la otra orilla .
@@ -328,14 +316,12 @@ Los extranjeros admiten que la ciudad les impresiona e intimida con sus descomun
 * **Visgodo Juviah Rhoven (varón sulesiano Clr8/Ect10):** Juviah, uno de los visgodos de mayor confianza del Jerarca, ostenta el control absoluto de Sul y del clero local. El principal cometido de Juviah es asegurarse de que la ciudad esté lista para la guerra en todo momento. Siempre vigilando Caspia y alerta ante cualquier posible agente cygnarita, no le resulta difícil mantener al día sus habilidades de torturador y ejecutor .
 
 
-
 **Lugares de Sul**
 
 * **Gran Templo del Creador:** Este inmenso complejo era el corazón de la capital antes de que fuese trasladada a Imer. El exterior del edificio es una gran pirámide de piedra de estilo antiguo, aunque sus creativos arquitectos emplearon técnicas modernas para los arcos y contrafuertes de sus altos techos. El gran altar de piedra de la cámara central se usa para los servicios más importantes, incluidos los sacrificios rituales. El Gran Templo también contiene una cripta sagrada dedicada a los reyes menitas de antaño .
 
 
 * **Evocación de Sulon:** La Evocación es una milla cuadrada de barracones atestados de guerreros menitas y sacerdotes de batalla, situado cerca del centro de Sul. Se rumorea que está construido sobre el lugar en el que cayó el Jerarca Sulon en combate. Desde el inicio de la guerra santa del Protectorado, la Evocación de Sulon no ha estado tan tranquila y silenciosa como ahora, pues nunca antes se necesitaron a tantos de sus habitantes a la vez .
-
 
 
 ### LUGARES DE INTERÉS* **

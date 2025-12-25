@@ -117,7 +117,6 @@ En la mayoría de los casos existen más títulos que los que figuran en las tab
 Los altos cargos de la Iglesia de Morrow también se incluyen en las tablas de precedencia para indicar el respeto y la cortesía que se les profesa. Realmente no tienen ninguna influencia secular directa, ni forman parte del gobierno cygnarita. Pese a ello, estos poderosos sacerdotes son utilizados a menudo como consejeros y consultores en asuntos de estado.
 
 
-
 #### TABLA 3-2: PRECEDENCIA REAL CYGNARITA
 
 | Título                     | Por definición                                                                                                                                              | N° en el reino |
@@ -136,7 +135,6 @@ Los altos cargos de la Iglesia de Morrow también se incluyen en las tablas de p
 | **Caballero vasallo**      | Caballero de menor orden que sirve a cualquiera de los títulos por debajo del duque                                                                         | Miles          |
 
 ---
-
 
 
 ### GOBIERNO Y EJÉRCITO

@@ -213,8 +213,6 @@ Continuación)* **NUEVA UMBREY (OCUPADO):** Nueva Umbrey es un ducado de montañ
 **Gobernador de la ocupación:** Vizconde Barak Ushka, vasallo del gran príncipe Tzepesci de Umbresk .
 
 
-
-
 * **NORDRYNE, EL (OCUPADO):** De todos los ducados de montaña, el Nordryne contiene las más ricas minas de carbón y minerales y produce los preciados metales procesados y enviados a través de Rynyr. Dada la riqueza del ducado en recursos, el Alto Mando considera esta región de gran importancia estratégica .
 
 
@@ -223,8 +221,6 @@ Continuación)* **NUEVA UMBREY (OCUPADO):** Nueva Umbrey es un ducado de montañ
 * **Gobernador ancestral:** Archiduque Vydor Tadiri del Nordryne (ejecutado en Merywyn).
 * 
 **Gobernador de la ocupación:** Lord Palyn d'Myr, responde ante el posadnik Igor Vojinovich .
-
-
 
 
 * **SUDRYNE, EL (OCUPADO EN SU MAYORÍA):** Se dice que el Sudryne posee las tierras más fértiles de todos los ducados y también alberga la capital Merywyn, el Almacén Aliston y gran parte del sur de Llael hasta (pero no inclusive) la torre de Viento Gris. El grueso de las tropas de Khador en Llael ocupa este ducado. Una parte de las tierras del este permanece sin ocupar, pero estas comunidades granjeras no representan amenaza militar .
@@ -237,8 +233,6 @@ Continuación)* **NUEVA UMBREY (OCUPADO):** Nueva Umbrey es un ducado de montañ
 **Gobernador de la ocupación:** Komandante Mikhail Ivdanovich, conde y posadnik de Merywyn .
 
 
-
-
 * **VOXSAUNY (NO OCUPADO):** Voxsauny es un lucrativo valle pastoril que contiene varios de los mejores viñedos de Llael, la ciudad de Rhydden, la torre de Viento Gris y una porción de la frontera suroriental de Llael con Ios. Además del comercio vinícola, el maderero también financia este ducado. Es el único que aún no ha sido ocupado por Khador y se ha convertido en un punto de reunión para los refugiados llaelesianos .
 
 
@@ -247,8 +241,6 @@ Continuación)* **NUEVA UMBREY (OCUPADO):** Nueva Umbrey es un ducado de montañ
 * **Gobernador ancestral:** Archiduque Balen di Voxsauny (ejecutado en Merywyn), su hijo pequeño Balen II (actualmente en Caspia con su madre Sabyna).
 * 
 **Gobernador actual:** Lord Gregore Delryv IV, duque de Rhydden .
-
-
 
 
 * **WESSINA (OCUPADO):** Wessina incluye Elsinberg y varias aldeas granjeras cercanas al fértil Río Negro, que delimita su frontera oriental. Este ducado limitaba con Khador en el pasado y durante la invasión se derramó mucha sangre en él .
@@ -261,9 +253,6 @@ Continuación)* **NUEVA UMBREY (OCUPADO):** Nueva Umbrey es un ducado de montañ
 **Gobernador de la ocupación:** Komandante Negomir Tarovic, posadnik de Elsinberg .
 
 
-
-
-
 ### PRINCIPALES CIUDADES
 
 #### CONFLUENCIA* **En el poder:** Kovnik Corinna Yurikevna.
@@ -272,7 +261,6 @@ Continuación)* **NUEVA UMBREY (OCUPADO):** Nueva Umbrey es un ducado de montañ
 * **Importaciones:** Ninguna.
 * 
 **Exportaciones:** Ninguna .
-
 
 
 La destrucción de Confluencia, a la que a veces se hace referencia como la "masacre de la ciudad de los tres ríos", es posiblemente la peor depravación cometida durante la invasión khadorana. Ciertamente, su historia ha avivado la imaginación de los enemigos de Khador. Mercaderes ambulantes, bardos de guerra y soldados narran la historia con frecuencia. Cada una de ellas es diferente, y muchos de los detalles se han exagerado, pero los hechos fundamentales son siempre los mismos: donde antaño se encontraba Confluencia, una próspera ciudad de sesenta mil habitantes, ahora no hay más que restos carbonizados. Algunos de los supervivientes de la ciudad han regresado para rebuscar entre los escombros, pero la mayoría dejaron atrás Confluencia y se mudaron a las aldeas vecinas o huyeron a Rhydden, Corvis o más allá .
@@ -296,7 +284,6 @@ Las hostilidades siguientes fueron más veladas y destructivas, y convirtieron l
 * **Kovnik Corinna Yurikevna (mujer kossitana Exp6/Fus2):** Pocas veces consigue alguien del rango de kovnik supervisar todo un ducado, pero tal es la tarea de Corinna. Se trata más bien de un testimonio de su total subyugación, pues Confluencia era la única gran ciudad de esta zona. La kovnik es una endurecida batidora fronteriza encargada de vigilar el río e informar de cualquier señal de movimiento de tropas y demás actividades sospechosas. Ha informado de la presencia de navíos rhúlicos bajando de las montañas y descargando al sur de su posición, donde contactaban con comerciantes que llevaban los suministros al sureste, hacia Rhydden. Sus órdenes son registrar este tráfico pero no enfrentarse a nadie directamente. Aun así, la kovnik y sus tropas se han enzarzado en varias ocasiones con los incursores cryxianos atraídos por los cadáveres de Confluencia, y Corinna cree que pueden resultar una amenaza hasta que la zona sea despejada y los cuerpos enterrados convenientemente .
 
 
-
 #### ELSINBERG* **
 
 En el poder:** Komandante Negomir Tarovic.
@@ -305,7 +292,6 @@ En el poder:** Komandante Negomir Tarovic.
 * **Importaciones:** Cuero, productos manufacturados, tejidos.
 * 
 **Exportaciones:** Textos eruditos, mármol, esculturas, lana .
-
 
 
 Elsinberg, la Ciudad del Recuerdo, tiene una historia profusa. Cada siglo pasado ha dejado una huella profunda en el propio tejido de la ciudad. Estatuas de mármol y señalizadores de piedra conmemoran batallas, glorifican a grandes héroes y vilipendian antiguos enemigos. Cada mes, los habitantes de Elsinberg celebran al menos una festividad para evocar un acontecimiento histórico significativo, y una vez al año la población casi se dobla debido a la gran afluencia de visitantes para contemplar el más famoso de estos acontecimientos: la Marcha de los Muertos.
@@ -332,7 +318,6 @@ Este año los lugareños esperan que los fantasmas aparezcan durante las última
 * **Komandante Negomir Tarovic, posadnik de Elsinberg (varón khárdico Gue10/Fus5):** Viejo y curtido veterano del ejército khadorano y devoto morrowano, el komandante Tarovic es uno de los oficiales más competentes de Khador. Tras ayudar a la komandante Kratikoff a capturar Elsinberg, marchó a desempeñar un papel clave en el asedio de Merywyn. Tarovic ha presenciado innumerables escaramuzas fronterizas y es un astuto combatiente. Aunque no solicitó el cargo de posadnik, se sintió honrado cuando lo recibió por su actuación en la campaña. Durante los largos meses de la guerra, el recuerdo de una mujer alta combatiendo en el frente junto a los funestos soldados de Elsinberg provocó a Tarovic. En un momento de la lid, la mira de su fusil se centró sobre la dama conocida como la Baronesa del Sauce, pero fue incapaz de apretar el gatillo. Ha permitido a lady Ganelyn conservar su posición en la ciudad, pues cree que puede hacer las paces con la mujer y establecer un hogar en Elsinberg pese a la petulancia de los lugareños .
 
 
-
 #### Lugares de Elsinberg* 
 
 **Biblioteca de Elsinberg:** Este recio edificio de mármol no sólo contiene una de las colecciones más completas de la historia escrita de los Reinos de Hierro, sino que el edificio en sí es todo un monumento histórico. La mismísima ascendida Angellia fundó la biblioteca original en el 1033 a.R. La parte más antigua del edificio es una bóveda de piedra sencilla situada en el corazón de la estructura actual y ahora alberga los tomos más valiosos de la biblioteca. Durante la ocupación orgoth, los monjes sacaron toda la colección de la biblioteca y la dispersaron por cientos de escondrijos distintos para preservarla. La biblioteca está atendida y custodiada por monjes eruditos y clérigos que han escogido a Angellia como su patrona. El conservador jefe es Ion Badescu (varón umbreano Ext5/Mnj4), que protege celosamente la colección y es muy selectivo a la hora de permitir que alguien la examine detenidamente .
@@ -353,7 +338,6 @@ En el poder:** El Consejo de Ilustres, al servicio del vizconde Barak Ushka, vas
 **Exportaciones:** Minerales sin refinar, carbón, licores .
 
 
-
 Laedry no es ajena a la guerra y la destrucción. Hace doce siglos era la gran ciudad umbreana de Korska, capital oriental del Imperio Khárdico. En el 542 a.R. los orgoth devastaron Korska por completo cuando conquistaron la región y subyugaron a los rynios del este. Más tarde sus alrededores fueron el escenario de algunas de las guerras más brutales de la Rebelión y sufrió aún más durante las guerras fronterizas entre Khador y Llael, antes de ser cedida al este en el 313 d.R. La nueva ciudad de Laedry, fundada por manos llaelesianas, llegó a restaurar parte de la antigua gloria de Vieja Korska (construida al estilo umbreano para honrar a las gentes de la región). Muchos de sus edificios más antiguos son relativamente modernos para la media immorense, y sus orgullosos ciudadanos la mantienen en condiciones prístinas .
 
 Los edificios umbreanos tienen rasgos arquitectónicos más khadoranos que llaelesianos, pero la influencia de la cultura rynia está presente en muchos barrios. Sus habitantes también son adustos y con menos pelos en la lengua que los campesinos del este, pero se puede decir que son más cultos y refinados que sus rústicos congéneres khadoranos del oeste. El ejército khadorano ha tenido que permanecer atento a Laedry, desarmar a la mayoría de su ciudadanos e imponer leyes estrictas. Hay un sentimiento de malestar palpable, y los umbreanos son contenidos a duras penas. Aunque algunas de estas familias conocen la leyenda del príncipe Tzepesci y apoyan su causa, la mayoría son llaelesianos patriotas y desprecian todo lo khadorano. Si un líder umbreano se alzase entre ellos, podrían apoyarle siempre y cuando no portase el estandarte de Khador .
@@ -372,7 +356,6 @@ De igual modo, no aprecian a su actual supervisor, el vizconde Barak Ushka, pese
 
 
 * **Vizconde Barak Ushka (varón umbreano Gue7/Uhl7):** Uno de los nobles más enigmáticos del este de Khador, el vizconde Ushka es leal vasallo del príncipe Tzepesci de Umbresk. Barak tomó parte en la invasión, pero sólo marginalmente. Es grande como un oso, procede de la orgullosa tradición de la caballería pesada uhlana, y cabalgó al servicio de Vladimir Tzepesci en varios enfrentamientos. Antes de la desaparición del príncipe Tzepesci, éste dio instrucciones a su vizconde para que obtuviese el control de Laedry. Así, no se ha instalado oficialmente en la ciudad, sino que se ha impuesto sobre ella y ha informado de su reivindicación a la reina con humilde respeto. A falta de nobles de rango similar que reivindicaran su precedencia, la reina no tuvo forma políticamente oportuna de expulsarle, por lo que los Ushka han ocupado una gran finca al norte de la ciudad. El vizconde tiene su propia guardia personal de élite que incluye tres subordinados uhlanos, una veintena de piqueros y una docena de batidores a caballo .
-
 
 
 > **SE RUMOREA QUE...**
@@ -397,7 +380,6 @@ De igual modo, no aprecian a su actual supervisor, el vizconde Barak Ushka, pese
 * **Templo de la Ira:** Este imponente edificio de piedra es el mayor edificio de la zona menita del sur de Laedry (donde viven miles de menitas). Esta rama concreta del culto de Menoth presenta un gran parecido con la Vieja Fe de Khador, más que aquellos que viven en el Protectorado. La congregación del templo ha aumentado debido sobre todo a los numerosos soldados khadoranos que rinden culto a Menoth. Durante los meses posteriores a la invasión, la ciudad experimentó un éxodo de sus lugareños menitas, pues varios centenares decidieron huir del Protectorado al oír hablar del milagro del Heraldo. La mayoría de los menitas de la ciudad rechazan el duro mensaje del Jerarca sureño, pues creen que su interpretación de la fe es más fiel a la voluntad de Menoth. Entre éstos se incluye su líder, la soberana Misha Rudovna (mujer umbreana Clr9), quien piensa que el Heraldo no es más que un elaborado engaño .
 
 
-
 ### LERYN* **
 
 En el poder:** La Orden del Crisol Dorado, supervisada por el koldun de los Señores Grises lord Volkh Lazar.
@@ -406,7 +388,6 @@ En el poder:** La Orden del Crisol Dorado, supervisada por el koldun de los Señ
 * **Importaciones:** Alimentos, tejidos, madera, acero.
 * 
 **Exportaciones:** Productos químicos, polvo explosivo, carbón, pistolas, piedra de cantera, cobre .
-
 
 
 El rey Artys di la Martyn I describió Leryn como "la ciudad más fortificada que nadie osará atacar jamás". Esta atrincherada ciudad, situada en la base del monte Borgio a orillas del caudaloso río Viejamecha, es famosa por el papel que desempeñó durante la Rebelión. Fue una de las primeras ciudades de las que se logró expulsar y mantener alejados a los orgoth. Tiene una ubicación geográfica excepcional para resistir un asedio, y sus defensas se mantuvieron meticulosamente por una cuestión de orgullo civil. La mayoría de los llaelesianos y cygnaritas esperaban que la gran ciudad resistiera indefinidamente la invasión khadorana y se convirtiera de nuevo en un refugio para los supervivientes. Tristemente, las cosas no salieron como era de esperar y la ciudad cayó sin apenas presentar batalla (un golpe tremendo para la moral del pueblo llaelesiano) .
@@ -456,7 +437,6 @@ De hecho, Merywyn es un caldo de cultivo para la resistencia llaelesiana. Peque�
 * **Komandante Mikhail Ivdanovich, conde y posadnik de Merywyn (varón khardio Mka11/Gue4):** Aunque no es ni de lejos tan famoso como el komandante Irusk, Mikhail fue igualmente importante para la conquista de Llael. Mikhail coordinó las líneas de suministro y se aseguró de que los soldados estuvieran siempre bien equipados, provistos de munición y alimentados en plena hambruna local. También dirigió a los mecánikos de batalla encargados del mantenimiento y reabastecimiento de los siervos de guerra y las armaduras de las tropas de asalto acorazadas. Aunque tiene raíces humildes, se labró una reputación para sí mismo y para el Instituto Khadorano de Ingeniería, y más adelante como oficial en el ejército khadorano. En reconocimiento a su papel en el asedio de la capital, Mikhail recibió el título nobiliario de conde y fue nombrado posadnik de Merywyn, un nombramiento bastante controvertido para los antiguos nobles de Korsk. Ahora se esfuerza para supervisar la mayor ciudad del territorio ocupado. Mikhail ha sugerido un gran proyecto para instalar un tendido ferroviario entre Korsk y Laedry, y también ha emprendido la tarea de convertir los diversos talleres de maquinaria de Merywyn en auténticas armerías para reparar a sus siervos de guerra .
 
 
-
 > **LA GRAN GUARDIA REAL**
 > Anteriormente asentada en Merywyn, la Gran Guardia Real llaelesiana se creó en el 274 d.R. tras una larga serie de asesinatos en la realeza. La tradición llaelesiana exigía que cada monarca escogiera a ciento un protectores personales de entre las diversas escuelas de toda Llael: desde espadachines entrenados hasta pistoleros errantes, desde academias de magos pistoleros hasta cubiles de alquimistas. Estos guardianes selectos constituían la última línea defensiva de la familia real. Fueran cuales fuesen el campo del que provenían, los miembros de la Gran Guardia Real debían ser expertos en diversas aplicaciones mágicas y en el agarre de doble hoja (el símbolo de la orden). Célebres por su pericia como duelistas, la Gran Guardia Real inspiraba un gran temor en sus tiempos .
 > 
@@ -479,7 +459,6 @@ De hecho, Merywyn es un caldo de cultivo para la resistencia llaelesiana. Peque�
 * **Ventura:** A un par de millas al sur de Merywyn, Río Negro abajo, se encuentra la espectacular aldea de Ventura, considerada parte de la nación a la hora de adjudicar impuestos. Varios miles de gobos trabajadores viven en esta aldea de terrazas con elegantes casas, molinos de agua y plataformas elevadoras manuales. Temiendo ser aniquilados durante el asedio, su alcalde se rindió a los khadoranos antes incluso de que Merywyn cayese. Aparte de estar vigilados por una compañía de soldados de la Guardia Invernal que patrulla la región, por lo demás los invasores han dejado tranquilos a los gobos. Muchos de estos gobos trabajan en la capital y recorren la larga distancia dos veces al día .
 
 
-
 ### RHYDDEN* **
 
 En el poder:** Duque Gregore Delryv IV.
@@ -499,11 +478,9 @@ El suelo aquí no es tan fértil como parece. Aun así, los vinos de Rhydden se 
 **Lord Gregore Delryv IV, duque de Rhydden (varón rynio Ari3/Gue4/Pist1):** Insólito héroe y líder (si alguna vez lo hubo), lord Delryv ha impresionado incluso a los miembros de su familia al encargarse de los recientes desafíos. Lord Delryv tiene tan sólo veinticuatro años, y recientemente ha heredado las fincas de su padre. Es uno de los pocos parientes (lejanos) del rey di la Martyn que queda con vida, y por tanto es uno de los posibles aspirantes al trono llaelesiano. Por esta razón su familia se ha mantenido en el anonimato durante el "gobierno" de Glabryn. Si no hubiera sido por la invasión, probablemente Gregore habría llevado la vida sosegada de un consentido señor vinatero, marcada tan sólo por su temperamento impulsivo y su tendencia a provocar duelos de honor. Sin embargo, desde la ejecución de su señor, el archiduque Balen di Voxsauny, ha demostrado su valía como protector de los refugiados y patriota de Llael. Abrió Voxsauny a aquellos que buscaran protección de los ocupadores y ha puesto a toda la población a trabajar construyendo defensas y albergues para los desplazados .
 
 
-
 #### Lugares de Rhydden* 
 
 **Maderera Boscoriental:** Aunque es más famosa por sus vinos, Rhydden también es importante por su madera. Boscoriental, la más próspera de las tres principales compañías de explotación forestal, emplea a muchas personas honradas y trabajadoras. Por desgracia cada vez ha sido más difícil cumplir las cuotas, sobre todo dada la necesidad de alojamiento para los refugiados. Para satisfacer los pedidos, los leñadores se han visto obligados a aventurarse al este y al sur en territorio prohibido. Recientemente un grupo cruzó la frontera con Ios y regresó con media docena de hombres menos. Ahora la comunidad de Rhydden se encuentra en un estado de tensión, furia y miedo .
-
 
 
 > **¿PROTEGIDOS POR IOS?**
@@ -513,7 +490,6 @@ El suelo aquí no es tan fértil como parece. Aun así, los vinos de Rhydden se 
 > 
 
 * **Capilla del ascendido Gordenn de Rhydden:** El grueso pero trabajador prelado Giusef Escovar (varón rynio Clr7) supervisa esta modesta iglesia. Su capilla pastoral está situada fuera de la ciudad, en una antigua granja convertida al servicio religioso. Sus subordinados y él se mantienen ocupados ayudando a los refugiados, despejando la tierra y cultivando cosechas para alimentar al abrumado pueblo .
-
 
 
 ### RYNYR* **
@@ -532,7 +508,6 @@ El pueblo está separado del suelo en su mayor parte, debido al intenso calor qu
 
 
 * **Posadnik Igor Vojinovich (varón khardio Ext9):** El posadnik Vojinovich es un oportunista kayaz que viajó al este para hacer una fortuna tras el inicio de la invasión. Ayudaba a supervisar la extracción del polvo rojo en la volozk de Tverkatka, en el centro de Khador. Con el apoyo del ejército khadorano dirige este pueblo y ha aumentado considerablemente su productividad. A Vojinovich le preocupa exclusivamente su trabajo y ha dejado el gobierno de la ciudad en manos de lord d'Myr .
-
 
 
 #### Lugares de Rynyr* 

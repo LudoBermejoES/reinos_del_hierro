@@ -91,7 +91,6 @@ Leyenda y Ubicaciones)**Ubicaciones Principales:**
 **Morovan** 
 
 
-
 **Recursos e Industria:**
 
 * Cultivos industriales y de consumo
@@ -103,7 +102,6 @@ Leyenda y Ubicaciones)**Ubicaciones Principales:**
 * Refinerías de hierro y acero
 * Astilleros
 * Hierro, Madera, Metales industriales .
-
 
 
 ---
@@ -168,7 +166,6 @@ Leyenda y Ubicaciones)**Ubicaciones Principales:**
 **Hathorung** 
 
 
-
 **Recursos e Industria:**
 
 * Cultivos de consumo
@@ -194,7 +191,6 @@ Leyenda y Ubicaciones)**Ubicaciones Principales:**
 * Refinerías de hierro y acero
 * Hierro, Madera, Piedras preciosas
 * Metales preciosos e industriales .
-
 
 
 ---
@@ -228,7 +224,6 @@ Desde luego no es ningún secreto que Toruk tiene planes para Immoren occidental
 * **Terreno:** Montañas elevadas e irregulares con densa jungla y pantanos en las tierras bajas; el litoral está formado principalmente por acantilados salpicados de grutas marinas y arcadas, y está bordeado por elevadas chimeneas marinas y arrecifes afilados como cuchillas.
 * 
 **Recursos Naturales:** Necrotita, madera, piedra, azufre, carbón, sal, flora tropical rara y peligrosa, depósitos limitados de hierro, cobre y estaño .
-
 
 
 > **¿QUÉ ES LA NECROTITA?**
@@ -272,7 +267,6 @@ Robar tecnología es ciertamente una tradición en Cryx. Cuando los orgoth fuero
 **Exportaciones:** Artículos de mercado negro, productos alquímicos y drogas ilegales, productos manufacturados .
 
 
-
 La orilla oriental de Cryx está hendida por un ominoso fiordo de acantilados escarpados con una caída de casi mil pies hasta las aguas negras y opacas. Los bogrin y troloides que viven en la zona dicen que es aquí donde el Wurm Devorador hundió sus mandíbulas para sujetar a Dhunia mientras los engendraba. La ciudad de Agua Negra reposa sobre una estrecha franja de costa con forma de media luna, bajo las amenazadoras paredes negras del fiordo, y rezuma como un tumor fungoso de ladrillo y madera putrefacta sobre las aguas en las que flotan la mitad de los edificios de la ciudad sostenidos por pontones o pilotes. Cada día la luz del sol sólo atraviesa los árboles caídos y cubiertos de musgo del fiordo durante menos de una hora para tocar a la oscurecida ciudad, y pocas veces está el cielo despejado de nubes. Es realmente un lugar sombrío, tanto en aspecto como en hechos .
 
 Antes de la llegada de Toruk, Agua Negra era una ciudad portuaria gobernada por los legendarios reyes piratas de antaño, y esta abarrotada ciénaga de maldad y depravación siempre ha sido motivo de un perverso orgullo para Cryx. Muchas embarcaciones atraviesan la ciudad, anegándola con los botines saqueados en Immoren occidental. Durante los últimos siglos la población de Agua Negra se ha multiplicado por diez, y la ciudad ha crecido mucho más allá de sus límites naturales. Para acomodar al exceso de población se han levantado grandes suburbios en las afueras de la ciudad, cuyos habitantes viven en la miseria y sucumben a las enfermedades o a los ataques de sus malintencionados vecinos .
@@ -297,7 +291,6 @@ La ciudad está gobernada por Craethan Morvaen, un poderoso rey pirata que reivi
 * **Lord Craethan Morvaen (varón schardense Gue12/Per7):** Lord Morvaen, un rey pirata de pura cepa, es el hombre más poderoso de Agua Negra y casi nunca se le ve en el exterior sin la compañía de la Vieja Bruja Gaddis Naill (mujer schardense Per4/Mag11). Morvaen asumió el control de la ciudad hace ocho años tras eliminar a sus rivales en una serie de asesinatos. Desde aquel entonces, se ha aferrado despiadadamente al poder mediante la intimidación y la fuerza bruta. Aplica impuestos a todas las operaciones y negocios de la ciudad, así como a todos los navíos que entran en el puerto (salvo a los barcos negros, que son demasiado poderosos para ser amenazados). No pagar a los agentes de Morvaen suele considerarse un suicidio, ya que está obligado a tratar a su vez con los agentes del Padre Dragón que acuden para recaudar su pago. Lord Morvaen tiene contratadas a varias compañías de mercenarios. La más conocida de todas ellas es la compañía troloide conocida como los Garras Ensangrentadas, capitaneada por Jussika Lenguasangrienta (mujer troloide Gue8/Per8). Morvaen los despliega impunemente como grupo de asalto privado para liquidar a cualquier posible rival o a aquellos de los que desea vengarse .
 
 
-
 **Lugares de Agua Negra**
 
 * **Catacumbas:** Excavadas en un lado del fiordo frente a la ciudad, estas enrevesadas cavernas y tumbas son el hogar de docenas de necromecánicos y necrocirujanos. Las catacumbas están llenas de pedazos y partes de miles de seres vivos y muertos y de los nauseabundos componentes mecánikos requeridos para el montaje de las obras maestras necróticas. Es un lugar rancio, que sirve a propósitos siniestros e insensibles, y los esclavos sirvientes corren y se tambalean de un lado para otro constantemente. Los seres dementes que trabajan en las catacumbas casi nunca se aventuran al exterior, salvo para adquirir especímenes frescos en el Mercado de Carne .
@@ -319,7 +312,6 @@ La ciudad está gobernada por Craethan Morvaen, un poderoso rey pirata que reivi
 
 
 * **Templo del Padre Dragón:** Una obra maestra de la ingeniería cryxiana, la construcción de esta estructura de belleza lúgubre fue claramente un minucioso trabajo con amor, llevado a cabo por fanáticos de primer orden. El exterior de su aguja principal, conocida localmente como la Torre de Toruk, está cubierto de una miríada de tallas draconianas así como de evocadoras imágenes de torturados hasta la muerte. El templo es la estructura más alta de Agua Negra y posee una gargantuesca campana que tañe en plena noche para convocar a los fieles a los servicios de adoración en honor a Toruk. El templo está supervisado por Tsserik Blathe (varón schardense Clr15) y sus iniciados oscuros .
-
 
 
 #### BOCA DEL DREGG
@@ -354,7 +346,6 @@ Boca del Dregg está protegida por unas gruesas paredes rocosas reforzadas con b
 * **Lord capitana Derevnia Vrace (mujer schardense Gue15):** Aunque entorpecida por la edad y por los rigores de la guerra, la capitana Vrace posee una reserva de fuerza que la ha convertido en leyenda entre los piratas de Cryx. Tras perder su ojo derecho y gran parte de su rostro durante un encarnizado combate naval frente a las costas de Cygnar, cerca de Nueva Larkholm, Vrace se retiró para encargarse del gobierno de Boca del Dregg. Representa los intereses de los lores liche, lo cual le confiere una inmensa autoridad, y en Boca del Dregg su palabra es la ley. Todos los mercenarios de la ciudad deben responder ante Derevnia, a quien llaman "la Dama de Hierro". La mayoría de los lugareños están aterrorizados por su sombrío ánimo, en especial desde que ordenó que tripulaciones enteras fueran flageladas hasta la muerte por infracciones mínimas .
 
 
-
 #### Lugares de Boca del Dregg* 
 
 **Cavernas del Padre:** Una parte de las cuevas marinas que hay bajo Boca del Dregg se han consagrado al culto a Toruk. Estas cámaras sagradas escupen luz procedentes de repugnantes hogueras encendidas día y noche. Unos monstruosos escalones tallados en la roca conducen desde una hilera de muelles hasta las amplias entradas de las cavernas. Por dentro, éstas son más grandes que la mayoría de las catedrales o templos del continente consagrados a los dioses menores y más lejanos de Urcaen. Las paredes de la cámara principal están adornadas con relieves colosales que describen a lord Toruk, Su triunfo eterno sobre la muerte y la mortalidad, las recompensas que aguardan a aquellos que le sirvan bien, y los castigos para aquellos que le traicionen .
@@ -366,7 +357,6 @@ Boca del Dregg está protegida por unas gruesas paredes rocosas reforzadas con b
 * **La Plataforma:** La monstruosa instalación conocida sencillamente como "Plataforma" es una pesadilla de acero, vapor y hollín. Construido sobre un muelle reforzado que sobresale adentrándose en la Cala de los Cráneos Hendidos, este edificio extrae grandes cantidades de agua para las calderas que mueven la maquinaria que procesa la necrotita. Dentro de su humeante recinto, humanos y esclavos son explotados para asegurarse de que los hornos de almas de Cryx reciban el combustible necesario. Accionadores mecánikos, pistones a vapor y rechinantes engranajes entrechocan en una tremenda profusión industrial que se suma al caos del lugar. Mantener en funcionamiento las cadenas de montaje es el principal objetivo de los supervisores que trabajan en la Plataforma, y sacrificarán cualquier cosa (incluyendo sus obreros) para asegurarse de que la producción no se ve impedida .
 
 
-
 #### SKELL
 
 En el poder:** Lord Toruk y los lores liche.
@@ -375,7 +365,6 @@ En el poder:** Lord Toruk y los lores liche.
 * **Importaciones:** Ninguna.
 * 
 **Exportaciones:** Ninguna .
-
 
 
 La capital del Imperio de Pesadilla es un laberinto de titánicos edificios de piedra que se alzan sobre unas calles extrañamente vacías. De hecho, toda Skell podría considerarse un templo negro consagrado al poder imperecedero del Padre de los Dragones. Es el hogar del clero negro de Toruk, que se congrega al completo para cantar Sus alabanzas día y noche en innumerables templos y santuarios. Todos los que viven aquí están directamente vinculados de alguna forma al servicio y adoración del Padre Dragón: los lores liche gobiernan Cryx, las brujas guerreras aprenden su tenebroso arte, y la muerte acecha en las calles tenuemente iluminadas .
@@ -392,14 +381,12 @@ Los forasteros no son bienvenidos en Skell, aunque muy pocos se adentrarían vol
 * **Maestra necromecánica Mortenebra ("mujer" liche de hierro Mka15/Clr4):** Habiendo purgado hace mucho de su memoria todo detalle de su vida mortal, Mortenebra ha dedicado fanáticamente su no-vida a la investigación de lo arcano. La liche de hierro opera desde las afueras de la ciudad, supervisando a una gran cantidad de necromecánicos y esclavos que la ayudan en todo tipo de experimentos viles. Mientras trabaja, Mortenebra tiene tendencia a recitar continuamente oraciones al Padre Dragón con su cavernosa y rechinante voz metálica de liche. Está obsesionada con encontrar artefactos en el continente, y sus agentes suelen enfrentarse con cierta regularidad a miembros del Aquelarre de los Señores Grises en los distantes emplazamientos de ruinas orgoth. Mortenebra suele adquirir reliquias a los contrabandistas que llegan a la isla. Casi nunca sale de los confines de su laboratorio, por lo que confía estos negocios a su esclavo skarlock Deryliss, que goza de una inteligencia excepcional .
 
 
-
 #### Lugares de Skell* 
 
 **Templo Negro:** La mayor casa de adoración dedicada al Padre Dragón. Este monstruoso complejo sepulcral con multitud de bóvedas es una maravilla de diseño oscuro. El Templo Negro, que domina el paisaje de Skell, se alza sobre la ciudad desde una gran colina rocosa. Algunos visitantes han llegado a caer de rodillas sollozando al contemplar por primera vez su ensombrecido interior. Obviamente diseñado para acomodar el inmenso corpachón del Padre Dragón, las dimensiones del Templo inspiran al espectador una poderosa sensación de insignificancia ante tan sobrecogedora majestuosidad. El lugar está cubierto de una fantástica diversidad de ornamentos puntiagudos y retorcidos alineados en las inmensas paredes hasta donde alcanza la vista. El edificio siempre parece estar vacío, pues no hay congregación de fieles lo bastante grande para llenarlo. Es un lugar horriblemente infectado, y todo el que pase cualquier cantidad de tiempo en uno de sus impíos servicios se irá física o espiritualmente alterado de alguna forma .
 
 
 * **Ciudadela de Toruk:** Esta negra aguja de metal y hueso infectados se alza a gran altura. El cúmulo de nubes de ceniza y hollín que ocultan al edificio de la vista cubren delicadamente la ciudad como si fuera un invierno nevoso perpetuo. La entrada está sellada por dos enormes puertas de ébano de cincuenta pies de altura, que nunca se cierran ni tienen centinelas. Realmente hay muy pocos lo bastante estúpidos como para entrar, y mucho menos sin haber sido invitados. En este lugar la desolación del lord Dragón flota como una espesa bruma en el aire, y sólo aquellos de voluntad fuerte pueden contemplar durante largo rato la altísima aguja. Las únicas almas a las que se permite vagar libremente por la ciudadela son los lores liche y sus sirvientes de mayor confianza. Los clérigos de Toruk no entran casi nunca, pues prefieren respetar la intimidad del dios viviente. Si los necesita, Él los llamará .
-
 
 
 ### LUGARES DE INTERÉS
@@ -417,7 +404,6 @@ Castillo Moorcraig:** Cuando lord Toruk reclamó las islas Scharde como Su poses
 
 
 * **Los Pozos:** Totalmente consumidas por la densa jungla que cubre la región, las musgosas ruinas conocidas como Los Pozos llevaban ya largo tiempo abandonadas antes de que Toruk llegase a Cryx. Aunque el lugar y la calamidad que lo destruyó se han perdido en el tiempo, las desmoronadas murallas y restantes desperdicios indican que en el pasado fue una fortaleza de tamaño descomunal. Los Pozos fueron llamados así por los abundantes depósitos de huesos gigantescos que cubrían el terreno de la jungla, lo cual hizo que la zona se convirtiera en destino habitual de necromecánicos en busca de materiales cadavéricos para sus horribles experimentos. Este vil y retorcido lugar está absolutamente infectado y prácticamente todos los habitantes vivos del Imperio de Pesadilla lo evitan .
-
 
 
 ### LAS ISLAS SCHARDE Y LA COSTA QUEBRADA
@@ -524,7 +510,6 @@ El mal que asola Ios se debe a la desaparición de sus deidades. Ellos llaman al
 **Scyrah:** Nyss-Scyir de la Primavera, Sanadora de los Dioses .
 
 
-
 ### LOS SIN ALMA Y LA GUERRA ENTRE CASAS
 
 Cada vez nacen más elfos sin alma, como demostró el antiguo *narcissar* de la casa Vyre, el cónsul mayor Ghyrrshyld de la Corte Consular, al matar ante sus miembros a un niño elfo en el año 579 d.R. y dar comienzo a una cruzada responsable del asesinato de más de dos mil bebés. Esto provocó la Guerra entre Casas (581-584 d.R.), un amargo conflicto civil que sumió a Ios en el caos cuando las fuerzas de Ghyrrshyld se enfrentaron a una alianza formada por las altas casas. Después de tres años de brutales derramamientos de sangre, el ejército del cónsul mayor fue derrotado por la alianza, Ghyrrshyld desapareció sin dejar rastro y los ionenses se avergonzaron y desesperaron aún más .
@@ -551,7 +536,6 @@ Otra organización en activo es la denominada Castigo de Scyrah. Según los edic
 * **Terreno:** Colinas onduladas cubiertas de bosques, montañas escarpadas (Picos Ionenses al sur) con una meseta central de colinas sinuosas y pequeños arroyos.
 * 
 **Recursos Naturales:** Tierras de cultivo, carbón, mena de hierro, madera, sal, pesca .
-
 
 
 ### LA CORTE CONSULAR
@@ -612,7 +596,6 @@ Aiesyn:** Integrada por grandes constructores, esta *hallyntyr* se remonta a la 
 * **Yrryel:** La especialidad de esta casa es el comercio y los intereses económicos. Los agentes de Yrryel son los contables y archivistas de las arcas de la Corte Consular. También controlan la mayor parte (pero no todo) del sistema bancario y de préstamos monetarios en Ios. La segunda característica de Yrryel son probablemente sus cartógrafos (y, en secreto, sus espías). De hecho, sólo los cargos superiores de la casa comprenden que los agentes de Yrryel son los principales recabadores de información del mundo exterior para Ios. Por desgracia para esta casa, su poder está menguando desde que se cerraron las fronteras .
 
 
-
 > **LA GUERRA ENTRE CASAS**
 > La casa de Vyre se halla de alguna forma enemistada con la mayoría de las demás casas, pues su antiguo *narcissar*, el cónsul mayor Ghyrrshyld, instigó la Guerra entre Casas en la que Vyre y otras casas menores se enfrentaron durante tres años contra las casas de Ellowuyr, Nyarr, Silowuyr y Shyeel. Fue durante esta guerra que la casa de Vyre no sólo tomó como rehén a la mayoría de la Corte Consular, sino que también introdujo su propia línea de mirmidones en el campo de batalla. Una vez derrotado el cónsul Ghyrrshyld en la batalla final en Shyrr, desapareció. La casa de Vyre se aplacó en aquel mismo día, y la guerra finalizó bruscamente .
 > 
@@ -648,7 +631,6 @@ En ionense, "ithyl" significa "corazón". Cuando los elfos se asentaron en Ios p
 * **SCYRATHYL:** Scyrathyl era el antiguo dominio de Scyrah en el pasado. La región incluye la ciudad de Iryss y las colinas boscosas del norte en la frontera con Rhul, llegando casi a la Puerta de las Tormentas. Limita al sur con el Nudo y los claros poblados de árboles del sur de Iryss, y contiene un corto trecho de territorio despejado alrededor de la ciudad en el que se hallan algunos de los terrenos mejor cultivables del reino. Gran parte de ésta se halla cubierta de extensos huertos mantenidos por la casa de Syllrynal .
 
 
-
 ### PRINCIPALES CIUDADES
 
 #### IRYSS* **Organismo de gobierno:** El Ministerio de Scyrathyl.
@@ -657,7 +639,6 @@ En ionense, "ithyl" significa "corazón". Cuando los elfos se asentaron en Ios p
 * **Importaciones:** Artículos militares, madera, piedra, armas y armaduras.
 * 
 **Exportaciones:** Cereales, telas finas, vidrio, hierbas, ganado, sal .
-
 
 
 Originalmente el hogar de Scyrah y emplazamiento de su Gran Próstilo, Iryss es la segunda mayor ciudad de Ios y alberga una amplia mayoría de población militar. Desde los tiempos de la Guerra entre Casas la población civil de las zonas exteriores ha menguado. Ahora los límites de Iryss se están expandiendo con enormes fortificaciones y barracones en los que están representadas las cinco *hallyntyrs* militares. Las batallas que transcurrieron en y alrededor de Iryss hace menos de treinta años han afectado profundamente a la apariencia de la ciudad. La arquitectura aún muestra quemaduras de los diversos fuegos, y sólo el Gran Próstilo de Scyrah y el Syljardín parecen haberse librado del daño. Los constructores de la casa de Aiesyn restauraron la mayoría de los edificios, pero muchos de los edificios menores están prácticamente intactos. Iryss es famosa por sus muchas zonas verdes y frondosos parques, debidos principalmente a los esfuerzos de la casa de Syllrynal .
@@ -677,7 +658,6 @@ Lo que puede que los visitantes no lleguen a descubrir es que bajo el corazón d
 * **Maestro adivinador Vyrillis Yryas (varón ionense Adv20):** Aunque envejece rápidamente, el fundador de la secta de los Buscadores aún está activo y vive cerca de Iryss. El santuario y base de sus investigaciones se halla en realidad a varias millas al sur de la ciudad, aunque tiene varios edificios en Iryss y algunas veces se adentra en ella disfrazado de anciano mercader de libros raros. Vyrillis sigue intentando reunir indicios y profecías con la esperanza de descubrir una cura para Scyrah y restaurar a los Desvanecidos. Su secta ha sido prohibida por el próstilo de Scyrah pero cuenta con muchos simpatizantes. Se le ha condenado a muerte por promover el robo de tomos sagrados del próstilo de Scyrah y por romper la reciente prohibición de comercio o contacto con extranjeros .
 
 
-
 **Lugares de Iryss**
 
 * **Gran Próstilo de Scyrah:** Cuando los ocho dioses vivían entre los elfos en Ios, este palacio y jardín era la morada de Scyrah. Cuando regresó sola en el 34 a.R., fue a Shyrr para ocupar su puesto de regente. Sin embargo, su próstilo se ha conservado en el transcurso de los siglos como uno de los lugares más sagrados de Ios. Aquellos que sirven en él cuidan del recinto como si Scyrah aún viviera en él. El edificio en sí es bastante parecido al Gran Próstilo de Lacyr, aunque es ligeramente más pequeño y tiene motivos ornamentales de Scyrah en lugar de Lacyr. Este próstilo cumple una importante función como centro de aprendizaje para aquellos que pueden llegar a servir a la diosa algún día en el próstilo de Shyrr. Su supervisora es la *nis-telmyr* Veliyse Lovyrr (mujer ionense Clr15), una de las clérigos más ancianas del próstilo .
@@ -689,7 +669,6 @@ Lo que puede que los visitantes no lleguen a descubrir es que bajo el corazón d
 * **Syljardín:** En el centro del distrito de Syljardín se halla la finca Syllrynal de cincuenta pies de altura, con sus muros de piedra e hierro y sus edificios de mármol con vetas azules y cúpulas de cristal. El paisaje que rodea la finca ostenta posiblemente los más impresionantes jardines de Immoren occidental. Floridos árboles, frutales y plantas de todas las variedades crecen y cuelgan por todas partes. Pero los Syllrynal no sólo están versados en la belleza, y el mayor de los diversos invernaderos con forma de cúpula luce discretamente el sello secreto de la diosa Lyliss, que debe ser activado para poder entrar en él. Dentro hay una pasmosa variedad de hojas venenosas, tóxicas y en general muy potentes .
 
 
-
 #### LYNSHYNAL
 
 Organismo de gobierno:** El Ministerio de Lurynthyl.
@@ -698,7 +677,6 @@ Organismo de gobierno:** El Ministerio de Lurynthyl.
 * **Importaciones:** Tejidos, vidrio, ganado.
 * 
 **Exportaciones:** Pieles, hierro, artículos de metal, piedra, madera .
-
 
 
 Lynshynal es una ciudad de elevadas murallas con cinco entradas principales. Situada en lo profundo de las tierras salvajes de Ios y envuelta en la intimidad del Bosque Ramarqueada, Lynshynal se ha convertido en el hogar de algunos de los mejores arcanistas y armeros de toda Ios. La ciudad es el baluarte de la casa de Shyeel y una de las principales productoras de mirmidones. De hecho, la Corte Consular se esfuerza por mantener Lynshynal protegida y oculta de los curiosos ojos extranjeros. La ciudad está oculta bajo las copas del Ramarqueada, pero emite un resplandor continuo procedente de las llameantes forjas de las casas de herreros .
@@ -718,14 +696,12 @@ La casa de Shyeel y la de Vyre colaboran a menudo en grandes proyectos, pero las
 * **Rylvyn Thanayis (varón ionense Ext8/Gue3/Mag8):** El consejero Thanayis es alto y esbelto, incluso para ser ionense, y su rostro tiene un aspecto cadavérico y está rematado por cabellos de color blanco hueso. Es miembro de la casa de Eyvreyn y un importante juez en la ciudad. Su conducta es enérgica y tiene facilidad para intimidar a los que le rodean. Lo cierto es que las investigaciones del consejero están algo estancadas y agradecería algo de ayuda, aunque con reservas y con cierto grado de prudencia .
 
 
-
 **Lugares de Lynshynal**
 
 * **Herramientas de Shyeel:** Esta "tienda" de lujosa decoración tiene a la venta armas y armamento que no se han destinado a la defensa del reino. En muchos casos son considerablemente inferiores al equipamiento de grado militar, pero aun así siguen siendo herramientas de guerra costosas y de buena factura disponibles para individuos sin problemas de dinero. Además de artículos más exóticos, pueden proporcionar una línea de hojas consideradas obras maestras, totalmente personalizadas para el usuario y decoradas con gemas poco habituales. La tienda está dirigida por Helfyl Ghyarr (varón ionense Ext7/Per5), un experto joyero y vendedor con pico de oro. Las espadas personalizadas las fabrica su esposa Lylsyll (mujer ionense Ext12/Gue3), reconocida como una de las mejores armeras de Ios .
 
 
 * **Palystra:** Los espadachines de Ellowuyr se entrenan tanto en cuerpo como en mente. Sus guerreros han sido adiestrados en Lynshynal desde los primeros días de la ciudad en la Palystra que hay tras su *falythi*. Se les enseña el significado de la victoria en combate y las consecuencias de la derrota. La Palystra, que se traduce aproximadamente por "lugar de combate", está rodeada por largos edificios que contienen no sólo meros centros para cada clase de ejercicio, sino también un inmenso patio central, un estadio, baños, atrios con empizarrados para entrenar cuando hace mal tiempo, y atrios exteriores donde los eruditos de la casa dan conferencias abiertas y realizan debates .
-
 
 
 #### SHYRR
@@ -736,7 +712,6 @@ Organismo de gobierno:** La Corte Consular de Ios.
 * **Importaciones:** Productos industriales, hierro, piedra, madera.
 * 
 **Exportaciones:** Cereales, tela, vidrio, ganado .
-
 
 
 Shyrr es una ciudad de estructuras pétreas imponentes tanto en escala como en diseño, cada una de ellas ensamblada con un grado de precisión y cuidado por el detalle asombrosos. Las piedras utilizadas para construir la ciudad tienen complejas tallas de diminutos detalles y están cubiertas de brillantes runas que palpitan confiriendo al lugar una ilusión de vida. Como capital de Ios, Shyrr no sólo es la sede de la Corte Consular, sino que es también el hogar de la diosa Scyrah. La mayoría de las *hallyntyrs* mayores tienen *falythi* palaciegas en las afueras de la ciudad .
@@ -759,7 +734,6 @@ Gran Próstilo de Lacyr:** Aún llamado así en honor al *narcissar* de la Corte
 
 
 * **Cristalería Scyfehyr:** Gyvlis Scyfehyr (varón ionense Ext16) es un anciano elfo que ha enseñado su arte tanto a su hijo como a su hija, ambos reconocidos por derecho propio como soberbios vidrieros. En las pasadas décadas el vidrio Scyfehyr se exportaba fuera de Ios, y puede hallarse en mansiones de nobles en Llael y Cygnar. Aunque más conocida por sus artísticas obras maestras, los productos más vendidos de esta tienda son lentes y espejos sin defectos y extremadamente precisos, aptos para aplicaciones arcanas. Sabiendo que tales lentes están muy solicitadas por grupos humanos como la Orden Fraternal, Gyvlis está en contra de la política fronteriza de su nación. Aunque es una grave infracción de la ley, ha cerrado acuerdos secretos con algunos elfos intrépidos para devolver su obra a los mercados extranjeros. Su hija Kylshir está implicada y dispuesta a restaurar la fortuna familiar, pero ninguno de los dos tiene ni idea de que los contrabandistas son en realidad Buscadores que esperan utilizar estos acuerdos como tapadera para sus investigaciones en el extranjero .
-
 
 
 ### LUGARES DE INTERÉS (IOS)
@@ -792,7 +766,6 @@ Aeryth Guardia del Alba:** Esta ominosa fortaleza de piedra es una de las propie
 
 
 * **Arco Lunar:** El Arco Lunar era un gran artefacto de escrutinio construido para localizar a los Desvanecidos. Consiste en un arco inmenso que cruza un enorme estanque. Conforme las lunas se sitúan sobre el arco, mueven las aguas en varias direcciones recreando escenas e imágenes de lugares remotos, y el poder del arco aumenta y disminuye con las mareas. El arco fue abandonado cuando no se logró encontrar con él a los dioses después de centenares de intentos. El lugar sigue bajo el cuidado de miembros de la secta de los Buscadores, que aún creen que el Arco Lunar puede resultar útil para localizar a los dioses perdidos. El sectario de mayor rango de la zona es Shaela Hallyr (mujer ionense Clr12/Mag6) .
-
 
 
 ---
@@ -837,7 +810,6 @@ Gobernantes:** Los Señores de la Piedra.
 * **Terreno:** Principalmente montañoso con una tundra ártica al norte y un gran lago central rodeado por fértiles valles y llanuras. A lo largo de las riberas de este lago brotan varios ríos mayores que bajan desde los valles de las montañas.
 * 
 **Recursos Naturales:** Oro, hierro, carbón, cobre, plata, piedras preciosas, estaño, cuarzo, granito, mármol, cantidades limitadas de madera, pocas superficies de tierra cultivable .
-
 
 
 ### LOS SEÑORES DE LA PIEDRA Y LA JERARQUÍA RHÚLICA
@@ -895,7 +867,6 @@ La mayoría de los ogrun rhulianos son miembros plenos de clanes enanos y por ta
 * **RODASAMBLEA:** El corazón del país enano se halla en el condado de Rodasamblea. Abarca todo el lago Abismo de Armas y la costa a su alrededor, exceptuando a Brunder. Ghord y Ulgar, las dos ciudades más grandes y poderosas de Rhul, son parte de este condado al igual que Lago Forja. Para la mayoría de los enanos esta zona es lo que los demás territorios y defensas han sido diseñados para proteger. También es el núcleo de la producción de alimentos, comercio e industria de Rhul .
 
 
-
 ### PRINCIPALES CIUDADES
 
 #### BRUNDER* **En el poder:** Disputado.
@@ -904,7 +875,6 @@ La mayoría de los ogrun rhulianos son miembros plenos de clanes enanos y por ta
 * **Importaciones:** Tejidos, cerveza, siervos de vapor, hierro, carbón, granito.
 * 
 **Exportaciones:** Pescado, madera, cereales, cobre, plata, estaño .
-
 
 
 Situada en las orillas del Abismo de Armas y respaldada por el impresionante pico del monte Horgul, Brunder es la ciudad de crecimiento más vertiginoso de toda Rhul. Aunque originalmente fue fundada por enanos, los ogrun de muchos cónclaves han ido trasladándose a la vida urbana en Brunder durante siglos, cambiando para siempre el aspecto de la ciudad (casi un tercio de los ogrun nativos de Rhul viven en Brunder). Los edificios y viviendas de la ciudad están construidos a una escala que facilita su acomodación, y todo tiene unas proporciones descomunales, incluyendo las puertas de grandes arcos y los techos abovedados. De hecho, muchas tabernas y demás lugares de reunión de Brunder poseen dos escalas distintas: una para los clientes de tamaño enano y otra para los ogrun .
@@ -923,14 +893,12 @@ En los últimos años Brunder ha atraído a cierta cantidad de clanes jóvenes q
 * **Korune supremo Boshuk Romperredes (varón ogrun Gue12):** Boshuk, un ogrun arrogante y ambicioso, se hace llamar "korune supremo" en un intento por intimidar a los ogrun de la ciudad para que le vean como su único líder. Aún está muy lejos de conseguir su objetivo, pero ya cuenta con el apoyo y la lealtad de más de cuatro mil ogrun. Nacido en el seno de una rica familia pesquera, Boshuk heredó de su padre una pequeña flota de barcos de pesca. Se le reconoce como un korune autorizado por la Asamblea de Ghord, lo que le confiere la misma influencia que un señor de clan. Boshuk carece de lazos ancestrales con ningún clan enano y desprecia a los ogrun que se someten ciegamente a tal servicio .
 
 
-
 **Lugares de Brunder**
 
 * **Vieja Brunder:** El cuadrante sur de la ciudad recibe el nombre de Vieja Brunder, y es el hogar de la mayor parte de la población enana y humana. Este vecindario está situado en la base del monte Horgul y se extiende hacia el interior de la montaña mediante un entramado de cavernas artificiales que incluye varias minas pequeñas pero lucrativas. Muchos enanos prósperos viven en esta zona y muestran una actitud elitista hacia aquellos que viven junto al lago, despreciando a los clanes trabajadores que pescan en el Abismo de Armas junto a los ogrun. Los túneles que hay bajo Vieja Brunder son muy extensos, y varios han sido olvidados y yacen inexplorados .
 
 
 * **Casa de Compensación de Viadro / Gaznate Remojado de Viadro:** Propiedad y empresa de Dyrmid Viadro (varón rynio Per8), estos dos edificios adyacentes situados al sur de los muelles se han convertido en el centro de las operaciones ilegales. Dyrmid es un inmigrante procedente de Llael que lleva una década viviendo en Brunder y ha llegado a ser uno de los peristas más respetados de Rhul, capaz de tratar discretamente con una amplia variedad de artículos robados a tarifas razonables. Su taberna, el Gaznate Remojado, se ha convertido en un centro de reunión para exiliados y criminales enanos y es famosa entre los refugiados e inmigrantes humanos. Se rumorea que es el mejor sitio de Brunder en el que encontrar a un miembro de la Red de Indagadores .
-
 
 
 #### DROTUHN
@@ -941,7 +909,6 @@ En el poder:** La Cámara de Mármol, dirigida por Decklin Tronacero.
 * **Importaciones:** Productos manufacturados, tejidos, trigo.
 * 
 **Exportaciones:** Oro, hierro, mármol .
-
 
 
 Al sur de las montañas Borokuhn, unas inmensas murallas de piedra y madera rodean la ciudad de Drotuhn, un fortificado pueblo circular situado en el centro de un enorme valle totalmente deforestado. Hace más de una década, sus habitantes habían despojado al valle de sus abundantes pinos y abedules, y pronto se vieron obligados a concentrar su industria en otros lugares. Así, excavaron minas en las montañas cercanas para extraer oro, hierro y el mármol de vetas verdes que se ha convertido desde entonces en el emblema no oficial de Drotuhn. El cambio a una industria minera conllevó la contratación de Armamento Ghordson .
@@ -960,14 +927,12 @@ En los últimos años Drotuhn ha vuelto a convertirse en una ciudad importante, 
 **Decklin Tronacero (varón enano Gue12):** Decklin Tronacero es el líder de la Cámara de Mármol, el consejo que gobierna Drotuhn. No obstante, su cargo no le otorga autoridad absoluta, ya que debe lidiar con los otros dos miembros del consejo que no siempre están de acuerdo con él. En general, Tronacero está interesado más que nada en asuntos mercantiles. Mantener las buenas relaciones con Khador es primordial, aun si entra en conflicto con otras consideraciones como las tradiciones y costumbres rhúlicas y una enemistad generalizada entre ambas naciones .
 
 
-
 #### Lugares de Drotuhn* 
 
 **Torre de Arkhuun:** La estructura más alta de Drotuhn es una torre construida siglos atrás por un mago enano llamado Ronik Arkhun. Después de su muerte, la inmensa torre (construida con las riquezas de su clan) fue cedida a la ciudad, que desde entonces la ha empleado como edificio civil. Es aquí donde se halla la Cámara de Mármol en la que se reúne el consejo de gobierno, además de varias salas de reunión más pequeñas para las asambleas de clanes. La torre de Arkhun es también una atracción turística menor, ya que su cumbre puede verse a millas de distancia .
 
 
 * **Rostros de Piedra:** Fuera de Drotuhn y cinceladas en la pared de una de las montañas de la cordillera de las Borokuhn hay una serie de gigantescas tallas de piedra realizadas a la imagen de los Grandes Padres de los enanos. Los habitantes de Drotuhn labraron estas caras hace siglos como acto de devoción. En aquel entonces el bosque que rodeaba a la ciudad ocultaba su penetrante mirada. Ahora que el bosque ha desaparecido, contemplan al pueblo de Drotuhn como si estuvieran juzgándolo .
-
 
 
 ### GHORD
@@ -978,7 +943,6 @@ En el poder:** La Asamblea de las Cien Casas, encabezada por los Trece Señores 
 * **Importaciones:** Cereales, pescado, otros alimentos, tejidos, madera.
 * 
 **Exportaciones:** Acero, armas, armaduras, cañones, armas de fuego, joyería fina, artículos de lujo, piedras preciosas, piedra .
-
 
 
 No hay ciudad como Ghord. Es el más antiguo baluarte de civilización de Immoren, construido piedra a piedra durante incontables siglos. Es la poderosa capital de Rhul, impregnada de la cultura y la historia enana, y el hogar de casi la mitad de la población del reino. Dos terceras partes de la ciudad se hallan por encima del suelo y forman un desconcertante laberinto de murallas, mansiones, torres y demás obras maestras de la construcción en piedra entrelazadas entre sí. La otra tercera parte está excavada en las profundidades de la montaña. Los edificios están terraplenados igual que la ciudad, que se extiende a lo largo de la empinada ladera de la montaña rocosa. El poderoso Abismo de Armas fluye hasta el fiordo que es el puerto de Ghord, en el distrito Armero .
@@ -1001,7 +965,6 @@ La Iglesia de los Padres está presente en todos los distritos, y casi todos los
 
 
 * **Capitán de Asamblea Lagdor de Gredal (varón ogrun Gue11):** Lagdor es el ogrun de mayor rango de la Guardia de la Asamblea y ha vivido toda su vida en Ghord al servicio del clan Gredal y ahora para la Asamblea. Lagdor supervisa una unidad de ogrun y enanos asignados al distrito del Martillo. Vigila muy de cerca a los extranjeros, sobre todo a los humanos y gobos no residentes, y guarda cierto resentimiento hacia estos grupos, pues los considera vulgares e irrespetuosos. Lagdor es también un ogrun muy quisquilloso, siempre lleva su armadura en condiciones prístinas y se comporta con una disciplina impecable .
-
 
 
 **TABLA 8-2: LUGARES DE GHORD**
@@ -1041,7 +1004,6 @@ La Iglesia de los Padres está presente en todos los distritos, y casi todos los
 * **Fundición Ghordson:** La Fundición Ghordson fue fundada hace casi mil años y fabrica algunos de los siervos de vapor rhúlicos más poderosos, como el Barrenador Ghordson. A diferencia de los siervos fabricados por el hombre, la mayoría de los modelos rhúlicos no están diseñados específicamente para la guerra (aunque pueden luchar si hace falta). La mayoría de los siervos de guerra producidos en esta fundición están equipados con prestaciones utilitarias para ayudar en proyectos de construcción o para levantar cargas muy pesadas .
 
 
-
 ### GUARDA GRIDDEN
 
 En el poder:** Lugen Udogor, Señor de Gridden.
@@ -1050,7 +1012,6 @@ En el poder:** Lugen Udogor, Señor de Gridden.
 * **Importaciones:** Cereales, ganado, pescado, cerveza, vino, licores, tejidos, cuero, armas, equipo de minería.
 * 
 **Exportaciones:** Diversos minerales, granito, piedra caliza, arcilla, equipo artesanal .
-
 
 
 Guarda Gridden y su ciudad hermana Guarda Grodden son ciudades fortificadas situadas estratégicamente para defender Rhul de amenazas externas. Comenzaron siendo simples fuertes tras la Fundación de Ulgar, diseñados para vigilar los únicos pasos viables a través de los Picos de Cristal hacia el Abismo de Armas. Al norte de Guarda Gridden está el gran páramo helado de las Llanuras de la Helada Ardiente, una extensa planicie hostil para la mayoría de las formas de vida. Ambas ciudades Guardas fueron ampliadas hace siete siglos cuando el dragón Scylfangen (llamado Scaefang por los humanos) comenzó a asolar la región. Scylfangen pretendía encontrar a su rival occidental Halfaug, y también arrasar los asentamientos enanos aledaños. Aunque Scylfangen no ha sido visto en más de un siglo, algunos rhulianos creen que el dragón se ha retirado a Fundación y que está actuando de nuevo .
@@ -1064,7 +1025,6 @@ Con todo, Guarda Gridden ha crecido hasta convertirse en una ciudad próspera, p
 **Lugen Udogor, Señor de Gridden (varón enano Pld13):** El Señor de Gridden Udogor es el líder tanto del clan Udogor como de la guarnición de la ciudad. Su clan surgió hace siete siglos cuando centenares de voluntarios del clan Udo encabezaron el ataque contra Scylfangen. Tras colonizar las tierras que más tarde se convertirían en Guarda Gridden, se convirtieron en el clan Udogor, y su cabecilla en el primer Señor de Gridden. Siguen una tradición que refleja la de los Señores de la Piedra, según la cual el heredero del clan hace un juramento a la Iglesia de los Padres y se convierte en un Caballero de los Patriarcas. Enano de devoción y fuerza de carácter demostrados, Lugen es el más reciente del linaje. Sueña con Scylfangen y cree que el dragón regresará mientras él viva. Aunque otros enanos se muestran confiados, él se asegura de que las defensas estén listas y obliga a los demás miembros del clan a ejercitarse duramente para la batalla. Algunos enanos le consideran un fanático porque se mantiene firme en su convicción de que el dragón mora en las profundidades de Fundación, y ha estado organizando expediciones de exploración para adentrarse en ellas .
 
 
-
 #### Lugares de Guarda Gridden* 
 
 **El Gran Mercado:** Debido al clima de la superficie, no es de extrañar que el mayor mercado de Guarda Gridden se halle bajo tierra. Esta gran cámara sirve de mercado "al aire libre" para la parte de la ciudad más cercana a la superficie, justo por debajo del túnel principal que lleva al interior de la montaña. En su centro hay montada una docena de tiendas y puestos permanentes, y numerosas tiendas de artesanía se alinean en la pared exterior. Los artículos importados desde Ghord por tren suelen ser el tópico de algarabías y regateos acalorados. El corredor central que atraviesa el Gran Mercado es el principal camino hacia la parte más profunda de Guarda Gridden, lo cual lo convierte en el lugar ideal para que los mercaderes pregonen sus mercancías .
@@ -1076,7 +1036,6 @@ Con todo, Guarda Gridden ha crecido hasta convertirse en una ciudad próspera, p
 * **Torre del Centinela:** Esta torre baja y redondeada fue erigida en el lugar más elevado de la ciudad. La cámara superior contiene un gran telescopio para otear cualquier posible peligro en la distancia, aunque su propósito original era vigilar expresamente la llegada del dragón Scylfangen. La ocupación de la torre del Centinela se considera de máxima importancia, y también un turno insoportablemente aburrido en Guarda Gridden. Por este motivo se ha instaurado una peculiar tradición según la cual esta cámara suele estar ocupada por hasta dos docenas de enanos "fuera de servicio". En un gesto de solidaridad, muchos soldados se ofrecen voluntarios en su tiempo libre para ir a la torre, compartir historias, llevarles comida y bebida, jugar a las cartas o a los dados, y en general relajarse mientras hacen turnos de guardia .
 
 
-
 ### GUARDA GRODDEN
 
 En el poder:** Señor de Grodden Fulgar Lodhurg.
@@ -1085,7 +1044,6 @@ En el poder:** Señor de Grodden Fulgar Lodhurg.
 * **Importaciones:** Cereales, carne, fruta, cerveza, licores, herramientas, armas, tejidos.
 * 
 **Exportaciones:** Madera, diversos minerales, piedra .
-
 
 
 Esta ciudad era originariamente una fortaleza construida para vigilar el paso nororiental a través de los Picos de Cristal hacia el Abismo de Armas. Al igual que ocurrió con Guarda Gridden, miles de enanos fueron alentados a trasladarse hasta aquí hace siete siglos para crear un baluarte más eficaz para Rhul. Las dos Ciudades Guardas han sido refugio para los clanes circundantes de las montañas septentrionales y lugares seguros a los que los enanos podían acudir cuando sus comunidades se veían amenazadas. En la industria local se incluyen excavaciones mineras en el monte Selgor y tala de árboles en el pequeño bosque de Valle Helado al sur de la ciudad, famoso por sus particularmente resistentes variedades de arce y abeto blanco .
@@ -1105,14 +1063,12 @@ La línea de ferrocarril que va hasta Ghord ha sufrido recientes ataques de dreg
 * **Nellith Guardapétrea (mujer enana Exp9/Per2):** Conocida por algunos como "Nell la loca", Nellith Guardapétrea es una cazadora de dreggs que pasa mucho tiempo en profundos pasadizos y cavernas buscando tales criaturas. La mayoría de los pueblerinos la evitan porque la consideran más desquiciada y perversa que un górax. Suele estar cubierta de tierra y mugre de los túneles y no le preocupa demasiado la higiene personal. Sus armas favoritas son un par de espadas largas con púas muy adecuadas para combatir en espacios cerrados. Cuando no está persiguiendo a sus odiados enemigos, a veces se la puede encontrar en la taberna subterránea Cantera Honda con cuyo propietario, Holtis Dogul, mantiene una peculiar amistad. Hace poco se encontró a Nellith allí y se le ordenó presentarse ante el Señor de Grodden, el cual le solicitó que investigara los ataques de dreggs contra el ferrocarril .
 
 
-
 #### Lugares de Guarda Grodden* 
 
 **Catedral de Grodden:** Muchos enanos todavía no saben qué pensar de esta iglesia, aunque admiten que es impresionante. Fue fundada por uno de los anteriores Señores de Grodden tras haber visitado Merywyn y la catedral de la ascendida Rowan. Está construida al estilo de las catedrales humanas y guarda muy poco parecido con las típicas iglesias enanas. Muchos enanos desaprueban los diseños humanos, mientras que otros parecen disfrutar de la gran sala abierta, las vidrieras y los techos abovedados. La catedral está supervisada por la asesora Lutave Jhord (mujer enana Clr10) .
 
 
 * **Finca Talabosques:** Hogar de uno de los clanes más ricos de Guarda Grodden, la finca Talabosques es también el núcleo de la provechosa industria maderera de la ciudad. Son los responsables de una gran parte de la explotación forestal que se lleva a cabo en el bosque de Valle Helado que está al sur y ha montado numerosos campamentos de miembros del clan allí. La finca en sí es enorme y está compuesta de muchos edificios que contienen maquinaria para convertir la madera en materiales de construcción y mobiliario. En el clan hay varios maestros carpinteros, y su trabajo se cotiza a precios muy elevados en toda Rhul. Son lo bastante ricos para poseer una docena de siervos de trabajo. El clan está resentido porque lord Shidul Talabosques (varón enano Gue7) no fue votado Señor de Grodden. Shidul odia a todo el clan Lodhurg y está decidido a arruinar a Fulgar .
-
 
 
 ### HONDONADA LEJANA
@@ -1123,7 +1079,6 @@ En el poder:** El clan Gelhurn, dirigido por el señor del clan Daggot Gelhurn.
 * **Importaciones:** Cereales, carne, cerveza, herramientas, armas, metal, madera.
 * 
 **Exportaciones:** Salmones, lucios, licores, pieles, botes .
-
 
 
 Hondonada Lejana, un pequeño pueblo junto al río Ayeres, es el último y más alejado asentamiento de enanos del nordeste de Rhul. La ciudad fue fundada en una región cobijada en la base del monte Grend, donde el viento y el río excavaron una tersa cavidad bajo las escarpadas pendientes. La montaña protege Hondonada Lejana de lo peor de las tormentas invernales, pero aun así es un lugar helado y olvidado, muy alejado de las comodidades de Ghord y del Abismo de Armas. Ninguna carretera conecta este pueblo con el resto de Rhul, por lo que el viaje de ida y vuelta se hace normalmente en bote (una peligrosa travesía, sobre todo en pleno invierno) .
@@ -1138,14 +1093,12 @@ Los lugareños afirman que un clan exiliado de criminales fundó el pueblo duran
 * **Señor de clan Daggot Gelhurn (varón enano Ari4/Gue3):** El señor de clan Daggot es un oportunista que ha tenido problemas para cumplir las expectativas de sus congéneres. El clan marcial más fuerte del pueblo siempre ha gobernado Hondonada Lejana, y durante los últimos sesenta años han sido los Gelhurn, conocidos por su habilidad tanto con el hacha como con el fusil. Lord Daggot tomó el control del clan cuando su padre falleció hace tres años, y está bastante ansioso por dejar huella .
 
 
-
 #### Lugares de Hondonada Lejana* 
 
 **Destilería de muerdehondo:** El muerdehondo es un potente licor destilado de una hierba ártica que sólo se encuentra en las frías llanuras al nordeste de Hondonada Lejana. Esta bebida es muy popular en toda Rhul, y últimamente han llegado a oídos humanos las noticias sobre la existencia de este licor, de modo que la demanda está aumentando. El clan Puldor posee y dirige esta destilería, y todo el clan está implicado en la recolección y procesamiento de la difícil planta. Cosechar esta hierba parecida a un cactus no es tarea fácil debido a sus espinas afiladas como cuchillas, a sus firmes raíces y a los peligros naturales que conlleva trabajar en las llanuras heladas. Recientemente su monopolio se ha visto amenazado por clanes rivales que desean imitar su éxito. Lokti Puldor (mujer enana Ext3/Gue7) es la matriarca del clan y lo tiene bien controlado. El muerdehondo y una amplia variedad de cervezas de importación se venden en una taberna cercana llamada La Barba en Llamas .
 
 
 * **Iglesia-bastión del Norte:** Uno de los edificios más grandes y antiguos de Hondonada Lejana, la Iglesia-bastión del Norte puede albergar a una gran congregación. Esta estructura sirve de lugar de reunión durante inviernos especialmente rigurosos, y los sacerdotes son conocidos por su generosidad. Es un edificio de la superficie, situado en el dorso de la hondonada y está muy bien resguardado. También tiene una extensa ampliación subterránea utilizada para almacenamiento, tumbas de muertos enterrados con honor, y unos cuantos pasadizos a varias partes del pueblo. La iglesia está supervisada por la asesora Heldine Lohrun (mujer enana Clr9) y su hermana Juror Peldine Lohrun (mujer enana Clr7) .
-
 
 
 ### ULGAR
@@ -1156,7 +1109,6 @@ En el poder:** La Terna (colectivo formado por los señores de los clanes Talone
 * **Importaciones:** Cereales, madera, tejidos, cerveza, siervos de trabajo, maquinaria minera.
 * 
 **Exportaciones:** Pescado, oro, plata, diversas piedras preciosas, cobre, estaño, granito, cuarzo, carbón, hierro .
-
 
 
 Las piedras angulares de Ulgar se colocaron hace treinta y seis siglos, y su historia es casi tan rica como la de su ciudad hermana Ghord. Procede de una pequeña comunidad minera que descubrió las vetas más abundantes de oro y plata de toda Rhul. Esto dio lugar a la Rebelión de las Cien Casas y provocó la discordia civil en todo el reino antes de que se instaurase la paz. Los tres clanes más poderosos de Ulgar, conocidos como la Terna, han mantenido su autoridad y monopolios desde aquellas décadas tempranas. Junto a sus conglomerados, controlan casi toda la minería del norte de Rhul y ejercen gran influencia en la Asamblea de Ghord .
@@ -1174,7 +1126,6 @@ Al igual que Ghord, la mayoría de los ciudadanos de Ulgar viven en la superfici
 * **Señor de clan Durg Martillo Forjado (varón enano Gue3/Her11):** Durg, el más autoritario de la Terna, pasa la mayor parte del tiempo en la Asamblea de Ghord representando a su clan. Vota por poderes en los asuntos de la Terna a través de su primo el juez Geduve Martillo Forjado. Su clan controla casi todas las excavaciones de hierro y plata de la ciudad .
 
 
-
 #### Lugares de Ulgar* 
 
 **Iglesia de la Montaña Abundante:** Esta antigua iglesia ha sido restaurada muchas veces con el paso de los años y la encargada de su mantenimiento es la Terna. La primera afluencia de riquezas que entró en Ulgar financió su construcción original, y hoy día sigue siendo una de las iglesias más ostentosas de Rhul. En lugar de una torre, consiste en un amplio y bajo edificio encajado en la ladera de la montaña. Pasando sus salones de mármol, braseros dorados y bancos de roble pulido, conecta con una pequeña caverna natural de cuarzo, feldespato y un filón de oro sin explotar que se considera sagrado. La iglesia y el clero de la ciudad están dirigidos por la jueza Geduve Martillo Forjado (mujer enana Clr15), prima mayor del señor de clan .
@@ -1187,7 +1138,6 @@ Al igual que Ghord, la mayoría de los ciudadanos de Ulgar viven en la superfici
 
 
 * **Metalurgia exquisita Martillo Forjado:** Este taller produce parte del mejor acero de Ulgar, forjado en equipo minero, armas y piezas de siervos de vapor con calidad magistral. Aunque el metal de Martillo Forjado no es tan famoso ni valioso como el acero sérrico, sigue siendo el mejor equivalente producido en el lugar, y el clan siempre está experimentando aleaciones nuevas para superar al clan Serric. Se han labrado una reputación gracias a sus martillos, picos y palas de calidad excepcional. El taller está dirigido por Duwurk Martillo Forjado (varón enano Mka8/Ext10), uno de los trabajadores del metal más capacitados de Ulgar .
-
 
 
 ### LUGARES DE INTERÉS (RHUL)
@@ -1227,7 +1177,6 @@ Los habitantes más notorios de la Piedra Sangrienta últimamente son los skorne
 **Exportaciones:** Mena de hierro .
 
 
-
 El Risco de Ternon, un pueblo azotado por el viento y situado en las orillas de las malolientes aguas del río Farallón en la entrada de la Brecha de Ramagris, es el último pilar de civilización en los márgenes de la amplia marca de la Piedra Sangrienta. Sus arenosas calles y callejones abiertos están pobladas de mulas de carga, recios caballos y el ocasional siervo de trabajo faenando aquí o allá. El pueblo del Risco es a veces reservado e intrigante, y a menudo transitorio: la mayoría son buscadores y avezados cazadores de tesoros en busca de riquezas. Se han encontrado diamantes en las montañas y depresiones que rodean al barranco de cien millas, pero muy pocos llaman hogar al Risco durante mucho tiempo .
 
 Los diamantes son muy difíciles de encontrar, y los que lo hacen acaban enzarzados en peleas con otros buscadores, por no mencionar los constantes estallidos climáticos y demás peculiaridades que tienen lugar en la Marca. Son razones de peso para buscarse la vida en cualquier otra parte; es decir, si se vive lo bastante en el Risco de Ternon como para llegar a tomar la decisión de marcharse. No obstante, el atractivo de las riquezas ocultas hace que más de un loco se quede en el Risco. Se dice que en los últimos años se han hallado gemas del tamaño del puño de un hombre en el Farallón, por lo que los cazadores de tesoros acampan en las orillas del profundo y oscuro lago Scarleforth o en las ruinas del Castillo de las Llaves .
@@ -1242,7 +1191,6 @@ Estos buscadores casi nunca regresan con otra cosa que no sea un caso de viruela
 * **"Viejo Thom" Jaspers (varón caspiano Ext8):** El Risco comenzó, sobrevivió y siempre estará considerado como un pueblo minero. Una de sus más conocidas historias de éxito es la de Thomas Jaspers. Jaspers llegó al Risco con tan sólo un pico y una saca de arpillera en busca de riquezas (y para huir de los poderosos amigos de los prestamistas de los bajos fondos de Llael y Cygnar). Pasó los primeros doce años en el Risco empobrecido y sin hogar, pero en el 574 d.R. halló un filón de hierro puro tan profundo que aún se sigue excavando hoy día. Ahora el viejo Thom es uno de los hombres más ricos del Risco y posee más de un campamento minero, aunque todavía suele coger una lámpara e inspeccionar las minas con sus propios ojos .
 
 
-
 #### Lugares del Risco de Ternon* 
 
 **El Patrón Oro:** El mejor comedero del Risco, lo cual significa que sirven comidas calientes y bebidas frías, que no envenenan a sus clientes a propósito y que dan bien el cambio cuando cobran. La comida más destacable de todas las que prepara y sirve el propietario y cocinero Drewson Cabe (varón midlundense Ext5/Per2) es el ingenioso y alarmantemente caro "filete de rata de las arenas servido sobre una base de huevos de lamprea de la Piedra Sangrienta". Esta comida es sumamente nutritiva; algunos murmuran que posee propiedades tonificantes para los hombres y que mejora la fertilidad de la mujer .
@@ -1252,7 +1200,6 @@ Estos buscadores casi nunca regresan con otra cosa que no sea un caso de viruela
 
 
 * **Reducto de Cordura:** La mayor cantina del Risco de Ternon (y la más bullanguera) es el Reducto de Cordura, poseída, dirigida y vigilada por un viejo veterano de guerra llamado Nikolo (varón khardio Gue12), un tipo huraño de enmarañada barba y con cojera. No le gusta hablar de sus numerosas cicatrices ni del hacha de batalla expertamente tallada que cuelga sobre sus barriles dispensadores (un arma exquisita hecha de acero y bronce adornada con el sello real de Khador), y desde luego tampoco del conflicto entre Khador y Cygnar. El Reducto siempre está abierto salvo durante las frecuentes tormentas de arena que proceden de la Marca, y los precios de sus comidas y licores son justos. Muchos rufianes y mercenarios usan la taberna como base para sus negocios, y las peleas de bar son muy habituales .
-
 
 
 ### CASTILLO DE LAS LLAVES
