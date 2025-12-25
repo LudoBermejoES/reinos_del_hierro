@@ -201,56 +201,50 @@ Lyngblad es un ducado pequeño pero importante del norte de Llael, que consiste 
 * **Gobernador ancestral:** Archiduque Tymeck d'Lyn (ejecutado en Merywyn).
 * **Gobernador de la ocupación:** Koldun Volkh Lazar del Aquelarre de los Señores Grises.
 
-### PRINCIPALES DUCADOS DE LLAEL (
+#### NUEVA UMBREY (OCUPADO)
 
-Continuación)* **NUEVA UMBREY (OCUPADO):** Nueva Umbrey es un ducado de montaña que contiene a Laedry (algunos ya la llaman Nueva Korska) y la zona que rodea la ciudad, incluida la fortaleza Muralla Roja, varias minas de carbón muy lucrativas y la frontera septentrional con Khador. Esta región luce las cicatrices de batallas tanto antiguas como recientes; los granjeros desentierran restos de siervos de guerra y huesos de soldados sin apenas esfuerzo. Algunos ya consideran Nueva Umbrey como parte de Khador, y hay cada vez más presión debido a la disputa por adherir al ducado en la volozkya de Korskovny o en la de Umbresk. Históricamente, esta región pertenecía a Khador a raíz de los Tratados de Corvis, pero fue cedida a Llael como concesión al final de las Guerras Fronterizas del 313 d.R. Recuperar este territorio era una de las principales justificaciones para la invasión de Llael. Los umbreanos de la región se hallan en un estado de inquietud, pues la mayoría han desarrollado un odio profundamente arraigado hacia Khador en los últimos siglos .
-
+Nueva Umbrey es un ducado de montaña que contiene a Laedry (algunos ya la llaman Nueva Korska) y la zona que rodea la ciudad, incluida la fortaleza Muralla Roja, varias minas de carbón muy lucrativas y la frontera septentrional con Khador. Esta región luce las cicatrices de batallas tanto antiguas como recientes; los granjeros desentierran restos de siervos de guerra y huesos de soldados sin apenas esfuerzo. Algunos ya consideran Nueva Umbrey como parte de Khador, y hay cada vez más presión debido a la disputa por adherir al ducado en la volozkya de Korskovny o en la de Umbresk. Históricamente, esta región pertenecía a Khador a raíz de los Tratados de Corvis, pero fue cedida a Llael como concesión al final de las Guerras Fronterizas del 313 d.R. Recuperar este territorio era una de las principales justificaciones para la invasión de Llael. Los umbreanos de la región se hallan en un estado de inquietud, pues la mayoría han desarrollado un odio profundamente arraigado hacia Khador en los últimos siglos.
 
 * **Recursos:** Carbón, cultivos de consumo, hierro.
 * **Industria:** Refinerías de hierro, tejidos.
 * **Gobernador ancestral:** Lord general Alreg Vladirov, archiduque de Nueva Umbrey (desaparecido en combate y dado por muerto).
-* 
-**Gobernador de la ocupación:** Vizconde Barak Ushka, vasallo del gran príncipe Tzepesci de Umbresk .
+* **Gobernador de la ocupación:** Vizconde Barak Ushka, vasallo del gran príncipe Tzepesci de Umbresk.
 
+#### NORDRYNE, EL (OCUPADO)
 
-* **NORDRYNE, EL (OCUPADO):** De todos los ducados de montaña, el Nordryne contiene las más ricas minas de carbón y minerales y produce los preciados metales procesados y enviados a través de Rynyr. Dada la riqueza del ducado en recursos, el Alto Mando considera esta región de gran importancia estratégica .
-
+De todos los ducados de montaña, el Nordryne contiene las más ricas minas de carbón y minerales y produce los preciados metales procesados y enviados a través de Rynyr. Dada la riqueza del ducado en recursos, el Alto Mando considera esta región de gran importancia estratégica.
 
 * **Recursos:** Carbón, piedras preciosas, metales industriales, metales preciosos, almacenes alquímicos.
 * **Industria:** Refinerías de metal.
 * **Gobernador ancestral:** Archiduque Vydor Tadiri del Nordryne (ejecutado en Merywyn).
-* 
-**Gobernador de la ocupación:** Lord Palyn d'Myr, responde ante el posadnik Igor Vojinovich .
+* **Gobernador de la ocupación:** Lord Palyn d'Myr, responde ante el posadnik Igor Vojinovich.
 
+#### SUDRYNE, EL (OCUPADO EN SU MAYORÍA)
 
-* **SUDRYNE, EL (OCUPADO EN SU MAYORÍA):** Se dice que el Sudryne posee las tierras más fértiles de todos los ducados y también alberga la capital Merywyn, el Almacén Aliston y gran parte del sur de Llael hasta (pero no inclusive) la torre de Viento Gris. El grueso de las tropas de Khador en Llael ocupa este ducado. Una parte de las tierras del este permanece sin ocupar, pero estas comunidades granjeras no representan amenaza militar .
-
+Se dice que el Sudryne posee las tierras más fértiles de todos los ducados y también alberga la capital Merywyn, el Almacén Aliston y gran parte del sur de Llael hasta (pero no inclusive) la torre de Viento Gris. El grueso de las tropas de Khador en Llael ocupa este ducado. Una parte de las tierras del este permanece sin ocupar, pero estas comunidades granjeras no representan amenaza militar.
 
 * **Recursos:** Cultivos de consumo, cultivos industriales, madera, tierras de cultivo.
 * **Industria:** Ingeniería, refinerías de metal, tejidos, alquimia.
 * **Gobernador ancestral:** Primer ministro Deyar Glabryn, archiduque del Sudryne.
-* 
-**Gobernador de la ocupación:** Komandante Mikhail Ivdanovich, conde y posadnik de Merywyn .
+* **Gobernador de la ocupación:** Komandante Mikhail Ivdanovich, conde y posadnik de Merywyn.
 
+#### VOXSAUNY (NO OCUPADO)
 
-* **VOXSAUNY (NO OCUPADO):** Voxsauny es un lucrativo valle pastoril que contiene varios de los mejores viñedos de Llael, la ciudad de Rhydden, la torre de Viento Gris y una porción de la frontera suroriental de Llael con Ios. Además del comercio vinícola, el maderero también financia este ducado. Es el único que aún no ha sido ocupado por Khador y se ha convertido en un punto de reunión para los refugiados llaelesianos .
-
+Voxsauny es un lucrativo valle pastoril que contiene varios de los mejores viñedos de Llael, la ciudad de Rhydden, la torre de Viento Gris y una porción de la frontera suroriental de Llael con Ios. Además del comercio vinícola, el maderero también financia este ducado. Es el único que aún no ha sido ocupado por Khador y se ha convertido en un punto de reunión para los refugiados llaelesianos.
 
 * **Recursos:** Cultivos de consumo, madera, cultivos industriales.
 * **Industria:** Viñedos, madereras, tejidos.
 * **Gobernador ancestral:** Archiduque Balen di Voxsauny (ejecutado en Merywyn), su hijo pequeño Balen II (actualmente en Caspia con su madre Sabyna).
-* 
-**Gobernador actual:** Lord Gregore Delryv IV, duque de Rhydden .
+* **Gobernador actual:** Lord Gregore Delryv IV, duque de Rhydden.
 
+#### WESSINA (OCUPADO)
 
-* **WESSINA (OCUPADO):** Wessina incluye Elsinberg y varias aldeas granjeras cercanas al fértil Río Negro, que delimita su frontera oriental. Este ducado limitaba con Khador en el pasado y durante la invasión se derramó mucha sangre en él .
-
+Wessina incluye Elsinberg y varias aldeas granjeras cercanas al fértil Río Negro, que delimita su frontera oriental. Este ducado limitaba con Khador en el pasado y durante la invasión se derramó mucha sangre en él.
 
 * **Recursos:** Cultivos de consumo, tierras de cultivo.
 * **Industria:** Ninguna.
 * **Gobernador ancestral:** Archiduque Wyle Cherydwyn (se rindió a Khador y conservó su título).
-* 
-**Gobernador de la ocupación:** Komandante Negomir Tarovic, posadnik de Elsinberg .
+* **Gobernador de la ocupación:** Komandante Negomir Tarovic, posadnik de Elsinberg.
 
 
 ### PRINCIPALES CIUDADES
