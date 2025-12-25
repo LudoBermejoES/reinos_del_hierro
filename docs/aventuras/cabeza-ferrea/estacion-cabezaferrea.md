@@ -120,4 +120,4 @@ Quien busque trabajo en Cabezaférrea encontrará ofertas. Quien busque aventura
 
 ---
 
-← [Volver a Compañía Treslunas](index.md)
+← [Volver al inicio](index.md)

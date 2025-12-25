@@ -175,4 +175,4 @@ Elias se unió a Treslunas cuando la compañía necesitaba a alguien que supiera
 
 ---
 
-← [Volver al Grupo](index.md)
+← [Volver a la Compañía](compania-treslunas.md)

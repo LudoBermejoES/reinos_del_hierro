@@ -168,4 +168,4 @@ Hilda se unió a Treslunas porque necesitaba acceso a los túneles profundos don
 
 ---
 
-← [Volver al Grupo](index.md)
+← [Volver a la Compañía](compania-treslunas.md)

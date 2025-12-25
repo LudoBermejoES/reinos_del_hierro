@@ -176,4 +176,4 @@ Gek fue el primer recluta de Treslunas, aunque técnicamente fue él quien reclu
 
 ---
 
-← [Volver al Grupo](index.md)
+← [Volver a la Compañía](compania-treslunas.md)

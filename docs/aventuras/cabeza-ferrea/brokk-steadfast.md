@@ -180,4 +180,4 @@ Brokk no buscaba trabajo como mercenario. Buscaba compañeros dispuestos a desce
 
 ---
 
-← [Volver al Grupo](index.md)
+← [Volver a la Compañía](compania-treslunas.md)

@@ -1,129 +1,77 @@
 ---
 layout: default
-title: Compañía Treslunas - Estación Cabezaférrea
+title: Reinos del Hierro - Estación Cabezaférrea
 ---
 
-# Compañía Treslunas
+# Bienvenido a los Reinos del Hierro
 
-Compañía mercenaria de nivel 1 basada en [Estación Cabezaférrea](estacion-cabezaferrea.md).
+![Estación Cabezaférrea](/assets/aventuras/cabezaferrea/estacion-cabezaferrea.jpg)
 
----
-
-## Sobre la Compañía
-
-**Treslunas** es una pequeña compañía mercenaria que opera desde Estación Cabezaférrea. El nombre hace referencia a las tres lunas de Caen —Calder, Laris y Artis— que según la superstición troloide traen buena fortuna cuando se alinean.
-
-La compañía se formó hace aproximadamente un año cuando **Gek-Darabin**, un alquimista gobo, necesitaba escolta para sus expediciones a los túneles profundos en busca de hongos con propiedades alquímicas únicas. Lo que empezó como un acuerdo comercial informal entre inadaptados ha evolucionado en algo parecido a una familia.
-
-Treslunas acepta contratos variados: escoltas en los túneles, eliminación de plagas, investigaciones discretas y trabajos que nadie más quiere hacer. Su reputación en la estación es la de un grupo fiable aunque poco convencional.
-
-**Tipo de Compañía:** [Cédula de Mercenarios](../../personajes/companias/cedula-mercenarios.md)
+*Un mundo donde la magia y la tecnología colisionan. Donde los trenes de vapor cruzan naciones en guerra. Donde gigantes de metal luchan junto a hechiceros y pistoleros.*
 
 ---
 
-## Miembros del Grupo
+## El Mundo de Caen
 
-| Personaje | Raza | Clase | Rol | Antigüedad |
-|-----------|------|-------|-----|------------|
-| [Gek-Darabin](gek-darabin.md) | Gobo | Alquimista 1 | Apoyo alquímico, Granadas | 1 año (fundador) |
-| [Brokk Steadfast](brokk-steadfast.md) | Troloide Urbano | Clérigo 1 (Dhunia) | Sanador, Apoyo divino | 8 meses |
-| [Nola Carvalo](nola-carvalo.md) | Humana (Órdica) | Maga Pistolera 1 | Daño a distancia, Magia | 6 meses |
-| [Elias Dunford](elias-dunford.md) | Humano (Cygnarano) | Pícaro 1 | Investigación, Infiltración | 4 meses |
-| [Hilda Forgebloom](hilda-forgebloom.md) | Enana Rhúlica | Mecánika 1 | Apoyo técnico, Reparaciones | 3 meses |
-| [Torgun Ironbid](torgun-ironbid.md) | Ogrun Rhúlico | Guerrero 1 | Combatiente pesado, Tanque | 3 meses |
+Los **Reinos del Hierro** son un continente desgarrado por siglos de conflicto. Aquí, los ejércitos no solo marchan con espadas y hechizos, sino con **warjacks**: colosos de hierro y vapor guiados por magia, capaces de aplastar murallas y destrozar líneas enemigas.
+
+Es un mundo de contrastes: ciudades industriales donde las chimeneas nunca dejan de humear, junto a bosques ancestrales donde criaturas olvidadas aún acechan. Naciones que dominan la magia arcana compiten contra imperios que prefieren el acero y la pólvora. Y en las sombras, cultos oscuros y reinos de muertos vivientes conspiran para destruirlo todo.
+
+Pero no todo es guerra entre naciones. Hay aventureros, mercenarios y buscavidas que encuentran su camino entre las grietas del mundo. Compañías de individuos extraordinarios que aceptan los trabajos que nadie más quiere hacer.
 
 ---
 
-## Resumen del Grupo
+## Estación Cabezaférrea
 
-**Origen:** Estación Cabezaférrea (montañas Murodragón, sureste de Cygnar)
+![Vista panorámica](/assets/aventuras/cabezaferrea/estacion-cabezaferrea-panorama.jpg)
 
-**Composición:**
-- 1 enana rhúlica
-- 1 gobo
-- 1 ogrun rhúlico
-- 1 troloide urbano
-- 2 humanos (1 cygnarano, 1 órdica)
+En las profundidades de las montañas, donde los túneles del ferrocarril se adentran en la roca viva, existe una ciudad que nunca ve la luz del sol.
 
-**Temática:** Trabajadores, marginados y buscavidas de una ciudad industrial subterránea que se ven arrastrados a explorar los peligrosos túneles profundos donde "algo" está despertando.
+**[Estación Cabezaférrea](estacion-cabezaferrea.md)** es un enclave industrial excavado bajo la tierra: una caverna colosal donde humanos, enanos, gobos y ogrun conviven al ritmo del martillo y el silbido del vapor. Aquí llegan los trenes cargados de mercancías y parten repletos de hierro, carbón y piedras preciosas.
+
+Pero bajo la estación hay túneles más antiguos. Galerías selladas durante generaciones. Y últimamente, algo está despertando en la oscuridad.
 
 ---
 
-## Puntos Fuertes
+## La Compañía Treslunas
 
-- Excelente capacidad técnica (mecánika + alquimista)
-- Buena resistencia física (ogrun tanque + regeneración troloide)
-- Curación divina y resistencia a venenos
-- Investigación y sigilo con el pícaro
-- Daño a distancia con armas de fuego y magia
-- Conocimiento profundo de la estación y sus túneles
+En este mundo de vapor y sombras, un grupo de inadaptados ha formado una pequeña compañía mercenaria. Se hacen llamar **[Treslunas](compania-treslunas.md)**, por las tres lunas de Caen que, según dicen, traen buena fortuna cuando se alinean.
 
----
+No son héroes. Son supervivientes. Cada uno llegó a la estación huyendo de algo: un pasado deshonrado, una familia perdida, una verdad incómoda. Pero juntos han encontrado algo parecido a un hogar.
 
-## Puntos Débiles
+### Los Mercenarios
 
-- Poca magia arcana ofensiva de área
-- Sin explorador dedicado para exteriores
-- Velocidad limitada (gobo 25 pies)
-- Grupo mayoritariamente de corto-medio alcance
-
----
-
-## Conexiones del Grupo
-
-```
-Hilda Forgebloom ←──korune──→ Torgun Ironbid
-       │                              │
-       │ empleadora                   │ protector
-       ↓                              ↓
-  Gek-Darabin              Brokk Steadfast
-  (proveedor de                (visiones sobre
-   componentes)                 la corrupción)
-       │                              │
-       │ información                  │ guía espiritual
-       └──────────→ Elias Dunford ←───┘
-                         │
-                         │ mismo objetivo
-                         ↓
-                   Nola Carvalo
-                   (rastreando algo
-                    en los túneles)
-```
+| Personaje | Quién es |
+|-----------|----------|
+| **[Gek-Darabin](gek-darabin.md)** | Un gobo alquimista obsesionado con hongos explosivos. Fundó la compañía porque necesitaba escolta para sus expediciones suicidas. |
+| **[Brokk Steadfast](brokk-steadfast.md)** | Un troloide clérigo que recibe visiones de la diosa madre. Algo corrupto crece bajo la estación, y él debe encontrarlo. |
+| **[Nola Carvalo](nola-carvalo.md)** | Una corsaria reconvertida en pistolera mágica. Llegó persiguiendo a un fugitivo. Lo encontró muerto, con marcas de garras imposibles. |
+| **[Elias Dunford](elias-dunford.md)** | Un investigador cygnarano que huyó de acusaciones falsas. Sigue el rastro de componentes robados que llevan a los túneles profundos. |
+| **[Hilda Forgebloom](hilda-forgebloom.md)** | Una mecánika enana cuyo clan fue deshonrado. Busca los materiales para construir un invento que restaure su nombre. |
+| **[Torgun Ironbid](torgun-ironbid.md)** | Un viejo ogrun guerrero que juró proteger a Hilda. Cuarenta años en las minas le enseñaron que algunos túneles no deberían abrirse. |
 
 ---
 
-## Idiomas del Grupo
+## ¿Qué encontrarás aquí?
 
-| Idioma | Hablantes |
-|--------|-----------|
-| Cygnarano | Hilda, Elias, Brokk, Nola |
-| Rhúlico | Hilda, Gek, Brokk |
-| Molgur-og | Hilda, Gek, Torgun |
-| Gobés | Hilda, Elias |
-| Molgur-trul | Brokk |
-| Khadorano | Torgun, Elias |
-| Tordorano | Nola |
-| Scharde | Nola |
-| Jerga de ladrones | Elias |
+Esta aventura está diseñada para **D&D 5e** usando el suplemento **Iron Kingdoms: Requiem**. Incluye:
+
+- **6 personajes pregenerados de nivel 1**, listos para jugar
+- **Información detallada sobre la estación** y su gente
+- **Ganchos de aventura** que entrelazan las historias de los personajes
+- **Una ambientación única** que mezcla fantasía, steampunk y horror
+
+No necesitas conocer los Reinos del Hierro para jugar. Todo lo que necesitas saber está aquí.
 
 ---
 
-## Ganchos de Aventura
+## Empieza la aventura
 
-### La Corrupción Bajo la Estación
-Brokk ha tenido visiones de Dhunia mostrándole algo enfermo en los túneles profundos. Gek necesita hongos raros que crecen en esas mismas zonas. Las pistas de Elias sobre componentes robados llevan allí. Y Nola encontró a su fugitivo muerto por algo que vive en la oscuridad.
+1. Lee sobre [Estación Cabezaférrea](estacion-cabezaferrea.md) para conocer el escenario
+2. Explora la [Compañía Treslunas](compania-treslunas.md) para ver cómo encajan los personajes
+3. Elige un personaje y sumérgete en los túneles
 
-### El Honor del Clan Forgebloom
-Hilda busca demostrar que su clan fue saboteado hace quince años. Los materiales que necesita para su nuevo condensador están en lugares peligrosos, y Torgun ha jurado ayudarla.
-
-### Los Skiggs en los Almacenes
-Los enanos de la estación pagarán bien a quien elimine una infestación de skiggs (criaturas que devoran pólvora) sin volar los almacenes donde se esconden.
-
----
-
-## Equipo Compartido
-
-El grupo no tiene equipo compartido inicial. Cada miembro aporta sus propias herramientas y suministros.
+*Bienvenido a Cabezaférrea. Aquí hay fortuna para quien se la gane... y muerte para quien no tenga cuidado.*
 
 ---
 

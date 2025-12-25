@@ -185,4 +185,4 @@ Nola encontró en Treslunas lo que perdió cuando su barco se hundió: una tripu
 
 ---
 
-← [Volver al Grupo](index.md)
+← [Volver a la Compañía](compania-treslunas.md)
