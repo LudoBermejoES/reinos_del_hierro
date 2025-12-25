@@ -249,7 +249,7 @@ Wessina incluye Elsinberg y varias aldeas granjeras cercanas al fértil Río Neg
 
 ### PRINCIPALES CIUDADES
 
-#### CONFLUENCIA
+### CONFLUENCIA
 
 * **En el poder:** Kovnik Corinna Yurikevna.
 * **Población:** Anteriormente 58.000 (en su mayoría humanos, varios cientos de enanos, algunos ogrun), ahora sólo unos pocos centenares dispersos por aldeas cercanas.
@@ -279,7 +279,7 @@ Las hostilidades siguientes fueron más veladas y destructivas, y convirtieron l
 * **Kovnik Corinna Yurikevna (mujer kossitana Exp6/Fus2):** Pocas veces consigue alguien del rango de kovnik supervisar todo un ducado, pero tal es la tarea de Corinna. Se trata más bien de un testimonio de su total subyugación, pues Confluencia era la única gran ciudad de esta zona. La kovnik es una endurecida batidora fronteriza encargada de vigilar el río e informar de cualquier señal de movimiento de tropas y demás actividades sospechosas. Ha informado de la presencia de navíos rhúlicos bajando de las montañas y descargando al sur de su posición, donde contactaban con comerciantes que llevaban los suministros al sureste, hacia Rhydden. Sus órdenes son registrar este tráfico pero no enfrentarse a nadie directamente. Aun así, la kovnik y sus tropas se han enzarzado en varias ocasiones con los incursores cryxianos atraídos por los cadáveres de Confluencia, y Corinna cree que pueden resultar una amenaza hasta que la zona sea despejada y los cuerpos enterrados convenientemente .
 
 
-#### ELSINBERG
+### ELSINBERG
 
 * **En el poder:** Komandante Negomir Tarovic.
 * **Población:** 74.000 (humanos en su mayoría rynios, una gran minoría de umbreanos y algunos centenares de gobos).
@@ -404,7 +404,7 @@ Muchos de los edificios de Leryn se conservan como museos vivientes de una era m
 
 * **Magziev Akina Kazanovo y Magziev Kasia Zevschenzo:** Son las ayudantes de Lazar. Ha encargado a Akina, una prometedora maga de cabello azabache y un poder considerable para su juventud, la tarea de encontrar los alijos del Crisol ocultos en los laberínticos corredores de la Cima del Trueno y en otras partes de la ciudad. Kasia proporciona un muy necesitado contrapeso; es una mujer mayor de cabellos blancos, ojos azules e inteligencia profunda, menos brillante que Lazar en teoría mágica pero más adepta en política y a la hora de manipular a la gente .
 
-## Merywyn
+### Merywyn
 
 Como el corazón de la economía llaelesiana, el comercio de Merywyn dependía fuertemente del tráfico por el Río Negro, y se registraba y gravaba meticulosamente a todo buque mercante que pasaba su cadena de estaciones de vigilancia. Las influyentes familias nobles del reino pasaban gran parte del año en la ciudad asistiendo al Consejo de Nobles en la Cámara Inmaculada. Sin embargo, una finca muy famosa ha permanecido vacía y abandonada durante años. El palacio real de los antiguos reyes de Llael se ha convertido en el cuartel general y alojamiento del ejército de ocupación khadorano. Sus soldados se extienden por la ciudad adornados con uniformes rojos como la sangre, y el paso de sus botas va marcado al compás .
 
