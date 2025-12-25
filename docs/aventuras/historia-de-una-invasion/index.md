@@ -56,17 +56,17 @@ La **Marcha de los Muertos** siempre ha sido una curiosidad, un espectáculo que
 
 ![Los rebeldes](/assets/aventuras/historia-de-una-invasion/rebeldes.jpg)
 
-*(Próximamente)*
-
 En tiempos de ocupación, algunos eligen someterse. Otros eligen luchar. Y unos pocos encuentran un camino entre ambos: trabajando en las sombras, aceptando encargos peligrosos, manteniendo la cabeza baja mientras buscan una oportunidad.
+
+Los personajes trabajan para el **Crisol Dorado**, el gremio de alquimistas de Llael que mantiene una sede en Elsinberg. Bajo la ocupación, el gremio navega aguas peligrosas: debe colaborar lo suficiente con los khadoranos para sobrevivir, pero no tanto como para perder el respeto de los llaelesianos. Es un equilibrio delicado, y estos tres lo mantienen cada uno a su manera.
 
 ### Los Personajes
 
 | Personaje | Quién es |
 |-----------|----------|
-| *(Por definir)* | ... |
-| *(Por definir)* | ... |
-| *(Por definir)* | ... |
+| [Valya Morvaine](valya-morvaine) | Clérigo de Cyriss, calculista del gremio |
+| [Geka-Dabin](geka-dabin) | Pícara gobo, adquisiciones especiales |
+| [Brynn Forjafuerte](brynn-forjafuerte) | Guerrera enana, guardia de seguridad |
 | *(Por definir)* | ... |
 | *(Por definir)* | ... |
 | *(Por definir)* | ... |

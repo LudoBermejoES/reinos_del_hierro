@@ -53,13 +53,13 @@ Una aventura en las fronteras de **Cygnar**, donde los personajes se ven envuelt
 
 Una aventura en **Llael ocupada**, donde los personajes navegan las peligrosas aguas de la ocupación khadorana en Elsinberg, la Ciudad del Recuerdo. Resistencia, espionaje y los fantasmas de un ejército que marcha cada otoño.
 
-**Personajes pregenerados:** *(Próximamente)*
+**Personajes pregenerados:**
 
 | Personaje | Clase | Raza |
 |-----------|-------|------|
-| *(Por definir)* | — | — |
-| *(Por definir)* | — | — |
-| *(Por definir)* | — | — |
+| [Valya Morvaine](historia-de-una-invasion/valya-morvaine) | Clérigo | Humana Llaelesiana |
+| [Geka-Dabin](historia-de-una-invasion/geka-dabin) | Pícaro | Gobo |
+| [Brynn Forjafuerte](historia-de-una-invasion/brynn-forjafuerte) | Guerrero | Enana Rhúlica |
 | *(Por definir)* | — | — |
 | *(Por definir)* | — | — |
 | *(Por definir)* | — | — |
