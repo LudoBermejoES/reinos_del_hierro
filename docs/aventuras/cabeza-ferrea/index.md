@@ -47,7 +47,7 @@ No son héroes. Son supervivientes. Cada uno llegó a la estación huyendo de al
 | **[Zira-Darabin](zira-darabin.md)** | Hermana de Gek, una gobo pícara que apareció hace dos semanas reclamando una vieja deuda. Huye de algo, pero no dice de qué. |
 | **[Brokk Steadfast](brokk-steadfast.md)** | Un troloide clérigo que recibe visiones de la diosa madre. Algo corrupto crece bajo la estación, y él debe encontrarlo. |
 | **[Nola Carvalo](nola-carvalo.md)** | Una corsaria reconvertida en pistolera mágica. Llegó persiguiendo a un fugitivo. Lo encontró muerto, con marcas de garras imposibles. |
-| **[Elias Dunford](elias-dunford.md)** | Un investigador cygnarano que huyó de acusaciones falsas. Sigue el rastro de componentes robados que llevan a los túneles profundos. |
+| **[Elias Dunford](elias-dunford.md)** | Un bardo investigador cygnarano que huyó de acusaciones falsas. Sigue el rastro de componentes robados que llevan a los túneles profundos. |
 | **[Hilda Forgebloom](hilda-forgebloom.md)** | Una mecánika enana cuyo clan fue deshonrado. Busca los materiales para construir un invento que restaure su nombre. |
 | **[Torgun Ironbid](torgun-ironbid.md)** | Un viejo ogrun guerrero que juró proteger a Hilda. Cuarenta años en las minas le enseñaron que algunos túneles no deberían abrirse. |
 

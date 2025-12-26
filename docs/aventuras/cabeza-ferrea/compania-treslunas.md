@@ -28,7 +28,7 @@ Treslunas acepta contratos variados: escoltas en los túneles, eliminación de p
 | [Gek-Darabin](gek-darabin.md) | Gobo | Alquimista 1 | Apoyo alquímico, Granadas | 1 año (fundador) |
 | [Brokk Steadfast](brokk-steadfast.md) | Troloide Urbano | Clérigo 1 (Dhunia) | Sanador, Apoyo divino | 8 meses |
 | [Nola Carvalo](nola-carvalo.md) | Humana (Órdica) | Maga Pistolera 1 | Daño a distancia, Magia | 6 meses |
-| [Elias Dunford](elias-dunford.md) | Humano (Cygnarano) | Pícaro 1 | Investigación, Infiltración | 4 meses |
+| [Elias Dunford](elias-dunford.md) | Humano (Cygnarano) | Bardo 1 | Investigación, Persuasión, Apoyo | 4 meses |
 | [Hilda Forgebloom](hilda-forgebloom.md) | Enana Rhúlica | Mecánika 1 | Apoyo técnico, Reparaciones | 3 meses |
 | [Torgun Ironbid](torgun-ironbid.md) | Ogrun Rhúlico | Guerrero 1 | Combatiente pesado, Tanque | 3 meses |
 | [Zira-Darabin](zira-darabin.md) | Gobo | Pícara 1 | Sigilo, Cerraduras, Información | 2 semanas |
@@ -55,7 +55,7 @@ Treslunas acepta contratos variados: escoltas en los túneles, eliminación de p
 - Excelente capacidad técnica (mecánika + alquimista)
 - Buena resistencia física (ogrun tanque + regeneración troloide)
 - Curación divina y resistencia a venenos
-- Investigación y sigilo con dos pícaros
+- Apoyo bárdico (inspiración, persuasión) y sigilo con pícara
 - Daño a distancia con armas de fuego y magia
 - Conocimiento profundo de la estación y sus túneles
 - Contactos en el submundo (Zira)
@@ -111,7 +111,7 @@ Hilda Forgebloom ←──korune──→ Torgun Ironbid
 | Khadorano | Torgun, Elias |
 | Tordorano | Nola |
 | Scharde | Nola |
-| Jerga de ladrones | Elias, Zira |
+| Jerga de ladrones | Zira |
 
 ---
 

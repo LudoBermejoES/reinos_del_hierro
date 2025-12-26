@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Elias Dunford - Pícaro
+title: Elias Dunford - Bardo
 ---
 
 # Elias Dunford
 
 ![Elias Dunford](/assets/aventuras/cabezaferrea/elias-dunford.jpg)
 
-**[Pícaro](../../personajes/clases/picaro.md) 1** · [Humano](../../personajes/razas/humano.md) (Cygnarano) · Legal Bueno
+**[Bardo](../../personajes/clases/bardo.md) 1** · [Humano](../../personajes/razas/humano.md) (Cygnarano) · Legal Bueno
 
 ---
 
@@ -32,6 +32,7 @@ title: Elias Dunford - Pícaro
 |----------|-------|
 | **Clase de Armadura** | 14 (armadura de cuero) |
 | **Puntos de Golpe** | 9 (1d8 + 1) |
+| **Dados de Golpe** | 1d8 |
 | **Velocidad** | 30 pies |
 | **Bonificador de Competencia** | +2 |
 | **Iniciativa** | +3 |
@@ -48,19 +49,33 @@ title: Elias Dunford - Pícaro
 
 ---
 
-## Rasgos de Clase (Pícaro 1)
+## Rasgos de Clase (Bardo 1)
 
-### Ataque Furtivo
-Una vez por turno, inflige **1d6 daño adicional** cuando aciertes con un arma sutil o a distancia si tienes ventaja o un aliado está a 1,5 m del objetivo.
+### Lanzamiento de Conjuros
+Característica de conjuración: **Carisma** (CD 12, +4 al ataque)
+- **Trucos conocidos:** 2
+- **Conjuros conocidos:** 4
+- **Espacios de conjuro de nivel 1:** 2
 
-### Jerga de Ladrones
-Conoces la jerga de ladrones. Idioma adicional: **Gobés**.
+### Inspiración Bárdica (2/descanso largo)
+Como acción adicional, concedes a una criatura a 18 m que pueda oírte un dado de **Inspiración Bárdica (d6)**. Durante los próximos 10 minutos, puede añadir ese dado a una tirada de ataque, prueba de característica o tirada de salvación.
 
-### Maestría con Armas
-Puedes usar propiedades de maestría con 2 tipos de armas: **daga** y **espada corta**.
+---
 
-### Pericia
-Tienes pericia (doble competencia) en **2 habilidades**: Engaño e Investigación.
+## Trucos
+
+- **Burla Cruel** — Objetivo a 18 m debe superar TS SAB (CD 12) o sufrir 1d6 psíquico y desventaja en su próximo ataque.
+- **Mano de Mago** — Mano espectral manipula objetos a 9 m.
+
+---
+
+## Conjuros Preparados
+
+### Nivel 1 (2 espacios)
+- **Detectar Magia** — Detectas magia a 9 m durante 10 minutos (ritual, concentración).
+- **Encantar Persona** — Objetivo humanoide a 9 m debe superar TS SAB o queda encantado 1 hora.
+- **Susurros Disonantes** — 3d6 psíquico (TS SAB mitad) y objetivo huye aterrorizado.
+- **Curar Heridas** — Restaura 1d8+2 PG con el tacto.
 
 ---
 
@@ -68,25 +83,26 @@ Tienes pericia (doble competencia) en **2 habilidades**: Engaño e Investigació
 
 ### Tiradas de Salvación
 - Destreza (+5)
-- Inteligencia (+4)
+- Carisma (+4)
 
 ### Habilidades
 - Conocimiento Arcano (+4) — racial
 - Medicina (+3) — racial
-- Engaño (+6) *pericia*
-- Investigación (+6) *pericia*
-- Sigilo (+5)
+- Engaño (+4)
+- Investigación (+4)
+- Persuasión (+4)
 - Percepción (+3)
-- Juego de manos (+5)
 - Perspicacia (+3)
+- Interpretación (+4)
 
 ### Armas y Armaduras
 - Armas sencillas
-- Armas marciales con propiedades "ligera" o "sutil"
+- Ballestas de mano, espadas cortas, espadas largas, estoques
 - Armaduras ligeras
 
 ### Herramientas
-- Herramientas de ladrón
+- Laúd (instrumento musical)
+- Flauta (instrumento musical)
 - Kit de forense (trasfondo)
 
 ---
@@ -97,18 +113,16 @@ Tienes pericia (doble competencia) en **2 habilidades**: Engaño e Investigació
 |--------|------|
 | Armadura de cuero | 10 lb. |
 | Espada corta | 2 lb. |
-| Dagas (2) | 2 lb. |
-| Arco corto | 2 lb. |
-| Flechas (20) | 1 lb. |
-| Aljaba | 1 lb. |
-| Herramientas de ladrón | 1 lb. |
+| Daga | 1 lb. |
+| Flauta | 1 lb. |
 | Kit de forense | 8 lb. |
 | Lupa | — |
 | Linterna sorda | 2 lb. |
 | Aceite (frasco) | 1 lb. |
 | Diario pequeño | — |
 | Muda de ropa común | 3 lb. |
-| **Total** | **33 lb.** |
+| Bolsa de componentes | 2 lb. |
+| **Total** | **30 lb.** |
 
 **Monedas:** 10 po
 
@@ -120,7 +134,7 @@ Tienes pericia (doble competencia) en **2 habilidades**: Engaño e Investigació
 |------|--------|------|-------------|
 | Espada corta | +5 | 1d6+3 perforante | Ligera, sutil |
 | Daga | +5 | 1d4+3 perforante | Ligera, sutil, arrojadiza (20/60) |
-| Arco corto | +5 | 1d6+3 perforante | Munición (80/320), a dos manos |
+| Burla Cruel | +4 | 1d6 psíquico | Alcance 18 m, TS SAB |
 
 ---
 
@@ -172,7 +186,7 @@ Elias se unió a Treslunas cuando la compañía necesitaba a alguien que supiera
 
 **Aspecto:** Hombre de unos treinta y cinco años, cabello castaño con las sienes grises, rostro anguloso con nariz torcida (rota más de una vez). Ojos grises que parecen no perderse nada. Viste ropa práctica de tonos oscuros, nada que llame la atención. Lleva siempre un pequeño diario de cuero donde anota sus observaciones. Tiene las manos de alguien acostumbrado tanto a sostener una pluma como a forzar una cerradura.
 
-**Historia:** Elias Dunford fue durante doce años inspector de la Guardia Dorada de Caspia, especializado en crímenes relacionados con mecánika robada y sabotaje industrial. Era bueno en su trabajo —demasiado bueno, dirían algunos—. Cuando empezó a investigar una serie de robos en los talleres de la Orden de la Hechicería, descubrió conexiones que llegaban hasta nobles menores con amigos en el gobierno. Le advirtieron que dejara el caso. No lo hizo. Encontró pruebas de que los robos financiaban experimentos prohibidos con magia infernal. Antes de que pudiera presentarlas, su apartamento ardió con las pruebas dentro y él fue acusado de provocar el incendio para encubrir su propia corrupción. Huyó antes del juicio. Lleva tres años moviéndose de ciudad en ciudad, trabajando como investigador privado para quien pueda pagar. Llegó a [Estación Cabezaférrea](estacion-cabezaferrea.md) siguiendo el rastro de unos componentes mecánikos robados —el mismo tipo que desapareció en Caspia hace años—. No sabe si encontrará respuestas aquí, pero sabe que alguien no quiere que las encuentre. Y eso, para Elias, es razón suficiente para seguir buscando.
+**Historia:** Elias Dunford fue durante doce años inspector de la Guardia Dorada de Caspia, especializado en crímenes relacionados con mecánika robada y sabotaje industrial. Era bueno en su trabajo —demasiado bueno, dirían algunos—. Su talento para sonsacar información, detectar mentiras y persuadir a testigos reticentes le valió una reputación envidiable. En algún momento descubrió que tenía un don menor para la magia, que canalizaba a través de palabras y gestos sutiles: un encantamiento aquí, una sugestión allá. Nada espectacular, pero útil para un investigador. Cuando empezó a investigar una serie de robos en los talleres de la Orden de la Hechicería, descubrió conexiones que llegaban hasta nobles menores con amigos en el gobierno. Le advirtieron que dejara el caso. No lo hizo. Encontró pruebas de que los robos financiaban experimentos prohibidos con magia infernal. Antes de que pudiera presentarlas, su apartamento ardió con las pruebas dentro y él fue acusado de provocar el incendio para encubrir su propia corrupción. Huyó antes del juicio. Lleva tres años moviéndose de ciudad en ciudad, trabajando como investigador privado para quien pueda pagar. La flauta que lleva era de su padre; tocarla le ayuda a pensar, y a veces a canalizar su magia. Llegó a [Estación Cabezaférrea](estacion-cabezaferrea.md) siguiendo el rastro de unos componentes mecánikos robados —el mismo tipo que desapareció en Caspia hace años—. No sabe si encontrará respuestas aquí, pero sabe que alguien no quiere que las encuentre. Y eso, para Elias, es razón suficiente para seguir buscando.
 
 ---
 

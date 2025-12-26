@@ -7,7 +7,7 @@ title: Zira-Darabin - Pícara
 
 ![Zira-Darabin](/assets/aventuras/cabezaferrea/zira-darabin.jpg)
 
-**[Pícaro](../../personajes/clases/picaro.md) 1** · [Gobo](../../personajes/razas/gobo.md) · Caótico Neutral
+**[Pícaro](../../personajes/clases/picaro.md) 1** · [Gobo](../../personajes/razas/gobo.md) · Caótico Bueno
 
 ---
 
