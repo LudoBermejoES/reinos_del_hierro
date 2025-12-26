@@ -144,6 +144,7 @@ Torgun no se unió a Treslunas por el dinero ni por la aventura. Se unió porque
 - **Brokk:** El troloide es un buen muchacho con demasiado peso sobre los hombros. Torgun reconoce el duelo de un superviviente. A veces comparten silencio.
 - **Nola:** La corsaria tiene fuego en las venas. Le recuerda a los jóvenes impetuosos que entraban en las minas pensando que lo sabían todo. Pero dispara bien y protege a los suyos.
 - **Gek:** El gobo habla demasiado y explota cosas. Torgun finge que le molesta, pero le hace gracia. Le ha cogido cariño al pequeño loco.
+- **Zira:** La hermana de Gek es más silenciosa y calculadora. Torgun ha visto cómo usa su tamaño para esconderse detrás de él. No le importa. Ha protegido a criaturas más pequeñas toda su vida.
 - **Hilda:** Su korune. Torgun daría su vida por ella sin pensarlo. Ve en Hilda la misma determinación que tuvo él de joven, antes de que los años le enseñaran el coste del orgullo.
 
 ---

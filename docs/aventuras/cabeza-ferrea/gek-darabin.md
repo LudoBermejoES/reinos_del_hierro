@@ -163,6 +163,7 @@ Gek fue el primer recluta de Treslunas, aunque técnicamente fue él quien reclu
 
 ### Relaciones con el Grupo
 
+- **Zira:** Su hermana mayor. Apareció hace dos semanas reclamando una deuda de hace tres años, pero Gek sabe que huye de algo. No pregunta. Así funcionan los Darabin. Le alegra tenerla cerca, aunque jamás lo admitirá.
 - **Elias:** El humano hace preguntas incómodas, pero Gek aprecia su mente analítica. A veces comparan notas sobre los túneles. Elias piensa que Gek oculta algo. Tiene razón.
 - **Brokk:** El troloide le trata como a un cachorro perdido. Gek finge que le molesta, pero secretamente agradece que alguien se preocupe por si ha comido.
 - **Torgun:** El ogrun es enorme, lento y sorprendentemente gentil. Gek le trepa encima cuando necesita ver por encima de las rocas. Torgun finge quejarse.

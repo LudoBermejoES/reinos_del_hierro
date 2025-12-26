@@ -44,6 +44,7 @@ No son héroes. Son supervivientes. Cada uno llegó a la estación huyendo de al
 | Personaje | Quién es |
 |-----------|----------|
 | **[Gek-Darabin](gek-darabin.md)** | Un gobo alquimista obsesionado con hongos explosivos. Fundó la compañía porque necesitaba escolta para sus expediciones suicidas. |
+| **[Zira-Darabin](zira-darabin.md)** | Hermana de Gek, una gobo pícara que apareció hace dos semanas reclamando una vieja deuda. Huye de algo, pero no dice de qué. |
 | **[Brokk Steadfast](brokk-steadfast.md)** | Un troloide clérigo que recibe visiones de la diosa madre. Algo corrupto crece bajo la estación, y él debe encontrarlo. |
 | **[Nola Carvalo](nola-carvalo.md)** | Una corsaria reconvertida en pistolera mágica. Llegó persiguiendo a un fugitivo. Lo encontró muerto, con marcas de garras imposibles. |
 | **[Elias Dunford](elias-dunford.md)** | Un investigador cygnarano que huyó de acusaciones falsas. Sigue el rastro de componentes robados que llevan a los túneles profundos. |
@@ -52,11 +53,19 @@ No son héroes. Son supervivientes. Cada uno llegó a la estación huyendo de al
 
 ---
 
+## Lugares de Interés
+
+| Lugar | Descripción |
+|-------|-------------|
+| **[El Guantelete de Plata](taberna/index.md)** | La taberna más popular de la estación, donde se reúnen mineros, comerciantes y viajeros. Buena comida, mejores rumores. |
+
+---
+
 ## ¿Qué encontrarás aquí?
 
 Esta aventura está diseñada para **D&D 5e** usando el suplemento **Iron Kingdoms: Requiem**. Incluye:
 
-- **6 personajes pregenerados de nivel 1**, listos para jugar
+- **7 personajes pregenerados de nivel 1**, listos para jugar
 - **Información detallada sobre la estación** y su gente
 - **Ganchos de aventura** que entrelazan las historias de los personajes
 - **Una ambientación única** que mezcla fantasía, steampunk y horror

@@ -162,6 +162,7 @@ Nola encontró en Treslunas lo que perdió cuando su barco se hundió: una tripu
 - **Brokk:** El troloide es el corazón del grupo. Nola confía en él para mantenerla viva y para decirle cuando se está pasando de la raya. Es como el capellán que nunca tuvo.
 - **Torgun:** El viejo ogrun le recuerda al contramaestre de su barco: lento, metódico, fiable como una roca. Le respeta más de lo que demuestra.
 - **Gek:** El gobo es un desastre adorable. Sus granadas han salvado al grupo más de una vez. Nola lo trata como a un hermano pequeño excesivamente combustible.
+- **Zira:** La hermana de Gek es de las suyas: una superviviente que sabe cuándo hablar y cuándo callarse. Nola reconoce a alguien que ha vivido fuera de la ley. Se entienden sin palabras.
 - **Hilda:** La enana tiene agallas. Nola reconoce a alguien que no se rinde. A veces se quedan despiertas hablando de sus respectivos pasados y de lo que harán cuando consigan lo que buscan.
 
 ---

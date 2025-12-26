@@ -157,6 +157,7 @@ Brokk no buscaba trabajo como mercenario. Buscaba compañeros dispuestos a desce
 - **Torgun:** El ogrun es como un hermano mayor. Ambos cargan con pérdidas, ambos buscan redención. A veces rezan juntos al amanecer, cada uno a su dios.
 - **Nola:** La corsaria es fuego puro. A Brokk le divierte su temperamento, aunque a veces tiene que interponerse cuando las discusiones se calientan.
 - **Gek:** El gobo es impredecible, pero tiene buen corazón bajo toda esa paranoia. Brokk se asegura de que coma y duerma, porque Gek se olvida de ambas cosas.
+- **Zira:** La hermana de Gek es escurridiza y evasiva. Brokk no puede leerla como lee a los demás. Sospecha que esconde algo, pero Dhunia le susurra paciencia.
 - **Hilda:** Admira su determinación, pero le preocupa su obsesión. Ha visto cómo el resentimiento pudre el alma. Intenta guiarla sin que parezca un sermón.
 
 ---

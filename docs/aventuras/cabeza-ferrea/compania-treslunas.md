@@ -31,6 +31,7 @@ Treslunas acepta contratos variados: escoltas en los túneles, eliminación de p
 | [Elias Dunford](elias-dunford.md) | Humano (Cygnarano) | Pícaro 1 | Investigación, Infiltración | 4 meses |
 | [Hilda Forgebloom](hilda-forgebloom.md) | Enana Rhúlica | Mecánika 1 | Apoyo técnico, Reparaciones | 3 meses |
 | [Torgun Ironbid](torgun-ironbid.md) | Ogrun Rhúlico | Guerrero 1 | Combatiente pesado, Tanque | 3 meses |
+| [Zira-Darabin](zira-darabin.md) | Gobo | Pícara 1 | Sigilo, Cerraduras, Información | 2 semanas |
 
 ---
 
@@ -40,7 +41,7 @@ Treslunas acepta contratos variados: escoltas en los túneles, eliminación de p
 
 **Composición:**
 - 1 enana rhúlica
-- 1 gobo
+- 2 gobos (hermanos)
 - 1 ogrun rhúlico
 - 1 troloide urbano
 - 2 humanos (1 cygnarano, 1 órdica)
@@ -54,9 +55,10 @@ Treslunas acepta contratos variados: escoltas en los túneles, eliminación de p
 - Excelente capacidad técnica (mecánika + alquimista)
 - Buena resistencia física (ogrun tanque + regeneración troloide)
 - Curación divina y resistencia a venenos
-- Investigación y sigilo con el pícaro
+- Investigación y sigilo con dos pícaros
 - Daño a distancia con armas de fuego y magia
 - Conocimiento profundo de la estación y sus túneles
+- Contactos en el submundo (Zira)
 
 ---
 
@@ -76,11 +78,11 @@ Hilda Forgebloom ←──korune──→ Torgun Ironbid
        │                              │
        │ empleadora                   │ protector
        ↓                              ↓
-  Gek-Darabin              Brokk Steadfast
-  (proveedor de                (visiones sobre
-   componentes)                 la corrupción)
+  Gek-Darabin ←─hermanos─→ Zira-Darabin
+  (proveedor de               (recién llegada,
+   componentes)                esconde algo)
        │                              │
-       │ información                  │ guía espiritual
+       │ información                  │ desconfianza
        └──────────→ Elias Dunford ←───┘
                          │
                          │ mismo objetivo
@@ -88,6 +90,11 @@ Hilda Forgebloom ←──korune──→ Torgun Ironbid
                    Nola Carvalo
                    (rastreando algo
                     en los túneles)
+                         ↑
+                         │ entienden
+                   Brokk Steadfast
+                   (visiones sobre
+                    la corrupción)
 ```
 
 ---
@@ -96,15 +103,15 @@ Hilda Forgebloom ←──korune──→ Torgun Ironbid
 
 | Idioma | Hablantes |
 |--------|-----------|
-| Cygnarano | Hilda, Elias, Brokk, Nola |
-| Rhúlico | Hilda, Gek, Brokk |
-| Molgur-og | Hilda, Gek, Torgun |
-| Gobés | Hilda, Elias |
+| Cygnarano | Hilda, Elias, Brokk, Nola, Gek, Zira |
+| Rhúlico | Hilda, Gek, Brokk, Zira |
+| Molgur-og | Hilda, Gek, Torgun, Zira |
+| Gobés | Hilda, Elias, Gek, Zira |
 | Molgur-trul | Brokk |
 | Khadorano | Torgun, Elias |
 | Tordorano | Nola |
 | Scharde | Nola |
-| Jerga de ladrones | Elias |
+| Jerga de ladrones | Elias, Zira |
 
 ---
 
@@ -118,6 +125,12 @@ Hilda busca demostrar que su clan fue saboteado hace quince años. Los materiale
 
 ### Los Skiggs en los Almacenes
 Los enanos de la estación pagarán bien a quien elimine una infestación de skiggs (criaturas que devoran pólvora) sin volar los almacenes donde se esconden.
+
+---
+
+## Lugar de Reunión
+
+La compañía no dispone de local propio. Para sus reuniones y para cerrar contratos, suelen ocupar una mesa del fondo en **[El Guantelete de Plata](taberna/index.md)**, la taberna más popular de la estación. Torsten, el tabernero, les deja usar el espacio a cambio de que mantengan el orden cuando las cosas se ponen feas —algo que Torgun hace con entusiasmo—.
 
 ---
 

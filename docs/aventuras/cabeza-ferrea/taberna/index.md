@@ -15,6 +15,8 @@ El Guantelete de Plata ocupa lo que antiguamente fue un almacén de herramientas
 
 El ambiente es ruidoso pero acogedor. Aquí se mezclan mineros cubiertos de polvo de roca, mecánikos con las manos manchadas de grasa, comerciantes que esperan el próximo tren, y viajeros de paso. Las peleas son raras —Torsten no las tolera— pero las discusiones acaloradas sobre política, deportes de taberna y la calidad de la cerveza son constantes.
 
+La **[Compañía Treslunas](../compania-treslunas.md)**, el grupo mercenario local, no tiene local propio y suele reunirse aquí. Torsten les reserva la mesa grande del fondo a cambio de que ayuden a mantener el orden cuando las cosas se ponen tensas.
+
 ---
 
 ## Especialidades de la Casa

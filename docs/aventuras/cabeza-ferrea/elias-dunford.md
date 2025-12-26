@@ -152,6 +152,7 @@ Elias se unió a Treslunas cuando la compañía necesitaba a alguien que supiera
 - **Torgun:** Ve en el viejo ogrun a un hombre atormentado por los mismos fantasmas que él. No hablan mucho, pero hay un entendimiento silencioso.
 - **Nola:** La corsaria le pone nervioso con su impulsividad, pero admira que siempre dice exactamente lo que piensa. A veces discuten sobre tácticas.
 - **Gek:** El gobo es más listo de lo que aparenta. Elias sospecha que oculta algo, pero ¿quién no lo hace?
+- **Zira:** La hermana de Gek apareció de la nada hace dos semanas. Sus coartadas no cuadran y sus historias cambian. Elias la está vigilando. Algo no encaja.
 - **Hilda:** La enana le recuerda a sí mismo: obsesionada con demostrar algo, dispuesta a ir demasiado lejos. Le preocupa adónde les llevará esa obsesión.
 
 ---

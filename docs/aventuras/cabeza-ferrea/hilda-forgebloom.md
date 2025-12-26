@@ -144,6 +144,7 @@ Hilda se unió a Treslunas porque necesitaba acceso a los túneles profundos don
 - **Torgun:** Su korune, su protector, su familia adoptiva. Hilda a veces se pregunta si merece la lealtad de este viejo guerrero. Intenta ser digna de ella.
 - **Nola:** La corsaria es ruidosa, impulsiva y se mete en peleas innecesarias. También es valiente, leal y dice exactamente lo que piensa. Hilda no sabe si la admira o la envidia.
 - **Gek:** El gobo es un genio, aunque nunca se lo dirá a la cara. Sus fórmulas alquímicas han dado a Hilda ideas para mejorar sus diseños de condensadores. Trabajan bien juntos.
+- **Zira:** La hermana de Gek es silenciosa y parece estar siempre calculando algo. Hilda apenas la nota, lo cual probablemente es exactamente lo que Zira quiere.
 
 ---
 
