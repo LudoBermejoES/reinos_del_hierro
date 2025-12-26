@@ -103,7 +103,7 @@ Como **acción adicional**, puedes crear: fluido alcalino, gas fétido, humo sim
 | Armadura de cuero de alquimista | 10 lb. |
 | Daga | 1 lb. |
 | Bastón | 4 lb. |
-| Kit de alquimia de campo | 8 lb. |
+| Kit de alquimia de campo (10 usos) | 8 lb. |
 | Bandolera de granadas | 2 lb. |
 | Carcasas de granadas vacías (5) | 2.5 lb. |
 | Máscara de gas | 1 lb. |
@@ -112,7 +112,21 @@ Como **acción adicional**, puedes crear: fluido alcalino, gas fétido, humo sim
 | Pergaminos y tinta | 1 lb. |
 | **Total** | **35.5 lb.** |
 
-**Monedas:** 20 po
+### Ingredientes Alquímicos
+
+| Ingrediente | Cantidad | Precio/u |
+|-------------|----------|----------|
+| Piedra de alquimista | 8 | 2 pp |
+| Ácido orgánico | 4 | 3 pp |
+| Aceite orgánico | 2 | 1 pp |
+| Extracto arcano | 2 | 5 po |
+| Furia de Menoth | 2 | 3 po |
+| Metales pesados | 2 | 5 pp |
+| Residuos alquímicos (líquido) | 4 | 1 pc |
+
+*Suficiente para ~4 días de elaboración alquímica*
+
+**Monedas:** 2 po, 8 pp
 
 ---
 

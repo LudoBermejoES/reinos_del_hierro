@@ -508,6 +508,40 @@ El script `characterConverter.py` reconoce automáticamente estos nombres en esp
 | Antorcha | Torch |
 | Cuerda/Soga | Rope |
 
+### Ingredientes Alquímicos (Alquimista)
+
+Los ingredientes alquímicos se añaden en una sección separada en el markdown del personaje:
+
+```markdown
+### Ingredientes Alquímicos
+
+| Ingrediente | Cantidad | Precio/u |
+|-------------|----------|----------|
+| Piedra de alquimista | 8 | 2 pp |
+| Ácido orgánico | 4 | 3 pp |
+```
+
+El script `characterConverter.py` parsea esta tabla automáticamente y reconoce los siguientes ingredientes:
+
+| Ingrediente | Precio |
+|-------------|--------|
+| Piedra de alquimista | 2 pp |
+| Ácido orgánico | 3 pp |
+| Aceite orgánico | 1 pp |
+| Ácido mineral | 2 pp |
+| Cristales minerales | 3 pp |
+| Metales pesados | 5 pp |
+| Toxina orgánica | 5 pp |
+| Glándula de excavador | 5 pp |
+| Extracto mutagénico | 8 pp |
+| Extracto bioluminiscente | 1 po |
+| Furia de Menoth | 3 po |
+| Extracto arcano | 5 po |
+| Minerales arcanos | 7 po |
+| Ectoplasma | 10 po |
+| Residuos alquímicos (líquido) | 1 pc |
+| Residuos alquímicos (cristal) | 1 pc |
+
 ### Conjuros (mapean a D&D 5e)
 
 El script `characterConverter.py` contiene un mapeo completo de ~200 conjuros español → inglés.
