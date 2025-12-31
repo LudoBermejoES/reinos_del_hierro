@@ -42,9 +42,19 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El cascabel realiza dos ataques con sus garras.
+
+***Garra.*** *Ataque con arma cuerpo a cuerpo:* +7 a impactar, alcance 5 pies, un objetivo. *Impacto:* 13 (2d8 + 4) de daño cortante más 10 (3d6) de daño necrótico.
 
 ___
+
+> *No voy a negar que el tintineo de cadenas sigue poniendo mis nervios a prueba, pero porque ya las he tenido alrededor de las muñecas. Es más aterrador oír el sonido de aquellas cadenas que anuncian la llegada de algo que, posiblemente, no puedan contener.*
+>
+> —Viktor Pendrake
+
+## Descripción
+
+Llamado así por el tintineo de los eslabones de hierro que envuelven su carcasa cadavérica, el cascabel es la pesadilla más maliciosa al servicio de la Cosecha Torcida. La mera visión de los corruptos enemigos de los Oponentes basta para inducirle una ira enloquecida de odio salvaje y aterrador. Una vez en este estado frenético, el cascabel se precipita sobre las masas de almas desgraciadas y los aniquila con sus garras afiladas.
 
 ---
 [← Volver al Índice](../index.md)

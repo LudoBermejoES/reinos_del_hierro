@@ -5,12 +5,15 @@ title: Siervo de Guerra Ligero
 
 # Siervo de Guerra Ligero
 
+![Siervo de Guerra Ligero](/assets/monsters/warjack_light.jpeg)
+
+
 *Autómata Grande (siervo de vapor), sin alineamiento*
 
 ___
 
 - **Clase de Armadura** 18 (armadura natural)
-- **Puntos de Golpe** 42 (4d10 + 20)
+- **Puntos de Golpe** 42 (4d10 + 20)
 - **Velocidad** 30 pies
 
 ___
@@ -25,7 +28,7 @@ ___
 - **Inmunidad a daño** psíquico, veneno
 - **Inmunidad a estados** asustado, envenenado, hechizado, paralizado, petrificado
 - **Sentidos** Percepción pasiva 10
-- **Idiomas** Entiende los idiomas de su fabricante, pero no puede
+- **Idiomas** Entiende los idiomas de su fabricante, pero no puede hablar
 - **Desafío** 3 (700 PX)
 
 ___
@@ -40,13 +43,11 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El siervo de guerra realiza dos ataques con su cuchilla de combate.
 
-___
+***Cuchilla de combate.*** *Ataque con arma cuerpo a cuerpo:* +7 a impactar, alcance 15 pies, un objetivo. *Impacto:* 14 (2d8 + 5) de daño cortante. 
 
-> *Siervos de vapor Siervos de vapor. No siempre son útiles cuando se explora una caverna profunda o unas ruinas, y son demasiado ruidosos para la observación sigilosa de animales en casi todas las circunstancias. Sin embargo, pueden ser muy útiles para despejar una barricada, montar un campamento o abrirle la cabeza a un górax que intenta comerte para el almuerzo.*
->
-> —Viktor Pendrake
+***Cañón ligero.*** *Ataque con arma a distancia:* +2 a impactar, alcance 80/240 pies, un objetivo. *Impacto:* 11 (2d10) de daño perforante.
 
 ---
 [← Volver al Índice](../index.md)

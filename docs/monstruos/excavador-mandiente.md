@@ -38,13 +38,25 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El excavador mandiente realiza tres ataques cuerpo a cuerpo: uno con su mordisco y otros dos con sus garras.
+
+***Mordisco.*** *Ataque con arma cuerpo a cuerpo:* +1 a impactar, alcance 5 pies, un objetivo. *Impacto:* 2 (1d6 – 1) de daño perforante.
+
+***Garra.*** *Ataque con arma cuerpo a cuerpo:* +1 a impactar, alcance 5 pies, un objetivo. *Impacto:* 1 (1d4 − 1) de daño perforante.
 
 ___
 
 > *Puede que el excavador mandiente promedio no sea más grande que un gran gato doméstico, pero puedo afirmar con absoluta certeza que si los gatos tuvieran tan solo una décima parte de su ferocidad, no se podría encontrar un solo felino en ninguna ciudad desde Uldenfrost hasta Caspia.*
 >
 > —Viktor Pendrake
+
+## Descripción
+
+Los excavadores mandientes son criaturas pequeñas y feroces con un hambre insaciable por la carne. Se encuentran por todos los Reinos de Hierro, pero son más comunes en las áreas más templadas del sur. En pequeñas cantidades no suelen ser más que plagas peligrosas que se alimentan del ganado y de algún viajero solitario, pero en grupos mayores pueden representar una seria amenaza.
+
+Estos mamíferos del tamaño aproximado de un tejón tienen una densa capa de pelo de un marrón rojizo. Son cuadrúpedos, pero pueden alzarse sobre sus patas traseras durante breves períodos si es necesario. Cada una de las poderosas extremidades de la criatura termina en una ancha zarpa armada con unas prodigiosas garras de hasta cuatro pulgadas de largo. Estas garras se utilizan sobre todo para excavar, pero pueden atravesar la carne con la misma facilidad que la arcilla blanda. Los excavadores mandientes tienen orejas de murciélago en lo alto del cráneo, dos grandes ojos que brillan rojos por la noche, y mandíbulas pequeñas y poderosas repletas de colmillos serrados. Tienen un oído excelente acompañado de un agudo sentido del olfato y cuando cazan pueden detectar fácilmente el menor ruido u olor.
+
+Como su nombre indica, los excavadores mandientes moran en madrigueras subterráneas. Estas guaridas consisten en numerosas cámaras pequeñas comunicadas por docenas de túneles. A pesar de su comportamiento extremadamente agresivo, los excavadores mandientes son bestias sociales que se reúnen en amplios grupos familiares llamados comunidades, de entre seis y doce individuos. Cada comunidad está dirigida por un alfa: el excavador mandiente más grande, fuerte y feroz del grupo.
 
 ---
 [← Volver al Índice](index.md)

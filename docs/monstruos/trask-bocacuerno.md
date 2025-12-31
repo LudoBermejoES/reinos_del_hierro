@@ -13,8 +13,8 @@ title: Trask Bocacuerno
 ___
 
 - **Clase de Armadura** 13
-- **Puntos de Golpe** 9 (2d6 + 2)
-- **Velocidad** 30 pies, trepar 15 pies.
+- **Puntos de Golpe** 9 (2d6 + 2)
+- **Velocidad** 30 pies, trepar 15 pies
 
 ___
 
@@ -31,13 +31,27 @@ ___
 
 ___
 
+***Explosión de Adrenalina (1/día).*** El trask puede realizar un ataque o Correr como acción adicional durante 2 (1d4) asaltos. Después, su velocidad se reduce a la mitad y tiene desventaja en las tiradas de ataque durante el mismo número de asaltos.
+
 ***Olfato Agudo.*** El trask tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del olfato.
+
+### Acciones
+
+***Mordisco.*** *Ataque con arma cuerpo a cuerpo:* +4 a impactar, alcance 5 pies, un objetivo. *Impacto:* 4 (1d4 + 2) de daño perforante.
 
 ___
 
-> *Desafortunadamente, mi joven profesor adjunto, Lynus Wesselbaum, no comparte mi punto de vista y ha acogido a una criatura de lo más alarmante: un trask bocacuerno. Esa cosa formó un vínculo con él después de que le diera de comer de su mesa en una taberna de mala muerte junto al muelle, y claro está, fue algo mutuo. Por ahora parece bastante contenta con él, pero dada la voracidad y el salvajismo de sus ataques periódicos de apetito, me temo que es solo cuestión de tiempo que no cumpla con su estricto programa dietético y mi colega se convierta en su comida.*
+> *Admito una fascinación por todo tipo de vida salvaje, a veces peligrosa, pero tengo el buen criterio que Morrow me dio para no traerlos a casa y convertirlos en mascotas. Desafortunadamente, mi joven profesor adjunto, Lynus Wesselbaum, no comparte mi punto de vista y ha acogido a una criatura de lo más alarmante: un trask bocacuerno.*
 >
 > —Viktor Pendrake
+
+## Descripción
+
+Los trasks bocacuerno son unos voraces depredadores originarios de las exóticas tierras del continente meridional de Zu. Estos extraños reptiles del tamaño de un perro tienen una apariencia similar a la de un lagarto, incluyendo una piel correosa cuya coloración podría proporcionar camuflaje en sus hábitats nativos de la jungla.
+
+Completamente carnívoro, un trask hambriento se contenta con devorar cualquier fuente de carne que pueda encontrar: ratas, perros callejeros, gobos y, a veces, incluso presas mayores. La criatura considerará prácticamente cualquier cosa que se mueva como una fuente de alimento, incluyendo grandes aves.
+
+Los alquimistas han mostrado algún interés en los trasks después de descubrir que algunos de sus órganos son perfectos sustitutos para los componentes que suelen obtenerse de los excavadores mandientes.
 
 ---
 [← Volver al Índice](index.md)

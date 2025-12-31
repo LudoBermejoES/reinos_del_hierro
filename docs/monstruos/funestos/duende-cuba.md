@@ -5,6 +5,9 @@ title: Duende de la Cuba
 
 # Duende de la Cuba
 
+![Duende de la Cuba](/assets/monsters/cask_imp.jpeg)
+
+
 *Feérico Pequeño (funesto), caótico neutral*
 
 ___
@@ -34,9 +37,25 @@ ___
 
 ### Acciones
 
-***Eructo embriagador (recarga 6).***
+***Garra.*** *Ataque con arma cuerpo a cuerpo:* +5 a impactar, alcance 5 pies, un objetivo. *Impacto:* 6 (1d6 + 3) de daño perforante.
+
+***Dominio de los ebrios.*** Un humanoide beodo a 30 pies o menos del duende de la cuba y al que este pueda ver deberá superar una tirada de salvación de Sabiduría CD 11 o quedará hechizado mágicamente durante 1 minuto. El objetivo hechizado obedece las órdenes verbales del duende de la cuba. Si el objetivo sufre algún daño o recibe una orden suicida, podrá repetir la tirada de salvación, poniendo fin al efecto si tiene éxito. Si el objetivo supera la tirada o si el efecto sobre él termina, será inmune al Dominio de los ebrios de este duende de la cuba durante las próximas 24 horas. Cada duende de las cubas solo puede tener a un objetivo hechizado a la vez. Si hechizara a otro, el efecto sobre el objetivo anterior terminaría.
+
+***Eructo embriagador (recarga 6).*** El duende de la cuba suelta un eructo intoxicante que afecta a todas las criaturas a 10 pies o menos de él y capaces de respirar. Todas las criaturas que se encuentren en el área deberán superar una tirada de salvación de Constitución CD 13 o estará envenenada (ebria) durante 1d4 asaltos. Mientras un objetivo permanezca envenenado de esta forma, provocará ataques de oportunidad cada vez que realice alguna acción.
 
 ___
+
+> *Habitualmente, los duendes de la cuba solo optan por avergonzar a sus víctimas, pero algunos son maliciosos y obligan a los embriagados a emprender acciones más peligrosas. Esto se vuelve más probable a medida que el funesto se acerca al fondo de un barril y empieza a ponerse gruñón. La única criatura más peligrosa cerca de la bebida que un duende de la cuba es un estudiante universitario de primer año.*
+>
+> —Viktor Pendrake
+
+## Descripción
+
+Los duendes de la cuba, criaturas deformes que miden cuatro pies de alto, son almas podridas por abusar del alcohol. Como muchos funestos menores, tienen rasgos desmesurados y una apariencia patosa que los hace parecer bastante cómicos cuando se los encuentra por primera vez.
+
+Dado su intenso amor por las bebidas espirituosas, los duendes de la cuba se encuentran entre los pocos funestos habituales en las áreas urbanas. A menudo se encuentran al acecho en los bares y bodegas, y les encanta esconderse en toneles para consumir grandes cantidades de alcohol. Todos los mortales que se encuentren en las cercanías, en especial los borrachos y otros propensos a beber de manera impúdica, a menudo se percatan de que los duendes de la cuba son compañeros entusiastas, pero volátiles.
+
+**Dejarse llevar por la corriente.** Los duendes de la cuba son capaces de asumir una forma líquida que utilizan para infiltrarse en barriles de licor o para escapar sin ser vistos de un algún sitio. Esta habilidad hace que tales criaturas sean difíciles de mantener fuera de cualquier bodega o almacén donde quieran entrar. Afortunadamente, el contenido de alcohol en la sangre de un duende de la cuba los vuelve bastante inflamables mientras se encuentran en estado líquido.
 
 ---
 [← Volver al Índice](../index.md)

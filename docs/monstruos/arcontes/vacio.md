@@ -5,6 +5,9 @@ title: Arconte del Vacío
 
 # Arconte del Vacío
 
+![Arconte del Vacío](/assets/monsters/void_archon.jpeg)
+
+
 *Celestial Grande (arconte), sin alineamiento*
 
 ___
@@ -33,7 +36,7 @@ ___
 
 ***Fuerza Entrópica.*** Las criaturas que se encuentren a 10 pies o menos del arconte hacen sus tiradas de salvación contra muerte con desventaja y no pueden recuperar puntos de golpe.
 
-***Movimiento Incorpóreo.*** El arconte puede moverse a través de otras criaturas y objetos como si fueran terreno difícil. Si termina su turno dentro de un objeto, sufrirá 5 (1d10) de daño de fuerza
+***Movimiento Incorpóreo.*** El arconte puede moverse a través de otras criaturas y objetos como si fueran terreno difícil. Si termina su turno dentro de un objeto, sufrirá 5 (1d10) de daño de fuerza.
 
 ***Resistencia Mágica.*** El arconte tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
@@ -43,11 +46,31 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El arconte realiza dos ataques cuerpo a cuerpo.
+
+***Toque del vacío.*** *Ataque con arma cuerpo a cuerpo:* +10 a impactar, alcance 5 pies, un objetivo. *Impacto:* 15 (2d10 + 4) de daño cortante más 38 (7d10) de daño de fuerza. Si el objetivo tiene el alma de otra criatura en su poder, la pierde en favor del arconte. Este puede tener hasta tres almas en su poder a la vez.
 
 ***Aullido del vacío (recarga 4-6).*** La energía del vacío brota del arconte en un cono de 60 pies. Todas las criaturas en el área deben superar una tirada de salvación de Sabiduría CD 17 o recibirá 55 (10d10) de daño de fuerza y estarán aturdidas hasta el final del siguiente turno del arconte.
 
+***Fuerza de la muerte.*** Si el arconte tiene un alma en su poder, podrá consumirla como acción adicional. Si lo hace, tendrá ventaja en las tiradas de ataque hasta el final de su turno.
+
+### Acciones Legendarias
+
+El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones presentadas a continuación. Solo es capaz de utilizar una acción legendaria a la vez, y únicamente al final del turno de otra criatura. El arconte recupera las acciones legendarias gastadas al principio de su turno.
+
+***Tormenta aullante.*** El arconte usa Aullido del vacío.
+
+***Sudario oscuro (cuesta 2 acciones).*** El arconte crea un campo mágico de energía oscura a su alrededor. Las criaturas hostiles a 10 pies o menos del arconte sufren una penalización de –2 a la CA hasta el comienzo del próximo turno del mismo.
+
+***Paseo por el vacío (Coste 2 acciones).*** El arconte se teletransporta hasta 120 pies a un espacio desocupado que pueda ver.
+
 ___
+
+## Descripción
+
+Existe un tipo de arconte que desafía la razón convencional. Como otros enviados por los dioses, estos seres son claramente arcontes, pero muchos de ellos no poseen relación, al menos una aparente, con ninguna divinidad conocida. Sea cual fuere su naturaleza, ya estén conectados con dioses ocultos, perdidos u olvidados, los arcontes del vacío se han manifestado en Caen desde la Colecta.
+
+Estos seres se perciben normalmente como autómatas humanoides de manufactura elaborada, como marionetas hechas por los dioses. Adoptan muchas formas, que los observadores han interpretado de distintas maneras, desde las máquinas divinas de Cyriss hasta los servidores que una vez protegieron el Veld en nombre de la corte divina.
 
 ---
 [← Volver al Índice](../index.md)

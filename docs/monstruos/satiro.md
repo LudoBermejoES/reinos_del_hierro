@@ -39,13 +39,30 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El sátiro realiza tres ataques cuerpo a cuerpo: uno con su embestida y dos con sus garras.
+
+***Garra.*** *Ataque con arma cuerpo a cuerpo:* +7 a impactar, alcance 10 pies, un objetivo. *Impacto:* 11 (2d6 + 4) de daño cortante.
+
+***Embestida.*** *Ataque con arma cuerpo a cuerpo:* +7 a impactar, alcance 10 pies, un objetivo. *Impacto:* 17 (3d8 + 4) de daño contundente.
 
 ___
 
 > *Los sátiros suponen que los demás son tan duros como los de su propia especie. Una vez vi a uno mirando confundido el cuerpo abollado de un caballero en su armadura, quien había cometido el error de intentar enfrentarse a él en un paso de montaña. La bestia parecía decepcionada por haber sido privada de la oportunidad de otro asalto.*
 >
 > —Viktor Pendrake
+
+## Descripción
+
+Los sátiros tienen la parte superior del cuerpo musculosa, parecida a la de un hombre, pero las piernas y los cascos de una cabra. Caminan erguidos, alcanzando el doble de altura que el humano promedio. Sus cuernos enroscados protegen su cabeza y cara a la vez que proporcionan una potente arma natural. Su tamaño es un buen indicador de la edad del ejemplar.
+
+Aunque se comunican con gruñidos y resoplidos, la mayoría de sus reacciones se basan en el instinto. Son criaturas hostiles que atacan a la mínima provocación, chocando contra sus oponentes con un efecto devastador sin apenas sufrir daño ellos mismos debido a su grueso cráneo.
+
+**Historia y Relación con el Círculo.** Fueron cazados casi hasta la extinción tras la fractura de los molgur, vistos como bestias malvadas ligadas a la Sierpe Devoradora. Los habitonegros del Círculo Orboros los protegieron al apreciar su valor como guardianes y bestias de guerra, fomentando determinados linajes.
+
+### Variantes de Sátiros
+
+* **Sátiro Rompecuerno (Hostilidad):** Más inteligentes y agresivos. Puede moverse hasta su velocidad hacia una criatura hostil como acción adicional.
+* **Sátiro Cuerno Sombrío (Agilidad):** Más delgados y ágiles. Pueden saltar 30 pies de longitud o 15 pies de altura, con o sin carrerilla.
 
 ---
 [← Volver al Índice](index.md)

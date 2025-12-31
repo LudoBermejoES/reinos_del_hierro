@@ -5,6 +5,9 @@ title: Arconte Morrowano
 
 # Arconte Morrowano
 
+![Arconte Morrowano](/assets/monsters/morrowan_archon.jpeg)
+
+
 *Celestial Grande (arconte), neutral bueno*
 
 ___
@@ -42,7 +45,9 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.*** El arconte realiza dos ataques con su lanza.
+***Ataque múltiple.*** El arconte realiza dos ataques cuerpo a cuerpo.
+
+***Lanza sagrada.*** *Ataque con arma cuerpo a cuerpo:* +11 a impactar, alcance 10 pies, un objetivo. *Impacto:* 16 (2d10 + 5) de daño perforante y 38 (7d10) de daño radiante, y el objetivo debe superar una tirada de salvación de Sabiduría CD 18 o quedar cegado hasta el comienzo del siguiente turno del arconte.
 
 ### Reacciones
 
@@ -60,7 +65,11 @@ El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones pr
 
 ___
 
-> *El término «arconte» se ha convertido en sinónimo de la fe morrowana para la mayoría de las personas que viven en Immoren Occidental. La Hueste de Arcontes es aceptada como la manifestación de la voluntad de Morrow en Caen y sus impresionantes apariciones siempre son trascendentales. La visión de un solo arconte morrowano puede helar hasta la sangre de los más devotos, ya que estos seres anuncian acontecimientos tan terroríficos como revolucionarios. Aunque se cree que la hueste incluye a todos los antiguos primarcas, hay otras almas en sus filas que incluyen a los grandes héroes y campeones de la fe que perecieron tras un servicio inquebrantable. Los arcontes morrowanos se han descrito de varias maneras, aunque «ángeles de luz» es la más habitual. Algunos observadores han comentado que las alas de estos arcontes están hechas de luz pura, como si el resplandor del sol que aparece en el símbolo sagrado de Morrow se manifestara en Caen. Aunque la mayoría de los arcontes morrowanos no tienen rostro o resultan irreconocibles, los hay que han sido reconocidos como un héroe de la fe fallecido, ya fuera un antiguo primarca, un caballero o incluso un ascendente. De igual manera, se han manifestado vistiendo armaduras y ropas de todo tipo y empuñando diferentes armas o símbolos de la fe.*
+## Descripción
+
+El término «arconte» se ha convertido en sinónimo de la fe morrowana para la mayoría de las personas que viven en Immoren Occidental. La Hueste de Arcontes es aceptada como la manifestación de la voluntad de Morrow en Caen y sus impresionantes apariciones siempre son trascendentales. La visión de un solo arconte morrowano puede helar hasta la sangre de los más devotos, ya que estos seres anuncian acontecimientos tan terroríficos como revolucionarios.
+
+Aunque se cree que la hueste incluye a todos los antiguos primarcas, hay otras almas en sus filas que incluyen a los grandes héroes y campeones de la fe que perecieron tras un servicio inquebrantable. Los arcontes morrowanos se han descrito de varias maneras, aunque «ángeles de luz» es la más habitual. Algunos observadores han comentado que las alas de estos arcontes están hechas de luz pura, como si el resplandor del sol que aparece en el símbolo sagrado de Morrow se manifestara en Caen. Aunque la mayoría de los arcontes morrowanos no tienen rostro o resultan irreconocibles, los hay que han sido reconocidos como un héroe de la fe fallecido, ya fuera un antiguo primarca, un caballero o incluso un ascendente. De igual manera, se han manifestado vistiendo armaduras y ropas de todo tipo y empuñando diferentes armas o símbolos de la fe.
 
 ---
 [← Volver al Índice](../index.md)

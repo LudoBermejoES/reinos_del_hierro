@@ -5,6 +5,9 @@ title: Siervo de Trabajo Pesado
 
 # Siervo de Trabajo Pesado
 
+![Siervo de Trabajo Pesado](/assets/monsters/ironclad.jpeg)
+
+
 *Autómata Grande, sin alineamiento*
 
 ___
@@ -26,7 +29,7 @@ ___
 - **Inmunidad a daño** psíquico, veneno
 - **Inmunidad a estados** asustado, envenenado, hechizado, paralizado, petrificado
 - **Sentidos** Percepción pasiva 10
-- **Idiomas** entiende los idiomas de su fabricante, pero no
+- **Idiomas** entiende los idiomas de su fabricante, pero no puede hablar
 - **Desafío** 6 (2.300 PX)
 
 ___
@@ -35,7 +38,9 @@ ___
 
 ***Funcionamiento a Vapor.*** El siervo necesita carbón y agua para funcionar. Puede funcionar durante 5 horas con una carga completa de 600 libras de carbón y agua dulce en su caldera. También puede funcionar durante 1 hora con una carga de combustible completa en combate. Si el carbón y el agua del Siervo no se recargan pasado ese tiempo, ganará 1 nivel de cansancio al final de cada minuto. Debido al ruido de su máquina a vapor, tiene desventaja en las pruebas de Destreza (Sigilo).
 
-___
+### Acciones
+
+***Golpe.*** *Ataque con arma cuerpo a cuerpo:* +8 a impactar, alcance 10 pies, un objetivo. *Impacto:* 18 (3d8 + 5) de daño contundente.
 
 ---
 [← Volver al Índice](../index.md)

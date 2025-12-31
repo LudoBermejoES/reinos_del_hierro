@@ -5,40 +5,43 @@ title: Rata del Diablo Matriarca
 
 # Rata del Diablo Matriarca
 
-*Enjambre Mediano de bestias Diminutas, neutral malvado*
+![Rata del Diablo Matriarca](/assets/monsters/devil_rat_matriarch.jpeg)
+
+
+*Bestia Grande, neutral malvado*
 
 ___
 
-- **Clase de Armadura** 13
-- **Puntos de Golpe** 38 (7d8+7)
-- **Velocidad** 40 pies, nadar 20 pies.
+- **Clase de Armadura** 12 (armadura natural)
+- **Puntos de Golpe** 42 (5d10 + 15)
+- **Velocidad** 40 pies, nadar 20 pies
 
 ___
 
-
+| FUE | DES | CON | INT | SAB | CAR |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|17 (+3)|9 (−1)|16 (+3)|4 (−3)|12 (+1)|5 (−3)|
 
 ___
 
-- **Habilidades** Sigilo +4
-- **Resistencia a daño** contundente, perforante, cortante
-- **Inmunidad a estados** agarrado, apresado, asustado, aturdido, derribado, hechizado, paralizado, petrificado
-- **Sentidos** visión en la oscuridad 60 pies, Percepción pasiva 10
+- **Habilidades** Sigilo +1
+- **Sentidos** visión en la oscuridad 60 pies, Percepción pasiva 11
 - **Idiomas** —
-- **Desafío** 1/2 (100 PX)
+- **Desafío** 2 (450 PX)
 
 ___
 
-***Olfato Agudo.*** El enjambre tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del olfato.
+***Olfato Agudo.*** La matriarca tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del olfato.
 
-***Enjambre.*** El enjambre puede ocupar el espacio de otra criatura y viceversa. Además, también es capaz de moverse a través de cualquier abertura por la que quepa una rata del diablo. El enjambre no puede recuperar puntos de golpe ni ganar puntos de golpe temporales.
+***Desgarrarse.*** Cuando la matriarca llega a 21 puntos de golpe o menos, coloca un nuevo enjambre de ratas del diablo en su espacio.
 
 ### Acciones
 
-***Rociar bilis (recarga 6).***
+***Ataque múltiple.*** La matriarca realiza un ataque de mordisco y un ataque de derribar con la cola.
 
-***Acciones Ataque múltiple.***
+***Mordisco.*** *Ataque con arma cuerpo a cuerpo:* +5 a impactar, alcance 5 pies, un objetivo. *Impacto:* 8 (1d10 + 3) de daño perforante más 2 (1d4) de daño de veneno. Si el objetivo es una criatura, deberá superar una tirada de salvación de Constitución CD 11 o contraer la fiebre de la rata del diablo.
 
-___
+***Derribar con la cola.*** *Ataque con arma cuerpo a cuerpo:* +5 a impactar, alcance 10 pies, un objetivo. *Impacto:* 5 (1d4 + 3) de daño contundente. Si el objetivo es una criatura, deberá superar una tirada de salvación de Fuerza CD 13 o caerá derribada.
 
 ---
 [← Volver al Índice](../index.md)

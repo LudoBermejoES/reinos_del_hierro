@@ -5,6 +5,9 @@ title: Cefálico Subyugador
 
 # Cefálico Subyugador
 
+![Cefálico Subyugador](/assets/monsters/cephalphalyx_subyugador.jpeg)
+
+
 *Humanoide Grande, sin alineamiento*
 
 ___
@@ -23,25 +26,37 @@ ___
 
 - **Tiradas de salvación** Con +8
 - **Inmunidad a estados** asustado, cegado, hechizado
-- **Sentidos** visión ciega 60 pies (ciego más allá de este radio),
+- **Sentidos** visión ciega 60 pies (ciego más allá de este radio), Percepción pasiva 6
 - **Idiomas** —
 - **Desafío** 5 (1.800 PX)
 
 ___
 
-***Fortaleza Inhumana.*** Si el daño reduce a la monstruosidad a 0 puntos de golpe, deberá hacer una tirada de salvación de Constitución con CD 5 + el daño sufrido, siempre que este no sea psíquico o proveniente de un impacto crítico. Si tiene éxito, pasa a tener 1 punto de golpe en lugar de 0.
+***Fortaleza Inhumana.*** Si el daño reduce a la monstruosidad a 0 puntos de golpe, deberá hacer una tirada de salvación de Constitución con CD 5 + el daño sufrido, siempre que este no sea psíquico o proveniente de un impacto crítico. Si tiene éxito, pasa a tener 1 punto de golpe en lugar de 0.
 
 ***Respirador.*** La monstruosidad es inmune a cualquier efecto que requiera la inhalación de un gas, como los venenos de transmisión aérea.
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El subyugador realiza dos ataques cuerpo a cuerpo.
+
+***Cuchilla protésica.*** *Ataque con arma cuerpo a cuerpo:* +8 a impactar, alcance 10 pies, un objetivo. *Impacto:* 18 (3d8 + 5) de daño cortante.
+
+***Lanzarredes.*** La monstruosidad elige como objetivo a una sola criatura que tenga a 60 pies o menos y a la que pueda ver. La criatura objetivo deberá superar una tirada de salvación de Destreza CD 15 o caerá derribada y arrastrada hasta 55 pies hacia el subyugador, que entonces realiza un ataque cuerpo a cuerpo contra la criatura afectada.
 
 ___
 
-> *Solo los cefálicos realmente poderosos, conocidos como exulones, son capaces de atravesar esta nube de rabia y violencia e imponer su voluntad sobre una monstruosidad, obligándola a actuar de acuerdo con sus caprichos. Estas abominables criaturas son el subproducto de una manipulación prolongada y exhaustiva por parte de los artesanos cefálicos de la carne. Aunque se parecen bastante a los esclavos, son mucho más peligrosos.*
+> *Estas abominables criaturas son el subproducto de una manipulación prolongada y exhaustiva por parte de los artesanos cefálicos de la carne. Aunque se parecen bastante a los esclavos, son mucho más peligrosos.*
 >
 > —Viktor Pendrake
+
+## Descripción
+
+Estas enormes y casi desconocidas creaciones de los cefálicos resultan incomprensibles por los habitantes de Immoren Occidental, que han empezado a llamarlas simplemente «monstruosidades». Dichas monstruosidades son una variedad de esclavos profundamente mejorada, extraídas de entre las víctimas físicamente más poderosas de los cefálicos. Los individuos seleccionados para la transformación son sometidos a crueles tratamientos alquímicos que los obligan a crecer rápidamente hasta alcanzar un tamaño alarmante. Una vez mejorados de la forma adecuada, los esclavos sufren profundas alteraciones quirúrgicas y mecánicas que los convierten en monstruosidades. Cada una de estas criaturas es una increíble inversión de tiempo y recursos para los cefálicos.
+
+Cuando un sujeto se ha preparado como es debido, los cirujanos cefálicos unen carne y maquinaria para crear una forma satisfactoria. A medida que la monstruosidad toma cuerpo, se refuerza con un entramado de latón y hierro, y luego se llena de numerosos fluidos alquímicos que aumentan aún más su masa muscular y estimulan el proceso de curación. Cuando el trabajo está terminado, la carne de la monstruosidad se tensa por las costuras que recorren su cuerpo, arrugadas y cicatrizadas alrededor de los dispositivos metálicos que sobresalen de su carne, y su sistema nervioso es torturado por implacables y poderosas oleadas de adrenalina y endorfinas.
+
+Al igual que un esclavo ordinario, un subyugador solo actúa siguiendo las órdenes mentales de un amo cefálico. La cirugía realizada en la mente de la criatura hace que sea increíblemente agresiva incluso cuando no está directamente controlada por un cefálico. Solo los cefálicos realmente poderosos, conocidos como exulones, son capaces de atravesar esta nube de rabia y violencia e imponer su voluntad sobre una monstruosidad, obligándola a actuar de acuerdo con sus caprichos.
 
 ---
 [← Volver al Índice](../index.md)

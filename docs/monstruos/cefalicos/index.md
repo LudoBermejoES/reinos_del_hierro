@@ -5,37 +5,22 @@ title: Cefálicos
 
 # Cefálicos
 
-*Humanoide Mediano, legal malvado*
+Pocos conocen a los enigmáticos cefálicos, que habitan muy por debajo de la superficie de Caen, pero todos los que se han topado con ellos los temen. Durante siglos esta raza tuvo poco contacto con la humanidad, así que el conocimiento sobre estos enigmáticos monstruos es relativamente reciente.
 
-___
-- **Clase de Armadura** 16 (caparazón acorazado)
-- **Puntos de Golpe** 82 (15d8 + 15)
-- **Velocidad** 0 pies, volar 30 pies (levitar)
+Todos los cefálicos exhiben grandes poderes psicoquinéticos que parecen completamente distintos a la magia empleada por otras razas. Sus cuerpos macilentos y atrofiados flotan sobre el suelo con una elegancia extraña e inquietante y el traqueteo de sus prótesis de metal es el único sonido que marca su paso. También pueden mover cosas con la mente, ya sea para atraer flotando delicadamente un objeto a sus manos o para empujar violentamente a un oponente con facilidad.
 
-___
-| FUE | DES | CON | INT | SAB | CAR |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|10 (+0)|16 (+3)|12 (+1)|20 (+5)|14 (+2)|16 (+3)|
+Los cefálicos no hablan en voz alta entre ellos, sino que parecen comunicarse telepáticamente entre sí y con sus casi descerebrados esclavos. En las raras ocasiones en que hablan con extraños, se comunican mediante órganos vocales mejorados mecánicamente que producen un habla inhumana y artificial. También pueden hablar telepáticamente con otras razas, pero esta es una experiencia disonante y dolorosa que, por lo que se sabe, causa demencia en seres de menor intelecto.
 
-___
-- **Tiradas de salvación** Int +8, Sab +5
-- **Habilidades** Conocimiento Arcano +8, Medicina +8,
-- **Resistencia a daño** psíquico; contundente, cortante y perforante de ataques no mágicos
-- **Sentidos** visión en la oscuridad 60 pies, Percepción pasiva 15
-- **Idiomas** entiende todos los idiomas pero elige no hablar,
-- **Desafío** 7 (2.900 PX)
+El contacto principal de los cefálicos con los forasteros se produce a través de incursiones nocturnas realizadas para capturar prisioneros, quienes son arrastrados a las guaridas subterráneas de las criaturas para experimentación médica o para ser transformados en esclavos descerebrados y potenciados mediante cirugía. Estos misteriosos esclavistas han subyugado a innumerables miembros de todas las razas inteligentes a lo largo de los siglos, manteniendo pequeños ejércitos de grotescos sirvientes y soldados que habitan con ellos en sus colmenas subterráneas.
 
-___
-***Comandar Esclavo.*** Los esclavos cefálicos obedecen las órdenes telepáticas del cognifex sin importar lo suicidas que sean. Lanzamiento de conjuros innato (psiónica). La aptitud mágica innata del cognifex es Inteligencia (salvación de conjuros CD 16). Puede lanzar de forma innata los siguientes conjuros sin necesidad de componentes materiales: A voluntad: detectar pensamientos, inmovilizar persona, mano de mago 3/día: animar objetos, muro de fuerza, ojo arcano 1/día cada uno: mente en blanco, telequinesis
+## Órdenes y Creaciones
 
-***Cirujano Maestro.*** El cognifex tiene ventaja en las pruebas de Sabiduría (Medicina).
+* [Cefálico Cognifex](cognifex.md): Especialistas en desmantelar mentes y extraer secretos.
+* [Cefálico Esclavista](esclavista.md): Los encargados de capturar nuevas víctimas para la colmena.
+* [Cefálico Guardián](guardian.md): Monstruosidades diseñadas para proteger a sus creadores.
+* [Cefálico Subyugador](subyugador.md): Máquinas de matar de carne y hueso para la guerra.
+* [Cefálico Demoledor](demoledor.md): Arietes vivientes capaces de derribar muros.
+* [Cefálico Esclavo](esclavo.md): Víctimas lobotomizadas y mejoradas para el servicio básico.
 
-### Acciones
-
-***Ataque múltiple.***
-
-***Descarga mental (recarga 5-6).*** El cognifex emite mágicamente una descarga de energía psíquica en un cono de 60 pies. Todas las criaturas que se encuentren en el área deberán superar una tirada de salvación de Inteligencia CD 15 o recibirán 41 (8d8 + 5) de daño psíquico y estarán aturdidas durante 1 minuto. Cada objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.
-
-___
 ---
 [← Volver al Índice](../index.md)

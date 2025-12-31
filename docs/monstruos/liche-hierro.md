@@ -5,7 +5,10 @@ title: Liche de Hierro
 
 # Liche de Hierro
 
-*Muerto viviente Mediano, cualquier alineamiento malvado*
+![Liche de Hierro](/assets/monsters/iron_lich.jpeg)
+
+
+*Muerto viviente Mediano (necrotécniko), cualquier alineamiento malvado*
 
 ___
 
@@ -22,12 +25,12 @@ ___
 ___
 
 - **Tiradas de salvación** Con +8, Int +10, Sab +7
-- **Habilidades** Conocimiento Arcano +15, Historia +10
+- **Habilidades** Conocimiento Arcano +15, Historia +10, Percepción +7, Perspicacia +7
 - **Resistencia a daño** frío, necrótico, relámpago
 - **Inmunidad a daño** veneno; contundente, cortante y perforante de ataques no mágicos
 - **Inmunidad a estados** asustado, cansancio, envenenado, hechizado, paralizado
 - **Sentidos** visión en la oscuridad 120 pies, Percepción pasiva 17
-- **Idiomas** cualquier idioma que conociera en vida
+- **Idiomas** cualquier idioma que conociera en vida y hasta otros cinco idiomas
 - **Desafío** 14 (11.500 PX)
 
 ___
@@ -35,14 +38,14 @@ ___
 ***Equipo especial.*** El liche tiene 1d4 jaulas de almas vacías.
 
 ***Lanzamiento de conjuros.*** El liche es un lanzador de conjuros de nivel 14. Su aptitud mágica es Inteligencia (salvación de conjuros CD 18, +9 a impactar con ataques de conjuro). El liche tiene preparados los siguientes conjuros:
-- Trucos (a voluntad): mano de mago, prestidigitación, rayo de escarcha
-- Nivel 1 (4 espacios): armadura de mago, detectar magia, escudo, falsa vida
-- Nivel 2 (3 espacios): detectar pensamientos, invisibilidad, flecha ácida, rayo debilitador
-- Nivel 3 (3 espacios): animar a los muertos, bola de fuego, contrahechizo, toque vampírico
-- Nivel 4 (3 espacios): marchitar, tentáculos negros
-- Nivel 5 (2 espacios): dominar persona, nube aniquiladora
-- Nivel 6 (1 espacio): crear muerto viviente, desintegrar
-- Nivel 7 (1 espacio): dedo de la muerte, jaula de fuerza
+* **Trucos (a voluntad):** *mano de mago, prestidigitación, rayo de escarcha*
+* **Nivel 1 (4 espacios):** *armadura de mago, detectar magia, escudo, falsa vida*
+* **Nivel 2 (3 espacios):** *detectar pensamientos, invisibilidad, flecha ácida, rayo debilitador*
+* **Nivel 3 (3 espacios):** *animar a los muertos, bola de fuego, contrahechizo, toque vampírico*
+* **Nivel 4 (3 espacios):** *marchitar, tentáculos negros*
+* **Nivel 5 (2 espacios):** *dominar persona, nube aniquiladora*
+* **Nivel 6 (1 espacio):** *crear muerto viviente, desintegrar*
+* **Nivel 7 (1 espacio):** *dedo de la muerte, jaula de fuerza*
 
 ***Reconstrucción.*** Un liche destruido puede tener un nuevo cuerpo construido si conserva su filacteria. Construir uno requiere 5.000 po en materiales y 1d10 días. Después de obtenerlo, el liche recupera todos los puntos de golpe y vuelve a activarse.
 
@@ -54,9 +57,13 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.*** El liche realiza dos ataques cuerpo a cuerpo.
+***Ataque múltiple.*** El liche realiza tres ataques: dos con su bastón siniestro y uno con fuego tenebroso.
 
-***Toque paralizante.*** Ataque con arma cuerpo a cuerpo: +10 a impactar, alcance 5 pies, un objetivo. Impacto: 10 (3d6) de daño frío. El objetivo debe superar una tirada de salvación de Constitución CD 18 o quedará paralizado durante 1 minuto. El objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos, terminando el efecto sobre sí mismo con un éxito.
+***Bastón siniestro.*** *Ataque con arma cuerpo a cuerpo:* +5 a impactar, alcance 10 pies, una criatura. *Impacto:* 18 (4d8) de daño contundente y 11 (2d10) de daño necrótico.
+
+***Fuego tenebroso.*** *Ataque de conjuro a distancia:* +9 a impactar, alcance 100 pies, una criatura. *Impacto:* 18 (4d8) de daño de fuego y 18 (4d6) de daño necrótico. Si este daño reduce una criatura viva con alma a 0 puntos de golpe, el liche puede capturar el alma de inmediato si tiene una jaula del alma vacía, independientemente de la distancia.
+
+***Fuerza a través de la muerte.*** Como acción adicional, el liche puede consumir un alma que haya capturado en una jaula del alma. El alma es destruida y el liche puede realizar un ataque adicional durante su turno o lanzar uno de los dados de golpe de la criatura y recuperar un espacio de conjuro gastado igual o menor que el resultado.
 
 ### Reacciones
 
@@ -66,13 +73,17 @@ ___
 
 > *Semejante combinación impía de muerte viviente y mecánika. Es difícil creer que ningún mago estuviera dispuesto a hacerse esto a sí mismo, por muy loco que esté.*
 >
-> *Un liche de hierro es un receptáculo físico que alberga el alma. En realidad la criatura no puede ser destruida mientras su filacteria permanezca intacta. La destrucción de su forma física es simplemente un revés, ya que el liche incorpóreo puede ordenar a sus sirvientes que le construyan una nueva. Como la filacteria es la única verdadera vulnerabilidad de un liche de hierro, estos se esfuerzan mucho por ocultar y proteger estos dispositivos, ya sea creando señuelos para desviar a los rivales del camino, construyendo criptas llenas de elaboradas trampas a su alrededor o rodeándose de vastas multitudes de esclavos leales hasta la médula que sirven como fieles guardianes.*
->
-> *El cuerpo de un liche de hierro no está limitado a ninguna configuración en particular y no necesita tener ningún parecido con la forma viva del liche. Las únicas restricciones son los recursos, el tiempo y la retorcida visión del propio liche de hierro. Muchas de estas criaturas han integrado armamento en sus cuerpos de hierro, incluyendo cuchillas afiladas o púas a lo largo de su chasis y garras de metal en lugar de manos.*
->
-> *Un repugnante horno de necrotita alimenta el cuerpo de un liche de hierro. Este necesita necrotita para funcionar y se quedará inservible si agota su suministro de carbón corrompido por la muerte. Estas calderas requieren un reabastecimiento de combustible (unas 5 libras de necrotita) cada 12 horas. Un liche de hierro no necesita comer, beber ni dormir. Su horno requiere necrotita y aire para funcionar.*
->
 > —Viktor Pendrake
+
+## Descripción
+
+Un liche de hierro es una fusión no muerta de nigromancia y mecánika. En un intento por alcanzar la inmortalidad, el liche de hierro reemplazó su cuerpo mortal con un complejo sistema mecániko que prolonga su existencia. La caldera de almas en la espalda de la criatura activa un sistema de bombas y pistones que le proporcionan una movilidad y fuerza superiores. Solo el cráneo del liche delata su antigua vida mortal.
+
+**La filacteria del liche de hierro.** Los liches de hierro almacenan su esencia espiritual en una filacteria. La criatura no puede ser destruida permanentemente mientras su filacteria permanezca intacta. La destrucción de su forma física es simplemente un revés, ya que el liche incorpóreo puede ordenar a sus sirvientes que le construyan una nueva.
+
+**Necrotécnica.** El cuerpo de un liche de hierro no está limitado a ninguna configuración particular. Muchas de estas criaturas han integrado armamento en sus cuerpos, incluyendo cuchillas afiladas o garras de metal. Su funcionamiento depende de un horno de necrotita que requiere aire para la combustión.
+
+**Muerto viviente.** Un liche de hierro no necesita comer, beber ni dormir.
 
 ---
 [← Volver al Índice](index.md)

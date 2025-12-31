@@ -5,6 +5,9 @@ title: Lobo del Ocaso
 
 # Lobo del Ocaso
 
+![Lobo del Ocaso](/assets/monsters/dusk_wolf.jpeg)
+
+
 *Bestia Grande, sin alineamiento*
 
 ___
@@ -36,13 +39,21 @@ ___
 
 ### Acciones
 
-***Aullido perturbador (recarga 5-6).***
+***Mordisco.*** *Ataque con arma cuerpo a cuerpo:* +5 a impactar, alcance 5 pies, un objetivo. *Impacto:* 14 (3d6 + 4) de daño perforante. Si el objetivo es una criatura, deberá superar una tirada de salvación de Fuerza CD 13 o caerá derribada.
+
+***Aullido perturbador (recarga 5-6).*** El lobo del ocaso profiere un aullido escalofriante. Cada criatura que no sea un lobo del ocaso a 30 pies o menos de este y que pueda oírlo, deberá superar una tirada de salvación de Sabiduría CD 11 o estará asustada del lobo hasta el comienzo del próximo turno de este.
 
 ___
 
-> *No todas las criaturas de las que se habla alrededor de una fogata existen de verdad, al menos como las describen. He oído muchas historias fantásticas de ataques de lobos del ocaso a lo largo de los años, pero como nunca había presenciado a este esquivo depredador, pensé que no eran más que cuentos de campamento. Descubrí mi error mientras escalaba los picos de las montañas Murodragón orientales.*
+> *Cualquier estudioso de la zoología extraordinaria debe estar al tanto de mitos y exageraciones. No todas las criaturas de las que se habla alrededor de una fogata existen de verdad, al menos como las describen. He oído muchas historias fantásticas de ataques de lobos del ocaso a lo largo de los años, pero como nunca había presenciado a este esquivo depredador, pensé que no eran más que cuentos de campamento. Descubrí mi error mientras escalaba los picos de las montañas Murodragón orientales.*
 >
 > —Viktor Pendrake
+
+## Descripción
+
+Los lobos del ocaso, enormes lobos con una inteligencia y ferocidad que superan con creces la de las meras bestias, son depredadores peligrosos que habitan en bosques oscuros y primitivos. Son tristemente célebres por sus aullidos escalofriantes y la capacidad de volverse casi invisibles cuando cazan. Se sabe que los lobos del ocaso acechan y matan a humanos solitarios que deambulan por tierras salvajes, pero cuando están hambrientos y van en manada también pueden abatir a criaturas tan grandes y poderosas como los trolls.
+
+Algunas tribus salvajes utilizan a los lobos del ocaso como monturas veloces y mortales. Eligen los mejores especímenes de una manada para usarlos como corceles. Además, se sabe que druidas y chamanes poderosos emplean manadas de lobos del ocaso para cazar a quienes se entrometen en sus ritos y lugares sagrados.
 
 ---
 [← Volver al Índice](index.md)

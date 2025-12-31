@@ -5,6 +5,9 @@ title: Arconte Primordial
 
 # Arconte Primordial
 
+![Arconte Primordial](/assets/monsters/primal_archon.jpeg)
+
+
 *Celestial Enorme (arconte), caótico neutral*
 
 ___
@@ -43,7 +46,11 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.*** El arconte realiza dos ataques con su zarpazo.
+***Ataque múltiple.*** Si puede, el arconte usará tierra ondulante, y después realizará tres ataques: dos con sus garras de piedra y uno con su cuerno.
+
+***Garra de piedra.*** *Ataque con arma cuerpo a cuerpo:* +13 a impactar, alcance 10 pies, un objetivo. *Impacto:* 34 (6d8 + 7) de daño cortante. Si el objetivo es una criatura, deberá superar una tirada de salvación de Constitución CD 15 o estará aturdida hasta el final del siguiente turno del arconte.
+
+***Cuerno.*** *Ataque con arma cuerpo a cuerpo:* +13 a impactar, alcance 10 pies, un objetivo. *Impacto:* 40 (6d10 + 7) de daño cortante. Si el objetivo es Grande o más pequeño, el arconte podrá empujarlo hasta 10 pies.
 
 ***Tierra ondulante (recarga 5-6).*** El arconte hace que el suelo se mueva en un cono de 15 pies. Todas las criaturas que se encuentren en el área deberán superar una tirada de salvación de Destreza CD 17, sufriendo 45 (10d8) de daño contundente y cayendo derribadas si la fallan. Si la superan sufrirán la mitad del daño y no resultarán derribadas.
 
@@ -63,7 +70,11 @@ El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones pr
 
 ___
 
-> *Se cree que los arcontes primordiales son manifestaciones menores de la Sierpe enviadas desde las infernales tierras salvajes de Urcaen. Estas criaturas que priorizan la acción y violencia a las palabras y profecías, se lanzan al combate sin dudarlo en cuanto se manifiestan en Caen. Resplandeciendo con el poder de la naturaleza y aullando de pura hambre, los primordiales buscan aniquilar todo aquello que no pertenezca a Caen. Cada uno es a la vez una fuerza de la naturaleza y una criatura de carne y hueso con garras y colmillos. Sus cuerpos son fuertes como montañas y sus enormes brazos y garras están hechos de granito, obsidiana y trozos de cristal. Su masa les permite soportar los daños más terribles sin inmutarse y su naturaleza aparentemente imperecedera les hace regenerar rápidamente cualquier parte seccionada en combate. Los arcontes primordiales luchan con una ferocidad impredecible, sin dudar jamás, y cargan contra sus enemigos sin pensar en su propia supervivencia.*
+## Descripción
+
+Se cree que los arcontes primordiales son manifestaciones menores de la Sierpe enviadas desde las infernales tierras salvajes de Urcaen. Estas criaturas que priorizan la acción y violencia a las palabras y profecías, se lanzan al combate sin dudarlo en cuanto se manifiestan en Caen.
+
+Resplandeciendo con el poder de la naturaleza y aullando de pura hambre, los primordiales buscan aniquilar todo aquello que no pertenezca a Caen. Cada uno es a la vez una fuerza de la naturaleza y una criatura de carne y hueso con garras y colmillos. Sus cuerpos son fuertes como montañas y sus enormes brazos y garras están hechos de granito, obsidiana y trozos de cristal. Su masa les permite soportar los daños más terribles sin inmutarse y su naturaleza aparentemente imperecedera les hace regenerar rápidamente cualquier parte seccionada en combate. Los arcontes primordiales luchan con una ferocidad impredecible, sin dudar jamás, y cargan contra sus enemigos sin pensar en su propia supervivencia.
 
 ---
 [← Volver al Índice](../index.md)

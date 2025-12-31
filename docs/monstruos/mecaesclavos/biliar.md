@@ -5,6 +5,9 @@ title: Mecaesclavo Biliar
 
 # Mecaesclavo Biliar
 
+![Mecaesclavo Biliar](/assets/monsters/bile_thrall.jpeg)
+
+
 *Muerto viviente Mediano (necrotécniko), legal malvado*
 
 ___
@@ -29,11 +32,21 @@ ___
 
 ___
 
-***Acciones Cañón de bilis.*** Ataque con arma a distancia: +5 a impactar, alcance 20/40 pies, un objetivo. Impacto: 12 (2d8 + 3) de daño de ácido.
+### Acciones
 
-***Purgar.*** El mecaesclavo rocía un cono de 40 pies de bilis tóxica desde su cañón. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de Constitución CD 13, sufriendo 18 (4d8) de daño de ácido si la falla, o la mitad de ese daño si la supera. Los puntos de golpe del mecaesclavo quedan reducidos a 0 después de purgar. Un estudiante me preguntó una vez si un mecaesclavo biliar alberga verdadera inteligencia en alguna medida. Después de ver a uno explotar deliberadamente en medio de las filas enemigas, destruyéndose a sí mismo y a muchos de los que lo rodeaban mientras sus fluidos internos empapaban a todos, consideré irrelevante la pregunta. —VP
+***Cañón de bilis.*** *Ataque con arma a distancia:* +5 a impactar, alcance 20/40 pies, un objetivo. *Impacto:* 12 (2d8 + 3) de daño de ácido.
+
+***Purgar.*** El mecaesclavo rocía un cono de 40 pies de bilis tóxica desde su cañón. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de Constitución CD 13, sufriendo 18 (4d8) de daño de ácido si la falla, o la mitad de ese daño si la supera. Los puntos de golpe del mecaesclavo quedan reducidos a 0 después de purgar.
 
 ___
+
+> *Un estudiante me preguntó una vez si un mecaesclavo biliar alberga verdadera inteligencia en alguna medida. Después de ver a uno explotar deliberadamente en medio de las filas enemigas, destruyéndose a sí mismo y a muchos de los que lo rodeaban mientras sus fluidos internos empapaban a todos, consideré irrelevante la pregunta.*
+>
+> —Viktor Pendrake
+
+## Descripción
+
+Los mecaesclavos biliares que expulsan los talleres infernales de Cryx, almacenan en sus cuerpos grandes cantidades de agentes digestivos corrosivos y desintegradores. Las mangueras y los tubos van desde sus bocas desencajadas hasta unos toscos mecanismos de disparo. Con un fuerte espasmo cadavérico, cada mecaesclavo biliar puede arrojar un volumen asombroso de ácidos cáusticos sobre una amplia zona que disuelven la carne y devoran el metal.
 
 ---
 [← Volver al Índice](../index.md)

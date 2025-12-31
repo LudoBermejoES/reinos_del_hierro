@@ -5,109 +5,81 @@ title: Engendro de Dragón
 
 # Engendro de Dragón
 
-FECHAS IMPORTANTES 
-RELACIONADAS CON DRAGONES
-Fecha AR	
-Toruk divide su athanc, creando 
-desconocida	
-así su progenie de dragones. 
-1387 AR	
-Toruk mata al dragón Gaulvang y devora 
-su athanc.
-c. 1000 AR	
-La progenie de Toruk le expulsa del 
-continente a las islas Scharde, donde 
-funda Cryx.
-c. 800 AR	
-La dragona Halfaug comienza a 
-aterrorizar al extremo norte. 
-370 AR	
-Los orgoth derrotan a un dragón sin 
-nombre en Uld Vroggen. Colocan el 
-athanc de la criatura abatida en un 
-templo. Al cabo de un mes, una cría de 
-dragón reformada incendia el templo 
-hasta los cimientos y huye a regiones 
-desconocidas.
-390 DR	
-El dragón Everblight destruye Issyrah 
-y es derrotado por un ejército de 
-elfos. Según los informes, el athanc de 
-Siempremaldito es enterrado en la Cima 
-del Mundo.
-608 DR	
-El dragón Pyromalfic es destruido en 
-batalla en el Castillo de las Llaves.
-Durante los largos años transcurridos desde que se formó su 
-alianza, los dragones menores se han vuelto más reservados y se 
-aventuran a salir de sus guaridas solo cuando uno de sus sirvientes 
-no puede ocuparse de algún asunto. Sin embargo, quienes viven 
-en Immoren Occidental han sido testigos recientemente de un 
-aumento histórico de la actividad dragontina. A medida que estas 
-terribles criaturas han comenzado a agitarse, han traído consigo 
-su maldición devastadora. Ya sea por la presencia de los propios 
-dragones o por la sangre derramada de sus engendros, esta 
-corrupción está extendiéndose cada vez más por la faz de Caen.
-ENGENDRO DE DRAGÓN 
-Las criaturas afectadas por la maldición no son las únicas que 
-obedecen la voluntad de los dragones. Aunque los eruditos no 
-comprenden del todo el proceso, los dragones son capaces de crear 
-secuaces a partir de su propia sangre. Estos «engendros de dragón» 
-siguen las órdenes de su amo sin dudarlo. De hecho, los registros 
-sobre el territorio de un dragón que traspasa las fronteras de Cygnar 
-hablan de avistamientos de servidores dragontinos. Las milicias de 
-Immoren Occidental son conocidas por emplear bandas de cazadores 
-de engendros: especialistas que se aventuran en áreas malditas para 
-exterminar a engendros de dragón y malditos por igual.
-Los dragones crean sus engendros a voluntad; estas criaturas 
-no surgen de manera espontánea. La cantidad de sangre necesaria 
-para crear un solo engendro de dragón no supone ningún 
-sacrificio para su creador, a menos que esté gravemente herido. 
-Debido a que el proceso de creación de tal engendro requiere 
-la concentración y la atención de un dragón durante un tiempo 
-considerable, la mayoría de estos no los crea en gran número. 
-Un dragón herido parece ser capaz de devorar cualquiera de sus 
-engendros para recuperar la vitalidad perdida. Los registros élficos 
-de la batalla contra Everblight indican que el dragón devoró 
-a numerosos engendros durante la batalla en un esfuerzo por 
-aguantar, aunque al final su esfuerzo no tuvo éxito.
-Los engendros de dragón son extensiones del cuerpo de su 
-amo y criaturas desalmadas, y todos ellos pueden ver en la más 
-absoluta oscuridad. Los engendros de dragón del mismo amo 
-comparten una fisiología similar. El dragón Everblight, también 
-conocido como Ethrunbal, parece haber perfeccionado la 
-creación de engendros de dragón, y es el único entre todos ellos 
-que puede recrear la misma «especie» de engendros una y otra 
-vez según sus necesidades.
-PERSONALIZACIÓN DE UN 
-ENGENDRO DE DRAGÓN
-Los engendros de dragón comparten algunos arquetipos físicos 
-comunes, pero varían mucho en otros aspectos. Un engendro 
-en particular puede tener alas, extremidades adicionales u otras 
-características. Para personalizar un engendro, primero elige la 
-criatura base, ya sea un engendro de dragón o un engendro de 
-dragón menor. A continuación, elige el dragón que engendró 
-a la criatura, que determinará el tipo de daño del atributo de 
-Presencia Maldita del engendro y su arma de aliento, como se 
-muestra en la tabla de Progenitor dragontino. Para los tipos de 
-daño repartido, el director de juego deberá intentar repartir los 
-Lyss, «la cima del mundo», hasta que fue liberado por el ogrun 
-Thagrosh Hellborne, lo que provocó un desastre en las Agujas 
-Fragmentadas que convirtió a la mayoría de los nyss en la devota 
-legión de Everblight.
-EL CICLO DE LA EPOPEYA DRAGONTINA
-Se cuenta que el Ciclo de la epopeya dragontina, originalmente 
-escrito en el 600 AR, es el volumen más completo de historia 
-dragontina jamás recopilado y rastrea a la siniestra prole de 
-Toruk hasta sus raíces. Alphus Elyse tradujo la obra al llaelense 
-en el 301 DR. Aunque se dice que esta edición del libro pierde un 
-poco en la traducción, las abundantes notas y dibujos originales 
-de Elyse compensan con creces la barrera del idioma. La familia 
-noble d'Lyn fue propietaria del libro, un tesoro nacional llaelense, 
-durante casi dos siglos antes de la ejecución del archiduque 
-Tymeck d'Lyn tras la ocupación de Llael por Khador. Se 
-desconoce el paradero actual del tomo de Elyse y se teme que esté 
-en manos de la Alianza de los Señores Grises.
+![Engendro de Dragón](/assets/monsters/dragon_spawn.jpeg)
+
+
+*Aberración Grande (engendro de dragón), neutral malvado*
+
+___
+
+- **Clase de Armadura** 18 (armadura natural)
+- **Puntos de Golpe** 152 (16d10 + 64)
+- **Velocidad** 40 pies
+
+___
+
+| FUE | DES | CON | INT | SAB | CAR |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|24 (+7)|8 (−1)|19 (+4)|3 (−4)|9 (−1)|6 (−2)|
+
+___
+
+- **Tiradas de salvación** Con +8
+- **Habilidades** Percepción +2
+- **Inmunidad a daño** el tipo de daño de su arma de aliento
+- **Inmunidad a estados** asustado, envenenado, hechizado
+- **Sentidos** visión ciega 60 pies (ciego más allá de este radio), Percepción pasiva 12
+- **Idiomas** —
+- **Desafío** 8 (3.900 PX)
+
+___
+
+***Presencia Maldita.*** Al comienzo de cada turno del engendro, cada criatura que tenga a 5 pies o menos sufre 11 (2d10) de daño. Si una criatura toca al engendro de dragón o le impacta con un ataque cuerpo a cuerpo mientras está a 5 pies o menos de él, sufre 11 (2d10) de daño. El tipo de daño viene determinado por el progenitor dragontino del engendro.
+
+### Acciones
+
+***Ataque múltiple.*** El engendro de dragón realiza tres ataques cuerpo a cuerpo: uno con su mordisco y dos con sus garras.
+
+***Mordisco.*** *Ataque con arma cuerpo a cuerpo:* +10 a impactar, alcance 5 pies, un objetivo. *Impacto:* 18 (2d10 + 7) de daño perforante.
+
+***Garra.*** *Ataque con arma cuerpo a cuerpo:* +10 a impactar, alcance 5 pies, un objetivo. *Impacto:* 11 (1d8 + 7) de daño cortante.
+
+***Arma de aliento (recarga 5–6).*** El engendro de dragón desata su arma de aliento en una línea de 100 pies. Todas las criaturas situadas en el área deberán hacer una tirada de salvación de Constitución CD 14, sufriendo 42 (12d6) de daño si la fallan, o la mitad de ese daño si la superan. El tipo de daño viene determinado por el progenitor dragontino del engendro.
+
+___
+
+> *La ausencia de ojos es común entre todos los engendros de dragón.*
+>
+> —Viktor Pendrake
+
+## Personalización
+
+Los engendros de dragón son extensiones del cuerpo de su amo y criaturas desalmadas. Los engendros de un mismo amo comparten una fisiología similar. Para personalizar un engendro, utiliza las siguientes tablas.
+
+### Progenitor Dragontino
+
+| Nombre del dragón | Tipo de daño |
+|:---|:---|
+| Halfaug | Frío y fuego |
+| Ashnephos | Fuego |
+| Blighterghast | Ácido |
+| Scaefang | Veneno |
+| Everblight | Frío y fuego |
+| Toruk | Necrótico |
+
+### Rasgos Principales (d4)
+
+1. **Cuello largo.** El alcance del ataque de mordisco del engendro de dragón aumenta a 10 pies.
+2. **Caparazón.** El engendro de dragón posee resistencia al daño contundente, cortante y perforante de ataques no mágicos.
+3. **Alas.** El engendro de dragón tiene alas que le otorgan una velocidad de vuelo de 80 pies.
+4. **Serpentino.** El engendro de dragón no tiene patas, pero sí una larga cola, parecida a la de una serpiente. No puede ser derribado.
+
+### Rasgos Secundarios (d4)
+
+1. **Venenoso.** Cuando el engendro de dragón impacta a una criatura con un ataque de mordisco, esta debe superar una tirada de salvación de Constitución CD 13 o recibirá 10 (3d6) de daño de veneno y estará envenenada durante 1 minuto. La criatura puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.
+2. **Sentidos agudos.** El engendro de dragón tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan de la vista, el oído o el olfato.
+3. **Regeneración.** El engendro de dragón recupera 10 puntos de golpe al principio de su turno. Si sufre daño radiante, solo recuperará 5 puntos de golpe al comienzo de su siguiente turno. El engendro de dragón solo muere si teniendo 0 puntos de golpe es impactado por un ataque que inflija 10 puntos de daño radiante o más.
+4. **Resistencia Mágica.** El engendro de dragón tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.
 
 ---
 [← Volver al Índice](../index.md)

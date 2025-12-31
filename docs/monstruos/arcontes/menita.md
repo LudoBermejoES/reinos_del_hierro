@@ -5,6 +5,9 @@ title: Arconte Menita
 
 # Arconte Menita
 
+![Arconte Menita](/assets/monsters/menite_archon.jpeg)
+
+
 *Celestial Grande (arconte), neutral bueno*
 
 ___
@@ -42,7 +45,11 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.*** El arconte realiza dos ataques con su espada flamígera.
+***Ataque múltiple.*** El arconte realiza dos ataques: uno con su espada y otro con su mayal.
+
+***Espada llameante.*** *Ataque con arma cuerpo a cuerpo:* +11 a impactar, alcance 10 pies, un objetivo. *Impacto:* 16 (2d10 + 5) de daño cortante y 38 (7d10) de daño de fuego.
+
+***Mayal.*** *Ataque con arma cuerpo a cuerpo:* +11 a impactar, alcance 10 pies, un objetivo. *Impacto:* 16 (2d10 + 5) de daño contundente y 38 (7d10) de daño de fuego. Además el objetivo no puede recuperar puntos de golpe hasta el comienzo del próximo turno del arconte.
 
 ### Reacciones
 
@@ -59,6 +66,12 @@ El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones pr
 ***Inspiración divina (cuesta 2 acciones).*** Hasta el final del próximo turno del arconte, las criaturas aliadas a 30 pies o menos de él hacen las tiradas de ataque con ventaja.
 
 ___
+
+## Descripción
+
+Los arcontes del Legislador son campeones ardientes que sancionan su voluntad y protegen el rebaño de fieles menitas. Son los espíritus de clérigos devotos y fervientes defensores que reciben un propósito especial en la otra vida. Blandiendo armas que arden con fuego sagrado, estos grandes generales y líderes de los ejércitos de Menoth en Urcaen defienden la Ciudad del Hombre tanto de la Sierpe Devoradora como de otros voraces poderes.
+
+Los relatos aportados por los menitas sobre los arcontes de su dios son bastante consistentes, pero diversos. Algunos dicen que la forma de estos seres coincide con las de las grandes estatuas del Creador del Hombre que han perdurado durante miles de años desde Cinot, la Primera Ciudad. Otros insisten en que los rostros enmascarados de los arcontes son los de antiguos jerarcas y reyes-sacerdotes. Incluso hay fieles que han declarado haber visto al jerarca Severius entrando en la batalla con esa forma, aunque solo han pasado unos pocos años desde su trágica muerte. Sea cual fuere su verdadera forma, los arcontes de Menoth, perfilados bajo la luz constante de un fuego purificador, provocan el terror en quienes han abandonado la fe verdadera.
 
 ---
 [← Volver al Índice](../index.md)

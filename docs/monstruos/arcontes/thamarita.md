@@ -5,6 +5,9 @@ title: Arconte Thamarita
 
 # Arconte Thamarita
 
+![Arconte Thamarita](/assets/monsters/thamarite_archon.jpeg)
+
+
 *Celestial Grande (arconte), caótico neutral*
 
 ___
@@ -45,7 +48,11 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.*** El arconte realiza dos ataques con su arco largo.
+***Ataque múltiple.*** El arconte realiza dos ataques a distancia.
+
+***Arco largo susurrante.*** *Ataque con arma a distancia:* +11 a impactar, alcance 150/600 pies, un objetivo. *Impacto:* 16 (2d10 + 5) de daño perforante y 38 (7d10) de daño necrótico, y el objetivo debe superar una tirada de salvación de Carisma CD 18 o recibirá uno de los siguientes efectos:
+* **Flecha seductora.** El objetivo queda hechizado por el arconte y sus aliados durante 1 minuto. El objetivo puede intentar una tirada de salvación de Carisma CD 18 al final de cada uno de sus turnos, librándose del efecto si tiene éxito.
+* **Dientes de Thamar.** Si el objetivo tiene espacios de conjuro, perderá uno de ellos del mayor nivel disponible.
 
 ### Reacciones
 
@@ -63,7 +70,11 @@ El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones pr
 
 ___
 
-> *La diosa Thamar es una destructora de expectativas, un oráculo de poder desenfrenado, alguien que desafió sus límites y trajo esperanza cuando todo apuntaba a la muerte y la devastación. Aunque su curso de acción favorito lo conforman la sutileza y la astucia, también ha brindado el apoyo de sus elegidos al mundo de los mortales. Sus arcontes son los espíritus de los thamaritas que demostraron estar entre los mayores ocultistas y practicantes de la filosofía de la Melliza Oscura. Quienes han visto a un arconte thamarita no suelen conservar un recuerdo claro de la forma que tenía una vez que se ha marchado. Los elegidos por la Melliza Oscura han sido descritos en los mismos términos que alguien usaría para recordar los detalles elusivos de un sueño que se desvanece. Se dice que son seres hermosos y agraciados compuestos de sombras danzantes y luz titilante, casi siluetas cuyos movimientos, más que verse, se adivinan. Algunos son varones y otros mujeres; mientras que otros poseen un género indeterminado. Sus rostros suelen tener la apariencia de difuntos familiares, tanto de quienes se sabe que fueron thamaritas, como quienes se creía que servían a Morrow, Menoth u otro poder. Algunos arcontes tienen la apariencia de vástagos o de figuras de autoridad que aún no han fallecido; pero los fieles de Thamar saben que no deben confiar en sus sentidos por lo que respecta a estos seres.*
+## Descripción
+
+La diosa Thamar es una destructora de expectativas, un oráculo de poder desenfrenado, alguien que desafió sus límites y trajo esperanza cuando todo apuntaba a la muerte y la devastación. Aunque su curso de acción favorito lo conforman la sutileza y la astucia, también ha brindado el apoyo de sus elegidos al mundo de los mortales. Sus arcontes son los espíritus de los thamaritas que demostraron estar entre los mayores ocultistas y practicantes de la filosofía de la Melliza Oscura.
+
+Quienes han visto a un arconte thamarita no suelen conservar un recuerdo claro de la forma que tenía una vez que se ha marchado. Los elegidos por la Melliza Oscura han sido descritos en los mismos términos que alguien usaría para recordar los detalles elusivos de un sueño que se desvanece. Se dice que son seres hermosos y agraciados compuestos de sombras danzantes y luz titilante, casi siluetas cuyos movimientos, más que verse, se adivinan. Algunos son varones y otros mujeres; mientras que otros poseen un género indeterminado. Sus rostros suelen tener la apariencia de difuntos familiares, tanto de quienes se sabe que fueron thamaritas, como quienes se creía que servían a Morrow, Menoth u otro poder. Algunos arcontes tienen la apariencia de vástagos o de figuras de autoridad que aún no han fallecido; pero los fieles de Thamar saben que no deben confiar en sus sentidos por lo que respecta a estos seres.
 
 ---
 [← Volver al Índice](../index.md)

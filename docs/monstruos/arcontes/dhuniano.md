@@ -5,6 +5,9 @@ title: Arconte Dhuniano
 
 # Arconte Dhuniano
 
+![Arconte Dhuniano](/assets/monsters/dhunian_archon.jpeg)
+
+
 *Celestial Grande (arconte), neutral bueno*
 
 ___
@@ -35,9 +38,9 @@ ___
 ***Paso Forestal.*** El terreno difícil conformado por árboles y maleza no cuesta movimiento adicional al arconte.
 
 ***Lanzamiento de Conjuros Innato.*** La aptitud mágica del arconte es Carisma (salvación de conjuros CD 19). El arconte puede lanzar de forma innata los siguientes conjuros, sin necesidad de componentes materiales:
-- A voluntad: saber druídico
-- 3/día cada uno: crecimiento espinoso, enmarañar, piel robliza
-- 1/día cada uno: enredadera, muro de espinas, restablecimiento mayor
+- A voluntad: *saber druídico*
+- 3/día cada uno: *crecimiento espinoso, enmarañar, piel robliza*
+- 1/día cada uno: *enredadera, muro de espinas, restablecimiento mayor*
 
 ***Resistencia Legendaria (3/día).*** El arconte puede elegir tener éxito en una tirada de salvación que haya fallado.
 
@@ -53,7 +56,9 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.*** El arconte realiza dos ataques con su hacha de mano.
+***Ataque múltiple.*** El arconte realiza tres ataques cuerpo a cuerpo.
+
+***Bastón de roble centenario.*** *Ataque con arma cuerpo a cuerpo:* +11 a impactar, alcance 10 pies, un objetivo. *Impacto:* 19 (4d6 + 5) de daño contundente y 7 (2d6) de daño radiante.
 
 ### Reacciones
 
@@ -70,6 +75,12 @@ El arconte puede realizar 3 acciones legendarias, a elegir entre las opciones pr
 ***Hilo vital (cuesta 2 acciones).*** El arconte puede elegir hasta cinco criaturas aliadas que tenga a 60 pies o menos a las que pueda ver. El arconte pierde el atributo de Regeneración hasta el final de su siguiente turno y lo obtienen las criaturas elegidas.
 
 ___
+
+## Descripción
+
+Dhunia es la diosa de la vida, de Caen y las estaciones, así como del ciclo del nacimiento, la muerte y el renacimiento. Aunque se la representa a menudo como una diosa maternal, su ira puede ser temible, sobre todo cuando se dirige contra quienes dañan a sus elegidos o amenazan al mismo Caen.
+
+Los arcontes de la diosa madre son vistos como una encarnación de su ira, pero incluso cuando estos seres descargan la furia de Dhunia sobre quienes hieren a sus hijos, otorgan bendiciones de vida y fuerza a quienes siguen a la diosa. Las formas que adoptan estos arcontes iracundos son tan variadas como los dones que dispensan. A veces, los fieles dhunianos perciben que sus arcontes se parecen a los de su propia especie, asumiendo a menudo el aspecto de antiguos héroes de la fe; en otras ocasiones, adoptan una apariencia más elemental, como arrancada de la tierra misma. Es habitual que cuando estos seres aparecen en Caen encarnen aspectos relacionados con una o más estaciones. Por ejemplo, los arcontes dhunianos que llevan la marca de la primavera se manifiestan con rasgos que sugieren la fecundidad de la vida, como hojas y ramas vivas entretejidas en sus cuerpos o árboles aún vivos blandidos como mazas.
 
 ---
 [← Volver al Índice](../index.md)

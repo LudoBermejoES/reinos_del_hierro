@@ -5,6 +5,9 @@ title: Piel y Plañidos
 
 # Piel y Plañidos
 
+![Piel y Plañidos](/assets/monsters/skin_and_moans.jpeg)
+
+
 *Feérico Enorme (funesto), caótico neutral*
 
 ___
@@ -36,11 +39,21 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El piel y plañidos realiza dos ataques cuerpo a cuerpo.
+
+***Cuchillo de carnicero.*** *Ataque con arma cuerpo a cuerpo:* +5 a impactar, alcance 10 pies, un objetivo. *Impacto:* 15 (2d10 + 4) de daño cortante más 11 (3d6) de daño necrótico.
 
 ***Plañidos de cosas muertas (recarga 5-6).*** Cada criatura que no sea un funesto a 60 pies o menos del piel y plañidos que pueda oírlo deberá superar una tirada de salvación de Sabiduría CD 13 o estará asustada durante 1 minuto. Un objetivo asustado puede repetir la tirada de salvación al final de cada uno de sus turnos, finalizando el estado de asustado sobre sí mismo si tiene éxito. Si la tirada de salvación de un objetivo tiene éxito o el efecto finaliza, el objetivo es inmune a los plañidos de cosas muertas de este funesto durante las próximas 24 horas.
 
 ___
+
+> *Una vez tuve un amigo llamado Dexter de cuya compañía no había disfrutado durante varios años. Cuando lo vi por última vez, susurraba mi nombre una y otra vez con la cara cosida al pecho de una de estas horribles criaturas. Soy un hombre acostumbrado al horror, pero su rostro desencarnado pronunciando mi nombre se encuentra entre las experiencias más espantosas de las muchas que he vivido.*
+>
+> —Viktor Pendrake
+
+## Descripción
+
+Un piel y plañidos se alza por encima de sus víctimas, derriba a los mortales con tajos expertos antes de cortarles la cara y coserla en su propia piel parcheada. Los rostros muertos continúan gimiendo y quejándose, y sus susurros débiles y solapados anuncian de manera inquietante la llegada del monstruo.
 
 ---
 [← Volver al Índice](../index.md)

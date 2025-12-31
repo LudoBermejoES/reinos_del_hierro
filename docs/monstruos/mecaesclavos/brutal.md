@@ -5,6 +5,9 @@ title: Mecaesclavo Brutal
 
 # Mecaesclavo Brutal
 
+![Mecaesclavo Brutal](/assets/monsters/brute_thrall.jpeg)
+
+
 *Muerto viviente Grande (necrotécniko), legal malvado*
 
 ___
@@ -35,11 +38,23 @@ ___
 
 ### Acciones
 
-***Ataque múltiple.***
+***Ataque múltiple.*** El mecaesclavo brutal realiza dos ataques de golpe.
 
-***Golpe de vapor (recarga 6).*** Ataque con arma cuerpo a cuerpo: +5 a impactar, alcance 5 pies, un objetivo. Impacto: 19 (2d10 + 8) de daño contundente y el objetivo debe superar una tirada de salvación de Constitución CD 14 o quedar aturdido hasta el final de su siguiente turno.
+***Golpe.*** *Ataque con arma cuerpo a cuerpo:* +5 a impactar, alcance 5 pies, un objetivo. *Impacto:* 9 (1d10 + 4) de daño contundente.
+
+***Golpe de vapor (recarga 6).*** *Ataque con arma cuerpo a cuerpo:* +5 a impactar, alcance 5 pies, un objetivo. *Impacto:* 19 (2d10 + 8) de daño contundente y el objetivo debe superar una tirada de salvación de Constitución CD 14 o quedar aturdido hasta el final de su siguiente turno.
 
 ___
+
+> *Los mecaesclavos brutales son más grandes y malvados que los mecaesclavos de las variedades inferiores. También sugeriría que son más estúpidos, pero dudo seriamente que tal cosa sea posible.*
+>
+> —Viktor Pendrake
+
+## Descripción
+
+Estas descomunales monstruosidades se remiendan a partir de los cadáveres de troloides y ogrun scharde, junto con masas de tubos, placas de acero y una mecánika indescriptible impulsada por un horno de necrotita. Aunque el resultado carece de sutileza y capacidad cognitiva, se adapta bien a su papel en el campo de batalla: aplastar cualquier obstáculo en su camino.
+
+Los brutales marchan hacia el la batalla seguidos de decenas de mecaesclavos, mientras todos los tiernos objetivos de sus puños impulsados por vapor son convertidos rápidamente en irreconocibles masas sanguinolentas.
 
 ---
 [← Volver al Índice](../index.md)

@@ -5,56 +5,63 @@ title: Sythyss
 
 # Sythyss
 
-![Sythyss](/assets/monsters/sea_drake.jpeg)
+Cada sobrenatural tiene el poder de drenar completamente la vida de otro iosano y crear un sirviente inmortal llamado sythyss. Esta extracción vital arrebata una parte del alma de su víctima, esclavizándola así para su nuevo amo.
 
+Debido a que los sythyss no comparten ningún elemento de la apariencia corrupta de sus creadores aparte de una palidez mortal, son extremadamente útiles como guardianes y sirvientes discretos.
 
-*Muerto viviente Mediano, cualquier alineamiento malvado*
+## Mercenario sythyss veterano
+
+![Sythyss](/assets/monsters/sythyss.jpeg)
+
+*Muerto viviente Mediano, neutral malvado*
 
 ___
 
-- **Clase de Armadura** 16 (armadura natural)
-- **Puntos de Golpe** 144 (17d8 + 68)
+- **Clase de Armadura** 16 (armadura de infantería)
+- **Puntos de Golpe** 32 (5d8 + 10)
 - **Velocidad** 30 pies
 
 ___
 
 | FUE | DES | CON | INT | SAB | CAR |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|18 (+4)|18 (+4)|18 (+4)|17 (+3)|15 (+2)|18 (+4)|
+|15 (+2)|15 (+2)|14 (+2)|11 (+0)|13 (+1)|11 (+0)|
 
 ___
 
-- **Tiradas de salvación** Des +9, Sab +7, Car +9
-- **Habilidades** Conocimiento Arcano +8, Historia +8, Percepción +7
-- **Resistencia a daño** frío, necrótico; contundente, cortante y perforante no mágicos ni hechos con armas de material orgánico (hueso, madera, etcétera)
-- **Inmunidad a estados** cansancio, envenenado
-- **Sentidos** visión en la oscuridad 120 pies, Percepción pasiva 17
+- **Habilidades** Atletismo +4, Percepción +3, Supervivencia +3
+- **Resistencia a daño** frío, necrótico
+- **Inmunidad a estados** envenenado
+- **Sentidos** visión en la oscuridad 60 pies, Percepción pasiva 13
 - **Idiomas** los idiomas que conociera en vida
-- **Desafío** 13 (10.000 PX)
+- **Desafío** 2 (450 PX)
 
 ___
 
-***Aura Profanadora.*** Cualquier criatura viva que comience su turno a 5 pies del sobrenatural debe superar una tirada de salvación de Constitución CD 18 o adquirir vulnerabilidad al daño necrótico hasta el comienzo de su siguiente turno. Si la criatura no es un autómata y tiene resistencia o inmunidad al daño necrótico, las perderá hasta el comienzo de su siguiente turno.
+***Sociedad Marcial.*** Cuando el sythyss saca un 1 en el d20 en una tirada de ataque, podrá volver a tirar el dado y deberá quedarse el nuevo resultado.
 
-***Debilidades del Sobrenatural.*** Un sobrenatural debe cometer trece asesinatos rituales cada año. Si no logra completar este rito, su puntuación de Fuerza se reduce en 1 cada semana hasta que se cometan todos los crímenes. La puntuación de Fuerza del sobrenatural no se puede reducir a 0.
-
-***Lanzamiento de Conjuros Innato.*** Su aptitud mágica es Carisma (salvación de conjuros CD 17, +9 a impactar con ataques de conjuro). Puede lanzar de forma innata los siguientes conjuros, sin necesidad de componentes materiales:
-- A voluntad: disfrazarse, oscuridad, rayo de escarcha, toque helado
-- 1/día cada uno: acelerar, círculo de muerte, inmovilizar monstruo, susurros discordantes
-
-***Regeneración.*** El sobrenatural recupera 20 puntos de golpe al principio de su turno si tiene al menos 1 punto de golpe. Si recibe daño radiante, este atributo no tendrá efecto al comienzo de su siguiente turno.
-
-***Resistencia Legendaria (3/día).*** El sobrenatural puede elegir tener éxito en una tirada de salvación que haya fallado.
+***Templado por la Guerra.*** El sythyss tiene ventaja en las tiradas de salvación para evitar ser asustado.
 
 ### Acciones
 
-***Ataque múltiple.*** El sobrenatural realiza dos ataques: uno con su toque helado y otro con su garra, o dos ataques con su garra.
+***Ataque múltiple.*** El sythyss realiza dos ataques cuerpo a cuerpo con su cuchilla de combate caspiana.
 
-***Toque helado.*** Ataque con arma cuerpo a cuerpo: +9 a impactar, alcance 5 pies, un objetivo. Impacto: 17 (3d8 + 4) de daño necrótico.
+***Cuchilla de combate caspiana.*** *Ataque con arma cuerpo a cuerpo:* +4 a impactar, alcance 5 pies, un objetivo. *Impacto:* 6 (1d8 + 2) de daño cortante.
 
-***Garra.*** Ataque con arma cuerpo a cuerpo: +9 a impactar, alcance 5 pies, un objetivo. Impacto: 11 (2d6 + 4) de daño cortante.
+***Pistola de repetición.*** *Ataque con arma a distancia:* +4 a impactar, alcance 30/90 pies, un objetivo. *Impacto:* 7 (1d10 + 2) de daño perforante.
 
-___
+***Robar el aliento.*** *Ataque de conjuro a distancia:* +3 a impactar, alcance 100 pies, un objetivo. *Impacto:* 10 (3d6) de daño necrótico. Si el objetivo es una criatura viva deberá superar una tirada de salvación de Sabiduría CD 11 o tendrá desventaja en las pruebas de Fuerza y tiradas de ataque cuerpo a cuerpo hasta el comienzo del próximo turno del sythyss.
+
+## Plantilla de Sythyss
+
+Un iosano o nyss pueden convertirse en sythyss. Conserva su perfil original, salvo por lo siguiente:
+
+* **Tipo:** Muerto viviente.
+* **Alineamiento:** Neutral malvado.
+* **Resistencias:** Frío y necrótico.
+* **Inmunidades:** Envenenado.
+* **Desafío:** Aumenta en 1 nivel.
+* **Acción (Robar el aliento):** Ataque de conjuro a distancia (100 pies). Daño: 10 (3d6) necrótico. El objetivo debe superar una salvación de Sabiduría (CD 8 + competencia + Sab) o sufrir desventaja en pruebas de Fuerza y ataques cuerpo a cuerpo.
 
 ---
 [← Volver al Índice](../index.md)
